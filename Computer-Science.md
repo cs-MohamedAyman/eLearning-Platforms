@@ -1,9 +1,21 @@
 # Coursera-Specializations
 Coursera specializations road map for computer science students.
 
-| Specialization                                                                                                                          | Course                                                                                                                                  | Weeks                                                                                                                                                                                                                                                                                                                                                                                                                              | Duration (H)                     |
-| :--------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------  | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: |
-| Word1 Word2<br>Word3 Word3<br>Word1 Word2<br>Word3 Word3<br><br>Word1 Word2<br>Word3 Word3<br>Word1 Word2<br>Word3 Word3                 | Word1 Word2<br>Word3 Word3<br>Word1 Word2<br>Word3 Word3<br><br>Word1 Word2<br>Word3 Word3<br>Word1 Word2<br>Word3 Word3                 | Week 1: Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>                     
-Week 2: Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>                       
-Week 3: Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>                       
-Week 4: Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>Word1 Word2 Word3 Word4<br>                    | 80 |
+<table>
+  <thead>
+    <tr> <th>Specialization</th> <th>Course</th> <th>Weeks</th> <th>Duration (H)</th> </tr>
+  </thead>
+  <tbody>
+    <tr>    <td rowspan=4>Column 1 Name</td>
+            <td rowspan=2>Column 2 Name A</td>
+            <td>Column 3 Name A</td>
+    </tr>
+    <tr>    <td>Column 3 Name B</td>
+    </tr>
+    <tr>    <td rowspan=2>Column 2 Name B</td>
+            <td>Column 3 Name C</td>
+    </tr>
+    <tr>    <td>Column 3 Name D</td>
+    </tr>
+  </tbody>
+</table>
