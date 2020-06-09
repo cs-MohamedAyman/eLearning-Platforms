@@ -1,12 +1,18 @@
 # Coursera-Specializations
 Coursera specializations road map for computer science students.
 
-<table>
+<table style="width: 100%">
+  <colgroup>
+       <col style="width: 25%;">
+       <col style="width: 70%;">
+       <col style="width: 5%;">
+  </colgroup>
   <thead>
     <tr> 
-            <th> <div style="width:20px">Specialization</div> </th> 
-            <th> <div style="width:30px">Course</div> </th> 
-            <th> <div style="width:5px">Duration (H)</div> </th> </tr>
+            <th> <div style="width: 25%;">Specialization</div> </th> 
+            <th> <div style="width: 70%;">Course</div> </th> 
+            <th> <div style="width: 5%;">Duration (H)</div> </th> 
+    </tr>
   </thead>
   <tbody>
     <tr>
