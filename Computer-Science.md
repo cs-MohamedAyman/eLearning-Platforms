@@ -1,22 +1,23 @@
 # Coursera-Specializations
-Coursera specializations road map for computer science students.
+## Computer-Science-Specializations
+Computer science specializations road map for computer science students.
 
 <table border="0" width="100%">
 	<thead>
     	<tr>
-            <th width="5%">#</th>
+            <th width="3%">#</th>
             <th width="35%">Specialization</th>
-            <th width="40%">Course</th>
-            <th width="20%">Duration (H)</th>
+            <th width="55%">Course</th>
+            <th width="7%">Duration (H)</th>
 	    </tr>
   	</thead>
 	<tbody>
 	    <tr>
 			<td rowspan=5 align="center">1</td>
-			<td rowspan=5 align="center">
-Introduction to Discrete Mathematics<br>
-for Computer Science <a href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a><br>
-by University of California San Diego,<br>
+			<td rowspan=5>
+Introduction to Discrete Mathematics
+for Computer Science <a href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a>
+by University of California San Diego,
 National Research University Higher School of Economics
 		    </td>
             <td><a href="https://www.coursera.org/learn/what-is-a-proof">Mathematical Thinking in Computer Science</a></td>      
