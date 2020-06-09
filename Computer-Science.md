@@ -4,10 +4,10 @@ Coursera specializations road map for computer science students.
 <table border="0" width="100%">
 	<thead>
     	<tr>
-            <th>#</th>
-            <th>Specialization</th>
-            <th>Course</th>
-            <th>Duration (H)</th>
+            <th width="5%">#</th>
+            <th width="35%">Specialization</th>
+            <th width="40%">Course</th>
+            <th width="20%">Duration (H)</th>
 	    </tr>
   	</thead>
 	<tbody>
