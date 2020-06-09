@@ -16,8 +16,7 @@ Computer Science Specializations road map for computer science students.
 			<td rowspan=5 align="center">1</td>
 			<td rowspan=5>
 Introduction to Discrete Mathematics for Computer Science  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a><br>
-by National Research University Higher School of Economics
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a> by National Research University Higher School of Economics
 			</td>
 			<td><a href="https://www.coursera.org/learn/what-is-a-proof">Mathematical Thinking in Computer Science</a></td>
 			<td align="center">35</td>
@@ -226,8 +225,7 @@ Bayesian Statistics: Techniques and Models by University of California, Santa Cr
 			<td rowspan=3 align="center">25</td>
 			<td rowspan=3>
 Introduction to Computer Science and Programming  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a><br>
-by University of London
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London
 			</td>
 			<td><a href="https://www.coursera.org/learn/introduction-to-computer-programming">Introduction to Computer Programming</a></td>
 			<td align="center">20</td>
@@ -244,8 +242,7 @@ by University of London
 			<td rowspan=7 align="center">26</td>
 			<td rowspan=7>
 Fundamentals of Computing  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/computer-fundamentals">Specialization</a><br>
-by Rice University
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/computer-fundamentals">Specialization</a> by Rice University
 			</td>
 			<td><a href="https://www.coursera.org/learn/interactive-python-1">An Introduction to Interactive Programming in Python (Part 1)</a></td>
 			<td align="center">25</td>
@@ -278,8 +275,7 @@ by Rice University
 			<td rowspan=4 align="center">27</td>
 			<td rowspan=4>
 Introduction to Scripting in Python  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/introduction-scripting-in-python">Specialization</a><br>
-by Rice University
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/introduction-scripting-in-python">Specialization</a> by Rice University
 			</td>
 			<td><a href="https://www.coursera.org/learn/python-programming">Python Programming Essentials</a></td>
 			<td align="center">10</td>
@@ -300,8 +296,7 @@ by Rice University
 			<td rowspan=5 align="center">28</td>
 			<td rowspan=5>
 Python 3 Programming  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/python-3-programming">Specialization</a><br>
-by University of Michigan
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/python-3-programming">Specialization</a> by University of Michigan
 			</td>
 			<td><a href="https://www.coursera.org/learn/python-basics">Python Basics</a></td>
 			<td align="center">35</td>
@@ -326,8 +321,7 @@ by University of Michigan
 			<td rowspan=4 align="center">29</td>
 			<td rowspan=4>
 Introduction to Programming in C  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/c-programming">Specialization</a><br>
-by Duke University
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/c-programming">Specialization</a> by Duke University
 			</td>
 			<td><a href="https://www.coursera.org/learn/programming-fundamentals">Programming Fundamentals</a></td>
 			<td align="center">15</td>
@@ -388,8 +382,7 @@ Competitive Programmer's Core Skills by Saint Petersburg State University
 			<td rowspan=4 align="center">35</td>
 			<td rowspan=4>
 Computational Thinking with Beginning C Programming  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a><br>
-by University of Colorado System
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado System
 			</td>
 			<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
 			<td align="center">15</td>
@@ -490,8 +483,7 @@ Learn to Program: Crafting Quality Code by University of Toronto
 			<td rowspan=3 align="center">46</td>
 			<td rowspan=3>
 Accelerated Computer Science Fundamentals  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/cs-fundamentals">Specialization</a><br>
-by University of Illinois at Urbana-Champaign
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/cs-fundamentals">Specialization</a> by University of Illinois at Urbana-Champaign
 			</td>
 			<td><a href="https://www.coursera.org/learn/cs-fundamentals-1">Object-Oriented Data Structures in C++</a></td>
 			<td align="center">25</td>
@@ -508,8 +500,7 @@ by University of Illinois at Urbana-Champaign
 			<td rowspan=4 align="center">47</td>
 			<td rowspan=4>
 Algorithms  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/algorithms">Specialization</a><br>
-by Stanford University
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/algorithms">Specialization</a> by Stanford University
 			</td>
 			<td><a href="https://www.coursera.org/learn/algorithms-divide-conquer">Divide and Conquer, Sorting and Searching, and Randomized Algorithms</a></td>
 			<td align="center">15</td>
@@ -530,8 +521,7 @@ by Stanford University
 			<td rowspan=6 align="center">48</td>
 			<td rowspan=6>
 Data Structures and Algorithms  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/data-structures-algorithms">Specialization</a><br>
-by University of California San Diego & National Research University Higher School of Economics
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/data-structures-algorithms">Specialization</a> by University of California San Diego & National Research University Higher School of Economics
 			</td>
 			<td><a href="https://www.coursera.org/learn/algorithmic-toolbox">Algorithmic Toolbox</a></td>
 			<td align="center">35</td>
@@ -632,8 +622,7 @@ Computer Science: Algorithms, Theory, and Machines by Princeton University
 			<td rowspan=5 align="center">58</td>
 			<td rowspan=5>
 Methods and Statistics in Social Sciences  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/social-science">Specialization</a><br>
-by University of Amsterdam
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam
 			</td>
 			<td><a href="https://www.coursera.org/learn/quantitative-methods">Quantitative Methods</a></td>
 			<td align="center">40</td>
