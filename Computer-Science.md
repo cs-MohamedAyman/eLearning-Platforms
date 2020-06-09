@@ -4,6 +4,7 @@ Coursera specializations road map for computer science students.
 <table border="0" width="100%">
 	<thead>
     	<tr>
+            <th>#</th>
             <th>Specialization</th>
             <th>Course</th>
             <th>Duration (H)</th>
@@ -11,6 +12,7 @@ Coursera specializations road map for computer science students.
   	</thead>
 	<tbody>
 	    <tr>
+			<td rowspan=5 align="center">1</td>
 			<td rowspan=5 align="center">
 Introduction to Discrete Mathematics<br>
 for Computer Science <a href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a><br>
