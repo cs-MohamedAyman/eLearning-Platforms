@@ -13,27 +13,27 @@ Coursera specializations road map for computer science students.
 	    <tr>
 			<td rowspan=5 align="center">
 Introduction to Discrete Mathematics<br>
-for Computer Science [Specialization](https://www.coursera.org/specializations/discrete-mathematics)<br>
+for Computer Science <a href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a><br>
 by University of California San Diego,<br>
 National Research University Higher School of Economics
 		    </td>
-            <td>[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof)</td>      
+            <td><a href="https://www.coursera.org/learn/what-is-a-proof">Mathematical Thinking in Computer Science</a></td>      
 			<td align="center">30</td>
     	</tr>
     	<tr>
-            <td>[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics)</td>                  
+            <td><a href="https://www.coursera.org/learn/combinatorics">Combinatorics and Probability</a></td>      
 			<td align="center">30</td>
     	</tr>
     	<tr>
-            <td>[Introduction to Graph Theory](https://www.coursera.org/learn/graphs)</td>                   
+            <td><a href="https://www.coursera.org/learn/graphs">Introduction to Graph Theory</a></td>      
 			<td align="center">30</td>
     	</tr>
     	<tr>
-            <td>[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography)</td>                 
+            <td><a href="https://www.coursera.org/learn/number-theory-cryptography">Number Theory and Cryptography</a></td>      
 			<td align="center">30</td>
     	</tr>
     	<tr>
-            <td>[Delivery Problem](https://www.coursera.org/learn/delivery-problem)</td>                               
+            <td><a href="https://www.coursera.org/learn/delivery-problem">Delivery Problem</a></td>      
 			<td align="center">30</td>
     	</tr>
   </tbody>
