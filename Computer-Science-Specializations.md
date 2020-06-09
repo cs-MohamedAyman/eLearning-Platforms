@@ -15,9 +15,9 @@ Computer science specializations road map for computer science students.
 	    <tr>
 			<td rowspan=5 align="center">1</td>
 			<td rowspan=5>
-<span style="font-weight: bold">Introduction to Discrete Mathematics for Computer Science <\span>
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/discrete-mathematics"><b>Specialization<\b></a><br>
-<span>by University of California San Diego, National Research University Higher School of Economics<\span>
+Introduction to Discrete Mathematics for Computer Science 
+<a style="font-weight:bold" href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a><br>
+by University of California San Diego, National Research University Higher School of Economics
 		    </td>
             <td><a href="https://www.coursera.org/learn/what-is-a-proof">Mathematical Thinking in Computer Science</a></td>      
 			<td align="center">30</td>
