@@ -13,9 +13,8 @@ Coursera specializations road map for computer science students.
 	    </tr>
   	</thead>
 	<tbody>
-	    <tr>
-            <td rowspan=5>Introduction to Discrete Mathematics for Computer Science Specialization
-              by University of California San Diego, National Research University Higher School of Economics
+	    <tr rowspan=5>
+			<td >Introduction to Discrete Mathematics for Computer Science Specialization by University of California San Diego, National Research University Higher School of Economics
             </td>
             <td>Mathematical Thinking in Computer Science</td>      <td>30</td>
     	</tr>
