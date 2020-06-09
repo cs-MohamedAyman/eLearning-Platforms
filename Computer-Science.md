@@ -12,7 +12,7 @@ Coursera specializations road map for computer science students.
             <th>Duration (H)</th>
 	    </tr>
   	</thead>
-	<body>
+	<tbody>
 	    <tr>
             <td rowspan=5>Introduction to Discrete Mathematics for Computer Science Specialization
               by University of California San Diego, National Research University Higher School of Economics
@@ -31,5 +31,5 @@ Coursera specializations road map for computer science students.
     	<tr>
             <td>Delivery Problem</td>                               <td>30</td>
     	</tr>
-  </body>
+  </tbody>
 </table>
