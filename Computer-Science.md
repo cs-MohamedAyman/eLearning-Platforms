@@ -7,14 +7,12 @@ Coursera specializations road map for computer science students.
        <col style="width: 70%;">
        <col style="width: 5%;">
   </colgroup>
-  <thead>
+  <tbody>
     <tr> 
             <th> <div style="width: 25%;">Specialization</div> </th> 
             <th> <div style="width: 70%;">Course</div> </th> 
             <th> <div style="width: 5%;">Duration (H)</div> </th> 
     </tr>
-  </thead>
-  <tbody>
     <tr>
             <td rowspan=5 style="width:10%">Introduction to Discrete Mathematics for Computer Science Specialization
               by University of California San Diego, National Research University Higher School of Economics
