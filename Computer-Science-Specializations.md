@@ -19,7 +19,7 @@ Computer Science Specializations road map for computer science students.
 Introduction to Discrete Mathematics for Computer Science  
 <a style="font-weight:bold" href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a> by National Research University Higher School of Economics
 <br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" style="width:50px;height:50px;text-align:center;">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="50%" style="text-align:center">
 			</td>
 			<td><a href="https://www.coursera.org/learn/what-is-a-proof">Mathematical Thinking in Computer Science</a></td>
 			<td align="center">Beginner</td>
