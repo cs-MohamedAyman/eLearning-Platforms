@@ -509,7 +509,7 @@ Introduction to Mathematical Thinking by Stanford University
 			<td rowspan=1 align="center">37</td>
 			<td rowspan=1 align=center>
 Digital Systems: From Logic Gates to Processors by Universitat Autònoma de Barcelona
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20autònoma%20de%20barcelona.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20autonoma%20de%20barcelona.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/digital-systems">Digital Systems: From Logic Gates to Processors</a></td>
 			<td align="center">Intermediate</td>
