@@ -5,11 +5,11 @@ Computer Science Specializations road map for computer science students.
 <table>
 	<thead>
 		<tr>
-			<th width=".25%">#</th>
-			<th width="40%">Specialization</th>
-			<th width="54%">Course Name</th>
-			<th width="5.25%">Level</th>
-			<th width=".5%">Duration (H)</th>
+			<th width=".05%">#</th>
+			<th width="50%">Specialization</th>
+			<th width="47%">Course Name</th>
+			<th width="2.7%">Level</th>
+			<th width=".25%">Duration (H)</th>
 		</tr>
 	</thead>
 	<tbody>
