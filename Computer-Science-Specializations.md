@@ -9,7 +9,7 @@ Computer Science Specializations road map for computer science students.
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
-			<th>Duration (H)</th>
+			<th>Hours</th>
 		</tr>
 	</thead>
 	<tbody>
