@@ -57,8 +57,8 @@ Computer Science: Programming with a Purpose by Princeton University
 		<tr>
 			<td rowspan=1 align="center">3</td>
 			<td rowspan=1 align=center>
-Object Oriented Programming in Java by University of California San Diego
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+Object Oriented Programming in Java by University of California, San Diego
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/object-oriented-java">Object Oriented Programming in Java</a></td>
 			<td align="center">Intermediate</td>
@@ -369,8 +369,8 @@ How To Create a Website in a Weekend! (Project-Centered Course) by The State Uni
 			<td rowspan=8 align="center">24</td>
 			<td rowspan=8 align=center>
 Interaction Design  
-<a href="https://www.coursera.org/specializations/interaction-design">Specialization</a> by University of California San Diego
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/interaction-design">Specialization</a> by University of California, San Diego
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/human-computer-interaction">Human-Centered Design: an Introduction</a></td>
 			<td align="center">Intermediate</td>
@@ -970,7 +970,8 @@ Web Applications for Everybody
 			<td rowspan=6 align=center>
 Responsive Website Development and Design  
 <a href="https://www.coursera.org/specializations/website-development">Specialization</a> by University of London & Goldsmiths, University of London
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london%20&%20goldsmiths,%20university%20of%20london.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/goldsmiths,%20university%20of%20london.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/website-coding">Responsive Website Basics: Code with HTML, CSS, and JavaScript</a></td>
 			<td align="center">Beginner</td>
