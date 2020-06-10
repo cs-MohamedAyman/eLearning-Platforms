@@ -5,11 +5,11 @@ Artificial Intelligence Specializations road map for computer science students.
 <table>
 	<thead>
 		<tr>
-			<th width=".25%">#</th>
-			<th width="40%">Specialization</th>
-			<th width="54%">Course Name</th>
-			<th width="5.25%">Level</th>
-			<th width=".5%">Duration (H)</th>
+			<th>#</th>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>Duration (H)</th>
 		</tr>
 	</thead>
 	<tbody>
