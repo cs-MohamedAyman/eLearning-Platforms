@@ -474,7 +474,7 @@ Competitive Programmer's Core Skills by Saint Petersburg State University
 			<td rowspan=4 align=center>
 Computational Thinking with Beginning C Programming  
 <a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado System
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20system.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
 			<td align="center">Beginner</td>
