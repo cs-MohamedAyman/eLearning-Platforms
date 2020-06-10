@@ -98,7 +98,7 @@ Single Variable Calculus by University of Pennsylvania
 			<td rowspan=1 align="center">7</td>
 			<td rowspan=1 align=center>
 Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology (KAIST)
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology%20.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/ordinary-differential-equations">Introduction to Ordinary Differential Equations</a></td>
 			<td align="center">Beginner</td>
