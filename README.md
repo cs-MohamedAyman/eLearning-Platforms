@@ -811,19 +811,21 @@ Artificial Intelligence Specializations road map for computer science students.
 <table>
 	<thead>
 		<tr>
-			<th width=".25%">#</th>
-			<th width="40%">Specialization</th>
-			<th width="54%">Course Name</th>
-			<th width="5.25%">Level</th>
-			<th width=".5%">Duration (H)</th>
+			<th>#</th>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>Duration (H)</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
+		<tr>
 			<td rowspan=3 align="center">1</td>
-			<td rowspan=3>
+			<td rowspan=3 align=center>
 Mathematics for Machine Learning  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/mathematics-machine-learning">Specialization</a> by Imperial College London
+<a href="https://www.coursera.org/specializations/mathematics-machine-learning">Specialization</a> by Imperial College London
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a></td>
 			<td align="center">Beginner</td>
@@ -841,9 +843,10 @@ Mathematics for Machine Learning
 		</tr>
 		<tr>
 			<td rowspan=3 align="center">2</td>
-			<td rowspan=3>
+			<td rowspan=3 align=center>
 Statistics with Python  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/statistics-with-python">Specialization</a> by University of Michigan
+<a href="https://www.coursera.org/specializations/statistics-with-python">Specialization</a> by University of Michigan
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/understanding-visualization-data">Understanding and Visualizing Data with Python</a></td>
 			<td align="center">Beginner</td>
@@ -861,8 +864,9 @@ Statistics with Python
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">3</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/python-statistics-financial-analysis">Python and Statistics for Financial Analysis</a></td>
 			<td align="center">Beginner</td>
@@ -870,8 +874,9 @@ Python and Statistics for Financial Analysis by The Hong Kong University of Scie
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">4</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/python-statistics-financial-analysis">Python and Statistics for Financial Analysis</a></td>
 			<td align="center">Beginner</td>
@@ -879,9 +884,10 @@ Python and Statistics for Financial Analysis by The Hong Kong University of Scie
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">5</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 Python Data Products for Predictive Analytics  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California San Diego
+<a href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California, San Diego
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/basic-data-processing-visualization-python">Basic Data Processing and Visualization</a></td>
 			<td align="center">Intermediate</td>
@@ -904,9 +910,10 @@ Python Data Products for Predictive Analytics
 		</tr>
 		<tr>
 			<td rowspan=5 align="center">6</td>
-			<td rowspan=5>
+			<td rowspan=5 align=center>
 Data Analysis and Interpretation  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/data-analysis">Specialization</a> by Wesleyan University
+<a href="https://www.coursera.org/specializations/data-analysis">Specialization</a> by Wesleyan University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/data-visualization">Data Management and Visualization</a></td>
 			<td align="center">Beginner</td>
@@ -934,9 +941,10 @@ Data Analysis and Interpretation
 		</tr>
 		<tr>
 			<td rowspan=5 align="center">7</td>
-			<td rowspan=5>
+			<td rowspan=5 align=center>
 Applied Data Science with Python  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/data-science-python">Specialization</a> by University of Michigan
+<a href="https://www.coursera.org/specializations/data-science-python">Specialization</a> by University of Michigan
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/python-data-analysis">Introduction to Data Science in Python</a></td>
 			<td align="center">Intermediate</td>
@@ -964,8 +972,9 @@ Applied Data Science with Python
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">8</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Machine Learning by Stanford University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></td>
 			<td align="center">Intermediate</td>
@@ -973,8 +982,9 @@ Machine Learning by Stanford University
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">9</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Machine Learning by Stanford University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></td>
 			<td align="center">Intermediate</td>
@@ -982,9 +992,10 @@ Machine Learning by Stanford University
 		</tr>
 		<tr>
 			<td rowspan=6 align="center">10</td>
-			<td rowspan=6>
+			<td rowspan=6 align=center>
 IBM Applied AI Profession 
-<a style="font-weight:bold" href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Specialization</a> by IBM
+<a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
 			<td align="center">Beginner</td>
@@ -1017,9 +1028,10 @@ IBM Applied AI Profession
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">11</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 Machine Learning  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/machine-learning">Specialization</a> by University of Washington
+<a href="https://www.coursera.org/specializations/machine-learning">Specialization</a> by University of Washington
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/ml-foundations">Machine Learning Foundations: A Case Study Approach</a></td>
 			<td align="center">Intermediate</td>
@@ -1042,9 +1054,10 @@ Machine Learning
 		</tr>
 		<tr>
 			<td rowspan=5 align="center">12</td>
-			<td rowspan=5>
+			<td rowspan=5 align=center>
 Machine Learning with TensorFlow on Google Cloud Platform  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud
+<a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/google-machine-learning">How Google does Machine Learning</a></td>
 			<td align="center">Intermediate</td>
@@ -1072,9 +1085,10 @@ Machine Learning with TensorFlow on Google Cloud Platform
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">13</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 Machine Learning: Algorithms in the Real World  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/machine-learning-algorithms-real-world">Specialization</a> by Alberta Machine Intelligence Institute
+<a href="https://www.coursera.org/specializations/machine-learning-algorithms-real-world">Specialization</a> by Alberta Machine Intelligence Institute
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/machine-learning-applied">Introduction to Applied Machine Learning</a></td>
 			<td align="center">Intermediate</td>
@@ -1097,9 +1111,10 @@ Machine Learning: Algorithms in the Real World
 		</tr>
 		<tr>
 			<td rowspan=5 align="center">14</td>
-			<td rowspan=5>
+			<td rowspan=5 align=center>
 Recommender Systems  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/recommender-systems">Specialization</a> by University of Minnesota
+<a href="https://www.coursera.org/specializations/recommender-systems">Specialization</a> by University of Minnesota
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/recommender-systems-introduction">Introduction to Recommender Systems: Non-Personalized and Content-Based</a></td>
 			<td align="center">Intermediate</td>
@@ -1127,9 +1142,10 @@ Recommender Systems
 		</tr>
 		<tr>
 			<td rowspan=6 align="center">15</td>
-			<td rowspan=6>
+			<td rowspan=6 align=center>
 Data Mining  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/data-mining">Specialization</a> by University of Illinois at Urbana-Champaign
+<a href="https://www.coursera.org/specializations/data-mining">Specialization</a> by University of Illinois at Urbana-Champaign
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/datavisualization">Data Visualization</a></td>
 			<td align="center">Intermediate</td>
@@ -1162,8 +1178,9 @@ Data Mining
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">16</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Process Mining: Data science in Action by Eindhoven University of Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/process-mining">Process Mining: Data science in Action</a></td>
 			<td align="center">Intermediate</td>
@@ -1171,8 +1188,9 @@ Process Mining: Data science in Action by Eindhoven University of Technology
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">17</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Process Mining: Data science in Action by Eindhoven University of Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/process-mining">Process Mining: Data science in Action</a></td>
 			<td align="center">Intermediate</td>
@@ -1180,9 +1198,10 @@ Process Mining: Data science in Action by Eindhoven University of Technology
 		</tr>
 		<tr>
 			<td rowspan=3 align="center">18</td>
-			<td rowspan=3>
+			<td rowspan=3 align=center>
 AI Foundations for Everyone  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/ai-foundations-for-everyone">Specialization</a> by IBM
+<a href="https://www.coursera.org/specializations/ai-foundations-for-everyone">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
 			<td align="center">Beginner</td>
@@ -1200,8 +1219,9 @@ AI Foundations for Everyone
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">19</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Digital Transformation by University of Virginia
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/bcg-uva-darden-digital-transformation">Digital Transformation</a></td>
 			<td align="center">Beginner</td>
@@ -1209,8 +1229,9 @@ Digital Transformation by University of Virginia
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">20</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 AI For Everyone by deeplearning.ai
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/ai-for-everyone">AI For Everyone</a></td>
 			<td align="center">Beginner</td>
@@ -1218,8 +1239,9 @@ AI For Everyone by deeplearning.ai
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">21</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Deep Learning for Business by Yonsei University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/yonsei%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/deep-learning-business">Deep Learning for Business</a></td>
 			<td align="center">Beginner</td>
@@ -1227,8 +1249,9 @@ Deep Learning for Business by Yonsei University
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">22</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Deep Learning for Business by Yonsei University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/yonsei%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/deep-learning-business">Deep Learning for Business</a></td>
 			<td align="center">Beginner</td>
@@ -1236,9 +1259,10 @@ Deep Learning for Business by Yonsei University
 		</tr>
 		<tr>
 			<td rowspan=5 align="center">23</td>
-			<td rowspan=5>
+			<td rowspan=5 align=center>
 Deep Learning  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/deep-learning">Specialization</a> by deeplearning.ai
+<a href="https://www.coursera.org/specializations/deep-learning">Specialization</a> by deeplearning.ai
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/neural-networks-deep-learning">Neural Networks and Deep Learning</a></td>
 			<td align="center">Intermediate</td>
@@ -1266,9 +1290,10 @@ Deep Learning
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">24</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 TensorFlow in Practice  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/tensorflow-in-practice">Specialization</a> by deeplearning.ai
+<a href="https://www.coursera.org/specializations/tensorflow-in-practice">Specialization</a> by deeplearning.ai
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/introduction-tensorflow">Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</a></td>
 			<td align="center">Intermediate</td>
@@ -1291,9 +1316,10 @@ TensorFlow in Practice
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">25</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 TensorFlow: Data and Deployment  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">Specialization</a> by deeplearning.ai
+<a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">Specialization</a> by deeplearning.ai
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/browser-based-models-tensorflow">Browser-based Models with TensorFlow.js</a></td>
 			<td align="center">Intermediate</td>
@@ -1316,9 +1342,10 @@ TensorFlow: Data and Deployment
 		</tr>
 		<tr>
 			<td rowspan=3 align="center">26</td>
-			<td rowspan=3>
+			<td rowspan=3 align=center>
 AI for Medicine  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/ai-for-medicine">Specialization</a> by deeplearning.ai
+<a href="https://www.coursera.org/specializations/ai-for-medicine">Specialization</a> by deeplearning.ai
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/ai-for-medical-diagnosis">AI for Medical Diagnosis</a></td>
 			<td align="center">Intermediate</td>
@@ -1336,9 +1363,10 @@ AI for Medicine
 		</tr>
 		<tr>
 			<td rowspan=6 align="center">27</td>
-			<td rowspan=6>
+			<td rowspan=6 align=center>
 IBM AI Engineering Profession 
-<a style="font-weight:bold" href="https://www.coursera.org/professional-certificates/ai-engineer">Specialization</a> by IBM
+<a href="https://www.coursera.org/professional-certificates/ai-engineer">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/machine-learning-with-python">Machine Learning with Python</a></td>
 			<td align="center">Intermediate</td>
@@ -1371,8 +1399,9 @@ IBM AI Engineering Profession
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">28</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Introduction to Programming with MATLAB by Vanderbilt University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/vanderbilt%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/matlab">Introduction to Programming with MATLAB</a></td>
 			<td align="center">Beginner</td>
@@ -1380,8 +1409,9 @@ Introduction to Programming with MATLAB by Vanderbilt University
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">29</td>
-			<td rowspan=1>
-Digital Signal Processing by École Polytechnique Fédérale de Lausanne
+			<td rowspan=1 align=center>
+Digital Signal Processing by ecole polytechnique federale de lausanne
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/dsp">Digital Signal Processing</a></td>
 			<td align="center">Intermediate</td>
@@ -1389,8 +1419,9 @@ Digital Signal Processing by École Polytechnique Fédérale de Lausanne
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">30</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Fundamentals of Digital Image and Video Processing by Northwestern University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northwestern%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/digital">Fundamentals of Digital Image and Video Processing</a></td>
 			<td align="center">Intermediate</td>
@@ -1398,8 +1429,9 @@ Fundamentals of Digital Image and Video Processing by Northwestern University
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">31</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Barcelona
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20pompeu%20fabra%20of%20barcelona.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/audio-signal-processing">Audio Signal Processing for Music Applications</a></td>
 			<td align="center">Intermediate</td>
@@ -1407,8 +1439,9 @@ Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Ba
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">32</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital by Duke University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/image-processing">Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital</a></td>
 			<td align="center">Intermediate</td>
@@ -1416,8 +1449,9 @@ Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital b
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">33</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital by Duke University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/image-processing">Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital</a></td>
 			<td align="center">Intermediate</td>
@@ -1425,9 +1459,10 @@ Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital b
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">34</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 Practical Data Science with MATLAB  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/practical-data-science-matlab">Specialization</a> by MathWorks
+<a href="https://www.coursera.org/specializations/practical-data-science-matlab">Specialization</a> by MathWorks
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/exploratory-data-analysis-matlab">Exploratory Data Analysis with MATLAB</a></td>
 			<td align="center">Beginner</td>
@@ -1450,9 +1485,10 @@ Practical Data Science with MATLAB
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">35</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 Healthcare Trends for Business Professionals  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/healthcare-trends-business-professionals">Specialization</a> by Northeastern University
+<a href="https://www.coursera.org/specializations/healthcare-trends-business-professionals">Specialization</a> by Northeastern University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northeastern%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/healthcareconsumerism">Healthcare Consumerism and Implication for Care Delivery</a></td>
 			<td align="center">Beginner</td>
@@ -1475,9 +1511,10 @@ Healthcare Trends for Business Professionals
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">36</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 Computer Vision  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/computervision">Specialization</a> by University at Buffalo
+<a href="https://www.coursera.org/specializations/computervision">Specialization</a> by University at Buffalo
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20at%20buffalo.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/computer-vision-basics">Computer Vision Basics</a></td>
 			<td align="center">Intermediate</td>
@@ -1500,9 +1537,10 @@ Computer Vision
 		</tr>
 		<tr>
 			<td rowspan=3 align="center">37</td>
-			<td rowspan=3>
+			<td rowspan=3 align=center>
 Machine Learning for Trading  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/machine-learning-trading">Specialization</a> by Google Cloud
+<a href="https://www.coursera.org/specializations/machine-learning-trading">Specialization</a> by Google Cloud
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/introduction-trading-machine-learning-gcp">Introduction to Trading, Machine Learning & GCP</a></td>
 			<td align="center">Intermediate</td>
@@ -1520,9 +1558,10 @@ Machine Learning for Trading
 		</tr>
 		<tr>
 			<td rowspan=5 align="center">38</td>
-			<td rowspan=5>
+			<td rowspan=5 align=center>
 Advanced Machine Learning with TensorFlow on Google Cloud Platform  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud
+<a href="https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp">End-to-End Machine Learning with TensorFlow on GCP</a></td>
 			<td align="center">Advanced</td>
@@ -1550,9 +1589,10 @@ Advanced Machine Learning with TensorFlow on Google Cloud Platform
 		</tr>
 		<tr>
 			<td rowspan=7 align="center">39</td>
-			<td rowspan=7>
+			<td rowspan=7 align=center>
 Advanced Machine Learning  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/aml">Specialization</a> by National Research University Higher School of Economics
+<a href="https://www.coursera.org/specializations/aml">Specialization</a> by National Research University Higher School of Economics
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/intro-to-deep-learning">Introduction to Deep Learning</a></td>
 			<td align="center">Advanced</td>
@@ -1590,9 +1630,10 @@ Advanced Machine Learning
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">40</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 Investment Management with Python and Machine Learning  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/investment-management-python-machine-learning">Specialization</a> by EDHEC Business School
+<a href="https://www.coursera.org/specializations/investment-management-python-machine-learning">Specialization</a> by EDHEC Business School
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/edhec%20business%20school.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/introduction-portfolio-construction-python">Introduction to Portfolio Construction and Analysis with Python</a></td>
 			<td align="center">Beginner</td>
@@ -1615,8 +1656,9 @@ Investment Management with Python and Machine Learning
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">41</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Stochastic processes by National Research University Higher School of Economics
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/stochasticprocesses">Stochastic processes</a></td>
 			<td align="center">Intermediate</td>
@@ -1624,8 +1666,9 @@ Stochastic processes by National Research University Higher School of Economics
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">42</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Stochastic processes by National Research University Higher School of Economics
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/stochasticprocesses">Stochastic processes</a></td>
 			<td align="center">Intermediate</td>
@@ -1633,9 +1676,10 @@ Stochastic processes by National Research University Higher School of Economics
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">43</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 Reinforcement Learning  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/reinforcement-learning">Specialization</a> by University of Alberta
+<a href="https://www.coursera.org/specializations/reinforcement-learning">Specialization</a> by University of Alberta
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20alberta.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning">Fundamentals of Reinforcement Learning</a></td>
 			<td align="center">Intermediate</td>
@@ -1658,9 +1702,10 @@ Reinforcement Learning
 		</tr>
 		<tr>
 			<td rowspan=4 align="center">44</td>
-			<td rowspan=4>
+			<td rowspan=4 align=center>
 Machine Learning and Reinforcement Learning in Finance  
-<a style="font-weight:bold" href="https://www.coursera.org/specializations/machine-learning-reinforcement-finance">Specialization</a> by New York University Tandon School of Engineering
+<a href="https://www.coursera.org/specializations/machine-learning-reinforcement-finance">Specialization</a> by New York University Tandon School of Engineering
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/new%20york%20university%20tandon%20school%20of%20engineering.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/guided-tour-machine-learning-finance">Guided Tour of Machine Learning in Finance</a></td>
 			<td align="center">Intermediate</td>
@@ -1683,8 +1728,9 @@ Machine Learning and Reinforcement Learning in Finance
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">45</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Practical Time Series Analysis by The State University of New York
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20state%20university%20of%20new%20york.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/practical-time-series-analysis">Practical Time Series Analysis</a></td>
 			<td align="center">Intermediate</td>
@@ -1692,8 +1738,9 @@ Practical Time Series Analysis by The State University of New York
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">46</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Medical Neuroscience by Duke University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/medical-neuroscience">Medical Neuroscience</a></td>
 			<td align="center">Advanced</td>
@@ -1701,8 +1748,9 @@ Medical Neuroscience by Duke University
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">47</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Advanced Linear Models for Data Science 1: Least Squares by Johns Hopkins University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/linear-models">Advanced Linear Models for Data Science 1: Least Squares</a></td>
 			<td align="center">Advanced</td>
@@ -1710,8 +1758,9 @@ Advanced Linear Models for Data Science 1: Least Squares by Johns Hopkins Univer
 		</tr>
 		<tr>
 			<td rowspan=1 align="center">48</td>
-			<td rowspan=1>
+			<td rowspan=1 align=center>
 Advanced Linear Models for Data Science 2: Statistical Linear Models by Johns Hopkins University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/linear-models-2">Advanced Linear Models for Data Science 2: Statistical Linear Models</a></td>
 			<td align="center">Advanced</td>
