@@ -290,7 +290,7 @@ Statistics with R
 		<tr>
 			<td rowspan=9 align="center">11</td>
 			<td rowspan=9 align=center>
-IBM Data Science Profession 
+IBM Data Science Professional 
 <a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Specialization</a> by IBM
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 			</td>
