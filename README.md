@@ -6,6 +6,7 @@ Computer Science Specializations road map for computer science students.
 
 <details>
 	<summary>Computer Science Specializations</summary>
+	
 <table>
 	<thead>
 		<tr>
@@ -773,6 +774,7 @@ Artificial Intelligence Specializations road map for computer science students.
 
 <details>
 	<summary>Artificial Intelligence Specializations</summary>
+	
 <table>
 	<thead>
 		<tr>
@@ -1679,6 +1681,7 @@ Data Science Specializations road map for computer science students.
 
 <details>
 	<summary>Data Science Specializations</summary>
+	
 <table>
 	<thead>
 		<tr>
@@ -2789,6 +2792,7 @@ Software Engineering Specializations road map for computer science students.
 
 <details>
 	<summary>Software Engineering Specializations</summary>
+	
 <table>
 	<thead>
 		<tr>
