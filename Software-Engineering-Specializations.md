@@ -901,7 +901,7 @@ Web Applications for Everybody
 Responsive Website Development and Design  
 <a href="https://www.coursera.org/specializations/website-development">Specialization</a> by University of London & Goldsmiths, University of London
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university/goldsmiths,%20university%20of%20london.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/goldsmiths%2C%20university%20of%20london.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/website-coding">Responsive Website Basics: Code with HTML, CSS, and JavaScript</a></td>
 			<td align="center">Beginner</td>
