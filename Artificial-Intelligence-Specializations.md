@@ -14,7 +14,6 @@ Artificial Intelligence Specializations road map for computer science students.
 	</thead>
 	<tbody>
 		<tr>
-		<tr>
 			<td rowspan=3 align="center">1</td>
 			<td rowspan=3 align=center>
 Mathematics for Machine Learning  
