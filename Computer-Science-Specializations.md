@@ -617,7 +617,7 @@ Algorithms
 			<td rowspan=6 align=center>
 Data Structures and Algorithms  
 <a href="https://www.coursera.org/specializations/data-structures-algorithms">Specialization</a> by University of California San Diego & National Research University Higher School of Economics
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/algorithmic-toolbox">Algorithmic Toolbox</a></td>
