@@ -1731,7 +1731,126 @@ Data Science Specializations road map for computer science students.
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan=5 align="center">1</td>
+			<td rowspan=3 align="center">1</td>
+			<td rowspan=3 align=center>
+Statistics with Python  
+<a href="https://www.coursera.org/specializations/statistics-with-python">Specialization</a> by University of Michigan
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
+			</td>
+			<td><a href="https://www.coursera.org/learn/understanding-visualization-data">Understanding and Visualizing Data with Python</a></td>
+			<td align="center">Beginner</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/inferential-statistical-analysis-python">Inferential Statistical Analysis with Python</a></td>
+			<td align="center">Beginner</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/fitting-statistical-models-data-python">Fitting Statistical Models to Data with Python</a></td>
+			<td align="center">Beginner</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align="center">2</td>
+			<td rowspan=1 align=center>
+Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+			</td>
+			<td><a href="https://www.coursera.org/learn/python-statistics-financial-analysis">Python and Statistics for Financial Analysis</a></td>
+			<td align="center">Beginner</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=4 align="center">3</td>
+			<td rowspan=4 align=center>
+Python Data Products for Predictive Analytics  
+<a href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California, San Diego
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+			</td>
+			<td><a href="https://www.coursera.org/learn/basic-data-processing-visualization-python">Basic Data Processing and Visualization</a></td>
+			<td align="center">Intermediate</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products">Design Thinking and Predictive Analytics for Data Products</a></td>
+			<td align="center">Intermediate</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/meaningful-predictive-modeling">Meaningful Predictive Modeling</a></td>
+			<td align="center">Intermediate</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/deploying-machine-learning-models">Deploying Machine Learning Models</a></td>
+			<td align="center">Intermediate</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=5 align="center">4</td>
+			<td rowspan=5 align=center>
+Data Analysis and Interpretation  
+<a href="https://www.coursera.org/specializations/data-analysis">Specialization</a> by Wesleyan University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
+			</td>
+			<td><a href="https://www.coursera.org/learn/data-visualization">Data Management and Visualization</a></td>
+			<td align="center">Beginner</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/data-analysis-tools">Data Analysis Tools</a></td>
+			<td align="center">Beginner</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/regression-modeling-practice">Regression Modeling in Practice</a></td>
+			<td align="center">Beginner</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/machine-learning-data-analysis">Machine Learning for Data Analysis</a></td>
+			<td align="center">Beginner</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/data-analysis-capstone">Data Analysis and Interpretation Capstone</a></td>
+			<td align="center">Beginner</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=5 align="center">5</td>
+			<td rowspan=5 align=center>
+Applied Data Science with Python  
+<a href="https://www.coursera.org/specializations/data-science-python">Specialization</a> by University of Michigan
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
+			</td>
+			<td><a href="https://www.coursera.org/learn/python-data-analysis">Introduction to Data Science in Python</a></td>
+			<td align="center">Intermediate</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/python-plotting">Applied Plotting, Charting & Data Representation in Python</a></td>
+			<td align="center">Intermediate</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/python-machine-learning">Applied Machine Learning in Python</a></td>
+			<td align="center">Intermediate</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/python-text-mining">Applied Text Mining in Python</a></td>
+			<td align="center">Intermediate</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.coursera.org/learn/python-social-network-analysis">Applied Social Network Analysis in Python</a></td>
+			<td align="center">Intermediate</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=5 align="center">6</td>
 			<td rowspan=5 align=center>
 Python for Everybody  
 <a href="https://www.coursera.org/specializations/python">Specialization</a> by University of Michigan
@@ -1762,7 +1881,7 @@ Python for Everybody
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">2</td>
+			<td rowspan=5 align="center">7</td>
 			<td rowspan=5 align=center>
 Business Statistics and Analysis  
 <a href="https://www.coursera.org/specializations/business-statistics-analysis">Specialization</a> by Rice University
@@ -1793,7 +1912,7 @@ Business Statistics and Analysis
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">3</td>
+			<td rowspan=5 align="center">8</td>
 			<td rowspan=5 align=center>
 Executive Data Science  
 <a href="https://www.coursera.org/specializations/executive-data-science">Specialization</a> by Johns Hopkins University
@@ -1824,7 +1943,7 @@ Executive Data Science
 			<td align="center">5</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">4</td>
+			<td rowspan=5 align="center">9</td>
 			<td rowspan=5 align=center>
 Data Visualization with Tableau  
 <a href="https://www.coursera.org/specializations/data-visualization">Specialization</a> by University of California, Davis
@@ -1855,7 +1974,7 @@ Data Visualization with Tableau
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">5</td>
+			<td rowspan=5 align="center">10</td>
 			<td rowspan=5 align=center>
 Statistics with R  
 <a href="https://www.coursera.org/specializations/statistics">Specialization</a> by Duke University
@@ -1886,7 +2005,7 @@ Statistics with R
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=9 align="center">6</td>
+			<td rowspan=9 align="center">11</td>
 			<td rowspan=9 align=center>
 IBM Data Science Profession 
 <a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Specialization</a> by IBM
@@ -1937,7 +2056,7 @@ IBM Data Science Profession
 			<td align="center">50</td>
 		</tr>
 		<tr>
-			<td rowspan=10 align="center">7</td>
+			<td rowspan=10 align="center">12</td>
 			<td rowspan=10 align=center>
 Data Science  
 <a href="https://www.coursera.org/specializations/jhu-data-science">Specialization</a> by Johns Hopkins University
@@ -1993,7 +2112,7 @@ Data Science
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">8</td>
+			<td rowspan=4 align="center">13</td>
 			<td rowspan=4 align=center>
 From Data to Insights with Google Cloud Platform  
 <a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud
@@ -2019,7 +2138,7 @@ From Data to Insights with Google Cloud Platform
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">9</td>
+			<td rowspan=4 align="center">14</td>
 			<td rowspan=4 align=center>
 Introduction to Data Science  
 <a href="https://www.coursera.org/specializations/introduction-data-science">Specialization</a> by IBM
@@ -2045,7 +2164,7 @@ Introduction to Data Science
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">10</td>
+			<td rowspan=4 align="center">15</td>
 			<td rowspan=4 align=center>
 Statistical Analysis with R for Public Health  
 <a href="https://www.coursera.org/specializations/statistical-analysis-r-public-health">Specialization</a> by Imperial College London
@@ -2071,7 +2190,7 @@ Statistical Analysis with R for Public Health
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=3 align="center">11</td>
+			<td rowspan=3 align="center">16</td>
 			<td rowspan=3 align=center>
 Modern Big Data Analysis with SQL  
 <a href="https://www.coursera.org/specializations/cloudera-big-data-analysis-sql">Specialization</a> by Cloudera
@@ -2092,7 +2211,7 @@ Modern Big Data Analysis with SQL
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">12</td>
+			<td rowspan=1 align="center">17</td>
 			<td rowspan=1 align=center>
 SQL for Data Science by University of California, Davis
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
@@ -2102,20 +2221,10 @@ SQL for Data Science by University of California, Davis
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">13</td>
-			<td rowspan=1 align=center>
-SQL for Data Science by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a></td>
-			<td align="center">Beginner</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
-			<td rowspan=6 align="center">14</td>
+			<td rowspan=6 align="center">18</td>
 			<td rowspan=6 align=center>
 Big Data  
-<a href="https://www.coursera.org/specializations/big-data">Specialization</a> by University of California San Diego
+<a href="https://www.coursera.org/specializations/big-data">Specialization</a> by University of California, San Diego
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/big-data-introduction">Introduction to Big Data</a></td>
@@ -2148,7 +2257,7 @@ Big Data
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">15</td>
+			<td rowspan=4 align="center">19</td>
 			<td rowspan=4 align=center>
 Learn SQL Basics for Data Science  
 <a href="https://www.coursera.org/specializations/learn-sql-basics-data-science">Specialization</a> by University of California, Davis
@@ -2174,7 +2283,7 @@ Learn SQL Basics for Data Science
 			<td align="center">35</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">16</td>
+			<td rowspan=5 align="center">20</td>
 			<td rowspan=5 align=center>
 Data Science: Foundations using R  
 <a href="https://www.coursera.org/specializations/data-science-foundations-r">Specialization</a> by Johns Hopkins University
@@ -2205,7 +2314,7 @@ Data Science: Foundations using R
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">17</td>
+			<td rowspan=5 align="center">21</td>
 			<td rowspan=5 align=center>
 Data Analysis and Presentation Skills: the PwC Approach  
 <a href="https://www.coursera.org/specializations/pwc-analytics">Specialization</a> by PwC
@@ -2236,7 +2345,7 @@ Data Analysis and Presentation Skills: the PwC Approach
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">18</td>
+			<td rowspan=4 align="center">22</td>
 			<td rowspan=4 align=center>
 Excel Skills for Business  
 <a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University
@@ -2262,7 +2371,7 @@ Excel Skills for Business
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">19</td>
+			<td rowspan=5 align="center">23</td>
 			<td rowspan=5 align=center>
 Excel to MySQL: Analytic Techniques for Business  
 <a href="https://www.coursera.org/specializations/excel-mysql">Specialization</a> by Duke University
@@ -2293,7 +2402,7 @@ Excel to MySQL: Analytic Techniques for Business
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=3 align="center">20</td>
+			<td rowspan=3 align="center">24</td>
 			<td rowspan=3 align=center>
 Excel/VBA for Creative Problem Solving  
 <a href="https://www.coursera.org/specializations/excel-vba-creative-problem-solving">Specialization</a> by University of Colorado Boulder
@@ -2314,7 +2423,7 @@ Excel/VBA for Creative Problem Solving
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">21</td>
+			<td rowspan=1 align="center">25</td>
 			<td rowspan=1 align=center>
 Distributed Computing with Spark SQL by University of California, Davis
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
@@ -2324,17 +2433,7 @@ Distributed Computing with Spark SQL by University of California, Davis
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">22</td>
-			<td rowspan=1 align=center>
-Distributed Computing with Spark SQL by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/spark-sql">Distributed Computing with Spark SQL</a></td>
-			<td align="center">Intermediate</td>
-			<td align="center">15</td>
-		</tr>
-		<tr>
-			<td rowspan=5 align="center">23</td>
+			<td rowspan=5 align="center">26</td>
 			<td rowspan=5 align=center>
 Data Science: Statistics and Machine Learning  
 <a href="https://www.coursera.org/specializations/data-science-statistics-machine-learning">Specialization</a> by Johns Hopkins University
@@ -2365,7 +2464,7 @@ Data Science: Statistics and Machine Learning
 			<td align="center">5</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">24</td>
+			<td rowspan=5 align="center">27</td>
 			<td rowspan=5 align=center>
 Data Engineering with GCP Profession 
 <a href="https://www.coursera.org/professional-certificates/gcp-data-engineering">Specialization</a> by Google Cloud
@@ -2396,7 +2495,7 @@ Data Engineering with GCP Profession
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">25</td>
+			<td rowspan=4 align="center">28</td>
 			<td rowspan=4 align=center>
 Data Science at Scale  
 <a href="https://www.coursera.org/specializations/data-science">Specialization</a> by University of Washington
@@ -2422,7 +2521,7 @@ Data Science at Scale
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">26</td>
+			<td rowspan=4 align="center">29</td>
 			<td rowspan=4 align=center>
 Data Visualization  
 <a href="https://www.coursera.org/specializations/datavisualization">Specialization</a> by Arizona State University
@@ -2448,7 +2547,7 @@ Data Visualization
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">27</td>
+			<td rowspan=5 align="center">30</td>
 			<td rowspan=5 align=center>
 Data Engineering, Big Data, and Machine Learning on GCP  
 <a href="https://www.coursera.org/specializations/gcp-data-machine-learning">Specialization</a> by Google Cloud
@@ -2479,7 +2578,7 @@ Data Engineering, Big Data, and Machine Learning on GCP
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">28</td>
+			<td rowspan=5 align="center">31</td>
 			<td rowspan=5 align=center>
 Data Systems  
 <a href="https://www.coursera.org/specializations/data-systems">Specialization</a> by Arizona State University
@@ -2510,7 +2609,7 @@ Data Systems
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">29</td>
+			<td rowspan=4 align="center">32</td>
 			<td rowspan=4 align=center>
 Database systems  
 <a href="https://www.coursera.org/specializations/database-systems">Specialization</a> by universidad nacional autonoma de mexico
@@ -2536,7 +2635,7 @@ Database systems
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">30</td>
+			<td rowspan=5 align="center">33</td>
 			<td rowspan=5 align=center>
 Functional Programming in Scala  
 <a href="https://www.coursera.org/specializations/scala">Specialization</a> by ecole polytechnique federale de lausanne
@@ -2567,7 +2666,7 @@ Functional Programming in Scala
 			<td align="center">30</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">31</td>
+			<td rowspan=5 align="center">34</td>
 			<td rowspan=5 align=center>
 Big Data for Data Engineers  
 <a href="https://www.coursera.org/specializations/big-data-engineering">Specialization</a> by Yandex
@@ -2598,7 +2697,7 @@ Big Data for Data Engineers
 			<td align="center">5</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">32</td>
+			<td rowspan=5 align="center">35</td>
 			<td rowspan=5 align=center>
 Data Warehousing for Business Intelligence  
 <a href="https://www.coursera.org/specializations/data-warehousing">Specialization</a> by University of Colorado Boulder
@@ -2629,7 +2728,7 @@ Data Warehousing for Business Intelligence
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">33</td>
+			<td rowspan=5 align="center">36</td>
 			<td rowspan=5 align=center>
 Advanced Business Analytics  
 <a href="https://www.coursera.org/specializations/data-analytics-business">Specialization</a> by University of Colorado Boulder
@@ -2660,7 +2759,7 @@ Advanced Business Analytics
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">34</td>
+			<td rowspan=4 align="center">37</td>
 			<td rowspan=4 align=center>
 Advanced Data Science with IBM  
 <a href="https://www.coursera.org/specializations/advanced-data-science-ibm">Specialization</a> by IBM
@@ -2686,7 +2785,7 @@ Advanced Data Science with IBM
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=6 align="center">35</td>
+			<td rowspan=6 align="center">38</td>
 			<td rowspan=6 align=center>
 IBM AI Enterprise Workflow  
 <a href="https://www.coursera.org/specializations/ibm-ai-workflow">Specialization</a> by IBM
