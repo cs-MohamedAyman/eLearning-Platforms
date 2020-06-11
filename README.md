@@ -1,7 +1,6 @@
 # Coursera-Specializations
 Coursera specializations road map for computer science students.
 
-# Coursera-Specializations
 ## Computer-Science-Specializations
 Computer Science Specializations road map for computer science students.
 
