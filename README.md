@@ -2803,17 +2803,7 @@ Operating Systems and You: Becoming a Power User by Google
 			<td align="center">30</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">5</td>
-			<td rowspan=1 align=center>
-Operating Systems and You: Becoming a Power User by Google
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/os-power-user">Operating Systems and You: Becoming a Power User</a></td>
-			<td align="center">Beginner</td>
-			<td align="center">30</td>
-		</tr>
-		<tr>
-			<td rowspan=3 align="center">6</td>
+			<td rowspan=3 align="center">5</td>
 			<td rowspan=3 align=center>
 Parallel, Concurrent, and Distributed Programming in Java  
 <a href="https://www.coursera.org/specializations/pcdp">Specialization</a> by Rice University
@@ -2834,7 +2824,7 @@ Parallel, Concurrent, and Distributed Programming in Java
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">7</td>
+			<td rowspan=4 align="center">6</td>
 			<td rowspan=4 align=center>
 Software Design and Architecture  
 <a href="https://www.coursera.org/specializations/software-design-architecture">Specialization</a> by University of Alberta
@@ -2860,7 +2850,7 @@ Software Design and Architecture
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">8</td>
+			<td rowspan=1 align="center">7</td>
 			<td rowspan=1 align=center>
 Software Design as an Element of the Software Development Lifecycle by University of Colorado Boulder
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -2870,7 +2860,7 @@ Software Design as an Element of the Software Development Lifecycle by Universit
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">9</td>
+			<td rowspan=1 align="center">8</td>
 			<td rowspan=1 align=center>
 Software Design as an Abstraction by University of Colorado Boulder
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -2880,7 +2870,7 @@ Software Design as an Abstraction by University of Colorado Boulder
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">10</td>
+			<td rowspan=1 align="center">9</td>
 			<td rowspan=1 align=center>
 Software Design Methods and Tools by University of Colorado Boulder
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -2890,7 +2880,7 @@ Software Design Methods and Tools by University of Colorado Boulder
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">11</td>
+			<td rowspan=1 align="center">10</td>
 			<td rowspan=1 align=center>
 Software Design Threats and Mitigations by University of Colorado Boulder
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -2900,7 +2890,7 @@ Software Design Threats and Mitigations by University of Colorado Boulder
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">12</td>
+			<td rowspan=1 align="center">11</td>
 			<td rowspan=1 align=center>
 Introduction to Systems Engineering by UNSW Sydney (The University of New South Wales)
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/unsw%20sydney%20(the%20university%20of%20new%20south%20wales).jpg" width="40%">
@@ -2910,17 +2900,7 @@ Introduction to Systems Engineering by UNSW Sydney (The University of New South 
 			<td align="center">30</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">13</td>
-			<td rowspan=1 align=center>
-Introduction to Systems Engineering by UNSW Sydney (The University of New South Wales)
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/unsw%20sydney%20(the%20university%20of%20new%20south%20wales).jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/systems-engineering">Introduction to Systems Engineering</a></td>
-			<td align="center">Intermediate</td>
-			<td align="center">30</td>
-		</tr>
-		<tr>
-			<td rowspan=4 align="center">14</td>
+			<td rowspan=4 align="center">12</td>
 			<td rowspan=4 align=center>
 Software Development Lifecycle  
 <a href="https://www.coursera.org/specializations/software-development-lifecycle">Specialization</a> by University of Minnesota
@@ -2946,7 +2926,7 @@ Software Development Lifecycle
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">15</td>
+			<td rowspan=1 align="center">13</td>
 			<td rowspan=1 align=center>
 Server-side Development with NodeJS, Express and MongoDB by The Hong Kong University of Science and Technology
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
@@ -2956,7 +2936,7 @@ Server-side Development with NodeJS, Express and MongoDB by The Hong Kong Univer
 			<td align="center">55</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">16</td>
+			<td rowspan=1 align="center">14</td>
 			<td rowspan=1 align=center>
 Version Control with Git by Atlassian
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/atlassian.jpg" width="40%">
@@ -2966,7 +2946,7 @@ Version Control with Git by Atlassian
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">17</td>
+			<td rowspan=1 align="center">15</td>
 			<td rowspan=1 align=center>
 The Unix Workbench by Johns Hopkins University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
@@ -2976,17 +2956,7 @@ The Unix Workbench by Johns Hopkins University
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">18</td>
-			<td rowspan=1 align=center>
-The Unix Workbench by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/unix">The Unix Workbench</a></td>
-			<td align="center">Beginner</td>
-			<td align="center">20</td>
-		</tr>
-		<tr>
-			<td rowspan=4 align="center">19</td>
+			<td rowspan=4 align="center">16</td>
 			<td rowspan=4 align=center>
 Open Source Software Development, Linux and Git  
 <a href="https://www.coursera.org/specializations/oss-development-linux-git">Specialization</a> by The Linux Foundation
@@ -3012,7 +2982,7 @@ Open Source Software Development, Linux and Git
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=6 align="center">20</td>
+			<td rowspan=6 align="center">17</td>
 			<td rowspan=6 align=center>
 Google IT Automation with Python Profession 
 <a href="https://www.coursera.org/professional-certificates/google-it-automation">Specialization</a> by Google
@@ -3048,7 +3018,7 @@ Google IT Automation with Python Profession
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">21</td>
+			<td rowspan=4 align="center">18</td>
 			<td rowspan=4 align=center>
 Architecting with Google Kubernetes Engine  
 <a href="https://www.coursera.org/specializations/architecting-google-kubernetes-engine">Specialization</a> by Google Cloud
@@ -3074,7 +3044,7 @@ Architecting with Google Kubernetes Engine
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">22</td>
+			<td rowspan=1 align="center">19</td>
 			<td rowspan=1 align=center>
 How To Create a Website in a Weekend! (Project-Centered Course) by The State University of New York
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20state%20university%20of%20new%20york.jpg" width="40%">
@@ -3084,17 +3054,7 @@ How To Create a Website in a Weekend! (Project-Centered Course) by The State Uni
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">23</td>
-			<td rowspan=1 align=center>
-How To Create a Website in a Weekend! (Project-Centered Course) by The State University of New York
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20state%20university%20of%20new%20york.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/how-to-create-a-website">How To Create a Website in a Weekend! (Project-Centered Course)</a></td>
-			<td align="center">Intermediate</td>
-			<td align="center">25</td>
-		</tr>
-		<tr>
-			<td rowspan=8 align="center">24</td>
+			<td rowspan=8 align="center">20</td>
 			<td rowspan=8 align=center>
 Interaction Design  
 <a href="https://www.coursera.org/specializations/interaction-design">Specialization</a> by University of California, San Diego
@@ -3140,7 +3100,7 @@ Interaction Design
 			<td align="center">40</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">25</td>
+			<td rowspan=4 align="center">21</td>
 			<td rowspan=4 align=center>
 UI / UX Design  
 <a href="https://www.coursera.org/specializations/ui-ux-design">Specialization</a> by California Institute of the Arts
@@ -3166,7 +3126,7 @@ UI / UX Design
 			<td align="center">45</td>
 		</tr>
 		<tr>
-			<td rowspan=3 align="center">26</td>
+			<td rowspan=3 align="center">22</td>
 			<td rowspan=3 align=center>
 Managing Major Engineering Projects  
 <a href="https://www.coursera.org/specializations/managing-major-engineering-projects">Specialization</a> by University of Leeds
@@ -3187,7 +3147,7 @@ Managing Major Engineering Projects
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">27</td>
+			<td rowspan=1 align="center">23</td>
 			<td rowspan=1 align=center>
 DevOps Culture and Mindset by University of California, Davis
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
@@ -3197,7 +3157,7 @@ DevOps Culture and Mindset by University of California, Davis
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">28</td>
+			<td rowspan=1 align="center">24</td>
 			<td rowspan=1 align=center>
 Continuous Delivery & DevOps by University of Virginia
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
@@ -3207,17 +3167,7 @@ Continuous Delivery & DevOps by University of Virginia
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">29</td>
-			<td rowspan=1 align=center>
-Continuous Delivery & DevOps by University of Virginia
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/uva-darden-continous-delivery-devops">Continuous Delivery & DevOps</a></td>
-			<td align="center">Intermediate</td>
-			<td align="center">10</td>
-		</tr>
-		<tr>
-			<td rowspan=5 align="center">30</td>
+			<td rowspan=5 align="center">25</td>
 			<td rowspan=5 align=center>
 Agile Development  
 <a href="https://www.coursera.org/specializations/agile-development">Specialization</a> by University of Virginia
@@ -3248,7 +3198,7 @@ Agile Development
 			<td align="center">40</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">31</td>
+			<td rowspan=5 align="center">26</td>
 			<td rowspan=5 align=center>
 Web Design for Everybody: Basics of Web Development & Coding  
 <a href="https://www.coursera.org/specializations/web-design">Specialization</a> by University of Michigan
@@ -3279,7 +3229,7 @@ Web Design for Everybody: Basics of Web Development & Coding
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">32</td>
+			<td rowspan=1 align="center">27</td>
 			<td rowspan=1 align=center>
 Google Cloud Platform Fundamentals: Core Infrastructure by Google Cloud
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
@@ -3289,7 +3239,7 @@ Google Cloud Platform Fundamentals: Core Infrastructure by Google Cloud
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">33</td>
+			<td rowspan=1 align="center">28</td>
 			<td rowspan=1 align=center>
 Essential Cloud Infrastructure: Foundation by Google Cloud
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
@@ -3299,17 +3249,7 @@ Essential Cloud Infrastructure: Foundation by Google Cloud
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">34</td>
-			<td rowspan=1 align=center>
-Essential Cloud Infrastructure: Foundation by Google Cloud
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/gcp-infrastructure-foundation">Essential Cloud Infrastructure: Foundation</a></td>
-			<td align="center">Intermediate</td>
-			<td align="center">10</td>
-		</tr>
-		<tr>
-			<td rowspan=6 align="center">35</td>
+			<td rowspan=6 align="center">29</td>
 			<td rowspan=6 align=center>
 Cloud Computing  
 <a href="https://www.coursera.org/specializations/cloud-computing">Specialization</a> by University of Illinois at Urbana-Champaign
@@ -3345,7 +3285,7 @@ Cloud Computing
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">36</td>
+			<td rowspan=1 align="center">30</td>
 			<td rowspan=1 align=center>
 Getting Started with Google Kubernetes Engine by Google Cloud
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
@@ -3355,7 +3295,7 @@ Getting Started with Google Kubernetes Engine by Google Cloud
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">37</td>
+			<td rowspan=1 align="center">31</td>
 			<td rowspan=1 align=center>
 Kotlin for Java Developers by JetBrains
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/jetbrains.jpg" width="40%">
@@ -3365,7 +3305,7 @@ Kotlin for Java Developers by JetBrains
 			<td align="center">30</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">38</td>
+			<td rowspan=1 align="center">32</td>
 			<td rowspan=1 align=center>
 Developing Android Apps with App Inventor by The Hong Kong University of Science and Technology
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
@@ -3375,7 +3315,7 @@ Developing Android Apps with App Inventor by The Hong Kong University of Science
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">39</td>
+			<td rowspan=1 align="center">33</td>
 			<td rowspan=1 align=center>
 Programming Mobile Applications for Android Handheld Systems: Part 1 by University of Maryland, College Park
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20maryland,%20college%20park.jpg" width="40%">
@@ -3385,7 +3325,7 @@ Programming Mobile Applications for Android Handheld Systems: Part 1 by Universi
 			<td align="center">30</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">40</td>
+			<td rowspan=1 align="center">34</td>
 			<td rowspan=1 align=center>
 Programming Mobile Applications for Android Handheld Systems: Part 2 by University of Maryland, College Park
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20maryland,%20college%20park.jpg" width="40%">
@@ -3395,7 +3335,7 @@ Programming Mobile Applications for Android Handheld Systems: Part 2 by Universi
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">41</td>
+			<td rowspan=1 align="center">35</td>
 			<td rowspan=1 align=center>
 Java for Android by Vanderbilt University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/vanderbilt%20university.jpg" width="40%">
@@ -3405,7 +3345,7 @@ Java for Android by Vanderbilt University
 			<td align="center">45</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">42</td>
+			<td rowspan=1 align="center">36</td>
 			<td rowspan=1 align=center>
 Creative Programming for Digital Media & Mobile Apps by University of London
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
@@ -3415,17 +3355,7 @@ Creative Programming for Digital Media & Mobile Apps by University of London
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">43</td>
-			<td rowspan=1 align=center>
-Creative Programming for Digital Media & Mobile Apps by University of London
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/digitalmedia">Creative Programming for Digital Media & Mobile Apps</a></td>
-			<td align="center">Intermediate</td>
-			<td align="center">20</td>
-		</tr>
-		<tr>
-			<td rowspan=5 align="center">44</td>
+			<td rowspan=5 align="center">37</td>
 			<td rowspan=5 align=center>
 Game Design and Development  
 <a href="https://www.coursera.org/specializations/game-development">Specialization</a> by Michigan State University
@@ -3456,7 +3386,7 @@ Game Design and Development
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=6 align="center">45</td>
+			<td rowspan=6 align="center">38</td>
 			<td rowspan=6 align=center>
 Software Product Management  
 <a href="https://www.coursera.org/specializations/product-management">Specialization</a> by University of Alberta
@@ -3492,7 +3422,7 @@ Software Product Management
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">46</td>
+			<td rowspan=5 align="center">39</td>
 			<td rowspan=5 align=center>
 Full Stack Web and Multiplatform Mobile App Development  
 <a href="https://www.coursera.org/specializations/full-stack-mobile-app-development">Specialization</a> by The Hong Kong University of Science and Technology
@@ -3523,7 +3453,7 @@ Full Stack Web and Multiplatform Mobile App Development
 			<td align="center">55</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">47</td>
+			<td rowspan=5 align="center">40</td>
 			<td rowspan=5 align=center>
 Android App Development  
 <a href="https://www.coursera.org/specializations/android-app-development">Specialization</a> by Vanderbilt University
@@ -3554,7 +3484,7 @@ Android App Development
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">48</td>
+			<td rowspan=4 align="center">41</td>
 			<td rowspan=4 align=center>
 Advanced App Development in Android  
 <a href="https://www.coursera.org/specializations/advanced-app-android">Specialization</a> by Imperial College London
@@ -3580,7 +3510,7 @@ Advanced App Development in Android
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">49</td>
+			<td rowspan=4 align="center">42</td>
 			<td rowspan=4 align=center>
 iOS App Development with Swift  
 <a href="https://www.coursera.org/specializations/app-development">Specialization</a> by University of Toronto
@@ -3606,7 +3536,7 @@ iOS App Development with Swift
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=6 align="center">50</td>
+			<td rowspan=6 align="center">43</td>
 			<td rowspan=6 align=center>
 iOS Development for Creative Entrepreneurs  
 <a href="https://www.coursera.org/specializations/ios-development">Specialization</a> by University of California, Irvine
@@ -3642,7 +3572,7 @@ iOS Development for Creative Entrepreneurs
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">51</td>
+			<td rowspan=4 align="center">44</td>
 			<td rowspan=4 align=center>
 Full-Stack Web Development with React  
 <a href="https://www.coursera.org/specializations/full-stack-react">Specialization</a> by The Hong Kong University of Science and Technology
@@ -3668,7 +3598,7 @@ Full-Stack Web Development with React
 			<td align="center">55</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">52</td>
+			<td rowspan=4 align="center">45</td>
 			<td rowspan=4 align=center>
 Web Applications for Everybody  
 <a href="https://www.coursera.org/specializations/web-applications">Specialization</a> by University of Michigan
@@ -3694,12 +3624,12 @@ Web Applications for Everybody
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=6 align="center">53</td>
+			<td rowspan=6 align="center">46</td>
 			<td rowspan=6 align=center>
 Responsive Website Development and Design  
 <a href="https://www.coursera.org/specializations/website-development">Specialization</a> by University of London & Goldsmiths, University of London
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/goldsmiths,%20university%20of%20london.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/goldsmiths%2C%20university%20of%20london.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/website-coding">Responsive Website Basics: Code with HTML, CSS, and JavaScript</a></td>
 			<td align="center">Beginner</td>
