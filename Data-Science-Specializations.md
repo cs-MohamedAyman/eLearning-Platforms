@@ -507,8 +507,8 @@ SQL for Data Science by University of California, Davis
 			<td rowspan=6 align="center">18</td>
 			<td rowspan=6 align=center>
 Big Data  
-<a href="https://www.coursera.org/specializations/big-data">Specialization</a> by University of California San Diego
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/big-data">Specialization</a> by University of California, San Diego
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/big-data-introduction">Introduction to Big Data</a></td>
 			<td align="center">Beginner</td>
