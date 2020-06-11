@@ -5,6 +5,15 @@ Software Engineering Specializations road map for computer science students.
 <table>
 	<thead>
 		<tr>
+			<th>#</th>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>Hours</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
 			<td rowspan=5 align="center">1</td>
 			<td rowspan=5 align=center>
 Java Programming and Software Engineering Fundamentals  
