@@ -523,36 +523,6 @@ VLSI CAD Part I: Logic by University of Illinois at Urbana-Champaign
 		<tr>
 			<td rowspan=1 align="center">38</td>
 			<td rowspan=1 align=center>
-Expanded FPGA Training with NIOS II by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/fpga-training-nios-ii">Expanded FPGA Training with NIOS II</a></td>
-			<td align="center">Intermediate</td>
-			<td align="center">20</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align="center">39</td>
-			<td rowspan=1 align=center>
-Hardware Description Languages for FPGA Design by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/fpga-hardware-description-languages">Hardware Description Languages for FPGA Design</a></td>
-			<td align="center">Intermediate</td>
-			<td align="center">40</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align="center">40</td>
-			<td rowspan=1 align=center>
-Introduction to FPGA Design for Embedded Systems by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-			</td>
-			<td><a href="https://www.coursera.org/learn/intro-fpga-design-embedded-systems">Introduction to FPGA Design for Embedded Systems</a></td>
-			<td align="center">Intermediate</td>
-			<td align="center">20</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align="center">41</td>
-			<td rowspan=1 align=center>
 Logic for Economists by University of Amsterdam
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
 			</td>
@@ -561,7 +531,7 @@ Logic for Economists by University of Amsterdam
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">42</td>
+			<td rowspan=1 align="center">39</td>
 			<td rowspan=1 align=center>
 Learn to Program: Crafting Quality Code by University of Toronto
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20toronto.jpg" width="40%">
@@ -571,7 +541,7 @@ Learn to Program: Crafting Quality Code by University of Toronto
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=3 align="center">43</td>
+			<td rowspan=3 align="center">40</td>
 			<td rowspan=3 align=center>
 Accelerated Computer Science Fundamentals  
 <a href="https://www.coursera.org/specializations/cs-fundamentals">Specialization</a> by University of Illinois at Urbana-Champaign
@@ -592,7 +562,7 @@ Accelerated Computer Science Fundamentals
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=4 align="center">44</td>
+			<td rowspan=4 align="center">41</td>
 			<td rowspan=4 align=center>
 Algorithms  
 <a href="https://www.coursera.org/specializations/algorithms">Specialization</a> by Stanford University
@@ -618,12 +588,11 @@ Algorithms
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=6 align="center">45</td>
+			<td rowspan=6 align="center">42</td>
 			<td rowspan=6 align=center>
 Data Structures and Algorithms  
 <a href="https://www.coursera.org/specializations/data-structures-algorithms">Specialization</a> by University of California San Diego & National Research University Higher School of Economics
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego%20&%20national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
 			</td>
 			<td><a href="https://www.coursera.org/learn/algorithmic-toolbox">Algorithmic Toolbox</a></td>
 			<td align="center">Intermediate</td>
@@ -655,7 +624,7 @@ Data Structures and Algorithms
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">46</td>
+			<td rowspan=1 align="center">43</td>
 			<td rowspan=1 align=center>
 Algorithms, Part I by Princeton University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
@@ -665,7 +634,7 @@ Algorithms, Part I by Princeton University
 			<td align="center">55</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">47</td>
+			<td rowspan=1 align="center">44</td>
 			<td rowspan=1 align=center>
 Algorithms, Part II by Princeton University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
@@ -675,7 +644,7 @@ Algorithms, Part II by Princeton University
 			<td align="center">65</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">48</td>
+			<td rowspan=1 align="center">45</td>
 			<td rowspan=1 align=center>
 Analysis of Algorithms by Princeton University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
@@ -685,7 +654,7 @@ Analysis of Algorithms by Princeton University
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">49</td>
+			<td rowspan=1 align="center">46</td>
 			<td rowspan=1 align=center>
 Geometric Algorithms by EIT Digital
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eit%20digital.jpg" width="40%">
@@ -695,7 +664,7 @@ Geometric Algorithms by EIT Digital
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">50</td>
+			<td rowspan=1 align="center">47</td>
 			<td rowspan=1 align=center>
 Approximation Algorithms by EIT Digital
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eit%20digital.jpg" width="40%">
@@ -705,7 +674,7 @@ Approximation Algorithms by EIT Digital
 			<td align="center">15</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">51</td>
+			<td rowspan=1 align="center">48</td>
 			<td rowspan=1 align=center>
 Computational Geometry by Saint Petersburg State University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="40%">
@@ -715,7 +684,7 @@ Computational Geometry by Saint Petersburg State University
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">52</td>
+			<td rowspan=1 align="center">49</td>
 			<td rowspan=1 align=center>
 The Introduction to Quantum Computing by Saint Petersburg State University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="40%">
@@ -725,7 +694,7 @@ The Introduction to Quantum Computing by Saint Petersburg State University
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align="center">53</td>
+			<td rowspan=1 align="center">50</td>
 			<td rowspan=1 align=center>
 Computer Science: Algorithms, Theory, and Machines by Princeton University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
@@ -735,7 +704,7 @@ Computer Science: Algorithms, Theory, and Machines by Princeton University
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=5 align="center">54</td>
+			<td rowspan=5 align="center">51</td>
 			<td rowspan=5 align=center>
 Methods and Statistics in Social Sciences  
 <a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam
