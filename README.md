@@ -4,6 +4,8 @@ Coursera specializations road map for computer science students.
 ## Computer-Science-Specializations
 Computer Science Specializations road map for computer science students.
 
+<details>
+	<summary>Computer Science Specializations</summary>
 <table>
 	<thead>
 		<tr>
@@ -804,10 +806,13 @@ Methods and Statistics in Social Sciences
 		</tr>
 	</tbody>
 </table>
+</details>
 
 ## Artificial-Intelligence-Specializations
 Artificial Intelligence Specializations road map for computer science students.
 
+<details>
+	<summary>Artificial Intelligence Specializations</summary>
 <table>
 	<thead>
 		<tr>
@@ -1707,10 +1712,13 @@ Advanced Linear Models for Data Science 2: Statistical Linear Models by Johns Ho
 		</tr>
 	</tbody>
 </table>    
+</details>
 
 ## Data-Science-Specializations
 Data Science Specializations road map for computer science students.
 
+<details>
+	<summary>Data Science Specializations</summary>
 <table>
 	<thead>
 		<tr>
@@ -2715,11 +2723,14 @@ IBM AI Enterprise Workflow
 		</tr>
 	</tbody>
 </table>   
+</details>
 
 # Coursera-Specializations
 ## Software-Engineering-Specializations
 Software Engineering Specializations road map for computer science students.
 
+<details>
+	<summary>Software Engineering Specializations</summary>
 <table>
 	<thead>
 		<tr>
@@ -3722,3 +3733,4 @@ Responsive Website Development and Design
 		</tr>
 	</tbody>
 </table>
+</details>
