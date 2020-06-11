@@ -12,7 +12,7 @@ Computer Science Specializations road map for computer science students.
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
-			<th>Hours</th>
+			<th>H</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -816,7 +816,7 @@ Artificial Intelligence Specializations road map for computer science students.
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
-			<th>Hours</th>
+			<th>H</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -1780,7 +1780,7 @@ Data Science Specializations road map for computer science students.
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
-			<th>Hours</th>
+			<th>H</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -2789,7 +2789,7 @@ Software Engineering Specializations road map for computer science students.
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
-			<th>Hours</th>
+			<th>H</th>
 		</tr>
 	</thead>
 	<tbody>
