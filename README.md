@@ -892,7 +892,6 @@ Artificial Intelligence Specializations road map for computer science students, 
 <table>
 	<thead>
 		<tr>
-			<th>#</th>
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
@@ -1052,7 +1051,6 @@ Applied Data Science with Python
 <table>
 	<thead>
 		<tr>
-			<th>#</th>
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
@@ -1133,7 +1131,6 @@ IBM Applied AI Profession
 <table>
 	<thead>
 		<tr>
-			<th>#</th>
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
@@ -1347,7 +1344,6 @@ Healthcare Trends for Business Professionals
 <table>
 	<thead>
 		<tr>
-			<th>#</th>
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
@@ -1400,7 +1396,6 @@ Digital Signal Processing 4: Applications by ecole polytechnique federale de lau
 <table>
 	<thead>
 		<tr>
-			<th>#</th>
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
@@ -1703,7 +1698,6 @@ Advanced Machine Learning
 <table>
 	<thead>
 		<tr>
-			<th>#</th>
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
@@ -1840,7 +1834,6 @@ Advanced Linear Models for Data Science 2: Statistical Linear Models by Johns Ho
 <table>
 	<thead>
 		<tr>
-			<th>#</th>
 			<th width="45%">Specialization</th>
 			<th width="55%">Course Name</th>
 			<th>Level</th>
