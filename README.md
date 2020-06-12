@@ -6,7 +6,10 @@ Computer Science Specializations road map for computer science students.
 
 <details>
 	<summary>Computer Science Specializations</summary>
-	
+
+**SKILLS YOU WILL GAIN:**<br>
+`discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `object-oriented programming (oop)`, `logic design`, `data structure`, `algorithms`, `compiler`
+
 <table>
 	<thead>
 		<tr>
