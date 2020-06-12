@@ -4,11 +4,11 @@ Coursera specializations road map for computer science students.
 ## [Computer-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations.md)
 Computer Science Specializations road map for computer science students.
 
-<details>
-	<summary>Computer Science Specializations</summary>
-
 **SKILLS YOU WILL GAIN:**<br>
 `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `object-oriented programming (oop)`, `logic design`, `data structure`, `algorithms`, `compiler`
+
+<details>
+	<summary>Computer Science Specializations</summary>
 
 <table>
 	<thead>
