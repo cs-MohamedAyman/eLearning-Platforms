@@ -5,7 +5,7 @@ Coursera specializations road map for computer science students.
 Computer Science Specializations road map for computer science students.
 
 **SKILLS YOU WILL GAIN:**<br>
-`discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `object-oriented programming (oop)`, `logic design`, `data structure`, `algorithms`, `compiler`
+`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `object-oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture and organization`
 
 <details>
 	<summary>Computer Science Specializations</summary>
