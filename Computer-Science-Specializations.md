@@ -529,6 +529,15 @@ VLSI CAD Part I: Logic by University of Illinois at Urbana-Champaign
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
+VLSI CAD Part II: Layout by University of Illinois at Urbana-Champaign
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/vlsi-cad-layout">VLSI CAD Part II: Layout</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
 Logic for Economists by University of Amsterdam
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
 				</td>
