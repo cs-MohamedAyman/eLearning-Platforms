@@ -5,7 +5,7 @@ Coursera specializations road map for computer science students.
 Computer Science Specializations road map for computer science students.
 
 **SKILLS YOU WILL GAIN:**<br>
-`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `object-oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture and organization`
+`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object-oriented programming (oop)`, `python object-oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture and organization`
 
 <details>
 	<summary>Computer Science Specializations</summary>
@@ -747,7 +747,7 @@ Methods and Statistics in Social Sciences
 Artificial Intelligence Specializations road map for computer science students.
 
 **SKILLS YOU WILL GAIN:**<br>
-`artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`, 
+`artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
 <details>
 	<summary>Artificial Intelligence Specializations</summary>
@@ -1656,6 +1656,9 @@ Advanced Linear Models for Data Science 2: Statistical Linear Models by Johns Ho
 
 ## [Data-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations.md)
 Data Science Specializations road map for computer science students.
+
+**SKILLS YOU WILL GAIN:**<br>
+`data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
 
 <details>
 	<summary>Data Science Specializations</summary>
@@ -2763,9 +2766,6 @@ IBM AI Enterprise Workflow
 		</tr>
 	</tbody>
 </table>   
-
-**SKILLS YOU WILL GAIN:**<br>
-`bayesian inference`, `binary classification`, `business process`, `data validation`, `normal distribution`, `concatenation`, `poisson distribution`, `relational database`, `statistical regression`, `statistical model`, `data wrangling`, `data quality`, `deep learning`, `nosql`, `scikit-learn`, `financial data analysis`, `simulation`, `microsoft excel macro`, `pivot chart`, `presentation design`, `team management`, `data integration`, `json`, `big data products`, `analysis of variance (anova)`, `confidence interval`, `python libraries`, `relational algebra`, `presentation skills`, `chart`, `statistical inference methods`, `bayesian linear regression`, `a/b testing`, `team building`, `dashboard (business)`, `machine learning (ml) algorithms`, `business analysis`, `long short-term memory (istm)`, `mysql`, `data processing`, `extraction, transformation and loading (etl)`, `sas language`, `mathematical optimization`, `matplotlib`, `storyboarding`, `financial analysis`, `spreadsheet`, `interactive visualization`, `project`, `management`, `entity`, `expected return`, `arrays`, `visual analytics`, `interpretation`, `interaction (statistics)`, `text mining`, `recommender systems`, `chi-squared (chi-2) distribution`, `natural language toolkit (nltk)`, `generalized linear model`, `data-informed decision-making`, `data pre-processing`, `presentation`, `data warehouse`, `consolization`, `materialized view`, `log–log plot`, `graphs`, `problem solving`, `microsoft excel vba`, `formulate a scientific hypothesis`, `information engineering`, `splunk`, `statistical analysis`, `sqlite`, `apache hadoop`, `functional programming`, `data modeling`, `database (db) design`, `functional design`, `tableau software`, `model selection`, `mongodb`, `correlation and dependence`, `regression model`, `survival analysis`, `scala programming`, `streams`, `statistical thinking`, `data warehousing`, `data parallelism`, `visualization (computer graphics)`, `cloudera`, `computer programming`, `reactive programming`, `lookup table`, `business analytics`, `random forest`, `business intelligence`, `bayesian statistics`, `parallel algorithm`, `tensorflow`, `web scraping`, `mapreduce`, `artificial intelligence (ai)`, `parallel computing`, `cluster analysis`, `regular expression (regex)`, `numpy`, `cloud computing`, `debugging`, `predictive analytics`, `pivot table`, `pandas`, `statistical inference`, `big data`, `relational database management system (rdbms)`, `cloud databases`, `bigquery`, `data virtualization`, `predictive modelling`, `database (dbms)`, `microsoft excel`, `google cloud platform`, `logistic regression`, `data manipulation`, `data management`, `data model`, `ipython`, `github`, `data science`, `sql`, `data visualization (dataviz)`, `apache spark`, `statistical hypothesis testing`, `python programming`, `regression analysis`, `machine learning`, `statistics`, `linear regression`, `data cleansing`, `r programming`, `rstudio`, `data analysis`
 
 </details>
 
