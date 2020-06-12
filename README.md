@@ -3,18 +3,6 @@ Coursera specializations road map for computer science students.
 
 ## Computer-Science-Specializations
 Computer Science Specializations road map for computer science students, which including the following main topics:
-* Introduction to Computer Science
-* C/C++ Programming Language and Object Oriented
-* Python Programming Language and Object Oriented
-* Mathematics and Discrete Mathematics
-* Probability and Statistics
-* Logic Design
-* Data Structures and Algorithms
-* Operating Systems and Parallel Processing and Distributed Systems
-* Theory of Computations and Computer Architecture and Organization
-
-**SKILLS YOU WILL GAIN:**<br>
-`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
 
 <details>
 	<summary>Introduction to Computer Science Specializations</summary>
@@ -881,6 +869,9 @@ Computer Architecture by Princeton University
 		</tbody>
 	</table>
 </details>
+
+**SKILLS YOU WILL GAIN:**<br>
+`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
 
 ## [Artificial-Intelligence-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations.md)
 Artificial Intelligence Specializations road map for computer science students.
