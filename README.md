@@ -1,7 +1,7 @@
 # Coursera-Specializations
 Coursera specializations road map for computer science students.
 
-## Computer-Science-Specializations
+## 1. Computer-Science-Specializations
 Computer Science Specializations road map for computer science students, which including the following main topics:
 
 <details>
@@ -887,7 +887,7 @@ Computer Architecture by Princeton University
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
 
-## Artificial-Intelligence-Specializations
+## 2. Artificial-Intelligence-Specializations
 Artificial Intelligence Specializations road map for computer science students, which including the following main topics:
 
 <details>
@@ -1896,7 +1896,7 @@ IBM AI Enterprise Workflow
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
-## Data-Science-Specializations
+## 3. Data-Science-Specializations
 Data Science Specializations road map for computer science students.
 
 <details>
@@ -2310,10 +2310,10 @@ Healthcare Trends for Business Professionals
 			</tr>
 	</tbody>
 </table>   
+</details>
 <details>
 	<summary>Business Intelligence Specializations</summary>
 	
-</details>
 <table>
 	<thead>
 		<tr>
@@ -2541,10 +2541,10 @@ Data Visualization
 			</tr>
 	</tbody>
 </table>   
+</details>
 <details>
 	<summary>Data Science Specializations</summary>
 	
-</details>
 <table>
 	<thead>
 		<tr>
@@ -2831,10 +2831,10 @@ Data Science at Scale
 			</tr>
 	</tbody>
 </table>   
+</details>
 <details>
 	<summary>Database Systems Specializations</summary>
 	
-</details>
 <table>
 	<thead>
 		<tr>
@@ -2966,10 +2966,10 @@ Database systems
 			</tr>
 	</tbody>
 </table>   
+</details>
 <details>
 	<summary>Big Data Specializations</summary>
 	
-</details>
 <table>
 	<thead>
 		<tr>
@@ -3106,10 +3106,10 @@ Big Data for Data Engineers
 			</tr>
 	</tbody>
 </table>   
+</details>
 <details>
 	<summary>Data Engineering Specializations</summary>
 	
-</details>
 <table>
 	<thead>
 		<tr>
@@ -3272,7 +3272,7 @@ Advanced Data Science with IBM
 **SKILLS YOU WILL GAIN:**<br>
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
 
-## Software-Engineering-Specializations
+## 4. Software-Engineering-Specializations
 Software Engineering Specializations road map for computer science students.
 
 <details>
