@@ -7,7 +7,7 @@ Computer Science Specializations road map for computer science students, which i
 <details>
 	<summary>Introduction to Computer Science Specializations</summary>
 
-	<table>
+<table>
 		<thead>
 			<tr>
 				<th width="45%">Specialization</th>
@@ -38,12 +38,12 @@ Introduction to Computer Science and Programming
 				<td align="center">45</td>
 			</tr>
 		</tbody>
-	</table>
+</table>
 </details>
 <details>
 	<summary>C/C++ Programming Language and Object Oriented Specializations</summary>
 
-	<table>
+<table>
 		<thead>
 			<tr>
 				<th width="45%">Specialization</th>
@@ -115,12 +115,12 @@ C++ For C Programmers, Part B by University of California, Santa Cruz
 				<td align="center">20</td>
 			</tr>
 		</tbody>
-	</table>
+</table>
 </details>
 <details>
 	<summary>Python Programming Language and Object Oriented Specializations</summary>
 
-	<table>
+<table>
 		<thead>
 			<tr>
 				<th width="45%">Specialization</th>
@@ -186,12 +186,12 @@ Python 3 Programming
 				<td align="center">25</td>
 			</tr>
 		</tbody>
-	</table>
+</table>
 </details>
 <details>
 	<summary>Mathematics and Discrete Mathematics Specializations</summary>
 
-	<table>
+<table>
 		<thead>
 			<tr>
 				<th width="45%">Specialization</th>
@@ -376,12 +376,12 @@ Data Science Math Skills by Duke University
 				<td align="center">15</td>
 			</tr>
 		</tbody>
-	</table>
+</table>
 </details>
 <details>
 	<summary>Probability and Statistics Specializations</summary>
 
-	<table>
+<table>
 		<thead>
 			<tr>
 				<th width="45%">Specialization</th>
@@ -476,12 +476,12 @@ Bayesian Statistics: Techniques and Models by University of California, Santa Cr
 				<td align="center">30</td>
 			</tr>
 		</tbody>
-	</table>
+</table>
 </details>
 <details>
 	<summary>Logic Design Specializations</summary>
 
-	<table>
+<table>
 		<thead>
 			<tr>
 				<th width="45%">Specialization</th>
@@ -529,6 +529,15 @@ VLSI CAD Part I: Logic by University of Illinois at Urbana-Champaign
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
+VLSI CAD Part II: Layout by University of Illinois at Urbana-Champaign
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/vlsi-cad-layout">VLSI CAD Part II: Layout</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
 Logic for Economists by University of Amsterdam
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
 				</td>
@@ -537,12 +546,12 @@ Logic for Economists by University of Amsterdam
 				<td align="center">10</td>
 			</tr>
 		</tbody>
-	</table>
+</table>
 </details>
 <details>
 	<summary>Data Structures and Algorithms Specializations</summary>
 
-	<table>
+<table>
 		<thead>
 			<tr>
 				<th width="45%">Specialization</th>
@@ -675,7 +684,8 @@ Algorithms
 				<td rowspan=6 align=center>
 Data Structures and Algorithms  
 <a href="https://www.coursera.org/specializations/data-structures-algorithms">Specialization</a> by University of California San Diego & National Research University Higher School of Economics
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego%20&%20national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/algorithmic-toolbox">Algorithmic Toolbox</a></td>
 				<td align="center">Intermediate</td>
@@ -779,12 +789,12 @@ Computer Science: Algorithms, Theory, and Machines by Princeton University
 				<td align="center">20</td>
 			</tr>
 		</tbody>
-	</table>
+</table>
 </details>
 <details>
 	<summary>Operating Systems and Parallel Processing and Distributed Systems Specializations</summary>
 
-	<table>
+<table>
 		<thead>
 			<tr>
 				<th width="45%">Specialization</th>
@@ -842,12 +852,12 @@ Fundamentals of Parallelism on Intel Architecture by Intel
 				<td align="center">15</td>
 			</tr>
 		</tbody>
-	</table>
+</table>
 </details>
 <details>
 	<summary>Theory of Computations and Computer Architecture and Organization Specializations</summary>
 
-	<table>
+<table>
 		<thead>
 			<tr>
 				<th width="45%">Specialization</th>
@@ -867,17 +877,14 @@ Computer Architecture by Princeton University
 				<td align="center">55</td>
 			</tr>
 		</tbody>
-	</table>
+</table>
 </details>
 
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
 
-## [Artificial-Intelligence-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations.md)
-Artificial Intelligence Specializations road map for computer science students.
-
-**SKILLS YOU WILL GAIN:**<br>
-`artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
+## Artificial-Intelligence-Specializations
+Artificial Intelligence Specializations road map for computer science students, which including the following main topics:
 
 <details>
 	<summary>Artificial Intelligence Specializations</summary>
@@ -1781,6 +1788,9 @@ Advanced Linear Models for Data Science 2: Statistical Linear Models by Johns Ho
 		</tr>
 	</tbody>
 </table>    
+
+**SKILLS YOU WILL GAIN:**<br>
+`artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
 </details>
 
