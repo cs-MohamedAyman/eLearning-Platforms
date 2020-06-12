@@ -737,6 +737,10 @@ Methods and Statistics in Social Sciences
 		</tr>
 	</tbody>
 </table>
+
+**SKILLS YOU WILL GAIN:**<br>
+`series expansions`, `conditional probability`, `differential calculus`, `algebra`, `statistical inference`, `calculus`, `derivative`, `probability theory`, `multivariable calculus`, `linear algebra`, `logic gate`, `normal distribution`, `standard template library`, `power series`, `bayesian probability`, `confidence interval`, `differential equations`, `graph algorithms`, `differential (mathematics)`, `compiler`, `c++ programming`, `sorting algorithm`, `bayes' theorem`, `boolean algebra`, `engineering mathematics`, `statistics`, `bayesian inference`, `programming language concepts`, `bayesian statistics`, `digital design`, `trees (data structures)`, `spanning tree`, `greedy algorithm`, `statistical hypothesis testing`, `divide and conquer algorithms`, `c programming`, `randomized algorithm`, `np-completeness`, `programming principles`, `recursion`, `mathematical induction`, `software testing`, `graphs`, `list`, `logic programming`, `mathematical logic`, `priority queue`, `probability`, `stack (abstract data type)`, `tree (data structure)`, `random variable`, `cryptography`, `problem solving`, `number theory`, `binary search tree`, `discrete mathematics`, `proof theory`, `computer programming`, `combinatorics`, `object-oriented programming (oop)`, `dynamic programming`, `data structure`, `graph theory`, `python programming`, `hash table`, `algorithms`
+
 </details>
 
 ## [Artificial-Intelligence-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations.md)
