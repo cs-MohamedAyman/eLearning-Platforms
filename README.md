@@ -3336,7 +3336,37 @@ Object Oriented Programming in Java by University of California, San Diego
 				<td align="center">Intermediate</td>
 				<td align="center">40</td>
 			</tr>
-	</tbody>
+			<tr>
+				<td rowspan=5 align=center>
+Object Oriented Java Programming: Data Structures and Beyond  
+<a href="https://www.coursera.org/specializations/java-object-oriented">Specialization</a> by University of California, San Diego
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/object-oriented-java">Object Oriented Programming in Java</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-structures-optimizing-performance">Data Structures and Performance</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/advanced-data-structures">Advanced Data Structures in Java</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/cs-tech-interview">Mastering the Software Engineering Interview</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/intermediate-programming-capstone">Capstone: Analyzing (Social) Network Data</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+		</tbody>
 </table>
 </details>
 <details>
