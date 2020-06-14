@@ -282,15 +282,6 @@ Introduction to numerical analysis by National Research University Higher School
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Basic Algebra by National Autonomous University of Mexico
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20autonomous%20university%20of%20mexico.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/algebra-basica">Basic Algebra</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
 Introduction to Calculus by The University of Sydney
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg" width="40%">
 				</td>
