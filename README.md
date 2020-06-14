@@ -1500,7 +1500,7 @@ AI for Medicine
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-IBM AI Engineering Profession 
+IBM AI Engineering Professional 
 <a href="https://www.coursera.org/professional-certificates/ai-engineer">Specialization</a> by IBM
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
