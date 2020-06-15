@@ -1,4 +1,5 @@
 # Coursera-Specializations
+<img align="right" width="140" height="70" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 Coursera specializations road map for computer science students.
 
 ## 1. Computer-Science-Specializations
