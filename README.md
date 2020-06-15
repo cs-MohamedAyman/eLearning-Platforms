@@ -1,4 +1,5 @@
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
+
 # Coursera-Specializations
 Coursera specializations road map for computer science students.
 
