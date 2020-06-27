@@ -1077,7 +1077,7 @@ AI Foundations for Everyone
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-IBM Applied AI Profession 
+IBM Applied AI Professional Certificate
 <a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Specialization</a> by IBM
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
@@ -1502,7 +1502,7 @@ AI for Medicine
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-IBM AI Engineering Professional 
+IBM AI Engineering Professional Certificate
 <a href="https://www.coursera.org/professional-certificates/ai-engineer">Specialization</a> by IBM
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
@@ -2614,7 +2614,7 @@ Data Science: Foundations using R
 			</tr>
 			<tr>
 				<td rowspan=9 align=center>
-IBM Data Science Profession 
+IBM Data Science Professional Certificate
 <a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Specialization</a> by IBM
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
@@ -3145,7 +3145,7 @@ Data Engineering, Big Data, and Machine Learning on GCP
 			</tr>
 			<tr>
 				<td rowspan=5 align=center>
-Data Engineering with GCP Profession 
+Data Engineering with GCP Professional Certificate
 <a href="https://www.coursera.org/professional-certificates/gcp-data-engineering">Specialization</a> by Google Cloud
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 				</td>
@@ -3427,7 +3427,7 @@ Secure Software Design
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-Google IT Automation with Python Profession 
+Google IT Automation with Python Professional Certificate
 <a href="https://www.coursera.org/professional-certificates/google-it-automation">Specialization</a> by Google
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google.jpg" width="40%">
 				</td>
