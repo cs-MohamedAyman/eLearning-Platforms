@@ -1732,6 +1732,7 @@ Stochastic processes by National Research University Higher School of Economics
 Reinforcement Learning  
 <a href="https://www.coursera.org/specializations/reinforcement-learning">Specialization</a> by University of Alberta
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20alberta.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning">Fundamentals of Reinforcement Learning</a></td>
 				<td align="center">Intermediate</td>
