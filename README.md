@@ -1730,7 +1730,7 @@ Stochastic processes by National Research University Higher School of Economics
 			<tr>
 				<td rowspan=4 align=center>
 Reinforcement Learning  
-<a href="https://www.coursera.org/specializations/reinforcement-learning">Specialization</a> by University of Alberta
+<a href="https://www.coursera.org/specializations/reinforcement-learning">Specialization</a> by University of Alberta & Alberta Machine Intelligence Institute
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20alberta.jpg" width="40%">
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
 				</td>
