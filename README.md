@@ -1681,6 +1681,66 @@ Advanced Machine Learning
 </table>    
 </details>
 <details>
+	<summary>Natural Language Processing Specializations</summary>
+	
+<table>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+				<td rowspan=1 align=center>
+Clinical Natural Language Processing by University of Colorado Boulder
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/clinical-natural-language-processing">Clinical Natural Language Processing</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=6 align=center>
+IBM AI Enterprise Workflow  
+<a href="https://www.coursera.org/specializations/ibm-ai-workflow">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-business-priorities-data-ingestion">AI Workflow: Business Priorities and Data Ingestion</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-data-analysis-hypothesis-testing">AI Workflow: Data Analysis and Hypothesis Testing</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-feature-engineering-bias-detection">AI Workflow: Feature Engineering and Bias Detection</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-vr-nlp">AI Workflow: Machine Learning, Visual Recognition and NLP</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-model-deployment">AI Workflow: Enterprise Model Deployment</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-ai-production">AI Workflow: AI in Production</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">5</td>
+			</tr>
+		</tbody>
+</table>    
+</details>
+<details>
 	<summary>Reinforcement Learning Specializations</summary>
 	
 <table>
@@ -1815,66 +1875,6 @@ Advanced Linear Models for Data Science 2: Statistical Linear Models by Johns Ho
 				<td align="center">5</td>
 			</tr>
 	</tbody>
-</table>    
-</details>
-<details>
-	<summary>Natural Language Processing Specializations</summary>
-	
-<table>
-	<thead>
-		<tr>
-			<th width="45%">Specialization</th>
-			<th width="55%">Course Name</th>
-			<th>Level</th>
-			<th>H</th>
-		</tr>
-	</thead>
-	<tbody>
-			<tr>
-				<td rowspan=1 align=center>
-Clinical Natural Language Processing by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/clinical-natural-language-processing">Clinical Natural Language Processing</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=6 align=center>
-IBM AI Enterprise Workflow  
-<a href="https://www.coursera.org/specializations/ibm-ai-workflow">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-business-priorities-data-ingestion">AI Workflow: Business Priorities and Data Ingestion</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-data-analysis-hypothesis-testing">AI Workflow: Data Analysis and Hypothesis Testing</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-feature-engineering-bias-detection">AI Workflow: Feature Engineering and Bias Detection</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-vr-nlp">AI Workflow: Machine Learning, Visual Recognition and NLP</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-model-deployment">AI Workflow: Enterprise Model Deployment</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ibm-ai-workflow-ai-production">AI Workflow: AI in Production</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">5</td>
-			</tr>
-		</tbody>
 </table>    
 </details>
 
