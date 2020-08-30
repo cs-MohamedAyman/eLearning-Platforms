@@ -1694,6 +1694,31 @@ Advanced Machine Learning
 	</thead>
 	<tbody>
 			<tr>
+				<td rowspan=4 align=center>
+Natural Language Processing  
+<a href="https://www.coursera.org/specializations/natural-language-processing">Specialization</a> by deeplearning.ai
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/classification-vector-spaces-in-nlp">Natural Language Processing with Classification and Vector Spaces</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/probabilistic-models-in-nlp">Natural Language Processing with Probabilistic Models</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/sequence-models-in-nlp">Natural Language Processing with Sequence Models</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/attention-models-in-nlp">Natural Language Processing with Attention Models</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
 				<td rowspan=1 align=center>
 Clinical Natural Language Processing by University of Colorado Boulder
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
