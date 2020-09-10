@@ -1056,6 +1056,36 @@ AI For Everyone by deeplearning.ai
 				<td align="center">10</td>
 			</tr>
 			<tr>
+				<td rowspan=5 align=center>
+AI in Healthcare  
+<a href="https://www.coursera.org/specializations/ai-healthcare">Specialization</a> by Stanford University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/intro-to-healthcare">Introduction to Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/introduction-clinical-data">Introduction to Clinical Data</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/fundamental-machine-learning-healthcare">Fundamentals of Machine Learning for Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/evaluations-ai-applications-healthcare">Evaluations of AI Applications in Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ai-in-healthcare-capstone">AI in Healthcare Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">0</td>
+			</tr>
+			<tr>
 				<td rowspan=3 align=center>
 AI Foundations for Everyone  
 <a href="https://www.coursera.org/specializations/ai-foundations-for-everyone">Specialization</a> by IBM
@@ -2163,6 +2193,31 @@ Machine Learning
 				<td><a href="https://www.coursera.org/learn/ml-clustering-and-retrieval">Machine Learning: Clustering & Retrieval</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+IBM Introduction to Machine Learning  
+<a href="https://www.coursera.org/specializations/ibm-intro-machine-learning">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/supervised-learning-regression">Supervised Learning: Regression</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/supervised-learning-classification">Supervised Learning: Classification</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ibm-unsupervised-learning">Unsupervised Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
 			</tr>
 			<tr>
 				<td rowspan=5 align=center>
@@ -3601,6 +3656,31 @@ Web Design for Everybody: Basics of Web Development & Coding
 				<td><a href="https://www.coursera.org/learn/web-design-project">Web Design for Everybody Capstone</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Django for Everybody  
+<a href="https://www.coursera.org/specializations/django">Specialization</a> by University of Michigan
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/django-database-web-apps">Web Application Technologies and Django</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/django-build-web-apps">Building Web Applications in Django</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/django-features-libraries">Django Features and Libraries</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/django-javascript-jquery-json">Using JavaScript, JQuery, and JSON in Django</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
 			</tr>
 			<tr>
 				<td rowspan=5 align=center>
