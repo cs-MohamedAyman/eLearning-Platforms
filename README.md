@@ -1746,7 +1746,7 @@ Natural Language Processing
 			<tr>
 				<td><a href="https://www.coursera.org/learn/attention-models-in-nlp">Natural Language Processing with Attention Models</a></td>
 				<td align="center">Intermediate</td>
-				<td align="center">20</td>
+				<td align="center">25</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
