@@ -771,7 +771,7 @@ Analysis of Algorithms by Princeton University
 </table>
 </details>
 <details>
-	<summary>Operating Systems and Parallel Processing and Distributed Systems Specializations</summary>
+	<summary>Operating Systems and Parallel Computing Specializations</summary>
 
 <table>
 		<thead>
@@ -887,6 +887,45 @@ Artificial Intelligence Specializations road map for computer science students, 
 		</tr>
 	</thead>
 	<tbody>
+			<tr>
+				<td rowspan=1 align=center>
+Data Science Math Skills by Duke University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Data Analysis and Presentation Skills: the PwC Approach  
+<a href="https://www.coursera.org/specializations/pwc-analytics">Specialization</a> by PwC
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/pwc.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/decision-making">Data-driven Decision Making</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/excel-analysis">Problem Solving with Excel</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/advanced-excel">Data Visualization with Advanced Excel</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/powerpoint-presentations">Effective Business Presentations with Powerpoint</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-analysis-project-pwc">Data Analysis and Presentation Skills: the PwC Approach Final Project</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
 			<tr>
 				<td rowspan=1 align=center>
 Data Processing Using Python by Nanjing University
@@ -1191,6 +1230,31 @@ Machine Learning
 				<td align="center">15</td>
 			</tr>
 			<tr>
+				<td rowspan=4 align=center>
+IBM Introduction to Machine Learning  
+<a href="https://www.coursera.org/specializations/ibm-intro-machine-learning">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/supervised-learning-regression">Supervised Learning: Regression</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/supervised-learning-classification">Supervised Learning: Classification</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ibm-unsupervised-learning">Unsupervised Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
 				<td rowspan=5 align=center>
 Machine Learning with TensorFlow on Google Cloud Platform  
 <a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud
@@ -1357,7 +1421,7 @@ Healthcare Trends for Business Professionals
 </table>    
 </details>
 <details>
-	<summary>Digital Signals Processing Specializations</summary>
+	<summary>Computer Vision Specializations</summary>
 	
 <table>
 	<thead>
@@ -1405,11 +1469,81 @@ Digital Signal Processing 4: Applications by ecole polytechnique federale de lau
 				<td align="center">Intermediate</td>
 				<td align="center">15</td>
 			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Vector Calculus for Engineers by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus for Engineers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to Calculus by The University of Sydney
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-to-calculus">Introduction to Calculus</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">55</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Fundamentals of Digital Image and Video Processing by Northwestern University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northwestern%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/digital">Fundamentals of Digital Image and Video Processing</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Barcelona
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20pompeu%20fabra%20of%20barcelona.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/audio-signal-processing">Audio Signal Processing for Music Applications</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">55</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital by Duke University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/image-processing">Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Computer Vision  
+<a href="https://www.coursera.org/specializations/computervision">Specialization</a> by University at Buffalo
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20at%20buffalo.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/computer-vision-basics">Computer Vision Basics</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/computervision-imageprocessing">Image Processing, Features & Segmentation</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/stereovision-motion-tracking">Stereo Vision, Dense Motion & Tracking</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/visual-recognition">Visual Recognition & Understanding</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
 	</tbody>
 </table>    
 </details>
 <details>
-	<summary>Deep Learning and Computer Vision Specializations</summary>
+	<summary>Deep Learning Specializations</summary>
 	
 <table>
 	<thead>
@@ -1562,58 +1696,6 @@ IBM AI Engineering Professional Certificate
 			</tr>
 			<tr>
 				<td><a href="https://www.coursera.org/learn/ai-deep-learning-capstone">AI Capstone Project with Deep Learning</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Fundamentals of Digital Image and Video Processing by Northwestern University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northwestern%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/digital">Fundamentals of Digital Image and Video Processing</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">35</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Barcelona
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20pompeu%20fabra%20of%20barcelona.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/audio-signal-processing">Audio Signal Processing for Music Applications</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">55</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital by Duke University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/image-processing">Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Computer Vision  
-<a href="https://www.coursera.org/specializations/computervision">Specialization</a> by University at Buffalo
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20at%20buffalo.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/computer-vision-basics">Computer Vision Basics</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/computervision-imageprocessing">Image Processing, Features & Segmentation</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/stereovision-motion-tracking">Stereo Vision, Dense Motion & Tracking</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/visual-recognition">Visual Recognition & Understanding</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">10</td>
 			</tr>
@@ -4139,7 +4221,7 @@ Unity Certified 3D Artist
 </table>
 </details>
 <details>
-	<summary>User Interface and User Experience UI/UX Specializations</summary>
+	<summary>User Interface and User Experience (UI/UX) Specializations</summary>
 	
 <table>
 	<thead>
