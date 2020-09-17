@@ -1443,8 +1443,9 @@ Process Mining: Data science in Action by Eindhoven University of Technology
 	</thead>
 	<tbody>
 			<tr>
-				<td rowspan=1 align=center>
-Digital Signal Processing 1: Basic Concepts and Algorithms by ecole polytechnique federale de lausanne
+				<td rowspan=4 align=center>
+Digital Signal Processing Specialization
+<a href="https://www.coursera.org/specializations/digital-signal-processing">Specialization</a> by ecole polytechnique federale de lausanne
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/dsp1">Digital Signal Processing 1: Basic Concepts and Algorithms</a></td>
@@ -1452,28 +1453,16 @@ Digital Signal Processing 1: Basic Concepts and Algorithms by ecole polytechniqu
 				<td align="center">30</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Digital Signal Processing 2: Filtering by ecole polytechnique federale de lausanne
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
-				</td>
 				<td><a href="https://www.coursera.org/learn/dsp2">Digital Signal Processing 2: Filtering</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Digital Signal Processing 3: Analog vs Digital by ecole polytechnique federale de lausanne
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
-				</td>
 				<td><a href="https://www.coursera.org/learn/dsp3">Digital Signal Processing 3: Analog vs Digital</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Digital Signal Processing 4: Applications by ecole polytechnique federale de lausanne
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
-				</td>
 				<td><a href="https://www.coursera.org/learn/dsp4">Digital Signal Processing 4: Applications</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">15</td>
