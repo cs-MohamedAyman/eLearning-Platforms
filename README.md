@@ -191,6 +191,80 @@ Python 3 Programming
 				<td align="center">Beginner</td>
 				<td align="center">25</td>
 			</tr>
+			<tr>
+				<td rowspan=7 align=center>
+Fundamentals of Computing  
+<a href="https://www.coursera.org/specializations/computer-fundamentals">Specialization</a> by Rice University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/interactive-python-1">An Introduction to Interactive Programming in Python (Part 1)</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/interactive-python-2">An Introduction to Interactive Programming in Python (Part 2)</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/principles-of-computing-1">Principles of Computing (Part 1)</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/principles-of-computing-2">Principles of Computing (Part 2)</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/algorithmic-thinking-1">Algorithmic Thinking (Part 1)</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/algorithmic-thinking-2">Algorithmic Thinking (Part 2)</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/fundamentals-of-computing-capstone">The Fundamentals of Computing Capstone Exam</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Learn to Program: Crafting Quality Code by University of Toronto
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20toronto.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/program-code">Learn to Program: Crafting Quality Code</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Computational Thinking with Beginning C Programming  
+<a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-analysis-representation-selection-iteration">Data Analysis and Representation, Selection and Iteration</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/abstraction-problem-decomposition-functions">Abstraction, Problem Decomposition, and Functions</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/simulation-algorithm-analysis-pointers">Simulation, Algorithm Analysis, and Pointers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
 		</tbody>
 </table>
 </details>
@@ -549,80 +623,6 @@ Logic for Economists by University of Amsterdam
 			</tr>
 		</thead>
 		<tbody>
-			<tr>
-				<td rowspan=1 align=center>
-Learn to Program: Crafting Quality Code by University of Toronto
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20toronto.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/program-code">Learn to Program: Crafting Quality Code</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Computational Thinking with Beginning C Programming  
-<a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-analysis-representation-selection-iteration">Data Analysis and Representation, Selection and Iteration</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/abstraction-problem-decomposition-functions">Abstraction, Problem Decomposition, and Functions</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/simulation-algorithm-analysis-pointers">Simulation, Algorithm Analysis, and Pointers</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=7 align=center>
-Fundamentals of Computing  
-<a href="https://www.coursera.org/specializations/computer-fundamentals">Specialization</a> by Rice University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/interactive-python-1">An Introduction to Interactive Programming in Python (Part 1)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/interactive-python-2">An Introduction to Interactive Programming in Python (Part 2)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/principles-of-computing-1">Principles of Computing (Part 1)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/principles-of-computing-2">Principles of Computing (Part 2)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/algorithmic-thinking-1">Algorithmic Thinking (Part 1)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/algorithmic-thinking-2">Algorithmic Thinking (Part 2)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/fundamentals-of-computing-capstone">The Fundamentals of Computing Capstone Exam</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">5</td>
-			</tr>
 			<tr>
 				<td rowspan=3 align=center>
 Accelerated Computer Science Fundamentals  
