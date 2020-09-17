@@ -100,6 +100,31 @@ C++ For C Programmers, Part B by University of California, Santa Cruz
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Computational Thinking with Beginning C Programming  
+<a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-analysis-representation-selection-iteration">Data Analysis and Representation, Selection and Iteration</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/abstraction-problem-decomposition-functions">Abstraction, Problem Decomposition, and Functions</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/simulation-algorithm-analysis-pointers">Simulation, Algorithm Analysis, and Pointers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
 		</tbody>
 </table>
 </details>
@@ -238,31 +263,6 @@ Learn to Program: Crafting Quality Code by University of Toronto
 				</td>
 				<td><a href="https://www.coursera.org/learn/program-code">Learn to Program: Crafting Quality Code</a></td>
 				<td align="center">Intermediate</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Computational Thinking with Beginning C Programming  
-<a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-analysis-representation-selection-iteration">Data Analysis and Representation, Selection and Iteration</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/abstraction-problem-decomposition-functions">Abstraction, Problem Decomposition, and Functions</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/simulation-algorithm-analysis-pointers">Simulation, Algorithm Analysis, and Pointers</a></td>
-				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 		</tbody>
@@ -1179,6 +1179,49 @@ IBM Applied AI Professional Certificate
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Deep Learning for Business by Yonsei University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/yonsei%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/deep-learning-business">Deep Learning for Business</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Digital Transformation by University of Virginia
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/bcg-uva-darden-digital-transformation">Digital Transformation</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Healthcare Trends for Business Professionals  
+<a href="https://www.coursera.org/specializations/healthcare-trends-business-professionals">Specialization</a> by Northeastern University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northeastern%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/healthcareconsumerism">Healthcare Consumerism and Implication for Care Delivery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/healthcare-payment-models">Future Healthcare Payment Models</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/quality-of-healthcare">Evaluating the Quality of Healthcare Delivery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/artificialintelligence-in-healthcare">Business Application of Machine Learning and Artificial Intelligence in Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
 	</tbody>
 </table>    
 </details>
@@ -1383,40 +1426,6 @@ Process Mining: Data science in Action by Eindhoven University of Technology
 				<td align="center">Intermediate</td>
 				<td align="center">25</td>
 			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Digital Transformation by University of Virginia
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/bcg-uva-darden-digital-transformation">Digital Transformation</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Healthcare Trends for Business Professionals  
-<a href="https://www.coursera.org/specializations/healthcare-trends-business-professionals">Specialization</a> by Northeastern University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northeastern%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/healthcareconsumerism">Healthcare Consumerism and Implication for Care Delivery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/healthcare-payment-models">Future Healthcare Payment Models</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/quality-of-healthcare">Evaluating the Quality of Healthcare Delivery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/artificialintelligence-in-healthcare">Business Application of Machine Learning and Artificial Intelligence in Healthcare</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
 	</tbody>
 </table>    
 </details>
@@ -1555,15 +1564,6 @@ Computer Vision
 		</tr>
 	</thead>
 	<tbody>
-			<tr>
-				<td rowspan=1 align=center>
-Deep Learning for Business by Yonsei University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/yonsei%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/deep-learning-business">Deep Learning for Business</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
 			<tr>
 				<td rowspan=5 align=center>
 Deep Learning  
@@ -2429,40 +2429,6 @@ Process Mining: Data science in Action by Eindhoven University of Technology
 				<td><a href="https://www.coursera.org/learn/process-mining">Process Mining: Data science in Action</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Digital Transformation by University of Virginia
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/bcg-uva-darden-digital-transformation">Digital Transformation</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Healthcare Trends for Business Professionals  
-<a href="https://www.coursera.org/specializations/healthcare-trends-business-professionals">Specialization</a> by Northeastern University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northeastern%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/healthcareconsumerism">Healthcare Consumerism and Implication for Care Delivery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/healthcare-payment-models">Future Healthcare Payment Models</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/quality-of-healthcare">Evaluating the Quality of Healthcare Delivery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/artificialintelligence-in-healthcare">Business Application of Machine Learning and Artificial Intelligence in Healthcare</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
 			</tr>
 	</tbody>
 </table>   
@@ -3625,6 +3591,15 @@ Google IT Automation with Python Professional Certificate
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
+Version Control with Git by Atlassian
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/atlassian.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
 Introduction to Systems Engineering by UNSW Sydney (The University of New South Wales)
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/unsw%20sydney%20(the%20university%20of%20new%20south%20wales).jpg" width="40%">
 				</td>
@@ -4360,7 +4335,7 @@ The Unix Workbench by Johns Hopkins University
 </table>
 </details>
 <details>
-	<summary>Continuous delivery and DevOps Specializations</summary>
+	<summary>Continuous Delivery and DevOps Specializations</summary>
 	
 <table>
 	<thead>
@@ -4420,15 +4395,6 @@ Architecting with Google Kubernetes Engine
 			<tr>
 				<td><a href="https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production">Architecting with Google Kubernetes Engine: Production</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Version Control with Git by Atlassian
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/atlassian.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a></td>
-				<td align="center">Intermediate</td>
 				<td align="center">15</td>
 			</tr>
 			<tr>
