@@ -1487,6 +1487,15 @@ Introduction to Calculus by The University of Sydney
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
+Matrix Algebra for Engineers by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/matrix-algebra-engineers">Matrix Algebra for Engineers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
 Fundamentals of Digital Image and Video Processing by Northwestern University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northwestern%20university.jpg" width="40%">
 				</td>
