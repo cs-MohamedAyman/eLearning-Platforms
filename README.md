@@ -3486,6 +3486,26 @@ Object Oriented Java Programming: Data Structures and Beyond
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
+			<tr>
+				<td rowspan=3 align=center>
+Parallel, Concurrent, and Distributed Programming in Java  
+<a href="https://www.coursera.org/specializations/pcdp">Specialization</a> by Rice University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/parallel-programming-in-java">Parallel Programming in Java</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/concurrent-programming-in-java">Concurrent Programming in Java</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/distributed-programming-in-java">Distributed Programming in Java</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
 		</tbody>
 </table>
 </details>
