@@ -43,7 +43,7 @@ and recommend better treatments. This Specialization will give you practical exp
 
 ## There are 3 Courses in this Specialization
 
-## Course 1: AI for Medical Diagnosis `25H`
+## Course 1: [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) `25H`
 
 ### Week 1: Disease detection with computer vision
 - Welcome to the AI for Medicine Specialization
@@ -68,7 +68,7 @@ and recommend better treatments. This Specialization will give you practical exp
 - Programming: 3D Image Segmentation
 - Summary of AI for Medical Diagnosis
 
-## Course 2: AI for Medical Prognosis `25H`
+## Course 2: [AI for Medical Prognosis]((https://www.coursera.org/learn/ai-for-medical-prognosis)) `25H`
 
 ### Week 1: Linear prognostic models
 - Introduction to Prognostic models
@@ -102,7 +102,7 @@ and recommend better treatments. This Specialization will give you practical exp
 - Assessment: Cox Proportional Hazards and Random Survival Forests
 - Congratulations!
 
-## Course 3: AI For Medical Treatment `25H`
+## Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) `25H`
 
 ### Week 1: Treatment Effect Estimation
 - Intro
