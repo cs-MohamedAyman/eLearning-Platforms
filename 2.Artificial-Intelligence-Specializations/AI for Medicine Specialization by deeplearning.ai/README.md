@@ -68,7 +68,7 @@ and recommend better treatments. This Specialization will give you practical exp
 - Programming: 3D Image Segmentation
 - Summary of AI for Medical Diagnosis
 
-## Course 2: [AI for Medical Prognosis]((https://www.coursera.org/learn/ai-for-medical-prognosis)) `25H`
+## Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) `25H`
 
 ### Week 1: Linear prognostic models
 - Introduction to Prognostic models
