@@ -43,9 +43,9 @@ and recommend better treatments. This Specialization will give you practical exp
 
 ## There are 3 Courses in this Specialization
 
-### Course 1: AI for Medical Diagnosis `25H`
+## Course 1: AI for Medical Diagnosis `25H`
 
-#### Week 1: Disease detection with computer vision
+### Week 1: Disease detection with computer vision
 - Welcome to the AI for Medicine Specialization
 - Applications of computer vision to medical diagnosis
 - How to handle class imbalance and small training sets
@@ -53,14 +53,14 @@ and recommend better treatments. This Specialization will give you practical exp
 - Quiz week 1
 - Practice multi-class disease classification on Chest X-rays
 
-#### Week 2: Evaluating models
+### Week 2: Evaluating models
 - Key evaluation metrics
 - How does varying the threshold affect evaluation metrics?
 - Interpreting confidence intervals correctly
 - Quiz week 2
 - Programming: Evaluation metrics
 
-#### Week 3: Image segmentation on MRI images
+### Week 3: Image segmentation on MRI images
 - Explore MRI data
 - Image segmentation
 - Practical considerations
@@ -68,9 +68,9 @@ and recommend better treatments. This Specialization will give you practical exp
 - Programming: 3D Image Segmentation
 - Summary of AI for Medical Diagnosis
 
-### Course 2: AI for Medical Prognosis `25H`
+## Course 2: AI for Medical Prognosis `25H`
 
-#### Week 1: Linear prognostic models
+### Week 1: Linear prognostic models
 - Introduction to Prognostic models
 - What is the risk of getting a disease?
 - Prognostic models in medical practice
@@ -79,21 +79,21 @@ and recommend better treatments. This Specialization will give you practical exp
 - Quiz week 1
 - Assessment: Build a Linear Risk model
 
-#### Week 2: Prognosis with Tree-based models
+### Week 2: Prognosis with Tree-based models
 - Tree-based models
 - Identifying missing data
 - Using imputation to handle missing data
 - Quiz week 2
 - Assessment: Tree based models, missing data, and imputation
 
-#### Week 3: Survival Models and Time
+### Week 3: Survival Models and Time
 - Survival estimates
 - Time to event data
 - Estimate survival with censored data
 - Quiz week 3
 - Assessment: Survival Estimates that Varies with Time
 
-#### Week 4: Build a risk model using linear and tree-based models
+### Week 4: Build a risk model using linear and tree-based models
 - Survival and hazard functions
 - Customizing risk models to individual patients
 - Non-linear risk models with survival trees
@@ -102,9 +102,9 @@ and recommend better treatments. This Specialization will give you practical exp
 - Assessment: Cox Proportional Hazards and Random Survival Forests
 - Congratulations!
 
-### Course 3: AI For Medical Treatment `25H`
+## Course 3: AI For Medical Treatment `25H`
 
-#### Week 1: Treatment Effect Estimation
+### Week 1: Treatment Effect Estimation
 - Intro
 - Randomized Control Trials
 - Average Treatment Effect
@@ -112,14 +112,14 @@ and recommend better treatments. This Specialization will give you practical exp
 - Quiz: Measuring Treatment Effects
 - Assignment: Treatment Effect Estimation
 
-#### Week 2: Medical Question Answering
+### Week 2: Medical Question Answering
 - Question Answering
 - Automatic Labeling
 - Evaluate Automatic Labeling
 - Quiz: Information Extraction with NLP
 - Assignment: Natural Language Entity Extraction
 
-#### Week 3: ML Interpretation
+### Week 3: ML Interpretation
 - Feature Importance
 - Individual Feature Importance
 - Interpreting Deep Learning Models
