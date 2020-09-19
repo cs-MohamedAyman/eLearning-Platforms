@@ -1073,159 +1073,6 @@ Applied Data Science with Python
 </table>    
 </details>
 <details>
-	<summary>Artificial Intelligence Specializations</summary>
-	
-<table>
-	<thead>
-		<tr>
-			<th width="45%">Specialization</th>
-			<th width="55%">Course Name</th>
-			<th>Level</th>
-			<th>H</th>
-		</tr>
-	</thead>
-	<tbody>
-			<tr>
-				<td rowspan=1 align=center>
-AI For Everyone by deeplearning.ai
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/ai-for-everyone">AI For Everyone</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=5 align=center>
-AI in Healthcare  
-<a href="https://www.coursera.org/specializations/ai-healthcare">Specialization</a> by Stanford University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/intro-to-healthcare">Introduction to Healthcare</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/introduction-clinical-data">Introduction to Clinical Data</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/fundamental-machine-learning-healthcare">Fundamentals of Machine Learning for Healthcare</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/evaluations-ai-applications-healthcare">Evaluations of AI Applications in Healthcare</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ai-in-healthcare-capstone">AI in Healthcare Capstone</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">0</td>
-			</tr>
-			<tr>
-				<td rowspan=3 align=center>
-AI Foundations for Everyone  
-<a href="https://www.coursera.org/specializations/ai-foundations-for-everyone">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ai-with-ibm-watson">Getting Started with AI using IBM Watson</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/building-ai-powered-chatbots">Building AI Powered Chatbots Without Programming</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=6 align=center>
-IBM Applied AI Professional Certificate
-<a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ai-with-ibm-watson">Getting Started with AI using IBM Watson</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/building-ai-powered-chatbots">Building AI Powered Chatbots Without Programming</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science and AI</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/building-ai-applications">Building AI Applications with Watson APIs</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/introduction-computer-vision-watson-opencv">Introduction to Computer Vision with Watson and OpenCV</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Deep Learning for Business by Yonsei University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/yonsei%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/deep-learning-business">Deep Learning for Business</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Digital Transformation by University of Virginia
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/bcg-uva-darden-digital-transformation">Digital Transformation</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Healthcare Trends for Business Professionals  
-<a href="https://www.coursera.org/specializations/healthcare-trends-business-professionals">Specialization</a> by Northeastern University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northeastern%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/healthcareconsumerism">Healthcare Consumerism and Implication for Care Delivery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/healthcare-payment-models">Future Healthcare Payment Models</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/quality-of-healthcare">Evaluating the Quality of Healthcare Delivery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/artificialintelligence-in-healthcare">Business Application of Machine Learning and Artificial Intelligence in Healthcare</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-	</tbody>
-</table>    
-</details>
-<details>
 	<summary>Machine Learning and Data Mining Specializations</summary>
 	
 <table>
@@ -1425,6 +1272,159 @@ Process Mining: Data science in Action by Eindhoven University of Technology
 				<td><a href="https://www.coursera.org/learn/process-mining">Process Mining: Data science in Action</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">25</td>
+			</tr>
+	</tbody>
+</table>    
+</details>
+<details>
+	<summary>Artificial Intelligence Specializations</summary>
+	
+<table>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+				<td rowspan=1 align=center>
+AI For Everyone by deeplearning.ai
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/ai-for-everyone">AI For Everyone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+AI in Healthcare  
+<a href="https://www.coursera.org/specializations/ai-healthcare">Specialization</a> by Stanford University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/intro-to-healthcare">Introduction to Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/introduction-clinical-data">Introduction to Clinical Data</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/fundamental-machine-learning-healthcare">Fundamentals of Machine Learning for Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/evaluations-ai-applications-healthcare">Evaluations of AI Applications in Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ai-in-healthcare-capstone">AI in Healthcare Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">0</td>
+			</tr>
+			<tr>
+				<td rowspan=3 align=center>
+AI Foundations for Everyone  
+<a href="https://www.coursera.org/specializations/ai-foundations-for-everyone">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ai-with-ibm-watson">Getting Started with AI using IBM Watson</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/building-ai-powered-chatbots">Building AI Powered Chatbots Without Programming</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=6 align=center>
+IBM Applied AI Professional Certificate
+<a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ai-with-ibm-watson">Getting Started with AI using IBM Watson</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/building-ai-powered-chatbots">Building AI Powered Chatbots Without Programming</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science and AI</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/building-ai-applications">Building AI Applications with Watson APIs</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/introduction-computer-vision-watson-opencv">Introduction to Computer Vision with Watson and OpenCV</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Deep Learning for Business by Yonsei University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/yonsei%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/deep-learning-business">Deep Learning for Business</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Digital Transformation by University of Virginia
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/bcg-uva-darden-digital-transformation">Digital Transformation</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Healthcare Trends for Business Professionals  
+<a href="https://www.coursera.org/specializations/healthcare-trends-business-professionals">Specialization</a> by Northeastern University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northeastern%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/healthcareconsumerism">Healthcare Consumerism and Implication for Care Delivery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/healthcare-payment-models">Future Healthcare Payment Models</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/quality-of-healthcare">Evaluating the Quality of Healthcare Delivery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/artificialintelligence-in-healthcare">Business Application of Machine Learning and Artificial Intelligence in Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
 			</tr>
 	</tbody>
 </table>    
