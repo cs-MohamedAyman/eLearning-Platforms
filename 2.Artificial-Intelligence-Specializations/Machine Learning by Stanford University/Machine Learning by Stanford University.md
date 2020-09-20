@@ -1,4 +1,4 @@
-# [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning) `60H`
+# [Machine Learning](https://www.coursera.org/learn/machine-learning) `60H`
 
 ## SKILLS YOU WILL GAIN
 `logistic regression` `artificial neural network` `machine learning (ml) algorithms` `machine learning`
