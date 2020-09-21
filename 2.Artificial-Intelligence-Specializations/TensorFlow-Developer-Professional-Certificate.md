@@ -1,3 +1,5 @@
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg">
+
 # [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) `100H`
 
 ## WHAT YOU WILL LEARN
