@@ -1,3 +1,5 @@
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg">
+
 # [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) `60H`
 
 ## About this Course
