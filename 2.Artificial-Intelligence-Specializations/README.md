@@ -1142,4 +1142,3 @@ Advanced Linear Models for Data Science 2: Statistical Linear Models by Johns Ho
 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
-
