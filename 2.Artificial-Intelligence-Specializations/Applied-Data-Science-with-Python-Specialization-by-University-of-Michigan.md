@@ -1,3 +1,5 @@
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg">
+
 # [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) `150H`
 
 ## WHAT YOU WILL LEARN
