@@ -1,3 +1,5 @@
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg">
+
 # [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) `60H`
 
 ## WHAT YOU WILL LEARN
