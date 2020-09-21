@@ -1,4 +1,4 @@
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg">
 
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) `100H`
 
