@@ -1,3 +1,5 @@
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/yonsei%20university.jpg">
+
 # [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business) `10H`
 
 ## SKILLS YOU WILL GAIN
