@@ -1,4 +1,3 @@
-
 ## 1. Computer-Science-Specializations
 Computer Science Specializations road map for computer science students, which including the following main topics:
 
