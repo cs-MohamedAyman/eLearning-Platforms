@@ -1,3 +1,5 @@
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg">
+
 # [Vector Calculus for Engineers](https://www.coursera.org/learn/vector-calculus-engineers) `20H`
 
 ## About this Course
