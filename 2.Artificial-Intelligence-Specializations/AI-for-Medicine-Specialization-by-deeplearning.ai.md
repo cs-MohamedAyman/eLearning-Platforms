@@ -1,3 +1,5 @@
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg">
+
 # [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) `80H`
 
 ## WHAT YOU WILL LEARN
