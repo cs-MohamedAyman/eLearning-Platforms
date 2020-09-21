@@ -1,3 +1,5 @@
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg">
+
 # [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python) `60H`
 
 ## WHAT YOU WILL LEARN
