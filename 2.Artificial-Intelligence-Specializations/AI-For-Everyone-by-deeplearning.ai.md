@@ -1,3 +1,5 @@
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg">
+
 # [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) `10H`
 
 ## SKILLS YOU WILL GAIN
