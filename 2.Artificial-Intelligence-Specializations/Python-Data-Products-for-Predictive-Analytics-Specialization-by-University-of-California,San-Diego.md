@@ -1,3 +1,5 @@
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%2C%20san%20diego.jpg">
+
 # [Python Data Products for Predictive Analytics Specialization](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics) `40H`
 
 ## WHAT YOU WILL LEARN
