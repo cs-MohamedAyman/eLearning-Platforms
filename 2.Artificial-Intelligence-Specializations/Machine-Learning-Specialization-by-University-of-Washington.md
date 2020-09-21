@@ -1,3 +1,5 @@
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg">
+
 # [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) `100H`
 
 ## SKILLS YOU WILL GAIN
