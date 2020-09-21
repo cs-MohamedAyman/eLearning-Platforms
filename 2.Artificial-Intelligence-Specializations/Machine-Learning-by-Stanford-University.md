@@ -1,3 +1,5 @@
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg">
+
 # [Machine Learning](https://www.coursera.org/learn/machine-learning) `60H`
 
 ## SKILLS YOU WILL GAIN
