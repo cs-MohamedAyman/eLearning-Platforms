@@ -1,6 +1,6 @@
 # [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) `100H`
 
-WHAT YOU WILL LEARN
+## WHAT YOU WILL LEARN
 - Best practices for TensorFlow, a popular open-source machine learning framework to train a neural network for a computer vision applications.
 - Handle real-world image data and explore strategies to prevent overfitting, including augmentation and dropout.
 - Build natural language processing systems using TensorFlow.
