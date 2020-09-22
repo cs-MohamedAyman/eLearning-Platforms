@@ -937,7 +937,7 @@ Data Science at Scale
 </table>   
 </details>
 <details>
-	<summary>Database Systems Specializations</summary>
+	<summary>Database Systems and Data Warehousing Specializations</summary>
 	
 <table>
 	<thead>
