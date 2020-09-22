@@ -1430,7 +1430,7 @@ Healthcare Trends for Business Professionals
 </table>    
 </details>
 <details>
-	<summary>Computer Vision Specializations</summary>
+	<summary>Computer Vision and Image Processing Specializations</summary>
 	
 <table>
 	<thead>
