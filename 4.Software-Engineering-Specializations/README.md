@@ -1,3 +1,5 @@
+<img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
+
 ## 4. Software-Engineering-Specializations
 Software Engineering Specializations road map for computer science students.
 
