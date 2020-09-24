@@ -1444,7 +1444,7 @@ Healthcare Trends for Business Professionals
 	<tbody>
 			<tr>
 				<td rowspan=4 align=center>
-Digital Signal Processing Specialization
+Digital Signal Processing
 <a href="https://www.coursera.org/specializations/digital-signal-processing">Specialization</a> by ecole polytechnique federale de lausanne
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
 				</td>
