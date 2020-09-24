@@ -260,7 +260,7 @@ This week, you will fit a linear model, and a tree-based risk model on survival 
 - Assessment: Cox Proportional Hazards and Random Survival Forests
   - Programming Assignment: Cox Proportional Hazards and Random Survival Forests
 - Congratulations!
-  - Video: LectureCongratulations!
+  - Video: Congratulations!
   - Reading: Congratulations on finishing course 2!
   - Reading: Acknowledgements
   - Reading: Citations
@@ -268,24 +268,78 @@ This week, you will fit a linear model, and a tree-based risk model on survival 
 ## Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) `25H`
 
 ### Week 1: Treatment Effect Estimation
+In this week, you will learn: How to analyze data from a randomized control trial, interpreting multivariate models, evaluating treatment effect models, and interpreting ML models for treatment effect estimation.
 - Intro
+  - Video: Intro to Course 3 with Andrew and Pranav
+  - Video: About Course 3
+  - Reading: Connect with your mentors and fellow learners on Slack
 - Randomized Control Trials
+  - Video: Absolute risk reduction
+  - Video: Randomized control trials
+  - Lab: Lecture notebook: Pandas operations on Medical Data
 - Average Treatment Effect
+  - Video: Causal inference
+  - Video: Average treatment effect
+  - Video: Conditional average treatment effect
+  - Video: T-Learner
+  - Video: S-Learner
+  - Lab: Lecture notebook: Model Training/Tuning Basics with Sklearn
 - Individualized Treatment Effect
+  - Video: Evaluate individualized treatment effect
+  - Video: C-for-benefit
+  - Video: C-for-benefit calculation
+  - Lab: Lecture notebook: Logistic Regression Model Interpretation
 - Quiz: Measuring Treatment Effects
+  - Practice Quiz: Quiz: Measuring Treatment Effects
 - Assignment: Treatment Effect Estimation
+  - Reading: About the automatic grader
+  - Reading: How to refresh your workspace
+  - Programming Assignment: Estimating Treatment Effect Using Machine Learning
 
 ### Week 2: Medical Question Answering
+In this week, you will learn how to extract disease labels from clinical reports, and also question answering with BERT.
 - Question Answering
+  - Video: Medical question answering
+  - Video: Handling words with multiple meanings
+  - Video: Define the answer in a text
+  - Lab: Lecture notebook: Cleaning Text
 - Automatic Labeling
+  - Video: Automatic label extraction for medical imaging
+  - Video: Synonyms for labels
+  - Video: Is-a relationships for labels
+  - Video: Presence or absence of a disease
+  - Lab: Lecture notebook: BioC format and the NegBio Library
 - Evaluate Automatic Labeling
+  - Video: Evaluating label extraction
+  - Video: Precision and recall and F1 score
+  - Video: Evaluating on multiple disease categories
+  - Lab: Lecture notebook: Preparing Input for Text Classification
 - Quiz: Information Extraction with NLP
+  - Practice Quiz: Quiz: Information Extraction with NLP
 - Assignment: Natural Language Entity Extraction
+  - Programming Assignment: Natural Language Entity Extraction
 
 ### Week 3: ML Interpretation
+In this week, you will learn how to interpret deep learning models, and also feature importance in machine learning.
 - Feature Importance
+  - Video: Drop column method
+  - Video: Permutation method
+  - Lab: Lecture notebook: Permutation method
 - Individual Feature Importance
+  - Video: Individual feature importance
+  - Video: Shapley values
+  - Video: Combining importances
+  - Video: Shapley values for all patients
 - Interpreting Deep Learning Models
+  - Video: Interpreting CNN models
+  - Lab: Lecture notebook: Gradcam (part 1)
+  - Video: Localization maps
+  - Video: Heat maps
+  - Lab: Lecture notebook: GradCam (Part 2)
 - Quiz: ML Interpretation
+  - Practice Quiz: ML Interpretation
 - Assignment: ML Interpretation
+  - Programming Assignment: ML Interpretation
 - Acknowledgments
+  - Reading: Acknowledgements
+  - Reading: Citations
