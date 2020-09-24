@@ -48,27 +48,91 @@ and recommend better treatments. This Specialization will give you practical exp
 ## Course 1: [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) `25H`
 
 ### Week 1: Disease detection with computer vision
+By the end of this week, you will practice classifying diseases on chest x-rays using a neural network.
 - Welcome to the AI for Medicine Specialization
+  - Video: Welcome to the Specialization with Andrew and Pranav
+  - Video: Demo
+  - Video: Recommended prerequisites
+  - Reading: Connect with your mentors and fellow learners on Slack
 - Applications of computer vision to medical diagnosis
+  - Video: Medical Image Diagnosis
+  - Video: Eye Disease and Cancer Diagnosis
+  - Lab: Data Exploration & Image Pre-Processing
 - How to handle class imbalance and small training sets
+  - Video: Building and Training a Model for Medical Diagnosis
+  - Video: Training, prediction, and loss
+  - Video: Image Classification and Class Imbalance
+  - Video: Binary Cross Entropy Loss Function
+  - Video: Impact of Class Imbalance on Loss Calculation
+  - Lab: Counting labels and weighted loss function
+  - Video: Resampling to Achieve Balanced Classes
+  - Video: Multi-Task
+  - Video: Multi-task Loss, Dataset size, and CNN Architectures
+  - Lab: Densenet
+  - Video: Working with a Small Training Set
+  - Video: Generating More Samples
 - Check how well your model performs
+  - Video: Model Testing
+  - Video: Splitting data by patient
+  - Lab: Patient Overlap - practice
+  - Video: Sampling
+  - Video: Ground Truth and Consensus Voting
+  - Video: Additional Medical Testing
 - Quiz week 1
+  - Practice Quiz: Week 1 Quiz: Disease detection with computer vision
 - Practice multi-class disease classification on Chest X-rays
+  - Reading: About the automatic grader
+  - Programming Assignment: Chest X-Ray Medical Diagnosis with Deep Learning
+  - Reading: How to refresh your workspace
 
 ### Week 2: Evaluating models
+By the end of this week, you will practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases.
 - Key evaluation metrics
+  - Video: Sensitivity, Specificity, and Evaluation Metrics
+  - Video: Accuracy in terms of conditional probability
+  - Video: Sensitivity, Specificity and Prevalence
+  - Video: PPV, NPV
+  - Video: Confusion matrix
+  - Reading: Calculating PPV in terms of sensitivity, specificity and prevalence
 - How does varying the threshold affect evaluation metrics?
+  - Video: ROC curve and Threshold
+  - Video: Varying the threshold
 - Interpreting confidence intervals correctly
+  - Video: Sampling from the Total Population
+  - Video: Confidence intervals
+  - Video: Confidence interval
 - Quiz week 2
+  - Practice Quiz: Week 2 Quiz: Evaluating machine learning models
 - Programming: Evaluation metrics
+  - Programming Assignment: Evaluation of Diagnostic Models
 
 ### Week 3: Image segmentation on MRI images
+By the end of this week, you will prepare 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images.
 - Explore MRI data
+  - Video: Medical Image Segmentation
+  - Lab: Explore MRI data
 - Image segmentation
+  - Video: MRI Data and Image Registration
+  - Video: Segmentation
+  - Lab: Get a sub section
+  - Reading: Convolutional Neural networks
+  - Video: 2D U-Net and 3D U-Net
+  - Reading: More about U-Net (Optional)
+  - Lab: Implement U-Net
+  - Video: Data augmentation for segmentation
+  - Video: Loss function for image segmentation
 - Practical considerations
+  - Video: Different Populations and Diagnostic Technology
+  - Video: External validation
+  - Video: Measuring Patient outcomes
 - Quiz week 3
+  - Practice Quiz: Week 3 Quiz: Segmentation on medical images
 - Programming: 3D Image Segmentation
+  - Programming Assignment: Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
 - Summary of AI for Medical Diagnosis
+  - Video: Congratulations!
+  - Reading: Acknowledgements
+  - Reading: Citations
 
 ## Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) `25H`
 
