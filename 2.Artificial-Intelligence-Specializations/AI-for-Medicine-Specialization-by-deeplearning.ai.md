@@ -137,36 +137,133 @@ By the end of this week, you will prepare 3D MRI data, implement an appropriate 
 ## Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) `25H`
 
 ### Week 1: Linear prognostic models
+Build a linear prognostic model using logistic regression, then evaluate the model by calculating the concordance index. Finally, improve the model by adding feature interactions.
 - Introduction to Prognostic models
+  - Video: Course 2 Intro with Andrew and Pranav
+  - Video: Prerequisites and Learning Outcomes
+  - Reading: Connect with your mentors and fellow learners on Slack!
 - What is the risk of getting a disease?
+  - Video: Medical Prognosis
+  - Lab: Create a linear model
 - Prognostic models in medical practice
+  - Video: Examples of Prognostic Tasks
+  - Video: Atrial fibrillation
+  - Video: Liver Disease Mortality
+  - Video: Risk of heart disease
+  - Lab: Risk Scores, Pandas and Numpy
 - Representing feature interactions
+  - Video: Risk Score Computation
+  - Lab: Combine Features
 - Evaluating prognostic models
+  - Video: Evaluating Prognostic Models
+  - Video: Concordant Pairs, Risk Ties, Permissible Pairs
+  - Video: C-Index
+  - Lab: Concordance index
 - Quiz week 1
+  - Practice Quiz: Week 1 Quiz
 - Assessment: Build a Linear Risk model
+  - Reading: Please save your work regularly
+  - Reading: About the automatic grader
+  - Programming Assignment: Build and Evaluate a Linear Risk model
+  - Reading: How to refresh your workspace
 
 ### Week 2: Prognosis with Tree-based models
-- Tree-based models
+Tune decision tree and random forest models to predict the risk of a disease. Evaluate the model performance using the c-index. Identify missing data and how it may alter the data distribution, then use imputation to fill in missing data, in order to improve model performance.
+- Tree-based models/
+  - Video: Decision trees for prognosis
+  - Video: Decision trees
+  - Video: Dividing the input space
+  - Video: Building a decision tree
+  - Video: How to fix overfitting
+  - Lab: Decision trees
 - Identifying missing data
+  - Video: Survival Data
+  - Video: Different distributions
+  - Video: Missing Data example
+  - Video: Missing completely at random
+  - Video: Missing at random
+  - Video: Missing not at random
+  - Lab: Missing data and applying a mask
 - Using imputation to handle missing data
+  - Video: Imputation
+  - Video: Mean Imputation
+  - Video: Regression Imputation
+  - Video: Calculate Imputed Values
+  - Lab: Imputation
 - Quiz week 2
+  - Practice Quiz: Week 2 Quiz
 - Assessment: Tree based models, missing data, and imputation
+  - Programming Assignment: Risk Models Using Tree-based Models
 
 ### Week 3: Survival Models and Time
+This week, you will work with data where the time that a disease occurs is a variable. Instead of predicting just the 10-year risk of a disease, you will build more flexible models that can predict the 5 year, 7 year, or 10 year risk.
 - Survival estimates
+  - Video: Survival models
+  - Video: Survival Function
+  - Video: Valid survival functions
 - Time to event data
+  - Video: Collecting Time Data
+  - Video: When a stroke is not observed
+  - Video: Heart Attack Data
+  - Video: Right censoring
 - Estimate survival with censored data
+  - Video: Estimating the survival function
+  - Video: Died immediately, or never die
+  - Video: Somewhere in-between
+  - Lab: Counting patients
+  - Video: Using censored data
+  - Video: Chain rule of conditional probability
+  - Video: Deriving Survival
+  - Video: Calculating Probabilities from the Data
+  - Video: Comparing Estimates
+  - Video: Kaplan Meier Estimate
+  - Lab: Kaplan Meier
 - Quiz week 3
+  - Practice Quiz: Week 3 Quiz
 - Assessment: Survival Estimates that Varies with Time
+  - Programming Assignment: Survival Estimates that Varies with Time
 
 ### Week 4: Build a risk model using linear and tree-based models
+This week, you will fit a linear model, and a tree-based risk model on survival data, to customize a risk score for each patient, based on their health profile. The risk score represents the patient’s relative risk of getting a particular disease. You will then evaluate each model’s performance by implementing and using a concordance index that incorporates time to event and censored data.
 - Survival and hazard functions
+  - Video: Hazard Functions
+  - Video: Hazard
+  - Video: Survival to hazard
+  - Video: Cumulative Hazard
+  - Lab: Categorical variables
 - Customizing risk models to individual patients
+  - Video: Individualized Predictions
+  - Video: Relative risk
+  - Video: Ranking patients by risk
+  - Video: Individual vs. baseline hazard
+  - Video: Smoker vs. non-smoker
+  - Video: Effect of age on hazard
+  - Video: Risk factor increase per unit increase in a variable
+  - Video: Risk Factor Increase or Decrease
+  - Lab: Hazard function
 - Non-linear risk models with survival trees
+  - Video: Intro to Survival Trees
+  - Video: Survival tree
+  - Video: Nelson Aalen estimator
+  - Video: Comparing risks of patients
+  - Video: Mortality score
 - Evaluate survival models
+  - Video: Evaluation of Survival Model
+  - Video: Permissible and Non-Permissible Pairs
+  - Video: Possible Permissible Pairs
+  - Video: Example of Harrell's C-Index
+  - Video: Example of Concordant Pairs
+  - Video: Week 4 Summary
+  - Lab: Permissible pairs
 - Quiz week 4
+  - Practice Quiz: Week 4 Quiz
 - Assessment: Cox Proportional Hazards and Random Survival Forests
+  - Programming Assignment: Cox Proportional Hazards and Random Survival Forests
 - Congratulations!
+  - Video: LectureCongratulations!
+  - Reading: Congratulations on finishing course 2!
+  - Reading: Acknowledgements
+  - Reading: Citations
 
 ## Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) `25H`
 
