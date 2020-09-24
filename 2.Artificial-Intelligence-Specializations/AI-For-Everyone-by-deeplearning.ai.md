@@ -20,12 +20,51 @@
 
 ### Week 1: What is AI?
 - What is AI?
+  - Video: Week 1 Introduction
+  - Video: Machine Learning
+  - Video: What is data?
+  - Video: The terminology of AI
+  - Video: What makes an AI company?
+  - Video: What machine learning can and cannot do
+  - Video: More examples of what machine learning can and cannot do
+  - Video: Non-technical explanation of deep learning (Part 1, optional)
+  - Video: Non-technical explanation of deep learning (Part 2, optional)
+  - Quiz: Week 1 Quiz
 
 ### Week 2: Building AI Projects
 - Building AI Projects
+  - Video: Week 2 Introduction
+  - Video: Workflow of a machine learning project
+  - Video: Workflow of a data science project
+  - Video: Every job function needs to learn how to use data
+  - Video: How to choose an AI project (Part 1)
+  - Video: How to choose an AI project (Part 2)
+  - Video: Working with an AI team
+  - Video: Technical tools for AI teams (optional)
+  - Quiz: Week 2 Quiz
 
 ### Week 3: Building AI In Your Company
 - Building AI in Your Company
+  - Video: Week 3 Introduction
+  - Video: Case study: Smart speaker
+  - Video: Case study: Self-driving car
+  - Video: Example roles of an AI team
+  - Video: AI Transformation Playbook (Part 1)
+  - Video: AI Transformation Playbook (Part 2)
+  - Video: AI pitfalls to avoid
+  - Video: Taking your first step in AI
+  - Video: Survey of major AI application areas (optional)
+  - Video: Survey of major AI techniques (optional)
+  - Quiz: Week 3 Quiz
 
 ### Week 4: AI and Society
 - AI and Society
+  - Video: Week 4 Introduction
+  - Video: A realistic view of AI
+  - Video: Discrimination / Bias
+  - Video: Adversarial attacks on AI
+  - Video: Adverse uses of AI
+  - Video: AI and developing economies
+  - Video: AI and jobs
+  - Video: Conclusion
+  - Quiz: Week 4 Quiz
