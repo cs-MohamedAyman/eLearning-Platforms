@@ -48,7 +48,7 @@ and recommend better treatments. This Specialization will give you practical exp
 ## Course 1: [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis) `25H`
 
 ### Week 1: Disease detection with computer vision
-By the end of this week, you will practice classifying diseases on chest x-rays using a neural network.
+```By the end of this week, you will practice classifying diseases on chest x-rays using a neural network.```
 - Welcome to the AI for Medicine Specialization
   - Video: Welcome to the Specialization with Andrew and Pranav
   - Video: Demo
@@ -86,7 +86,7 @@ By the end of this week, you will practice classifying diseases on chest x-rays 
   - Reading: How to refresh your workspace
 
 ### Week 2: Evaluating models
-By the end of this week, you will practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases.
+```By the end of this week, you will practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases.```
 - Key evaluation metrics
   - Video: Sensitivity, Specificity, and Evaluation Metrics
   - Video: Accuracy in terms of conditional probability
@@ -107,7 +107,7 @@ By the end of this week, you will practice implementing standard evaluation metr
   - Programming Assignment: Evaluation of Diagnostic Models
 
 ### Week 3: Image segmentation on MRI images
-By the end of this week, you will prepare 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images.
+```By the end of this week, you will prepare 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images.```
 - Explore MRI data
   - Video: Medical Image Segmentation
   - Lab: Explore MRI data
@@ -137,7 +137,7 @@ By the end of this week, you will prepare 3D MRI data, implement an appropriate 
 ## Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) `25H`
 
 ### Week 1: Linear prognostic models
-Build a linear prognostic model using logistic regression, then evaluate the model by calculating the concordance index. Finally, improve the model by adding feature interactions.
+```Build a linear prognostic model using logistic regression, then evaluate the model by calculating the concordance index. Finally, improve the model by adding feature interactions.```
 - Introduction to Prognostic models
   - Video: Course 2 Intro with Andrew and Pranav
   - Video: Prerequisites and Learning Outcomes
@@ -168,7 +168,7 @@ Build a linear prognostic model using logistic regression, then evaluate the mod
   - Reading: How to refresh your workspace
 
 ### Week 2: Prognosis with Tree-based models
-Tune decision tree and random forest models to predict the risk of a disease. Evaluate the model performance using the c-index. Identify missing data and how it may alter the data distribution, then use imputation to fill in missing data, in order to improve model performance.
+```Tune decision tree and random forest models to predict the risk of a disease. Evaluate the model performance using the c-index. Identify missing data and how it may alter the data distribution, then use imputation to fill in missing data, in order to improve model performance.```
 - Tree-based models/
   - Video: Decision trees for prognosis
   - Video: Decision trees
@@ -196,7 +196,7 @@ Tune decision tree and random forest models to predict the risk of a disease. Ev
   - Programming Assignment: Risk Models Using Tree-based Models
 
 ### Week 3: Survival Models and Time
-This week, you will work with data where the time that a disease occurs is a variable. Instead of predicting just the 10-year risk of a disease, you will build more flexible models that can predict the 5 year, 7 year, or 10 year risk.
+```This week, you will work with data where the time that a disease occurs is a variable. Instead of predicting just the 10-year risk of a disease, you will build more flexible models that can predict the 5 year, 7 year, or 10 year risk.```
 - Survival estimates
   - Video: Survival models
   - Video: Survival Function
@@ -224,7 +224,7 @@ This week, you will work with data where the time that a disease occurs is a var
   - Programming Assignment: Survival Estimates that Varies with Time
 
 ### Week 4: Build a risk model using linear and tree-based models
-This week, you will fit a linear model, and a tree-based risk model on survival data, to customize a risk score for each patient, based on their health profile. The risk score represents the patient’s relative risk of getting a particular disease. You will then evaluate each model’s performance by implementing and using a concordance index that incorporates time to event and censored data.
+```This week, you will fit a linear model, and a tree-based risk model on survival data, to customize a risk score for each patient, based on their health profile. The risk score represents the patient’s relative risk of getting a particular disease. You will then evaluate each model’s performance by implementing and using a concordance index that incorporates time to event and censored data.```
 - Survival and hazard functions
   - Video: Hazard Functions
   - Video: Hazard
@@ -268,7 +268,7 @@ This week, you will fit a linear model, and a tree-based risk model on survival 
 ## Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) `25H`
 
 ### Week 1: Treatment Effect Estimation
-In this week, you will learn: How to analyze data from a randomized control trial, interpreting multivariate models, evaluating treatment effect models, and interpreting ML models for treatment effect estimation.
+```In this week, you will learn: How to analyze data from a randomized control trial, interpreting multivariate models, evaluating treatment effect models, and interpreting ML models for treatment effect estimation.```
 - Intro
   - Video: Intro to Course 3 with Andrew and Pranav
   - Video: About Course 3
@@ -297,7 +297,7 @@ In this week, you will learn: How to analyze data from a randomized control tria
   - Programming Assignment: Estimating Treatment Effect Using Machine Learning
 
 ### Week 2: Medical Question Answering
-In this week, you will learn how to extract disease labels from clinical reports, and also question answering with BERT.
+```In this week, you will learn how to extract disease labels from clinical reports, and also question answering with BERT.```
 - Question Answering
   - Video: Medical question answering
   - Video: Handling words with multiple meanings
@@ -320,7 +320,7 @@ In this week, you will learn how to extract disease labels from clinical reports
   - Programming Assignment: Natural Language Entity Extraction
 
 ### Week 3: ML Interpretation
-In this week, you will learn how to interpret deep learning models, and also feature importance in machine learning.
+```In this week, you will learn how to interpret deep learning models, and also feature importance in machine learning.```
 - Feature Importance
   - Video: Drop column method
   - Video: Permutation method
