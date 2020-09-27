@@ -67,112 +67,409 @@ When you finish this class, you will:
 ## Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) `25H`
 
 ### Week 1: Introduction to deep learning
+Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.
 - Welcome to the Deep Learning Specialization
+  - Video: Welcome
 - Introduction to Deep Learning
+  - Video: What is a neural network?
+  - Video: Supervised Learning with Neural Networks
+  - Video: Why is Deep Learning taking off?
+  - Video: About this Course
+  - Reading: Frequently Asked Questions
+  - Video: Course Resources
+  - Reading: How to use Discussion Forums
 - Practice Questions
+  - Quiz: Introduction to deep learning
 - Heroes of Deep Learning (Optional)
+  - Video: Geoffrey Hinton interview
 
 ### Week 2: Neural Networks Basics
+Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.
 - Logistic Regression as a Neural Network
+  - Video: Binary Classification
+  - Video: Logistic Regression
+  - Reading: Clarification about Upcoming Logistic Regression Cost Function Video
+  - Video: Logistic Regression Cost Function
+  - Reading: Clarification about Upcoming Gradient Descent Video
+  - Video: Gradient Descent
+  - Video: Derivatives
+  - Video: More Derivative Examples
+  - Video: Computation graph
+  - Video: Derivatives with a Computation Graph
+  - Video: Logistic Regression Gradient Descent
+  - Video: Gradient Descent on m Examples
+  - Reading: Derivation of DL/dz (optional reading)
+  - Reading: Copy of Clarification about Upcoming Logistic Regression Cost Function Video
 - Python and Vectorization
+  - Video: Vectorization
+  - Video: More Vectorization Examples
+  - Reading: Clarification of "dz"
+  - Video: Vectorizing Logistic Regression
+  - Video: Vectorizing Logistic Regression's Gradient Output
+  - Video: Broadcasting in Python
+  - Video: A note on python/numpy vectors
+  - Video: Quick tour of Jupyter/iPython Notebooks
+  - Video: Explanation of logistic regression cost function (optional)
 - Practice Questions
+  - Quiz: Neural Network Basics
 - Programming Assignments
+  - Reading: Deep Learning Honor Code
+  - Reading: Programming Assignment FAQ
+  - Lab: Python Basics with numpy (optional)
+  - Practice Programming Assignment: Python Basics with numpy (optional)
+  - Lab: Logistic Regression with a Neural Network mindset
+  - Programming Assignment: Logistic Regression with a Neural Network mindset
 - Heroes of Deep Learning (Optional)
+  - Video: Pieter Abbeel interview
 
 ### Week 3: Shallow neural networks
+Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
 - Shallow Neural Network
+  - Video: Neural Networks Overview
+  - Video: Neural Network Representation
+  - Video: Computing a Neural Network's Output
+  - Video: Vectorizing across multiple examples
+  - Video: Explanation for Vectorized Implementation
+  - Reading: Clarification: Activation Function
+  - Video: Activation functions
+  - Video: Why do you need non-linear activation functions?
+  - Video: Derivatives of activation functions
+  - Video: Gradient descent for Neural Networks
+  - Reading: Clarification about Upcoming Backpropagation intuition (optional)
+  - Video: Backpropagation intuition (optional)
+  - Video: Random Initialization
 - Practice Questions
+  - Quiz: Shallow Neural Networks
 - Programming Assignment
+  - Lab: Planar data classification with a hidden layer
+  - Programming Assignment: Planar data classification with a hidden layer
 - Heroes of Deep Learning (Optional)
+  - Video: Ian Goodfellow interview
 
 ### Week 4: Deep Neural Networks
+Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
 - Deep Neural Network
+  - Video: Deep L-layer neural network
+  - Video: Forward Propagation in a Deep Network
+  - Reading: Clarification about Getting your matrix dimensions right video
+  - Video: Getting your matrix dimensions right
+  - Video: Why deep representations?
+  - Video: Building blocks of deep neural networks
+  - Reading: Clarification about Upcoming Forward and Backward Propagation Video
+  - Video: Forward and Backward Propagation
+  - Video: Parameters vs Hyperparameters
+  - Reading: Clarification about What does this have to do with the brain video
+  - Video: What does this have to do with the brain?
 - Practice Questions
+  - Quiz: Key concepts on Deep Neural Networks
 - Programming Assignments
+  - Lab: Building your Deep Neural Network: Step by Step
+  - Programming Assignment: Building your deep neural network: Step by Step
+  - Lab: Deep Neural Network - Application
+  - Programming Assignment: Deep Neural Network Application
 
 ## Course 2: [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network) `25H`
 
 ### Week 1: Practical aspects of Deep Learning
 - Setting up your Machine Learning Application
+  - Video: Train / Dev / Test sets
+  - Video: Bias / Variance
+  - Video: Basic Recipe for Machine Learning
 - Regularizing your neural network
+  - Reading: Clarification about Upcoming Regularization Video
+  - Video: Regularization
+  - Video: Why regularization reduces overfitting?
+  - Video: Dropout Regularization
+  - Reading: Clarification about Upcoming Understanding dropout Video
+  - Video: Understanding Dropout
+  - Video: Other regularization methods
 - Setting up your optimization problem
+  - Reading: Clarification about Upcoming Normalizing Inputs Video
+  - Video: Normalizing inputs
+  - Video: Vanishing / Exploding gradients
+  - Video: Weight Initialization for Deep Networks
+  - Video: Numerical approximation of gradients
+  - Video: Gradient checking
+  - Video: Gradient Checking Implementation Notes
 - Practice Questions
+  - Quiz: Practical aspects of deep learning
 - Programming assignments
+  - Lab: Initialization
+  - Programming Assignment: Initialization
+  - Lab: Regularization
+  - Programming Assignment: Regularization
+  - Lab: Gradient Checking
+  - Programming Assignment: Gradient Checking
 - Heroes of Deep Learning (Optional)
+  - Video: Yoshua Bengio interview
 
 ### Week 2: Optimization algorithms
 - Optimization algorithms
+  - Video: Mini-batch gradient descent
+  - Video: Understanding mini-batch gradient descent
+  - Video: Exponentially weighted averages
+  - Video: Understanding exponentially weighted averages
+  - Video: Bias correction in exponentially weighted averages
+  - Video: Gradient descent with momentum
+  - Video: RMSprop
+  - Reading: Clarification about Upcoming Adam Optimization Video
+  - Video: Adam optimization algorithm
+  - Reading: Clarification about Learning Rate Decay Video
+  - Video: Learning rate decay
+  - Video: The problem of local optima
 - Practice Questions
+  - Quiz: Optimization algorithms
 - Programming assignment
+  - Lab: Optimization
+  - Programming Assignment: Optimization
 - Heroes of Deep Learning (Optional)
+  - Video: Yuanqing Lin interview
 
 ### Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
 - Hyperparameter tuning
+  - Video: Tuning process
+  - Video: Using an appropriate scale to pick hyperparameters
+  - Video: Hyperparameters tuning in practice: Pandas vs. Caviar
 - Batch Normalization
+  - Video: Normalizing activations in a network
+  - Video: Fitting Batch Norm into a neural network
+  - Video: Why does Batch Norm work?
+  - Video: Batch Norm at test time
 - Multi-class classification
+  - Reading: Clarifications about Upcoming Softmax Video
+  - Video: Softmax Regression
+  - Video: Training a softmax classifier
 - Introduction to programming frameworks
+  - Video: Deep learning frameworks
+  - Video: TensorFlow
 - Practice Questions
+  - Quiz: Hyperparameter tuning, Batch Normalization, Programming Frameworks
 - Programming assignment
+  - Reading: Note about TensorFlow 1 and TensorFlow 2
+  - Lab: Tensorflow
+  - Programming Assignment: Tensorflow
 
 ## Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) `5H`
 
 ### Week 1: ML Strategy (1)
 - Introduction to ML Strategy
+  - Video: Why ML Strategy
+  - Video: Orthogonalization
 - Setting up your goal
+  - Video: Single number evaluation metric
+  - Video: Satisficing and Optimizing metric
+  - Video: Train/dev/test distributions
+  - Video: Size of the dev and test sets
+  - Video: When to change dev/test sets and metrics
 - Comparing to human-level performance
+  - Video: Why human-level performance?
+  - Video: Avoidable bias
+  - Video: Understanding human-level performance
+  - Video: Surpassing human-level performance
+  - Video: Improving your model performance
 - Machine Learning flight simulator
+  - Reading: Machine Learning flight simulator
+  - Quiz: Bird recognition in the city of Peacetopia (case study)
 - Heroes of Deep Learning (Optional)
+  - Video: Andrej Karpathy interview
 
 ### Week 2: ML Strategy (2)
 - Error Analysis
+  - Video: Carrying out error analysis
+  - Video: Cleaning up incorrectly labeled data
+  - Video: Build your first system quickly, then iterate
 - Mismatched training and dev/test set
+  - Video: Training and testing on different distributions
+  - Video: Bias and Variance with mismatched data distributions
+  - Video: Addressing data mismatch
 - Learning from multiple tasks
+  - Video: Transfer learning
+  - Video: Multi-task learning
 - End-to-end deep learning
+  - Video: What is end-to-end deep learning?
+  - Video: Whether to use end-to-end deep learning
 - Machine Learning flight simulator
+  - Quiz: Autonomous driving (case study)
 - Heroes of Deep Learning (Optional)
+  - Video: Ruslan Salakhutdinov interview
 
 ## Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) `25H`
 
 ### Week 1: Foundations of Convolutional Neural Networks
+Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
 - Convolutional Neural Networks
+  - Video: Computer Vision
+  - Video: Edge Detection Example
+  - Video: More Edge Detection
+  - Video: Padding
+  - Video: Strided Convolutions
+  - Reading: Strided convolutions *CORRECTION*
+  - Video: Convolutions Over Volume
+  - Video: One Layer of a Convolutional Network
+  - Video: Simple Convolutional Network Example
+  - Reading: Simple Convolutional Network Example *CORRECTION*
+  - Video: Pooling Layers
+  - Video: CNN Example
+  - Reading: CNN Example *CORRECTION*
+  - Video: Why Convolutions?
+  - Reading: Why Convolutions? *CORRECTION*
 - Practice questions
+  - Quiz: The basics of ConvNets
 - Programming assignments
+  - Lab: Convolutional Model: step by step
+  - Programming Assignment: Convolutional Model: step by step
+  - Lab: Convolutional Model: application
+  - Programming Assignment: Convolutional model: application
 - Heroes of Deep Learning (Optional)
+  - Video: Yann LeCun Interview
 
 ### Week 2: Deep convolutional models: case studies
+Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
 - Case studies
+  - Video: Why look at case studies?
+  - Video: Classic Networks
+  - Video: ResNets
+  - Video: Why ResNets Work
+  - Video: Networks in Networks and 1x1 Convolutions
+  - Video: Inception Network Motivation
+  - Reading: Inception Network Motivation *CORRECTION*
+  - Video: Inception Network
 - Practical advices for using ConvNets
+  - Video: Using Open-Source Implementation
+  - Video: Transfer Learning
+  - Video: Data Augmentation
+  - Video: State of Computer Vision
 - Practice questions
+  - Quiz: Deep convolutional models
 - Programming assignments
+  - Lab: Keras Tutorial (not graded)
+  - Lab: Residual Networks
+  - Programming Assignment: Residual Networks
 
 ### Week 3: Object detection
+Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
 - Detection algorithms
+  - Video: Object Localization
+  - Video: Landmark Detection
+  - Video: Object Detection
+  - Video: Convolutional Implementation of Sliding Windows
+  - Reading: Convolutional Implementation of Sliding Windows *CORRECTION*
+  - Video: Bounding Box Predictions
+  - Video: Intersection Over Union
+  - Video: Non-max Suppression
+  - Video: Anchor Boxes
+  - Video: YOLO Algorithm
+  - Reading: YOLO algorithm *CORRECTION*
+  - Video: (Optional) Region Proposals
 - Practice questions
+  - Quiz: Detection algorithms
 - Programming assignments
+  - Lab: Car detection with YOLO
+  - Programming Assignment: Car detection with YOLO
 
 ### Week 4: Special applications: Face recognition & Neural style transfer
+Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
 - Face Recognition
+  - Video: What is face recognition?
+  - Video: One Shot Learning
+  - Video: Siamese Network
+  - Video: Triplet Loss
+  - Reading: Triplet Loss *CORRECTION*
+  - Video: Face Verification and Binary Classification
+  - Reading: Face Verification and Binary Classification *CORRECTION*
 - Neural Style Transfer
+  - Video: What is neural style transfer?
+  - Video: What are deep ConvNets learning?
+  - Video: Cost Function
+  - Video: Content Cost Function
+  - Reading: Style Cost *CORRECTION*
+  - Video: Style Cost Function
+  - Video: 1D and 3D Generalizations
 - Practice questions
+  - Quiz: Special applications: Face recognition & Neural style transfer
 - Programming assignments
+  - Lab: Art generation with Neural Style Transfer
+  - Programming Assignment: Art generation with Neural Style Transfer
+  - Lab: Face Recognition
+  - Programming Assignment: Face Recognition
 
 ## Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) `20H`
 
 ### Week 1: Recurrent Neural Networks
+Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
 - Recurrent Neural Networks
+  - Video: Why sequence models
+  - Video: Notation
+  - Video: Recurrent Neural Network Model
+  - Video: Backpropagation through time
+  - Video: Different types of RNNs
+  - Video: Language model and sequence generation
+  - Video: Sampling novel sequences
+  - Video: Vanishing gradients with RNNs
+  - Video: Gated Recurrent Unit (GRU)
+  - Reading: Gated Recurrent Unit (GRU) *CORRECTION*
+  - Video: Long Short Term Memory (LSTM)
+  - Reading: Long Short Term Memory (LSTM) *CORRECTION*
+  - Video: Bidirectional RNN
+  - Video: Deep RNNs
 - Practice questions
+  - Quiz: Recurrent Neural Networks
 - Programming assignments
+  - Lab: Building a recurrent neural network - step by step
+  - Programming Assignment: Building a recurrent neural network - step by step
+  - Lab: Dinosaur Island - Character-Level Language Modeling
+  - Programming Assignment: Dinosaur Island - Character-Level Language Modeling
+  - Lab: Jazz improvisation with LSTM
+  - Programming Assignment: Jazz improvisation with LSTM
 
 ### Week 2: Natural Language Processing & Word Embeddings
+Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
 - Introduction to Word Embeddings
+  - Video: Word Representation
+  - Video: Using word embeddings
+  - Video: Properties of word embeddings
+  - Video: Embedding matrix
 - Learning Word Embeddings: Word2vec & GloVe
+  - Video: Learning word embeddings
+  - Video: Word2Vec
+  - Video: Negative Sampling
+  - Video: GloVe word vectors
+  - Reading: GloVe word vectors *CORRECTION*
 - Applications using Word Embeddings
+  - Video: Sentiment Classification
+  - Video: Debiasing word embeddings
 - Practice questions
+  - Quiz: Natural Language Processing & Word Embeddings
 - Programming assignments
+  - Lab: Operations on word vectors - Debiasing
+  - Programming Assignment: Operations on word vectors - Debiasing
+  - Lab: Emojify
+  - Programming Assignment: Emojify
 
 ### Week 3: Sequence models & Attention mechanism
+Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.
 - Various sequence to sequence architectures
+  - Video: Basic Models
+  - Video: Picking the most likely sentence
+  - Video: Beam Search
+  - Video: Refinements to Beam Search
+  - Video: Error analysis in beam search
+  - Video: Bleu Score (optional)
+  - Reading: Bleu Score *CORRECTION*
+  - Video: Attention Model Intuition
+  - Video: Attention Model
+  - Reading: Corrections
 - Speech recognition - Audio data
+  - Video: Speech recognition
+  - Video: Trigger Word Detection
 - Conclusion
+  - Video: Conclusion and thank you
+  - Reading: Workera's Standardized Tests for AI Skills
 - Practice questions
+  - Quiz: Sequence models & Attention mechanism
 - Programming assignments
+  - Lab: Neural Machine Translation with Attention
+  - Programming Assignment: Neural Machine Translation with Attention
+  - Reading: Instructions if you are unable to open your notebook
+  - Lab: Trigger word detection
+  - Programming Assignment: Trigger word detection
