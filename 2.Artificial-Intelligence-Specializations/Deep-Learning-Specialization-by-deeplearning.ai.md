@@ -67,7 +67,7 @@ When you finish this class, you will:
 ## Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) `25H`
 
 ### Week 1: Introduction to deep learning
-Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.
+```Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.```
 - Welcome to the Deep Learning Specialization
   - Video: Welcome
 - Introduction to Deep Learning
@@ -84,7 +84,7 @@ Be able to explain the major trends driving the rise of deep learning, and under
   - Video: Geoffrey Hinton interview
 
 ### Week 2: Neural Networks Basics
-Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.
+```Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.```
 - Logistic Regression as a Neural Network
   - Video: Binary Classification
   - Video: Logistic Regression
@@ -123,7 +123,7 @@ Learn to set up a machine learning problem with a neural network mindset. Learn 
   - Video: Pieter Abbeel interview
 
 ### Week 3: Shallow neural networks
-Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
+```Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.```
 - Shallow Neural Network
   - Video: Neural Networks Overview
   - Video: Neural Network Representation
@@ -147,7 +147,7 @@ Learn to build a neural network with one hidden layer, using forward propagation
   - Video: Ian Goodfellow interview
 
 ### Week 4: Deep Neural Networks
-Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
+```Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.```
 - Deep Neural Network
   - Video: Deep L-layer neural network
   - Video: Forward Propagation in a Deep Network
@@ -296,7 +296,7 @@ Understand the key computations underlying deep learning, use them to build and 
 ## Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) `25H`
 
 ### Week 1: Foundations of Convolutional Neural Networks
-Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
+```Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.```
 - Convolutional Neural Networks
   - Video: Computer Vision
   - Video: Edge Detection Example
@@ -324,7 +324,7 @@ Learn to implement the foundational layers of CNNs (pooling, convolutions) and t
   - Video: Yann LeCun Interview
 
 ### Week 2: Deep convolutional models: case studies
-Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
+```Learn about the practical tricks and methods used in deep CNNs straight from the research papers.```
 - Case studies
   - Video: Why look at case studies?
   - Video: Classic Networks
@@ -347,7 +347,7 @@ Learn about the practical tricks and methods used in deep CNNs straight from the
   - Programming Assignment: Residual Networks
 
 ### Week 3: Object detection
-Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
+```Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.```
 - Detection algorithms
   - Video: Object Localization
   - Video: Landmark Detection
@@ -368,7 +368,7 @@ Learn how to apply your knowledge of CNNs to one of the toughest but hottest fie
   - Programming Assignment: Car detection with YOLO
 
 ### Week 4: Special applications: Face recognition & Neural style transfer
-Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
+```Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!```
 - Face Recognition
   - Video: What is face recognition?
   - Video: One Shot Learning
@@ -396,7 +396,7 @@ Discover how CNNs can be applied to multiple fields, including art generation an
 ## Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) `20H`
 
 ### Week 1: Recurrent Neural Networks
-Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
+```Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.```
 - Recurrent Neural Networks
   - Video: Why sequence models
   - Video: Notation
@@ -423,7 +423,7 @@ Learn about recurrent neural networks. This type of model has been proven to per
   - Programming Assignment: Jazz improvisation with LSTM
 
 ### Week 2: Natural Language Processing & Word Embeddings
-Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
+```Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.```
 - Introduction to Word Embeddings
   - Video: Word Representation
   - Video: Using word embeddings
@@ -447,7 +447,7 @@ Natural language processing with deep learning is an important combination. Usin
   - Programming Assignment: Emojify
 
 ### Week 3: Sequence models & Attention mechanism
-Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.
+```Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.```
 - Various sequence to sequence architectures
   - Video: Basic Models
   - Video: Picking the most likely sentence
