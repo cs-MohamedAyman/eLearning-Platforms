@@ -4,128 +4,6 @@
 Computer Science Specializations road map for computer science students, which including the following main topics:
 
 <details>
-	<summary>C/C++ Programming Language and Object Oriented Specializations</summary>
-
-<table>
-		<thead>
-			<tr>
-				<th width="45%">Specialization</th>
-				<th width="55%">Course Name</th>
-				<th>Level</th>
-				<th>H</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td rowspan=3 align=center>
-Introduction to Computer Science and Programming  
-<a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/introduction-to-computer-programming">Introduction to Computer Programming</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/how-computers-work">How Computers Work</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/mathematics-for-computer-science">Mathematics for Computer Science</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">45</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Introduction to Programming in C  
-<a href="https://www.coursera.org/specializations/c-programming">Specialization</a> by Duke University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/programming-fundamentals">Programming Fundamentals</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/writing-running-fixing-code">Writing, Running, and Fixing Code in C</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/pointers-arrays-recursion">Pointers, Arrays, and Recursion</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/interacting-system-managing-memory">Interacting with the System and Managing Memory</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-C for Everyone: Programming Fundamentals by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/c-for-everyone">C for Everyone: Programming Fundamentals</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-C for Everyone: Structured Programming by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/c-structured-programming">C for Everyone: Structured Programming</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-C++ For C Programmers, Part A by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/c-plus-plus-a">C++ For C Programmers, Part A</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-C++ For C Programmers, Part B by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/c-plus-plus-b">C++ For C Programmers, Part B</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Computational Thinking with Beginning C Programming  
-<a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-analysis-representation-selection-iteration">Data Analysis and Representation, Selection and Iteration</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/abstraction-problem-decomposition-functions">Abstraction, Problem Decomposition, and Functions</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/simulation-algorithm-analysis-pointers">Simulation, Algorithm Analysis, and Pointers</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-		</tbody>
-</table>
-</details>
-<details>
 	<summary>Python Programming Language and Object Oriented Specializations</summary>
 
 <table>
@@ -260,6 +138,128 @@ Learn to Program: Crafting Quality Code by University of Toronto
 				</td>
 				<td><a href="https://www.coursera.org/learn/program-code">Learn to Program: Crafting Quality Code</a></td>
 				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+		</tbody>
+</table>
+</details>
+<details>
+	<summary>C/C++ Programming Language and Object Oriented Specializations</summary>
+
+<table>
+		<thead>
+			<tr>
+				<th width="45%">Specialization</th>
+				<th width="55%">Course Name</th>
+				<th>Level</th>
+				<th>H</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td rowspan=3 align=center>
+Introduction to Computer Science and Programming  
+<a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-to-computer-programming">Introduction to Computer Programming</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/how-computers-work">How Computers Work</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/mathematics-for-computer-science">Mathematics for Computer Science</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">45</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Introduction to Programming in C  
+<a href="https://www.coursera.org/specializations/c-programming">Specialization</a> by Duke University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/programming-fundamentals">Programming Fundamentals</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/writing-running-fixing-code">Writing, Running, and Fixing Code in C</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/pointers-arrays-recursion">Pointers, Arrays, and Recursion</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/interacting-system-managing-memory">Interacting with the System and Managing Memory</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+C for Everyone: Programming Fundamentals by University of California, Santa Cruz
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/c-for-everyone">C for Everyone: Programming Fundamentals</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+C for Everyone: Structured Programming by University of California, Santa Cruz
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/c-structured-programming">C for Everyone: Structured Programming</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+C++ For C Programmers, Part A by University of California, Santa Cruz
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/c-plus-plus-a">C++ For C Programmers, Part A</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+C++ For C Programmers, Part B by University of California, Santa Cruz
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/c-plus-plus-b">C++ For C Programmers, Part B</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Computational Thinking with Beginning C Programming  
+<a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-analysis-representation-selection-iteration">Data Analysis and Representation, Selection and Iteration</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/abstraction-problem-decomposition-functions">Abstraction, Problem Decomposition, and Functions</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/simulation-algorithm-analysis-pointers">Simulation, Algorithm Analysis, and Pointers</a></td>
+				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 		</tbody>
