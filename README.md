@@ -6,8 +6,8 @@ Coursera specializations road map for computer science students.
 ## [1. Computer-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/1.Computer-Science-Specializations)
 Computer Science Specializations road map for computer science students, which including the following main topics:
 
-### 1.1- C/C++ Programming Language and Object Oriented Specializations
-### 1.2- Python Programming Language and Object Oriented Specializations
+### 1.1- Python Programming Language and Object Oriented Specializations
+### 1.2- C/C++ Programming Language and Object Oriented Specializations
 ### 1.3- Mathematics and Discrete Mathematics Specializations
 ### 1.4- Probability and Statistics Specializations
 ### 1.5- Logic Design Specializations
