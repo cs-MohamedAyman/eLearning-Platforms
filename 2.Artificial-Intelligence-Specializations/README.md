@@ -428,36 +428,6 @@ AI For Everyone by deeplearning.ai
 				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td rowspan=5 align=center>
-AI in Healthcare  
-<a href="https://www.coursera.org/specializations/ai-healthcare">Specialization</a> by Stanford University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/intro-to-healthcare">Introduction to Healthcare</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/introduction-clinical-data">Introduction to Clinical Data</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/fundamental-machine-learning-healthcare">Fundamentals of Machine Learning for Healthcare</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/evaluations-ai-applications-healthcare">Evaluations of AI Applications in Healthcare</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ai-in-healthcare-capstone">AI in Healthcare Capstone</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">0</td>
-			</tr>
-			<tr>
 				<td rowspan=3 align=center>
 AI Foundations for Everyone  
 <a href="https://www.coursera.org/specializations/ai-foundations-for-everyone">Specialization</a> by IBM
@@ -511,6 +481,36 @@ IBM Applied AI Professional Certificate
 				<td><a href="https://www.coursera.org/learn/introduction-computer-vision-watson-opencv">Introduction to Computer Vision with Watson and OpenCV</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+AI in Healthcare  
+<a href="https://www.coursera.org/specializations/ai-healthcare">Specialization</a> by Stanford University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/intro-to-healthcare">Introduction to Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/introduction-clinical-data">Introduction to Clinical Data</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/fundamental-machine-learning-healthcare">Fundamentals of Machine Learning for Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/evaluations-ai-applications-healthcare">Evaluations of AI Applications in Healthcare</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ai-in-healthcare-capstone">AI in Healthcare Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">0</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
