@@ -19,6 +19,11 @@
 ## Syllabus - What you will learn from this course
 
 ### Week 1: What is AI?
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - What is AI?
   - Video: Week 1 Introduction
   - Video: Machine Learning
@@ -30,8 +35,14 @@
   - Video: Non-technical explanation of deep learning (Part 1, optional)
   - Video: Non-technical explanation of deep learning (Part 2, optional)
   - Quiz: Week 1 Quiz
+</details>
 
 ### Week 2: Building AI Projects
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Building AI Projects
   - Video: Week 2 Introduction
   - Video: Workflow of a machine learning project
@@ -42,8 +53,14 @@
   - Video: Working with an AI team
   - Video: Technical tools for AI teams (optional)
   - Quiz: Week 2 Quiz
+</details>
 
 ### Week 3: Building AI In Your Company
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Building AI in Your Company
   - Video: Week 3 Introduction
   - Video: Case study: Smart speaker
@@ -56,8 +73,14 @@
   - Video: Survey of major AI application areas (optional)
   - Video: Survey of major AI techniques (optional)
   - Quiz: Week 3 Quiz
+</details>
 
 ### Week 4: AI and Society
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - AI and Society
   - Video: Week 4 Introduction
   - Video: A realistic view of AI
@@ -68,3 +91,4 @@
   - Video: AI and jobs
   - Video: Conclusion
   - Quiz: Week 4 Quiz
+</details>
