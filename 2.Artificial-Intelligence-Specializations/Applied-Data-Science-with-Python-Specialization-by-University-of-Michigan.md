@@ -94,7 +94,6 @@
   - Video: Scales
   - Video: Pivot Tables
   - Video: Date Functionality
-  - Discussion Prompt: Goodhart's Law
 - Assignment 3
   - Notebook: Assignment 3
   - Programming Assignment: Assignment 3 Submission
@@ -108,7 +107,6 @@
   - Video: More Distributions
   - Video: Hypothesis Testing in Python
   - Ungraded External Tool: Ungraded External ToolEnd of Theory
-  - Discussion Prompt: Science Isn't Broken: p-hacking activity
 - Project
   - Notebook: Assignment 4 - Project
   - Programming Assignment: Assignment 4 Submission
@@ -132,7 +130,6 @@
   - Reading: Useful Junk?: The Effects of Visual Embellishment on Comprehension and Memorability of Charts
   - Video: Graphical heuristics: Lie Factor and Spark Lines (Edward Tufte)
   - Video: The Truthful Art (Alberto Cairo)
-  - Discussion Prompt: Must a visual be enlightening?
 - Assignment 1
   - Reading: Graphics Lies, Misleading Visuals
   - Peer-graded Assignment: Graphics Lies, Misleading Visuals
@@ -300,7 +297,6 @@
   - Video: Demonstration: Regex with Pandas and Named Groups
   - Practice Quiz: Practice Quiz
   - Video: Internationalization and Issues with Non-ASCII Characters
-  - Discussion Prompt: Introduce Yourself
   - Reading: Resources: Common issues with free text
   - Quiz: Module 1 Quiz
 - Assignment 1
@@ -314,7 +310,6 @@
   - Video: Basic NLP tasks with NLTK
   - Video: Advanced NLP tasks with NLTK
   - Practice Quiz: Practice Quiz
-  - Discussion Prompt: Finding your own prepositional phrase attachment
   - Quiz: Module 2 Quiz
 - Assignment 2
   - Lab: Assignment 2
@@ -393,7 +388,6 @@
   - Video: Hubs and Authorities
   - Video: Centrality Examples
   - Quiz: Module 3 Quiz
-  - Discussion Prompt: PageRank and Centrality in a real-life network
 - Assignment
   - Lab: Assignment 3
   - Programming Assignment: Assignment 3 Submission
