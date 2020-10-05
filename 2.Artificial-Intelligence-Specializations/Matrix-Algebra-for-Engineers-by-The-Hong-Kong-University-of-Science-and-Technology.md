@@ -14,30 +14,157 @@
 
 ### Week 1: Matrices
 - Welcome
+  - Video: Promotional Video
+  - Reading: Welcome and Course Information
+  - Practice Quiz: Diagnostic Quiz
+  - Discussion Prompt: Get to Know Your Classmates
+  - Reading: How to Write Math in the Discussions Using MathJax
 - Introduction to Week One
+  - Video: Introduction
 - Matrix Definitions
+  - Video: Definition of a Matrix
+  - Reading: Construct Some Matrices
+  - Video: Addition and Multiplication of Matrices
+  - Reading: Matrix Addition and Multiplication
+  - Reading: AB=AC Does Not Imply B=C
+  - Reading: Matrix Multiplication Does Not Commute
+  - Reading: Associative Law for Matrix Multiplication
+  - Video: Special Matrices
+  - Reading: AB=0 When A and B Are Not zero
+  - Reading: Product of Diagonal Matrices
+  - Reading: Product of Triangular Matrices
+  - Practice Quiz: Matrix Definitions
 - Transpose and Inverses
+  - Video: Transpose Matrix
+  - Reading: Transpose of a Matrix Product
+  - Reading: Any Square Matrix Can Be Written as the Sum of a Symmetric and Skew-Symmetric Matrix
+  - Reading: Construction of a Square Symmetric Matrix
+  - Video: Inner and Outer Products
+  - Reading: Example of a Symmetric Matrix
+  - Reading: Sum of the Squares of the Elements of a Matrix
+  - Video: Inverse Matrix
+  - Reading: Inverses of Two-by-Two Matrices
+  - Reading: Inverse of a Matrix Product
+  - Reading: Inverse of the Transpose Matrix
+  - Reading: Uniqueness of the Inverse
+  - Practice Quiz: Transposes and Inverses
 - Orthogonal Matrices
+  - Video: Orthogonal Matrices
+  - Reading: Product of Orthogonal Matrices
+  - Reading: The Identity Matrix is Orthogonal
+  - Video: Rotation Matrices
+  - Reading: Inverse of the Rotation Matrix
+  - Reading: Three-dimensional Rotation
+  - Video: Permutation Matrices
+  - Reading: Three-by-Three Permutation Matrices
+  - Reading: Inverses of Three-by-Three Permutation Matrices
+  - Practice Quiz: Orthogonal Matrices
 - Quiz
+  - Quiz: Week One Assessment
 
 ### Week 2: Systems of Linear Equations
 - Introduction to Week Two
+  - Video: Introduction
 - Gaussian Elimination
+  - Video: Gaussian Elimination
+  - Reading: Gaussian Elimination
+  - Video: Reduced Row Echelon Form
+  - Reading: Reduced Row Echelon Form
+  - Video: Computing Inverses
+  - Reading: Computing Inverses
+  - Practice Quiz: Gaussian Elimination
 - LU Decomposition
+  - Video: Elementary Matrices
+  - Reading: Elementary Matrices
+  - Video: LU Decomposition
+  - Reading: LU Decomposition
+  - Video: Solving (LU)x = b
+  - Reading: Solving (LU)x = b
+  - Practice Quiz: LU Decomposition
 - Quiz
+  - Quiz: Week Two Assessment
 
 ### Week 3: Vector Spaces
 - Introduction to Week Three
+  - Video: Introduction
 - Vector Space Definitions
+  - Video: Vector Spaces
+  - Reading: Zero Vector
+  - Reading: Examples of Vector Spaces
+  - Video: Linear Independence
+  - Reading: Linear Independence
+  - Video: Span, Basis and Dimension
+  - Reading: Orthonormal basis
+  - Practice Quiz: Vector Space Definitions
 - Gram-Schmidt process
+  - Video: Gram-Schmidt Process
+  - Reading: Gram-Schmidt Process
+  - Video: Gram-Schmidt Process Example
+  - Reading: Gram-Schmidt on Three-by-One Matrices
+  - Reading: Gram-Schmidt on Four-by-One Matrices
+  - Practice Quiz: Gram-Schmidt Process
 - Fundamental Subspaces of a Matrix
+  - Video: Null Space
+  - Reading: Null Space
+  - Video: Application of the Null Space
+  - Reading: Underdetermined System of Linear Equations
+  - Video: Column Space
+  - Reading: Column Space
+  - Video: Row Space, Left Null Space and Rank
+  - Reading: Fundamental Matrix Subspaces
+  - Practice Quiz: Fundamental Subspaces
 - Orthogonal Projections
+  - Video: Orthogonal Projections
+  - Reading: Orthogonal Projections
+  - Video: The Least-Squares Problem
+  - Reading: Setting Up the Least-Squares Problem
+  - Video: Solution of the Least-Squares Problem
+  - Reading: Line of Best Fit
+  - Practice Quiz: Orthogonal Projections
 - Quiz
+  - Quiz: Week Three Assessment
 
 ### Week 4: Eigenvalues and Eigenvectors
 - Introduction to Week Four
+  - Video: Introduction
 - Determinants
+  - Video: Two-by-Two and Three-by-Three Determinants |  28
+  - Reading: Determinant of the Identity Matrix
+  - Reading: Row Interchange
+  - Reading: Determinant of a Matrix Product
+  - Video: Laplace Expansion |  29
+  - Reading: Compute Determinant Using the Laplace Expansion
+  - Video: Leibniz Formula |  30
+  - Reading: Compute Determinant Using the Leibniz Formula
+  - Video: Properties of a Determinant |  31
+  - Reading: Determinant of a Matrix With Two Equal Rows
+  - Reading: Determinant is a Linear Function of Any Row
+  - Reading: Determinant Can Be Computed Using Row Reduction
+  - Reading: Compute Determinant Using Gaussian Elimination
+  - Practice Quiz: Determinants
 - The Eigenvalue Problem
+  - Video: The Eigenvalue Problem |  32
+  - Reading: Characteristic Equation for a Three-by-Three Matrix
+  - Video: Finding Eigenvalues and Eigenvectors (1) |  33
+  - Reading: Eigenvalues and Eigenvectors of a Two-by-Two Matrix
+  - Reading: Eigenvalues and Eigenvectors of a Three-by-Three Matrix
+  - Video: Finding Eigenvalues and Eigenvectors (2) |  34
+  - Reading: Complex Eigenvalues
+  - Practice Quiz: The Eigenvalue Problem
 - Matrix Diagonalization
+  - Video: Matrix Diagonalization |  35
+  - Reading: Linearly Independent Eigenvectors
+  - Reading: Invertibility of the Eigenvector Matrix
+  - Video: Matrix Diagonalization Example |  36
+  - Reading: Diagonalize a Three-by-Three Matrix
+  - Video: Powers of a Matrix |  37
+  - Reading: Matrix Exponential
+  - Video: Powers of a Matrix Example |  38
+  - Reading: Powers of a Matrix
+  - Practice Quiz: Matrix Diagonalization
 - Quiz
+  - Quiz: Week Four Assessment
 - Farewell
+  - Video: Concluding Remarks
+  - Reading: Please Rate this Course
+  - Reading: Acknowledgments
