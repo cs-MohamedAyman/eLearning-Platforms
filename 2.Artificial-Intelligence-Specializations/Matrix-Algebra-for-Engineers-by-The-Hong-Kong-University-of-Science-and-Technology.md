@@ -13,6 +13,11 @@
 ## Syllabus - What you will learn from this course
 
 ### Week 1: Matrices
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Welcome
   - Video: Promotional Video
   - Reading: Welcome and Course Information
@@ -60,8 +65,14 @@
   - Practice Quiz: Orthogonal Matrices
 - Quiz
   - Quiz: Week One Assessment
+</details>
 
 ### Week 2: Systems of Linear Equations
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to Week Two
   - Video: Introduction
 - Gaussian Elimination
@@ -82,8 +93,14 @@
   - Practice Quiz: LU Decomposition
 - Quiz
   - Quiz: Week Two Assessment
+</details>
 
 ### Week 3: Vector Spaces
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to Week Three
   - Video: Introduction
 - Vector Space Definitions
@@ -122,8 +139,14 @@
   - Practice Quiz: Orthogonal Projections
 - Quiz
   - Quiz: Week Three Assessment
+</details>
 
 ### Week 4: Eigenvalues and Eigenvectors
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to Week Four
   - Video: Introduction
 - Determinants
@@ -167,3 +190,4 @@
   - Video: Concluding Remarks
   - Reading: Please Rate this Course
   - Reading: Acknowledgments
+</details>
