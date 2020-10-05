@@ -182,8 +182,8 @@ Secure Software Design
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-Google IT Automation with Python Professional Certificate
-<a href="https://www.coursera.org/professional-certificates/google-it-automation">Specialization</a> by Google
+Google IT Automation with Python
+<a href="https://www.coursera.org/professional-certificates/google-it-automation">Professional Certificate</a> by Google
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/python-crash-course">Crash Course on Python</a></td>
