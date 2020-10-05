@@ -56,7 +56,6 @@ Through the assignments of this specialisation you will use the skills you have 
   - Reading: How to be successful in this course
   - Reading: Grading policy
   - Reading: Additional readings & helpful references
-  - Discussion Prompt: Nice to meet you!
   - Complete our short pre-course survey
 - The relationship between machine learning, linear algebra, and vectors and matrices
   - Video: Motivations for linear algebra
@@ -157,7 +156,6 @@ Through the assignments of this specialisation you will use the skills you have 
   - Reading: How to be successful in this course
   - Reading: Grading Policy
   - Reading: Additional Readings & Helpful References
-  - Discussion Prompt: Nice to meet you!
   - Pre-course Survey
 - Back to basics: functions
   - Video: Welcome to Module 1!
@@ -213,7 +211,6 @@ Through the assignments of this specialisation you will use the skills you have 
   - Practice Quiz: Training Neural Networks
   - Lab: Backpropagation
   - Programming Assignment: Backpropagation
-  - Discussion Prompt: I love backpropagation
   - Video: See you next module!
 
 ### Week 4: Taylor series and linearisation
@@ -241,7 +238,6 @@ Through the assignments of this specialisation you will use the skills you have 
   - Practice Quiz: Newton-Raphson in one dimension
   - Video: Gradient Descent
   - Lab: Gradient descent in a sandpit
-  - Discussion Prompt: Steepest strategies
   - Quiz: Checking Newton-Raphson
 - Lagrange multipliers
   - Video: Constrained optimisation
@@ -273,7 +269,6 @@ Through the assignments of this specialisation you will use the skills you have 
   - Reading: How to be successful in this course
   - Reading: Grading policy
   - Reading: Additional readings & helpful references
-  - Discussion Prompt: Nice to meet you!
   - Survey
   - Reading: Mini numpy tutorial
   - Reading: Set up Jupyter notebook environment offline
