@@ -50,6 +50,7 @@ Learners will perform several no-code hands-on exercises in each of the three co
 ## Course 1: [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai) `10H`
 
 ### Week 1: What is AI? Applications and Examples of AI
+```This week, you will learn what AI is. You will understand its applications and use cases and how it is transforming our lives.```
 
 <details>
       <summary>Week Details</summary>
@@ -74,6 +75,7 @@ Learners will perform several no-code hands-on exercises in each of the three co
 </details>
 
 ### Week 2: AI Concepts, Terminology, and Application Areas
+```This week, you will learn about basic AI concepts. You will understand how AI learns, and what some of its applications are.```
 
 <details>
       <summary>Week Details</summary>
@@ -101,6 +103,7 @@ Learners will perform several no-code hands-on exercises in each of the three co
 </details>
 
 ### Week 3: AI: Issues, Concerns and Ethical Considerations
+```This week, you will learn about issues and concerns surrounding AI, including - ethical considerations, bias, jobs, etc. - their impact on society. This information will help you to have an informed discussion on the costs and benefits of AI, and reassure decision makers about implementing an AI solution.```
 
 <details>
       <summary>Week Details</summary>
@@ -123,6 +126,7 @@ Learners will perform several no-code hands-on exercises in each of the three co
 </details>
 
 ### Week 4: The Future with AI, and AI in Action
+```This week, you will learn about the current thinking on the future with AI, as well as hear from experts about their advice to learn and start a career in AI. You will also demonstrate AI in action by utilizing Computer Vision to classify images.```
 
 <details>
       <summary>Week Details</summary>
@@ -155,6 +159,7 @@ Learners will perform several no-code hands-on exercises in each of the three co
 ## Course 2: [Getting Started with AI using IBM Watson](https://www.coursera.org/learn/ai-with-ibm-watson) `10H`
 
 ### Week 1: Watson AI Overview
+```This week, you will learn how Watson AI works. You will understand the many ways Watson AI is helping professionals and businesses reimagine their workflows, learn more from less data, and protect their insights.```
 
 <details>
       <summary>Week Details</summary>
@@ -184,6 +189,7 @@ Learners will perform several no-code hands-on exercises in each of the three co
 </details>
 
 ### Week 2: Watson AI Services
+```This week, you will learn about some of the Watson AI services offered on the IBM Cloud. You will understand how organizations can use Watson AI services and the types of situations in which each service applies.```
 
 <details>
       <summary>Week Details</summary>
@@ -220,6 +226,7 @@ Learners will perform several no-code hands-on exercises in each of the three co
 </details>
 
 ### Week 3: More Watson AI Services
+```This week, you will learn about some of the Watson AI services offered on the IBM Cloud. You will understand how organizations can use Watson AI services and the types of situations in which each service applies.```
 
 <details>
       <summary>Week Details</summary>
@@ -249,6 +256,7 @@ Learners will perform several no-code hands-on exercises in each of the three co
 </details>
 
 ### Week 4: Watson in Action
+```This week, you will learn about common use cases for AI, and look at some case studies involving Watson AI. You will also experience and demonstrate AI in action yourself using Watson.```
 
 <details>
       <summary>Week Details</summary>
