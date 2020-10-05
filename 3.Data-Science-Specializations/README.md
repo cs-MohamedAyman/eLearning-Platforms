@@ -725,8 +725,8 @@ Data Science: Foundations using R
 			</tr>
 			<tr>
 				<td rowspan=9 align=center>
-IBM Data Science Professional Certificate
-<a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Specialization</a> by IBM
+IBM Data Science
+<a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Professional Certificate</a> by IBM
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/what-is-datascience">What is Data Science?</a></td>
@@ -1256,8 +1256,8 @@ Data Engineering, Big Data, and Machine Learning on GCP
 			</tr>
 			<tr>
 				<td rowspan=5 align=center>
-Data Engineering with GCP Professional Certificate
-<a href="https://www.coursera.org/professional-certificates/gcp-data-engineering">Specialization</a> by Google Cloud
+Data Engineering with GCP
+<a href="https://www.coursera.org/professional-certificates/gcp-data-engineering">Professional Certificate</a> by Google Cloud
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a></td>
