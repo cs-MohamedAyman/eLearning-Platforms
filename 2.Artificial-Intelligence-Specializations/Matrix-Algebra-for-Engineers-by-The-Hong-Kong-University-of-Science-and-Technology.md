@@ -17,7 +17,6 @@
   - Video: Promotional Video
   - Reading: Welcome and Course Information
   - Practice Quiz: Diagnostic Quiz
-  - Discussion Prompt: Get to Know Your Classmates
   - Reading: How to Write Math in the Discussions Using MathJax
 - Introduction to Week One
   - Video: Introduction
@@ -128,38 +127,38 @@
 - Introduction to Week Four
   - Video: Introduction
 - Determinants
-  - Video: Two-by-Two and Three-by-Three Determinants |  28
+  - Video: Two-by-Two and Three-by-Three Determinants
   - Reading: Determinant of the Identity Matrix
   - Reading: Row Interchange
   - Reading: Determinant of a Matrix Product
-  - Video: Laplace Expansion |  29
+  - Video: Laplace Expansion
   - Reading: Compute Determinant Using the Laplace Expansion
-  - Video: Leibniz Formula |  30
+  - Video: Leibniz Formula
   - Reading: Compute Determinant Using the Leibniz Formula
-  - Video: Properties of a Determinant |  31
+  - Video: Properties of a Determinant
   - Reading: Determinant of a Matrix With Two Equal Rows
   - Reading: Determinant is a Linear Function of Any Row
   - Reading: Determinant Can Be Computed Using Row Reduction
   - Reading: Compute Determinant Using Gaussian Elimination
   - Practice Quiz: Determinants
 - The Eigenvalue Problem
-  - Video: The Eigenvalue Problem |  32
+  - Video: The Eigenvalue Problem
   - Reading: Characteristic Equation for a Three-by-Three Matrix
-  - Video: Finding Eigenvalues and Eigenvectors (1) |  33
+  - Video: Finding Eigenvalues and Eigenvectors (1)
   - Reading: Eigenvalues and Eigenvectors of a Two-by-Two Matrix
   - Reading: Eigenvalues and Eigenvectors of a Three-by-Three Matrix
-  - Video: Finding Eigenvalues and Eigenvectors (2) |  34
+  - Video: Finding Eigenvalues and Eigenvectors (2)
   - Reading: Complex Eigenvalues
   - Practice Quiz: The Eigenvalue Problem
 - Matrix Diagonalization
-  - Video: Matrix Diagonalization |  35
+  - Video: Matrix Diagonalization
   - Reading: Linearly Independent Eigenvectors
   - Reading: Invertibility of the Eigenvector Matrix
-  - Video: Matrix Diagonalization Example |  36
+  - Video: Matrix Diagonalization Example
   - Reading: Diagonalize a Three-by-Three Matrix
-  - Video: Powers of a Matrix |  37
+  - Video: Powers of a Matrix
   - Reading: Matrix Exponential
-  - Video: Powers of a Matrix Example |  38
+  - Video: Powers of a Matrix Example
   - Reading: Powers of a Matrix
   - Practice Quiz: Matrix Diagonalization
 - Quiz
