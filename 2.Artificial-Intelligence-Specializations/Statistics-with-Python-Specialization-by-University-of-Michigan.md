@@ -40,6 +40,7 @@ The courses in this specialization feature a variety of assignments that will te
 ## Course 1: [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data) `25H`
 
 ### Week 1: Introduction to Data
+```In the first week of the course, we will review a course outline and discover the various concepts and objectives to be mastered in the weeks to come. You will get an introduction to the field of statistics and explore a variety of perspectives the field has to offer. We will identify numerous types of data that exist and observe where they can be found in everyday life. You will delve into basic Python functionality, along with an introduction to Jupyter Notebook. All of the course information on grading, prerequisites, and expectations are on the course syllabus and you can find more information on our Course Resources page.```
 
 <details>
       <summary>Week Details</summary>
@@ -77,6 +78,7 @@ The courses in this specialization feature a variety of assignments that will te
 </details>
 
 ### Week 2: Univariate Data
+```In the second week of this course, we will be looking at graphical and numerical interpretations for one variable (univariate data). In particular, we will be creating and analyzing histograms, box plots, and numerical summaries of our data in order to give a basis of analysis for quantitative data and bar charts and pie charts for categorical data. A few key interpretations will be made about our numerical summaries such as mean, IQR, and standard deviation. An assessment is included at the end of the week concerning numerical summaries and interpretations of these summaries.```
 
 <details>
       <summary>Week Details</summary>
@@ -106,6 +108,7 @@ The courses in this specialization feature a variety of assignments that will te
 </details>
 
 ### Week 3: Multivariate Data
+```In the third week of this course on looking at data, we’ll introduce key ideas for examining research questions that require looking at more than one variable. In particular, we will consider both numerically and visually how different variables interact, how summaries can appear deceiving if you don’t properly account for interactions, and differences between quantitative and categorical variables. This week’s assignment will consist of a writing assignment along with reviewing those of your peers.```
 
 <details>
       <summary>Week Details</summary>
@@ -138,6 +141,7 @@ The courses in this specialization feature a variety of assignments that will te
 </details>
 
 ### Week 4: Populations and Samples
+```In this week, you’ll spend more time thinking about where data come from. The highest-quality statistical analyses of data will always incorporate information about the process used to generate the data, or features of the data collection design. You’ll be exposed to important concepts related to sampling from larger populations, including probability and non-probability sampling, and how we can make inferences about larger populations based on well-designed samples. You’ll also learn about the concept of a sampling distribution, and how estimation of the variance of that distribution plays a critical role in making statements about populations. Finally, you’ll learn about the importance of reading the documentation for a given data set; a key step in looking at data is also looking at the available documentation for that data set, which describes how the data were generated.```
 
 <details>
       <summary>Week Details</summary>
@@ -181,6 +185,9 @@ The courses in this specialization feature a variety of assignments that will te
 ## Course 2: [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python) `20H`
 
 ### Week 1: Overview & Inference Procedures
+```In this first week, we’ll review the course syllabus and discover the various concepts and objectives to be mastered in weeks to come. You’ll be introduced to inference methods and some of the research questions we’ll discuss in the course, as well as an overall framework for making decisions using data, considerations for how you make those decisions, and evaluating errors that you may have made.```
+
+```On the Python side, we’ll review some high level concepts from the first course in this series, Python’s statistics landscape, and walk through intermediate level Python concepts. All of the course information on grading, prerequisites, and expectations are on the course syllabus and you can find more information on our Course Resources page.```
 
 <details>
       <summary>Week Details</summary>
@@ -212,6 +219,7 @@ The courses in this specialization feature a variety of assignments that will te
 </details>
 
 ### Week 2: Confidence Intervals
+```In this second week, we will learn about estimating population parameters via confidence intervals. You will be introduced to five different types of population parameters, assumptions needed to calculate a confidence interval for each of these five parameters, and how to calculate confidence intervals. Quizzes will appear throughout the week to test your understanding. In addition, you’ll learn how to create confidence intervals in Python.```
 
 <details>
       <summary>Week Details</summary>
@@ -250,6 +258,7 @@ The courses in this specialization feature a variety of assignments that will te
 </details>
 
 ### Week 3: Hypothesis Testing
+```In week three, we’ll learn how to test various hypotheses - using the five different analysis methods covered in the previous week. We’ll discuss the importance of various factors and assumptions with hypothesis testing and learn to interpret our results. We will also review how to distinguish which procedure is appropriate for the research question at hand. Quizzes and a peer assessment will appear throughout the week to test your understanding.```
 
 <details>
       <summary>Week Details</summary>
@@ -292,6 +301,7 @@ The courses in this specialization feature a variety of assignments that will te
 </details>
 
 ### Week 4: Learner Application
+```In the final week of this course, we will walk through several examples and case studies that illustrate applications of the inferential procedures discussed in prior weeks. Learners will see examples of well-formulated research questions related to the study designs and data sets that we have discussed thus far, and via both confidence interval estimation and formal hypothesis testing, we will formulate inferential responses to those questions.```
 
 <details>
       <summary>Week Details</summary>
@@ -317,6 +327,7 @@ The courses in this specialization feature a variety of assignments that will te
 ## Course 3: [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) `15H`
 
 ### Week 1: Overview & Considerations for Statistical Modeling
+```We begin this third course of the Statistics with Python specialization with an overview of what is meant by “fitting statistical models to data.” In this first week, we will introduce key model fitting concepts, including the distinction between dependent and independent variables, how to account for study designs when fitting models, assessing the quality of model fit, exploring how different types of variables are handled in statistical modeling, and clearly defining the objectives of fitting models.```
 
 <details>
       <summary>Week Details</summary>
@@ -345,6 +356,7 @@ The courses in this specialization feature a variety of assignments that will te
 </details>
 
 ### Week 2: Fitting Models to Independent Data
+```In this second week, we’ll introduce you to the basics of two types of regression: linear regression and logistic regression. You’ll get the chance to think about how to fit models, how to assess how well those models fit, and to consider how to interpret those models in the context of the data. You’ll also learn how to implement those models within Python.```
 
 <details>
       <summary>Week Details</summary>
@@ -374,6 +386,7 @@ The courses in this specialization feature a variety of assignments that will te
 </details>
 
 ### Week 3: Fitting Models to Dependent Data
+```In the third week of this course, we will be building upon the modeling concepts discussed in Week 2. Multilevel and marginal models will be our main topic of discussion, as these models enable researchers to account for dependencies in variables of interest introduced by study designs. We’ll be covering why and when we fit these alternative models, likelihood ratio tests, as well as fixed effects and their interpretations.```
 
 <details>
       <summary>Week Details</summary>
@@ -402,6 +415,7 @@ The courses in this specialization feature a variety of assignments that will te
 </details>
 
 ### Week 4: Special Topics
+```In this final week, we introduce special topics that extend the curriculum from previous weeks and courses further. We will cover a broad range of topics such as various types of dependent variables, exploring sampling methods and whether or not to use survey weights when fitting models, and in-depth case studies utilizing Bayesian techniques to derive insights from data. You’ll also have the opportunity to apply Bayesian techniques in Python.```
 
 <details>
       <summary>Week Details</summary>
