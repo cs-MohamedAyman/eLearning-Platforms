@@ -43,6 +43,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - Introduction
   - Video: Welcome to the Course!
@@ -79,6 +80,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - What Can You Do With Univariate Data?
   - Video: Categorical Data: Tables, Bar Charts & Pie Charts
@@ -107,6 +109,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - What Can You Do with Multivariate Data?
   - Video: Looking at Associations with Multivariate Categorical Data
@@ -138,6 +141,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - Populations vs. Samples
   - Reading: Building on Visualization Concepts
@@ -180,6 +184,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - Introduction to this Course
   - Video: Welcome to the Course!
@@ -210,6 +215,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - One Proportion
   - Video: Estimating a Population Proportion with Confidence
@@ -247,6 +253,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - One Proportion
   - Video: Setting Up a Test for a Population Proportion
@@ -288,6 +295,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - Learner Application
   - Reading: Assumptions Consistency
@@ -312,6 +320,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - About This Course
   - Video: Welcome to the Course!
@@ -339,6 +348,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - Continuous Dependent Variables
   - Video: Linear Regression Introduction
@@ -367,6 +377,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - Multilevel Models
   - Video: What are Multilevel Models and Why Do We Fit Them?
@@ -394,6 +405,7 @@ The courses in this specialization feature a variety of assignments that will te
 
 <details>
       <summary>Week Details</summary>
+<br>
 
 - Special Topics
   - Reading: Other Types of Dependent Variables
