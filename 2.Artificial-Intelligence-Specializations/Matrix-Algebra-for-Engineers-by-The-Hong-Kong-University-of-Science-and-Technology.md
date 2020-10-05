@@ -13,6 +13,7 @@
 ## Syllabus - What you will learn from this course
 
 ### Week 1: Matrices
+```Matrices are rectangular arrays of numbers or other mathematical objects. We define matrices and how to add and multiply them, discuss some special matrices such as the identity and zero matrix, learn about transposes and inverses, and define orthogonal and permutation matrices.```
 
 <details>
       <summary>Week Details</summary>
@@ -68,6 +69,7 @@
 </details>
 
 ### Week 2: Systems of Linear Equations
+```A system of linear equations can be written in matrix form, and can be solved using Gaussian elimination. We learn how to bring a matrix to reduced row echelon form, and how this can be used to compute a matrix inverse. We learn how to find the LU decomposition of a matrix, and how to use this decomposition to efficiently solve a system of linear equations with evolving right-hand sides.```
 
 <details>
       <summary>Week Details</summary>
@@ -96,6 +98,7 @@
 </details>
 
 ### Week 3: Vector Spaces
+```A vector space consists of a set of vectors and a set of scalars that is closed under vector addition and scalar multiplication and that satisfies the usual rules of arithmetic. We learn some of the vocabulary and phrases of linear algebra, such as linear independence, span, basis and dimension. We learn about the four fundamental subspaces of a matrix, the Gram-Schmidt process, orthogonal projection, and the matrix formulation of the least-squares problem of drawing a straight line to fit noisy data.```
 
 <details>
       <summary>Week Details</summary>
@@ -142,6 +145,7 @@
 </details>
 
 ### Week 4: Eigenvalues and Eigenvectors
+```An eigenvector of a matrix is a nonzero column vector that when multiplied by the matrix is only multiplied by a scalar, called the eigenvalue. We learn about the eigenvalue problem and how to use determinants to find the eigenvalues of a matrix. We learn how to compute determinants using the Laplace expansion, the Leibniz formula, or by row or column elimination. We also learn how to diagonalize a matrix using its eigenvalues and eigenvectors, and how this leads to an easy calculation of a matrix raised to a power.```
 
 <details>
       <summary>Week Details</summary>
