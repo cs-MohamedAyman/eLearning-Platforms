@@ -68,6 +68,11 @@ When you finish this class, you will:
 
 ### Week 1: Introduction to deep learning
 ```Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Welcome to the Deep Learning Specialization
   - Video: Welcome
 - Introduction to Deep Learning
@@ -82,9 +87,15 @@ When you finish this class, you will:
   - Quiz: Introduction to deep learning
 - Heroes of Deep Learning (Optional)
   - Video: Geoffrey Hinton interview
+</details>
 
 ### Week 2: Neural Networks Basics
 ```Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Logistic Regression as a Neural Network
   - Video: Binary Classification
   - Video: Logistic Regression
@@ -121,9 +132,15 @@ When you finish this class, you will:
   - Programming Assignment: Logistic Regression with a Neural Network mindset
 - Heroes of Deep Learning (Optional)
   - Video: Pieter Abbeel interview
+</details>
 
 ### Week 3: Shallow neural networks
 ```Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Shallow Neural Network
   - Video: Neural Networks Overview
   - Video: Neural Network Representation
@@ -145,9 +162,15 @@ When you finish this class, you will:
   - Programming Assignment: Planar data classification with a hidden layer
 - Heroes of Deep Learning (Optional)
   - Video: Ian Goodfellow interview
+</details>
 
 ### Week 4: Deep Neural Networks
 ```Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Deep Neural Network
   - Video: Deep L-layer neural network
   - Video: Forward Propagation in a Deep Network
@@ -167,10 +190,16 @@ When you finish this class, you will:
   - Programming Assignment: Building your deep neural network: Step by Step
   - Lab: Deep Neural Network - Application
   - Programming Assignment: Deep Neural Network Application
+</details>
 
 ## Course 2: [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network) `25H`
 
 ### Week 1: Practical aspects of Deep Learning
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Setting up your Machine Learning Application
   - Video: Train / Dev / Test sets
   - Video: Bias / Variance
@@ -202,8 +231,14 @@ When you finish this class, you will:
   - Programming Assignment: Gradient Checking
 - Heroes of Deep Learning (Optional)
   - Video: Yoshua Bengio interview
+</details>
 
 ### Week 2: Optimization algorithms
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Optimization algorithms
   - Video: Mini-batch gradient descent
   - Video: Understanding mini-batch gradient descent
@@ -224,8 +259,14 @@ When you finish this class, you will:
   - Programming Assignment: Optimization
 - Heroes of Deep Learning (Optional)
   - Video: Yuanqing Lin interview
+</details>
 
 ### Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Hyperparameter tuning
   - Video: Tuning process
   - Video: Using an appropriate scale to pick hyperparameters
@@ -248,10 +289,16 @@ When you finish this class, you will:
   - Reading: Note about TensorFlow 1 and TensorFlow 2
   - Lab: Tensorflow
   - Programming Assignment: Tensorflow
+</details>
 
 ## Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) `5H`
 
 ### Week 1: ML Strategy (1)
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to ML Strategy
   - Video: Why ML Strategy
   - Video: Orthogonalization
@@ -272,8 +319,14 @@ When you finish this class, you will:
   - Quiz: Bird recognition in the city of Peacetopia (case study)
 - Heroes of Deep Learning (Optional)
   - Video: Andrej Karpathy interview
+</details>
 
 ### Week 2: ML Strategy (2)
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Error Analysis
   - Video: Carrying out error analysis
   - Video: Cleaning up incorrectly labeled data
@@ -292,11 +345,17 @@ When you finish this class, you will:
   - Quiz: Autonomous driving (case study)
 - Heroes of Deep Learning (Optional)
   - Video: Ruslan Salakhutdinov interview
+</details>
 
 ## Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) `25H`
 
 ### Week 1: Foundations of Convolutional Neural Networks
 ```Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Convolutional Neural Networks
   - Video: Computer Vision
   - Video: Edge Detection Example
@@ -322,9 +381,15 @@ When you finish this class, you will:
   - Programming Assignment: Convolutional model: application
 - Heroes of Deep Learning (Optional)
   - Video: Yann LeCun Interview
+</details>
 
 ### Week 2: Deep convolutional models: case studies
 ```Learn about the practical tricks and methods used in deep CNNs straight from the research papers.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Case studies
   - Video: Why look at case studies?
   - Video: Classic Networks
@@ -345,9 +410,15 @@ When you finish this class, you will:
   - Lab: Keras Tutorial (not graded)
   - Lab: Residual Networks
   - Programming Assignment: Residual Networks
+</details>
 
 ### Week 3: Object detection
 ```Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Detection algorithms
   - Video: Object Localization
   - Video: Landmark Detection
@@ -366,9 +437,15 @@ When you finish this class, you will:
 - Programming assignments
   - Lab: Car detection with YOLO
   - Programming Assignment: Car detection with YOLO
+</details>
 
 ### Week 4: Special applications: Face recognition & Neural style transfer
 ```Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Face Recognition
   - Video: What is face recognition?
   - Video: One Shot Learning
@@ -392,11 +469,17 @@ When you finish this class, you will:
   - Programming Assignment: Art generation with Neural Style Transfer
   - Lab: Face Recognition
   - Programming Assignment: Face Recognition
+</details>
 
 ## Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) `20H`
 
 ### Week 1: Recurrent Neural Networks
 ```Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Recurrent Neural Networks
   - Video: Why sequence models
   - Video: Notation
@@ -421,9 +504,15 @@ When you finish this class, you will:
   - Programming Assignment: Dinosaur Island - Character-Level Language Modeling
   - Lab: Jazz improvisation with LSTM
   - Programming Assignment: Jazz improvisation with LSTM
+</details>
 
 ### Week 2: Natural Language Processing & Word Embeddings
 ```Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to Word Embeddings
   - Video: Word Representation
   - Video: Using word embeddings
@@ -445,9 +534,15 @@ When you finish this class, you will:
   - Programming Assignment: Operations on word vectors - Debiasing
   - Lab: Emojify
   - Programming Assignment: Emojify
+</details>
 
 ### Week 3: Sequence models & Attention mechanism
 ```Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Various sequence to sequence architectures
   - Video: Basic Models
   - Video: Picking the most likely sentence
@@ -473,3 +568,4 @@ When you finish this class, you will:
   - Reading: Instructions if you are unable to open your notebook
   - Lab: Trigger word detection
   - Programming Assignment: Trigger word detection
+</details>
