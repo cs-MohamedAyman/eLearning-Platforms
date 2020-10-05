@@ -49,6 +49,11 @@ and recommend better treatments. This Specialization will give you practical exp
 
 ### Week 1: Disease detection with computer vision
 ```By the end of this week, you will practice classifying diseases on chest x-rays using a neural network.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Welcome to the AI for Medicine Specialization
   - Video: Welcome to the Specialization with Andrew and Pranav
   - Video: Demo
@@ -84,9 +89,15 @@ and recommend better treatments. This Specialization will give you practical exp
   - Reading: About the automatic grader
   - Programming Assignment: Chest X-Ray Medical Diagnosis with Deep Learning
   - Reading: How to refresh your workspace
+</details>
 
 ### Week 2: Evaluating models
 ```By the end of this week, you will practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Key evaluation metrics
   - Video: Sensitivity, Specificity, and Evaluation Metrics
   - Video: Accuracy in terms of conditional probability
@@ -105,9 +116,15 @@ and recommend better treatments. This Specialization will give you practical exp
   - Practice Quiz: Week 2 Quiz: Evaluating machine learning models
 - Programming: Evaluation metrics
   - Programming Assignment: Evaluation of Diagnostic Models
+</details>
 
 ### Week 3: Image segmentation on MRI images
 ```By the end of this week, you will prepare 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Explore MRI data
   - Video: Medical Image Segmentation
   - Lab: Explore MRI data
@@ -133,11 +150,17 @@ and recommend better treatments. This Specialization will give you practical exp
   - Video: Congratulations!
   - Reading: Acknowledgements
   - Reading: Citations
+</details>
 
 ## Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis) `25H`
 
 ### Week 1: Linear prognostic models
 ```Build a linear prognostic model using logistic regression, then evaluate the model by calculating the concordance index. Finally, improve the model by adding feature interactions.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to Prognostic models
   - Video: Course 2 Intro with Andrew and Pranav
   - Video: Prerequisites and Learning Outcomes
@@ -166,10 +189,16 @@ and recommend better treatments. This Specialization will give you practical exp
   - Reading: About the automatic grader
   - Programming Assignment: Build and Evaluate a Linear Risk model
   - Reading: How to refresh your workspace
+</details>
 
 ### Week 2: Prognosis with Tree-based models
 ```Tune decision tree and random forest models to predict the risk of a disease. Evaluate the model performance using the c-index. Identify missing data and how it may alter the data distribution, then use imputation to fill in missing data, in order to improve model performance.```
-- Tree-based models/
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
+- Tree-based models
   - Video: Decision trees for prognosis
   - Video: Decision trees
   - Video: Dividing the input space
@@ -194,9 +223,15 @@ and recommend better treatments. This Specialization will give you practical exp
   - Practice Quiz: Week 2 Quiz
 - Assessment: Tree based models, missing data, and imputation
   - Programming Assignment: Risk Models Using Tree-based Models
+</details>
 
 ### Week 3: Survival Models and Time
 ```This week, you will work with data where the time that a disease occurs is a variable. Instead of predicting just the 10-year risk of a disease, you will build more flexible models that can predict the 5 year, 7 year, or 10 year risk.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Survival estimates
   - Video: Survival models
   - Video: Survival Function
@@ -222,9 +257,15 @@ and recommend better treatments. This Specialization will give you practical exp
   - Practice Quiz: Week 3 Quiz
 - Assessment: Survival Estimates that Varies with Time
   - Programming Assignment: Survival Estimates that Varies with Time
+</details>
 
 ### Week 4: Build a risk model using linear and tree-based models
 ```This week, you will fit a linear model, and a tree-based risk model on survival data, to customize a risk score for each patient, based on their health profile. The risk score represents the patient’s relative risk of getting a particular disease. You will then evaluate each model’s performance by implementing and using a concordance index that incorporates time to event and censored data.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Survival and hazard functions
   - Video: Hazard Functions
   - Video: Hazard
@@ -264,11 +305,17 @@ and recommend better treatments. This Specialization will give you practical exp
   - Reading: Congratulations on finishing course 2!
   - Reading: Acknowledgements
   - Reading: Citations
+</details>
 
 ## Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment) `25H`
 
 ### Week 1: Treatment Effect Estimation
 ```In this week, you will learn: How to analyze data from a randomized control trial, interpreting multivariate models, evaluating treatment effect models, and interpreting ML models for treatment effect estimation.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Intro
   - Video: Intro to Course 3 with Andrew and Pranav
   - Video: About Course 3
@@ -295,9 +342,15 @@ and recommend better treatments. This Specialization will give you practical exp
   - Reading: About the automatic grader
   - Reading: How to refresh your workspace
   - Programming Assignment: Estimating Treatment Effect Using Machine Learning
+</details>
 
 ### Week 2: Medical Question Answering
 ```In this week, you will learn how to extract disease labels from clinical reports, and also question answering with BERT.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Question Answering
   - Video: Medical question answering
   - Video: Handling words with multiple meanings
@@ -318,9 +371,15 @@ and recommend better treatments. This Specialization will give you practical exp
   - Practice Quiz: Quiz: Information Extraction with NLP
 - Assignment: Natural Language Entity Extraction
   - Programming Assignment: Natural Language Entity Extraction
+</details>
 
 ### Week 3: ML Interpretation
 ```In this week, you will learn how to interpret deep learning models, and also feature importance in machine learning.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Feature Importance
   - Video: Drop column method
   - Video: Permutation method
@@ -343,3 +402,4 @@ and recommend better treatments. This Specialization will give you practical exp
 - Acknowledgments
   - Reading: Acknowledgements
   - Reading: Citations
+</details>
