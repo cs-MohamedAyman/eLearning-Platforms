@@ -43,6 +43,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 ## Course 1: [Basic Data Processing and Visualization](https://www.coursera.org/learn/basic-data-processing-visualization-python) `10H`
 
 ### Week 1: Introduction to Data
+```This week, we will go over the syllabus and set you up with the course materials and software. We will introduce you to data products and refresh your memory on Python and Jupyter notebooks.```
 
 <details>
       <summary>Week Details</summary>
@@ -68,6 +69,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 2: Univariate Data
+```This week, we will learn how to load in datasets from CSV and JSON files. We will also practice manipulating data from these datasets with basic Python commands.```
 
 <details>
       <summary>Week Details</summary>
@@ -88,6 +90,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 3: Multivariate Data
+```This week, our goal is to understand how to clean up a dataset before analyzing it. We will go over how to work with different types of data, such as strings and dates.```
 
 <details>
       <summary>Week Details</summary>
@@ -106,6 +109,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 4: Populations and Samples
+```In this last week, we will get a sense of common libraries in Python and how they can be useful. We will cover data visualization with numpy and MatPlotLib, and also introduce you to the basics of webscraping with urllib and BeautifulSoup.```
 
 <details>
       <summary>Week Details</summary>
@@ -129,6 +133,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 5: Populations and Samples
+```Create your own Jupyter notebook with a dataset of your own choosing and practice data manipulation. Show off the skills you've learned and the libraries you know about in this project. We hope you enjoyed the course, and best of luck in your future learning!```
 
 <details>
       <summary>Week Details</summary>
@@ -147,6 +152,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 ## Course 2: [Design Thinking and Predictive Analytics for Data Products](https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products) `10H`
 
 ### Week 1: Overview & Inference Procedures
+```Welcome to the second course in this specialization! This week, we will go over the syllabus, download all course materials, and get your system up and running for the course. We will also introduce the basics of supervised learning and regression.```
 
 <details>
       <summary>Week Details</summary>
@@ -172,6 +178,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 2: Confidence Intervals
+```This week, we will learn what features are in a dataset and how we can work with them through cleaning, manipulation, and analysis in Jupyter notebooks.```
 
 <details>
       <summary>Week Details</summary>
@@ -190,6 +197,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 3: Hypothesis Testing
+```This week, we will learn about classification and several ways you can implement it, such as K-nearest neighbors, logistic regression, and support vector machines.```
 
 <details>
       <summary>Week Details</summary>
@@ -207,6 +215,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 4: Confidence Intervals
+```This week, we will learn the importance of properly training and testing a model. We will also implement gradient descent in both Python and TensorFlow.```
 
 <details>
       <summary>Week Details</summary>
@@ -226,6 +235,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 5: Hypothesis Testing
+```In the final week of this course, you will continue building on the project from the first course of Python Data Products for Predictive Analytics with simple predictive machine learning algorithms. Find a dataset, clean it, and perform basic analyses on the data.```
 
 <details>
       <summary>Week Details</summary>
@@ -241,6 +251,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 ## Course 3: [Meaningful Predictive Modeling](https://www.coursera.org/learn/meaningful-predictive-modeling) `10H`
 
 ### Week 1: Diagnostics for Data
+```For this first week, we will go over the syllabus, download all course materials, and get your system up and running for the course. We will also introduce the basics of diagnostics for the results of supervised learning.```
 
 <details>
       <summary>Week Details</summary>
@@ -267,6 +278,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 2: Codebases, Regularization, and Evaluating a Model
+```This week, we will learn how to create a simple bag of words for analysis. We will also cover regularization and why it matters when building a model. Lastly, we will evaluate a model with regularization, focusing on classifiers.```
 
 <details>
       <summary>Week Details</summary>
@@ -286,6 +298,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 3: Validation and Pipelines
+```This week, we will learn about validation and how to implement it in tandem with training and testing. We will also cover how to implement a regularization pipeline in Python and introduce a few guidelines for best practices.```
 
 <details>
       <summary>Week Details</summary>
@@ -304,6 +317,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 4: Final Project
+```In the final week of this course, you will continue building on the project from the first and second courses of Python Data Products for Predictive Analytics with simple predictive machine learning algorithms. Find a dataset, clean it, and perform basic analyses on the data. Evaluate your model, validate your analyses, and make sure you aren't overfitting the data.```
 
 <details>
       <summary>Week Details</summary>
@@ -319,6 +333,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 ## Course 4: [Deploying Machine Learning Models](https://www.coursera.org/learn/deploying-machine-learning-models) `10H`
 
 ### Week 1: Introduction
+```Welcome to the first week of Deploying Machine Learning Models! We will go over the syllabus, download all course materials, and get your system up and running for the course. We will also introduce the basics of recommender systems and differentiate it from other types of machine learning```
 
 <details>
       <summary>Week Details</summary>
@@ -342,6 +357,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 2: Implementing Recommender Systems
+```This week, we will learn how to implement a similarity-based recommender, returning predictions similar to an user's given item. We will cover how to optimize these models based on gradient descent and Jaccard similarity.```
 
 <details>
       <summary>Week Details</summary>
@@ -360,6 +376,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 3: Deploying Recommender Systems
+```This week, we will learn about Python web server frameworks and the overall structure of interactive Python data applications. We will also cover some tips for best practices on deploying and monitoring your applications.```
 
 <details>
       <summary>Week Details</summary>
@@ -376,6 +393,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 4: Project 4: Recommender System
+```For this final project, you will build a recommender system of your own. Find a dataset, clean it, and create a predictive system from the dataset. This will help prepare you for the upcoming capstone, where you will harness your skills from all courses of this specialization into one single project!```
 
 <details>
       <summary>Week Details</summary>
@@ -389,6 +407,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 </details>
 
 ### Week 5: Capstone
+```Time to put all your hard work to the test! This capstone project consists of four components, each drawing from a separate course in this specialization. It's time to show off everything you've learned from this specialization.```
 
 <details>
       <summary>Week Details</summary>
