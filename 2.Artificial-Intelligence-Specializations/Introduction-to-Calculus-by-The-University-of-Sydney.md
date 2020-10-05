@@ -14,6 +14,11 @@
 
 ### Week 1: Precalculus (Setting the scene)
 ```This module begins by looking at the different kinds of numbers that fall on the real number line, decimal expansions and approximations, then continues with an exploration of manipulation of equations and inequalities, of sign diagrams and the use of the Cartesian plane.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to the course
   - Video: Welcome and introduction to Module 1
 - Numbers and their representations
@@ -46,9 +51,15 @@
   - Practice Quiz: Lines and circles in the plane
 - Assessment
   - Quiz: Module 1 quiz
+</details>
 
 ### Week 2: Functions (Useful and important repertoire)
 ```This module introduces the notion of a function which captures precisely ways in which different quantities or measurements are linked together. The module covers quadratic, cubic and general power and polynomial functions; exponential and logarithmic functions; and trigonometric functions related to the mathematics of periodic behaviour. We create new functions using composition and inversion and look at how to move backwards and forwards between quantities algebraically, as well as visually, with transformations in the xy-plane.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction
   - Video: Introduction to Module 2
 - Parabolas, quadratics and the quadratic formula
@@ -93,9 +104,15 @@
   - Practice Quiz: Inverse circular functions
 - Assessment
   - Quiz: Module 2 quiz
+</details>
 
 ### Week 3: Introducing the differential calculus
 ```This module introduces techniques of differential calculus. We look at average rates of change which become instantaneous, as time intervals become vanishingly small, leading to the notion of a derivative. We then explore techniques involving differentials that exploit tangent lines. The module introduces Leibniz notation and shows how to use it to get information easily about the derivative of a function and how to apply it.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction
   - Video: Introduction to Module 3
 - Rates of change and tangent lines
@@ -135,9 +152,15 @@
   - Practice Quiz: Differentials and applications
 - Assessment
   - Quiz: Module 3 quiz
+</details>
 
 ### Week 4: Properties and applications of the derivative
 ```This module continues the development of differential calculus by introducing the first and second derivatives of a function. We use sign diagrams of the first and second derivatives and from this, develop a systematic protocol for curve sketching. The module also introduces rules for finding derivatives of complicated functions built from simpler functions, using the Chain Rule, the Product Rule, and the Quotient Rule, and how to exploit information about the derivative to solve difficult optimisation problems.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction
   - Video: Introduction to Module 4
 - First derivatives and turning points
@@ -187,9 +210,15 @@
   - Practice Quiz: The Second Derivative Test
 - Assessment
   - Quiz: Module 4 quiz
+</details>
 
 ### Week 5: Introducing the integral calculus
 ```This fifth and final module introduces integral calculus, looking at the slopes of tangent lines and areas under curves. This leads to the Fundamental Theorem of Calculus. We explore the use of areas under velocity curves to estimate displacement, using averages of lower and upper rectangular approximations. We then look at limits of approximations, to discover the formula for the area of a circle and the area under a parabola. We then develop methods for capturing precisely areas under curves, using Riemann sums and the definite integral. The module then introduces indefinite integrals and the method of integration by substitution. Finally, we discuss properties of odd and even functions, related to rotational and reflectional symmetry, and the logistic function, which modifies exponential growth.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction
   - Video: Introduction to Module 5
 - Velocity and displacement
@@ -231,3 +260,4 @@
   - Reading: Formula Sheet
 - Assessment
   - Quiz: Module 5 quiz
+</details>
