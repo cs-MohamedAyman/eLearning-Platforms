@@ -50,6 +50,11 @@ Through the assignments of this specialisation you will use the skills you have 
 ## Course 1: [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) `20H`
 
 ### Week 1: Introduction to Linear Algebra and to Mathematics for Machine Learning
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Welcome to this course
   - Video: Introduction: Solving data science challenges with mathematics
   - Reading: About Imperial College & the team
@@ -67,8 +72,14 @@ Through the assignments of this specialisation you will use the skills you have 
   - Practice Quiz: Doing some vector operations
 - Summary
   - Video: Summary
+</details>
 
 ### Week 2: Vectors are objects that move around space
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction
   - Video: Introduction to module 2 - Vectors
 - Finding the size of a vector, its angle, and projection
@@ -85,8 +96,14 @@ Through the assignments of this specialisation you will use the skills you have 
 - Doing some real-world vectors examples
   - Quiz: Vector operations assessment
   - Video: Summary
+</details>
 
 ### Week 3: Matrices in Linear Algebra: Objects that operate on Vectors
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to matrices
   - Video: Matrices, vectors, and solving simultaneous equation problems
 - Matrices in linear algebra: operating on vectors
@@ -103,8 +120,14 @@ Through the assignments of this specialisation you will use the skills you have 
   - Lab: Identifying special matrices
   - Video: Summary
   - Programming Assignment: Identifying special matrices
+</details>
 
 ### Week 4: Matrices make linear mappings
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Matrices as objects that map one vector onto another; all the types of matrices
   - Video: Introduction: Einstein summation convention and the symmetry of the dot product
   - Practice Quiz: Non-square matrix multiplication
@@ -121,8 +144,14 @@ Through the assignments of this specialisation you will use the skills you have 
   - Lab: Reflecting Bear
   - Programming Assignment: Gram-Schmidt Process
   - Programming Assignment: Reflecting Bear
+</details>
 
 ### Week 5: Eigenvalues and Eigenvectors: Application to Data Problems
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - What are eigen-things?
   - Video: Welcome to module 5
   - Video: What are eigenvalues and eigenvectors?
@@ -146,10 +175,16 @@ Through the assignments of this specialisation you will use the skills you have 
   - Video: Wrap up of this linear algebra course
   - Reading: Did you like the course? Let us know!
   - Post-Course Survey
+</details>
 
 ## Course 2: [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) `20H`
 
 ### Week 1: What is calculus?
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Welcome to this course
   - Video: Welcome to Multivariate Calculus
   - Reading: About Imperial College & the team
@@ -176,8 +211,14 @@ Through the assignments of this specialisation you will use the skills you have 
 - Assessment
   - Quiz: Unleashing the toolbox
   - Video: See you next module!
+</details>
 
 ### Week 2: Multivariate calculus
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Moving to multivariate
   - Video: Welcome to Module 2!
   - Video: Variables, constants & context
@@ -197,8 +238,14 @@ Through the assignments of this specialisation you will use the skills you have 
   - Video: Reality is hard
   - Quiz: Assessment: Jacobians and Hessians
   - Video: See you next module!
+</details>
 
 ### Week 3: Multivariate chain rule and its applications
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Chain rule intro.
   - Video: Welcome to Module 3!
   - Video: Multivariate chain rule
@@ -212,8 +259,14 @@ Through the assignments of this specialisation you will use the skills you have 
   - Lab: Backpropagation
   - Programming Assignment: Backpropagation
   - Video: See you next module!
+</details>
 
 ### Week 4: Taylor series and linearisation
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Taylor series for approximations
   - Video: Welcome to Module 4!
   - Video: Building approximate functions
@@ -231,8 +284,14 @@ Through the assignments of this specialisation you will use the skills you have 
   - Practice Quiz: 2D Taylor series
   - Quiz: Taylor Series Assessment
   - Video: See you next module!
+</details>
 
 ### Week 5: Intro to optimisation
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Fitting as minimisation problem
   - Video: Welcome to Module 5!
   - Practice Quiz: Newton-Raphson in one dimension
@@ -245,8 +304,14 @@ Through the assignments of this specialisation you will use the skills you have 
 - Assessment
   - Quiz: Optimisation scenarios
   - Video: See you next module!
+</details>
 
 ### Week 6: Regression
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Into to linear regression
   - Video: Simple linear regression
   - Practice Quiz: Linear regression
@@ -259,10 +324,16 @@ Through the assignments of this specialisation you will use the skills you have 
   - Video: Wrap up of this course
   - Reading: Did you like the course? Let us know!
   - Post-course Survey
+</details>
 
 ## Course 3: [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) `20H`
 
 ### Week 1: Statistics of Datasets
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Welcome to this course
   - Video: Introduction to the course
   - Reading: About Imperial College & the team
@@ -289,8 +360,14 @@ Through the assignments of this specialisation you will use the skills you have 
   - Lab: Mean/covariance of a dataset + effect of a linear transformation
   - Programming Assignment: Mean/covariance of a dataset + effect of a linear transformation
   - Video: See you next module!
+</details>
 
 ### Week 2: Inner Products
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Dot product
   - Video: Welcome to module 2
   - Video: Dot product
@@ -308,8 +385,14 @@ Through the assignments of this specialisation you will use the skills you have 
   - Programming Assignment: Inner products and angles
   - Video: Inner products of functions and random variables (optional)
   - Video: Heading for the next module!
+</details>
 
 ### Week 3: Orthogonal Projections
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Projections
   - Video: Welcome to module 3
   - Video: Projection onto 1D subspaces
@@ -322,8 +405,14 @@ Through the assignments of this specialisation you will use the skills you have 
   - Lab: Orthogonal projections
   - Programming Assignment: Orthogonal projections
   - Video: This was module 3!
+</details>
 
 ### Week 4: Principal Component Analysis
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - PCA derivation
   - Video: Welcome to module 4
   - Reading: Vector spaces
@@ -345,3 +434,4 @@ Through the assignments of this specialisation you will use the skills you have 
   - Video: This was the course on PCA
   - Reading: Did you like the course? Let us know!
   - Post-Course Survey
+</details>
