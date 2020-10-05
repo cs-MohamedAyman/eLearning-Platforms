@@ -75,6 +75,11 @@ Learners will implement and apply predictive, classification, clustering, and in
 
 ### Week 1: Welcome
 ```Machine learning is everywhere, but is often operating behind the scenes. This introduction to the specialization provides you with insights into the power of machine learning, and the multitude of intelligent applications you personally will be able to develop and deploy upon completion.We also discuss who we are, how we got here, and our view of the future of intelligent applications.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Why you should learn machine learning with us
   - Reading: Important Update regarding the Machine Learning Specialization
   - Reading: Slides presented in this module
@@ -104,9 +109,15 @@ Learners will implement and apply predictive, classification, clustering, and in
   - Video: Canvas for data visualization
   - Video: Interacting with columns of an SFrame
   - Video: Using .apply() for data transformation
+</details>
 
 ### Week 2: Regression: Predicting House Prices
 ```This week you will build your first intelligent application that makes predictions from data.We will explore this idea within the context of our first case study, predicting house prices, where you will create models that predict a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...). This is just one of the many places where regression can be applied.Other applications range from predicting health outcomes in medicine, stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.You will also examine how to analyze the performance of your predictive model and implement regression in practice using a Jupyter notebook.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Linear regression modeling
   - Reading: Slides presented in this module
   - Video: Predicting house prices: A case study in regression
@@ -136,9 +147,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming assignment
   - Reading: Reading: Predicting house prices assignment
   - Quiz: Predicting house prices
+</details>
 
 ### Week 3: Classification: Analyzing Sentiment
 ```How do you guess whether a person felt positively or negatively about an experience, just from a short review they wrote?In our second case study, analyzing sentiment, you will create models that predict a class (positive/negative sentiment) from input features (text of the reviews, user profile information,...).This task is an example of classification, one of the most widely used areas of machine learning, with a broad array of applications, including ad targeting, spam detection, medical diagnosis and image classification.You will analyze the accuracy of your classifier, implement an actual classifier in a Jupyter notebook, and take a first stab at a core piece of the intelligent application you will build and deploy in your capstone.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Classification modeling
   - Reading: Slides presented in this module
   - Video: Analyzing the sentiment of reviews: A case study in classification
@@ -168,9 +185,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming assignment
   - Reading: Reading: Analyzing product sentiment assignment
   - Quiz: Analyzing product sentiment
+</details>
 
 ### Week 4: Clustering and Similarity: Retrieving Documents
 ```A reader is interested in a specific news article and you want to find a similar articles to recommend. What is the right notion of similarity? How do I automatically search over documents to find the one that is most similar? How do I quantitatively represent the documents in the first place?In this third case study, retrieving documents, you will examine various document representations and an algorithm to retrieve the most similar subset. You will also consider structured representations of the documents that automatically group articles by similarity (e.g., document topic).You will actually build an intelligent document retrieval system for Wikipedia entries in an Jupyter notebook.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Algorithms for retrieval and measuring similarity of documents
   - Reading: Slides presented in this module
   - Video: Document retrieval: A case study in clustering and measuring similarity
@@ -198,9 +221,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming assignment
   - Reading: Reading: Retrieving Wikipedia articles assignment
   - Quiz: Retrieving Wikipedia articles
+</details>
 
 ### Week 5: Recommending Products
 ```Ever wonder how Amazon forms its personalized product recommendations? How Netflix suggests movies to watch? How Pandora selects the next song to stream? How Facebook or LinkedIn finds people you might connect with? Underlying all of these technologies for personalized content is something called collaborative filtering. You will learn how to build such a recommender system using a variety of techniques, and explore their tradeoffs. One method we examine is matrix factorization, which learns features of users and products to form recommendations. In a Jupyter notebook, you will use these techniques to build a real song recommender system.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Recommender systems
   - Reading: Slides presented in this module
   - Video: Recommender systems overview
@@ -232,10 +261,16 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming assignment
   - Reading: Reading: Recommending songs assignment
   - Quiz: Recommending songs
+</details>
 
 ### Week 6: Deep Learning: Searching for Images & Closing Remarks
 ```You’ve probably heard that Deep Learning is making news across the world as one of the most promising techniques in machine learning. Every industry is dedicating resources to unlock the deep learning potential, including for tasks such as image tagging, object recognition, speech recognition, and text analysis.In our final case study, searching for images, you will learn how layers of neural networks provide very descriptive (non-linear) features that provide impressive performance in image classification and retrieval tasks. You will then construct deep features, a transfer learning technique that allows you to use deep learning very easily, even when you have little data to train the model.Using iPhython notebooks, you will build an image classifier and an intelligent image retrieval system with deep learning.```
 ```In the conclusion of the course, we will describe the final stage in turning our machine learning tools into a service: deployment.We will also discuss some open challenges that the field of machine learning still faces, and where we think machine learning is heading. We conclude with an overview of what's in store for you in the rest of the specialization, and the amazing intelligent applications that are ahead for us as we evolve machine learning.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Neural networks: Learning very non-linear features
   - Reading: Slides presented in this module
   - Video: Searching for images: A case study in deep learning
@@ -277,6 +312,7 @@ Learners will implement and apply predictive, classification, clustering, and in
   - Video: Where is ML going?
   - Video: What's ahead in the specialization
   - Video: Thank you!
+</details>
 
 ## Course 2: [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) `25H`
 
@@ -284,6 +320,11 @@ Learners will implement and apply predictive, classification, clustering, and in
 ```Regression is one of the most important and broadly used machine learning and statistics tools out there. It allows you to make predictions from data by learning the relationship between features of your data and some observed, continuous-valued response. Regression is used in a massive number of applications ranging from predicting stock prices to understanding gene regulatory networks.This introduction to the course provides you with an overview of the topics we will cover and the background knowledge and resources we assume you have.```
 
 ```Our course starts from the most basic regression model: Just fitting a line to data. This simple model for forming predictions from a single, univariate feature of the data is appropriately called "simple linear regression". In this module, we describe the high-level regression task and then specialize these concepts to the simple linear regression case. You will learn how to formulate a simple regression model and fit the model to data using both a closed-form solution as well as an iterative optimization algorithm called gradient descent. Based on this fitted function, you will interpret the estimated model parameters and form predictions. You will also analyze the sensitivity of your fit to outlying observations. You will examine all of these concepts in the context of a case study of predicting house prices from the square feet of the house.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - What is this course about?
   - Reading: Important Update regarding the Machine Learning Specialization
   - Reading: Slides presented in this module
@@ -332,9 +373,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming assignment
   - Reading: Reading: Fitting a simple linear regression model on housing data
   - Quiz: Fitting a simple linear regression model on housing data
+</details>
 
 ### Week 2: Multiple Regression
 ```The next step in moving beyond simple linear regression is to consider "multiple regression" where multiple features of the data are used to form predictions.  More specifically, in this module, you will learn how to build models of more complex relationship between a single variable (e.g., 'square feet') and the observed response (like 'house sales price'). This includes things like fitting a polynomial to your data, or capturing seasonal changes in the response value. You will also learn how to incorporate multiple input variables (e.g., 'square feet', '# bedrooms', '# bathrooms'). You will then be able to describe how all of these models can still be cast within the linear regression framework, but now using multiple "features". Within this multiple regression framework, you will fit models to data, interpret estimated coefficients, and form predictions. Here, you will also implement a gradient descent algorithm for fitting a multiple regression model.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Multiple features of one input
   - Reading: Slides presented in this module
   - Video: Multiple regression intro
@@ -369,9 +416,15 @@ Learners will implement and apply predictive, classification, clustering, and in
   - Reading: Numpy tutorial
   - Reading: Reading: Implementing gradient descent for multiple regression
   - Quiz: Implementing gradient descent for multiple regression
+</details>
 
 ### Week 3: Assessing Performance
 ```Having learned about linear regression models and algorithms for estimating the parameters of such models, you are now ready to assess how well your considered method should perform in predicting new data. You are also ready to select amongst possible models to choose the best performing.  This module is all about these important topics of model selection and assessment. You will examine both theoretical and practical aspects of such analyses. You will first explore the concept of measuring the "loss" of your predictions, and use this to define training, test, and generalization error. For these measures of error, you will analyze how they vary with model complexity and how they might be utilized to form a valid assessment of predictive performance. This leads directly to an important conversation about the bias-variance tradeoff, which is fundamental to machine learning. Finally, you will devise a method to first select amongst models and then assess the performance of the selected model. The concepts described in this module are key to all machine learning problems, well-beyond the regression setting addressed in this course.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Defining how we assess performance
   - Reading: Slides presented in this module
   - Video: Assessing performance intro
@@ -396,9 +449,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming assignment
   - Reading: Reading: Exploring the bias-variance tradeoff
   - Quiz: Exploring the bias-variance tradeoff
+</details>
 
 ### Week 4: Ridge Regression
 ```You have examined how the performance of a model varies with increasing model complexity, and can describe the potential pitfall of complex models becoming overfit to the training data. In this module, you will explore a very simple, but extremely effective technique for automatically coping with this issue. This method is called "ridge regression". You start out with a complex model, but now fit the model in a manner that not only incorporates a measure of fit to the training data, but also a term that biases the solution away from overfitted functions. To this end, you will explore symptoms of overfitted functions and use this to define a quantitative measure to use in your revised optimization objective. You will derive both a closed-form and gradient descent algorithm for fitting the ridge regression objective; these forms are small modifications from the original algorithms you derived for multiple regression. To select the strength of the bias away from overfitting, you will explore a general-purpose method called "cross validation". You will implement both cross-validation and gradient descent to fit a ridge regression model and select the regularization constant.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Characteristics of overfit models
   - Reading: Slides presented in this module
   - Video: Symptoms of overfitting in polynomial regression
@@ -429,9 +488,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment 2
   - Reading: Reading: Implementing ridge regression via gradient descent
   - Quiz: Implementing ridge regression via gradient descent
+</details>
 
 ### Week 5: Feature Selection & Lasso
 ```A fundamental machine learning task is to select amongst a set of features to include in a model. In this module, you will explore this idea in the context of multiple regression, and describe how such feature selection is important for both interpretability and efficiency of forming predictions.  To start, you will examine methods that search over an enumeration of models including different subsets of features. You will analyze both exhaustive search and greedy algorithms. Then, instead of an explicit enumeration, we turn to Lasso regression, which implicitly performs feature selection in a manner akin to ridge regression: A complex model is fit based on a measure of fit to the training data plus a measure of overfitting different than that used in ridge. This lasso method has had impact in numerous applied domains, and the ideas behind the method have fundamentally changed machine learning and statistics. You will also implement a coordinate descent algorithm for fitting a Lasso model. Coordinate descent is another, general, optimization technique, which is useful in many areas of machine learning.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Feature selection via explicit model enumeration
   - Reading: Slides presented in this module
   - Video: The feature selection task
@@ -470,9 +535,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment 2
   - Reading: Reading: Implementing LASSO using coordinate descent
   - Quiz: Implementing LASSO using coordinate descent
+</details>
 
 ### Week 6: Nearest Neighbors & Kernel Regression & Closing Remarks
 ```Up to this point, we have focused on methods that fit parametric functions---like polynomials and hyperplanes---to the entire dataset. In this module, we instead turn our attention to a class of "nonparametric" methods. These methods allow the complexity of the model to increase as more data are observed, and result in fits that adapt locally to the observations.  We start by considering the simple and intuitive example of nonparametric methods, nearest neighbor regression: The prediction for a query point is based on the outputs of the most related observations in the training set. This approach is extremely simple, but can provide excellent predictions, especially for large datasets. You will deploy algorithms to search for the nearest neighbors and form predictions based on the discovered neighbors. Building on this idea, we turn to kernel regression. Instead of forming predictions based on a small set of neighboring observations, kernel regression uses all observations in the dataset, but the impact of these observations on the predicted value is weighted by their similarity to the query point. You will analyze the theoretical performance of these methods in the limit of infinite training data, and explore the scenarios in which these methods work well versus struggle. You will also implement these techniques and observe their practical behavior.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Motivating local fits
   - Reading: Slides presented in this module
   - Video: Limitations of parametric regression
@@ -504,6 +575,7 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Summary and what's ahead in the specialization
   - Video: What we covered and what we didn't cover
   - Video: Thank you!
+</details>
 
 ## Course 3: [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) `25H`
 
@@ -511,6 +583,11 @@ Learners will implement and apply predictive, classification, clustering, and in
 ```Classification is one of the most widely used techniques in machine learning, with a broad array of applications, including sentiment analysis, ad targeting, spam detection, risk assessment, medical diagnosis and image classification. The core goal of classification is to predict a category or class y from some inputs x. Through this course, you will become familiar with the fundamental models and algorithms used in classification, as well as a number of core machine learning concepts. Rather than covering all aspects of classification, you will focus on a few core techniques, which are widely used in the real-world to get state-of-the-art performance. By following our hands-on approach, you will implement your own algorithms on multiple real-world tasks, and deeply grasp the core techniques needed to be successful with these approaches in practice. This introduction to the course provides you with an overview of the topics we will cover and the background knowledge and resources we assume you have.```
 
 ```Linear classifiers are amongst the most practical classification methods. For example, in our sentiment analysis case-study, a linear classifier associates a coefficient with the counts of each word in the sentence. In this module, you will become proficient in this type of representation. You will focus on a particularly useful type of linear classifier called logistic regression, which, in addition to allowing you to predict a class, provides a probability associated with the prediction. These probabilities are extremely useful, since they provide a degree of confidence in the predictions. In this module, you will also be able to construct features from categorical inputs, and to tackle classification problems with more than two class (multiclass problems). You will examine the results of these techniques on a real-world product sentiment analysis task.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Welcome to the course
   - Reading: Important Update regarding the Machine Learning Specialization
   - Reading: Slides presented in this module
@@ -552,11 +629,17 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment
   - Reading: Predicting sentiment from product reviews
   - Quiz: Predicting sentiment from product reviews
+</details>
 
 ### Week 2: Learning Linear Classifiers & Overfitting & Regularization in Logistic Regression
 ```Once familiar with linear classifiers and logistic regression, you can now dive in and write your first learning algorithm for classification. In particular, you will use gradient ascent to learn the coefficients of your classifier from data. You first will need to define the quality metric for these tasks using an approach called maximum likelihood estimation (MLE). You will also become familiar with a simple technique for selecting the step size for gradient ascent. An optional, advanced part of this module will cover the derivation of the gradient for logistic regression. You will implement your own learning algorithm for logistic regression from scratch, and use it to learn a sentiment analysis classifier.```
 
 ```As we saw in the regression course, overfitting is perhaps the most significant challenge you will face as you apply machine learning approaches in practice. This challenge can be particularly significant for logistic regression, as you will discover in this module, since we not only risk getting an overly complex decision boundary, but your classifier can also become overly confident about the probabilities it predicts. In this module, you will investigate overfitting in classification in significant detail, and obtain broad practical insights from some interesting visualizations of the classifiers' outputs. You will then add a regularization term to your optimization to mitigate overfitting. You will investigate both L2 regularization to penalize large coefficient values, and L1 regularization to obtain additional sparsity in the coefficients. Finally, you will modify your gradient ascent algorithm to learn regularized logistic regression classifiers. You will implement your own regularized logistic regression classifier from scratch, and investigate the impact of the L2 penalty on real-world sentiment analysis data.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Maximum likelihood estimation
   - Reading: Slides presented in this module
   - Video: Goal: Learning parameters of logistic regression
@@ -608,10 +691,16 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment
   - Reading: Logistic Regression with L2 regularization
   - Quiz: Logistic Regression with L2 regularization
+</details>
 
 ### Week 3: Decision Trees
 ```Along with linear classifiers, decision trees are amongst the most widely used classification techniques in the real world. This method is extremely intuitive, simple to implement and provides interpretable predictions. In this module, you will become familiar with the core decision trees representation. You will then design a simple, recursive greedy algorithm to learn decision trees from data. Finally, you will extend this approach to deal with continuous inputs, a fundamental requirement for practical problems. In this module, you will investigate a brand new case-study in the financial sector: predicting the risk associated with a bank loan. You will implement your own decision tree learning algorithm on real loan data.```
-  - Intuition behind decision trees
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
+- Intuition behind decision trees
   - Reading: Slides presented in this module
   - Video: Predicting loan defaults with decision trees
   - Video: Intuition behind decision trees
@@ -637,11 +726,17 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment 2
   - Reading: Implementing binary decision trees
   - Quiz: Implementing binary decision trees
+</details>
 
 ### Week 4: Preventing Overfitting in Decision Trees & Handling Missing Data
 ```Out of all machine learning techniques, decision trees are amongst the most prone to overfitting. No practical implementation is possible without including approaches that mitigate this challenge. In this module, through various visualizations and investigations, you will investigate why decision trees suffer from significant overfitting problems. Using the principle of Occam's razor, you will mitigate overfitting by learning simpler trees. At first, you will design algorithms that stop the learning process before the decision trees become overly complex. In an optional segment, you will design a very practical approach that learns an overly-complex tree, and then simplifies it with pruning. Your implementation will investigate the effect of these techniques on mitigating overfitting on our real-world loan data set.```
 
 ```Real-world machine learning problems are fraught with missing data. That is, very often, some of the inputs are not observed for all data points. This challenge is very significant, happens in most cases, and needs to be addressed carefully to obtain great performance. And, this issue is rarely discussed in machine learning courses. In this module, you will tackle the missing data challenge head on. You will start with the two most basic techniques to convert a dataset with missing data into a clean dataset, namely skipping missing values and inputing missing values. In an advanced section, you will also design a modification of the decision tree learning algorithm that builds decisions about missing data right into the model. You will also explore these techniques in your real-data implementation.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Overfitting in decision trees
   - Reading: Slides presented in this module
   - Video: A review of overfitting
@@ -670,9 +765,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Summarizing handling missing data
   - Video: Recap of handling missing data
   - Quiz: Handling Missing Data
+</details>
 
 ### Week 5: Boosting
 ```One of the most exciting theoretical questions that have been asked about machine learning is whether simple classifiers can be combined into a highly accurate ensemble. This question lead to the developing of boosting, one of the most important and practical techniques in machine learning today. This simple approach can boost the accuracy of any classifier, and is widely used in practice, e.g., it's used by more than half of the teams who win the Kaggle machine learning competitions. In this module, you will first define the ensemble classifier, where multiple models vote on the best prediction. You will then explore a boosting algorithm called AdaBoost, which provides a great approach for boosting classifiers. Through visualizations, you will become familiar with many of the practical aspects of this techniques. You will create your very own implementation of AdaBoost, from scratch, and use it to boost the performance of your loan risk predictor on real data.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - The amazing idea of boosting a classifier
   - Reading: Slides presented in this module
   - Video: The boosting question
@@ -699,9 +800,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment 2
   - Reading: Boosting a decision stump
   - Quiz: Boosting a decision stump
+</details>
 
 ### Week 6: Precision-Recall
 ```In many real-world settings, accuracy or error are not the best quality metrics for classification. You will explore a case-study that significantly highlights this issue: using sentiment analysis to display positive reviews on a restaurant website. Instead of accuracy, you will define two metrics: precision and recall, which are widely used in real-world applications to measure the quality of classifiers. You will explore how the probabilities output by your classifier can be used to trade-off precision with recall, and dive into this spectrum, using precision-recall curves. In your hands-on implementation, you will compute these metrics with your learned classifier on real-world sentiment analysis data.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Why use precision & recall as quality metrics
   - Reading: Slides presented in this module
   - Video: Case-study where accuracy is not best metric for classification
@@ -719,9 +826,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment
   - Reading: Exploring precision and recall
   - Quiz: Exploring precision and recall
+</details>
 
 ### Week 7: Scaling to Huge Datasets & Online Learning
 ```With the advent of the internet, the growth of social media, and the embedding of sensors in the world, the magnitudes of data that our machine learning algorithms must handle have grown tremendously over the last decade. This effect is sometimes called "Big Data". Thus, our learning algorithms must scale to bigger and bigger datasets. In this module, you will develop a small modification of gradient ascent called stochastic gradient, which provides significant speedups in the running time of our algorithms. This simple change can drastically improve scaling, but makes the algorithm less stable and harder to use in practice. In this module, you will investigate the practical techniques needed to make stochastic gradient viable, and to thus to obtain learning algorithms that scale to huge datasets. You will also address a new kind of machine learning problem, online learning, where the data streams in over time, and we must learn the coefficients as the data arrives. This task can also be solved with stochastic gradient. You will implement your very own stochastic gradient ascent algorithm for logistic regression from scratch, and evaluate it on sentiment analysis data.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Scaling ML to huge datasets
   - Reading: Slides presented in this module
   - Video: Gradient ascent won't scale to today's huge datasets
@@ -749,11 +862,17 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment
   - Reading: Training Logistic Regression via Stochastic Gradient Ascent
   - Quiz: Training Logistic Regression via Stochastic Gradient Ascent
+</details>
 
 ## Course 4: [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval) `25H`
 
 ### Week 1: Welcome
 ```Clustering and retrieval are some of the most high-impact machine learning tools out there. Retrieval is used in almost every applications and device we interact with, like in providing a set of products related to one a shopper is currently considering, or a list of people you might want to connect with on a social media platform. Clustering can be used to aid retrieval, but is a more broadly useful tool for automatically discovering structure in data, like uncovering groups of similar patients.This introduction to the course provides you with an overview of the topics we will cover and the background knowledge and resources we assume you have.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - What is this course about?
   - Reading: Important Update regarding the Machine Learning Specialization
   - Reading: Slides presented in this module
@@ -763,9 +882,15 @@ Learners will implement and apply predictive, classification, clustering, and in
   - Video: Assumed background
   - Reading: Software tools you'll need for this course
   - Reading: A big week ahead!
+</details>
 
 ### Week 2: Nearest Neighbor Search
 ```We start the course by considering a retrieval task of fetching a document similar to one someone is currently reading. We cast this problem as one of nearest neighbor search, which is a concept we have seen in the Foundations and Regression courses. However, here, you will take a deep dive into two critical components of the algorithms: the data representation and metric for measuring similarity between pairs of datapoints. You will examine the computational burden of the naive nearest neighbor search algorithm, and instead implement scalable alternatives using KD-trees for handling large datasets and locality sensitive hashing (LSH) for providing approximate nearest neighbors, even in high-dimensional spaces. You will explore all of these ideas on a Wikipedia dataset, comparing and contrasting the impact of the various choices you can make on the nearest neighbor results produced.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to nearest neighbor search and algorithms
   - Reading: Slides presented in this module
   - Video: Retrieval as k-nearest neighbor search
@@ -804,9 +929,15 @@ Learners will implement and apply predictive, classification, clustering, and in
   - Quiz: Implementing Locality Sensitive Hashing from scratch
 - Summarizing nearest neighbor search
   - Video: A brief recap
+</details>
 
 ### Week 3: Clustering with k-means
 ```In clustering, our goal is to group the datapoints in our dataset into disjoint sets. Motivated by our document analysis case study, you will use clustering to discover thematic groups of articles by "topic". These topics are not provided in this unsupervised learning task; rather, the idea is to output such cluster labels that can be post-facto associated with known topics like "Science", "World News", etc. Even without such post-facto labels, you will examine how the clustering output can provide insights into the relationships between datapoints in the dataset. The first clustering algorithm you will implement is k-means, which is the most widely used clustering algorithm out there. To scale up k-means, you will learn about the general MapReduce framework for parallelizing and distributing computations, and then how the iterates of k-means can utilize this framework. You will show that k-means can provide an interpretable grouping of Wikipedia articles when appropriately tuned.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to clustering
   - Reading: Slides presented in this module
   - Video: The goal of clustering
@@ -830,9 +961,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Summarizing clustering with k-means
   - Video: Other applications of clustering
   - Video: A brief recap
+</details>
 
 ### Week 4: Mixture Models
 ```In k-means, observations are each hard-assigned to a single cluster, and these assignments are based just on the cluster centers, rather than also incorporating shape information. In our second module on clustering, you will perform probabilistic model-based clustering that provides (1) a more descriptive notion of a "cluster" and (2) accounts for uncertainty in assignments of datapoints to clusters via "soft assignments". You will explore and implement a broadly useful algorithm called expectation maximization (EM) for inferring these soft assignments, as well as the model parameters. To gain intuition, you will first consider a visually appealing image clustering task. You will then cluster Wikipedia articles, handling the high-dimensionality of the tf-idf document representation considered.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Motivating and setting the foundation for mixture models
   - Reading: Slides presented in this module
   - Video: Motiving probabilistic clustering models
@@ -862,9 +999,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment 2
   - Reading: Clustering text data with Gaussian mixtures
   - Quiz: Clustering text data with Gaussian mixtures
+</details>
 
 ### Week 5: Mixed Membership Modeling via Latent Dirichlet Allocation
 ```The clustering model inherently assumes that data divide into disjoint sets, e.g., documents by topic. But, often our data objects are better described via memberships in a collection of sets, e.g., multiple topics. In our fourth module, you will explore latent Dirichlet allocation (LDA) as an example of such a mixed membership model particularly useful in document analysis. You will interpret the output of LDA, and various ways the output can be utilized, like as a set of learned document features. The mixed membership modeling ideas you learn about through LDA for document analysis carry over to many other interesting models and applications, like social network models where people have multiple affiliations.Throughout this module, we introduce aspects of Bayesian modeling and a Bayesian inference algorithm called Gibbs sampling. You will be able to implement a Gibbs sampler for LDA by the end of the module.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to latent Dirichlet allocation
   - Reading: Slides presented in this module
   - Video: Mixed membership models for documents
@@ -887,9 +1030,15 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Programming Assignment
   - Reading: Modeling text topics with Latent Dirichlet Allocation
   - Quiz: Modeling text topics with Latent Dirichlet Allocation
+</details>
 
 ### Week 6: Hierarchical Clustering & Closing Remarks
 ```In the conclusion of the course, we will recap what we have covered. This represents both techniques specific to clustering and retrieval, as well as foundational machine learning concepts that are more broadly useful.We provide a quick tour into an alternative clustering approach called hierarchical clustering, which you will experiment with on the Wikipedia dataset. Following this exploration, we discuss how clustering-type ideas can be applied in other areas like segmenting time series. We then briefly outline some important clustering and retrieval ideas that we did not cover in this course. We conclude with an overview of what's in store for you in the rest of the specialization.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - What we've learned
   - Reading: Slides presented in this module
   - Video: Module 1 recap
@@ -909,3 +1058,4 @@ Learners will implement and apply predictive, classification, clustering, and in
 - Summary and what's ahead in the specialization
   - Video: What we didn't cover
   - Video: Thank you!
+</details>
