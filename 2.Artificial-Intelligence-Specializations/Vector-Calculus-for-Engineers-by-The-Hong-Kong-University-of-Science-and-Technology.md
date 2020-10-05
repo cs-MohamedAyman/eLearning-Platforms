@@ -11,6 +11,7 @@
 ## Syllabus - What you will learn from this course
 
 ### Week 1: Vectors
+```A vector is a mathematical construct that has both length and direction. We will define vectors and learn how to add and subtract them, and how to multiply them using the scalar and vector products (dot and cross products). We will use vectors to learn some analytical geometry of lines and planes, and learn about the Kronecker delta and the Levi-Civita symbol to prove vector identities. The important concepts of scalar and vector fields will be introduced.```
 
 <details>
       <summary>Week Details</summary>
@@ -67,8 +68,8 @@
   - Quiz: Week One Assessment
 </details>
 
-
 ### Week 2: Differentiation
+```Scalar and vector fields can be differentiated. We define the partial derivative and derive the method of least squares as a minimization problem. We learn how to use the chain rule for a function of several variables, and derive the triple product rule used in chemical engineering. From the del differential operator, we define the gradient, divergence, curl and Laplacian. We learn some useful vector calculus identities and how to derive them using the Kronecker delta and Levi-Civita symbol. Vector identities are then used to derive the electromagnetic wave equation from Maxwell's equation in free space. Electromagnetic waves form the basis for all modern communication technologies.```
 
 <details>
       <summary>Week Details</summary>
@@ -112,6 +113,7 @@
 </details>
 
 ### Week 3: Integration and Curvilinear Coordinates
+```Scalar and vector fields can be integrated. We learn about double and triple integrals, and line integrals and surface integrals. Curvilinear coordinates, namely polar coordinates in two dimensions, and cylindrical and spherical coordinates in three dimensions, are used to simplify problems with cylindrical or spherical symmetry. We learn how to change variables in multidimensional integrals using the Jacobian of the transformation.```
 
 <details>
       <summary>Week Details</summary>
@@ -163,6 +165,8 @@
 </details>
 
 ### Week 4: Fundamental Theorems
+```The fundamental theorem of calculus links integration with differentiation. Here, we learn the related fundamental theorems of vector calculus. These include the gradient theorem, the divergence theorem, and Stokes' theorem. We show how these theorems are used to derive continuity equations, define the divergence and curl in coordinate-free form, and convert the integral version of Maxwell's equations into their more famous differential form.```
+
 <details>
       <summary>Week Details</summary>
 <br>
