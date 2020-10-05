@@ -44,96 +44,245 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 
 ### Week 1: Introduction to Data
 - Course Information
+  - Reading: Syllabus
+  - Reading: Course Materials
+  - Reading: Set Up Your System
 - What is a Data Product?
+  - Video: What is a Data Product?
+  - Video: Data Product Examples in Enterprise
+  - Video: Developing a Data Product Strategy
+  - Reading: Our Case Study: Recommender Systems
+  - Practice Quiz: Review: Data Products
 - Introducing Python
+  - Video: Python and Jupyter Basics
+  - Video: Python Recap
+  - Reading: (Optional) Python: How to Run
+  - Reading: (Optional) Python: Additional Resources and Recommended Readings
+  - Video: Livecoding: Getting Started With Jupyter
+  - Practice Quiz: Review: Python and Jupyter
 
 ### Week 2: Univariate Data
 - CSV and JSON Files
+  - Video: CSV & JSON Files
+  - Video: Reading CSV & JSON Files
+  - Video: Processing Structured Data in Python
+  - Video: Live-Coding: JSON
+  - Practice Quiz: Review: CSV and JSON Files
 - Simple Statistics
+  - Video: Extracting Simple Statistics From Datasets
+  - Video: Simple Statistics: Live-Coding
+  - Practice Quiz: Review: Simple Statistics
 - Quiz: Week 2 Assessment
+  - Quiz: Python: Reading Data and Simple Statistics
 
 ### Week 3: Multivariate Data
 - Data Filtering and Cleaning
+  - Video: Data Filtering and Cleaning
+  - Practice Quiz: Review: Data Filtering and Cleaning
 - Processing Different Data Types
+  - Video: Processing Text and Strings in Python
+  - Video: Processing Times and Dates in Python
+  - Video: Livecoding: Time and Date Data
+  - Practice Quiz: Review: Processing Different Data Types
 - Quiz: Week 3 Assessment
+  - Quiz: Data Processing in Python
 
 ### Week 4: Populations and Samples
 - NumPy
+  - Video: Matrix Processing and Numpy
+  - Practice Quiz: Review: NumPy
 - MatPlotLib
+  - Video: Introduction to Data Visualization
+  - Video: Introduction to Matplotlib
+  - Video: Live-coding: MatPlotLib
+  - Practice Quiz: Review: MatPlotLib
 - urllib and BeautifulSoup
+  - Video: urllib and BeautifulSoup
+  - Practice Quiz: Review: urllib and BeautifulSoup
 - Quiz: Week 4 Assessment
+  - Quiz: Python Libraries and Toolkits
 - Mini Project
+  - Practice Peer-graded Assignment: Mini Project
 
 ### Week 5: Populations and Samples
 - Course Summary
+  - Video: Course Summary
 - Project 1: Reading and Manipulating Datasets in Python
+  - Reading: Project Description
+  - Reading: Where to Find Datasets
+  - Peer-graded Assignment: Project Submission
+  - Grading in progress
+  - Review Your Peers: Project Submission
 
 ## Course 2: [Design Thinking and Predictive Analytics for Data Products](https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products) `10H`
 
 ### Week 1: Overview & Inference Procedures
 - Course Information
+  - Reading: Syllabus
+  - Reading: Course Materials
+  - Reading: Set Up Your System
 - Recap: Mathematical Notation
+  - Reading: Recap: Mathematical Notation
 - Supervised Learning
+  - Video: Introduction to Supervised Learning
+  - Video: Supervised Learning: Regression
+  - Practice Quiz: Review: Supervised Learning
 - Regression
+  - Video: Regression in Python
+  - Video: Time-Series Regression
+  - Video: Autoregression
+  - Practice Quiz: Review: Regression
 - Week 1 Assessment
+  - Quiz: Supervised Learning & Regression
 
 ### Week 2: Confidence Intervals
 - Features
+  - Video: Features from Categorical Data
+  - Video: Features from Temporal Data
+  - Quiz: Review: Getting Features
+  - Video: Feature Transformations
+  - Video: Missing Values
+  - Quiz: Review: Working with Features
+  - Reading: Supplementary Notebook for Features
 - Week 2 Assessment
+  - Quiz: Features
 
 ### Week 3: Hypothesis Testing
 - Classification
+  - Video: Supervised Learning: Classification
+  - Video: Classification: Nearest Neighbors
+  - Practice Quiz: Review: Classification and K-Nearest Neighbors
+  - Video: Classification: Logistic Regression
+  - Video: Introduction to Support Vector Machines
+  - Practice Quiz: Review: Logistic Regression and Support Vector Machines
 - Week 3 Assessment
+  - Quiz: Classification
 
 ### Week 4: Confidence Intervals
 - More on Classification
+  - Video: Classification in Python
+  - Video: Introduction to Training and Testing
+  - Practice Quiz: Review: Classification and Training
 - Gradient Descent
+  - Video: Gradient Descent in Python
+  - Video: Gradient Descent in TensorFlow
+  - Video: Livecoding: Tensorflow
+  - Practice Quiz: Review: Gradient Descent
 - Week 4 Assessment
+  - Quiz: More on Classification
 
 ### Week 5: Hypothesis Testing
 - Project 2: Making Predictions From Data
+  - Reading: Project Description
+  - Reading: Where to Find Datasets
+  - Peer-graded Assignment: Project Submission
+  - Review Your Peers: Project Submission
 
 ## Course 3: [Meaningful Predictive Modeling](https://www.coursera.org/learn/meaningful-predictive-modeling) `10H`
 
 ### Week 1: Diagnostics for Data
 - Course Introduction
+  - Video: Introduction to Course 3: Meaningful Predictive Modeling
+  - Reading: Syllabus
+  - Reading: Setting Up Your System
+  - Reading: (Optional) Additional Resources and Recommended Readings
 - Course Essentials
+  - Reading: Course Materials
 - Regression Diagnostics
+  - Video: Motivation Behind the MSE
+  - Video: Regression Diagnostics: MSE and R²
+  - Video: Over- and Under-Fitting
+  - Practice Quiz: Review: Regression Diagnostics
 - Classification Diagnostics
+  - Video: Classification Diagnostics: Accuracy and Error
+  - Video: Classification Diagnostics: Precision and Recall
+  - Practice Quiz: Review: Classification Diagnostics
 - Week 1 Assessment
+  - Quiz: Diagnostics for Data
 
 ### Week 2: Codebases, Regularization, and Evaluating a Model
 - Setting Up a Codebase
+  - Video: Setting Up a Codebase for Evaluation and Validation
+  - Practice Quiz: Review: Setting Up a Codebase
 - Regularization and Evaluating a Model
+  - Video: Model Complexity and Regularization
+  - Practice Quiz: Review: Regularization
+  - Video: Adding a Regularizer to our Model, and Evaluating the Regularized Model
+  - Video: Evaluating Classifiers for Ranking
+  - Practice Quiz: Review: Evaluating a Model
 - Week 2 Assessment
+  - Quiz: Codebases, Regularization, and Evaluating a Model
 
 ### Week 3: Validation and Pipelines
 - Validation
+  - Video: Validation
+  - Video: “Theorems” About Training, Testing, and Validation
+  - Practice Quiz: Review: Validation
 - Pipelines in Python
+  - Video: Implementing a Regularization Pipeline in Python
+  - Video: Guidelines on the Implementation of Predictive Pipelines
+  - Practice Quiz: Review: Predictive Pipelines
 - Week 3 Assessment
+  - Quiz: Predictive Pipelines
 
 ### Week 4: Final Project
 - Project 3: Validating Predictions from Data
+  - Reading: Project Description
+  - Reading: Where to Find Datasets
+  - Peer-graded Assignment: Project Submission
+  - Review Your Peers: Project Submission
 
 ## Course 4: [Deploying Machine Learning Models](https://www.coursera.org/learn/deploying-machine-learning-models) `10H`
 
 ### Week 1: Introduction
 - Course Information
+  - Reading: Syllabus
+  - Reading: Course Materials
+  - Reading: Setting Up Your System
 - Recommender Systems
+  - Video: Introduction to Recommender Systems
+  - Video: Recommender Systems versus Other Forms of Supervised Learning
+  - Video: Collaborative Filtering-Based Recommendation
+  - Practice Quiz: Review: Recommender Systems
 - Introduction to Latent Factor Models
+  - Video: Latent Factor Models (Part 1)
+  - Video: Latent Factor Models (Part 2)
+  - Practice Quiz: Review: Introduction to Latent Factor Models
 - Week 1 Assessment
+  - Quiz: Recommender Systems and Latent Factor Models
 
 ### Week 2: Implementing Recommender Systems
 - Similarity-Based Recommenders
+  - Video: Implementing a Similarity-Based Recommender
+  - Video: Similarity-Based Recommender for Rating Prediction
+  - Practice Quiz: Review: Similarity-Based Recommenders
 - Implementing Latent Factor Models
+  - Video: Implementing a Latent Factor Model (Part 1)
+  - Video: Implementing a Latent Factor Model (Part 2)
+  - Practice Quiz: Review: Implementing Latent Factor Models
 - Week 2 Assessment
+  - Quiz: Implementing Recommender Systems
 
 ### Week 3: Deploying Recommender Systems
 - Vids
+  - Video: Intro to Web Server Frameworks (in Python)
+  - Quiz: Review: Flask and Django
+  - Video: Intro to Django
+  - Reading: Setting up Your Workspace with Docker: Django
+  - Video: Flask
 - Week 3 Assessment
+  - Quiz: Deploying Recommender Systems
 
 ### Week 4: Project 4: Recommender System
 - Project 4: Recommender System
+  - Reading: Project Description
+  - Reading: How to Find a Dataset
+  - Peer-graded Assignment: Project Submission
+  - Review Your Peers: Project Submission
 
 ### Week 5: Capstone
 - Capstone
+  - Video: Description of Capstone Tasks
+  - Reading: Capstone Overview
+  - Peer-graded Assignment: Capstone Submission
+  - Review Your Peers: Capstone Submission
