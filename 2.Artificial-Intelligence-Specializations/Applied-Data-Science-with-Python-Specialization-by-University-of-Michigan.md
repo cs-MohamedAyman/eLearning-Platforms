@@ -47,6 +47,11 @@
 
 ### Week 1: Fundamentals of Data Manipulation with Python
 ```In this week you'll get an introduction to the field of data science, review common Python functionality and features which data scientists use, and be introduced to the Coursera Jupyter Notebook for the lectures. All of the course information on grading, prerequisites, and expectations are on the course syllabus, and you can find more information about the Jupyter Notebooks on our Course Resources page.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Python Fundamentals
   - Video: Introduction to Specialization
   - Reading: Syllabus
@@ -65,9 +70,15 @@
   - Video: Advanced Python Lambda and List Comprehensions
   - Video: Advanced Python Demonstration: The Numerical Python Library (NumPy)
   - Quiz: Week One Quiz
+</details>
 
 ### Week 2: Basic Data Processing with Pandas
 ```In this week of the course you'll learn the fundamentals of one of the most important toolkits Python has for data cleaning and processing -- pandas. You'll learn how to read in data into DataFrame structures, how to query these structures, and the details about such structures are indexed.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Basic Data Processing with Pandas
   - Video: Introduction
   - Notebook: Week 2 Lectures Jupyter Notebook
@@ -83,9 +94,15 @@
   - Reading: Common Assignment Pitfalls
   - Notebook: Assignment 2
   - Programming Assignment: Assignment 2 Submission
+</details>
 
 ### Week 3: More Data Processing with Pandas
 ```In this week you'll deepen your understanding of the python pandas library by learning how to merge DataFrames, generate summary tables, group data into logical pieces, and manipulate dates. We'll also refresh your understanding of scales of data, and discuss issues with creating metrics for analysis. The week ends with a more significant programming assignment.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Advanced Python Pandas
   - Notebook: Week 3 Lectures Jupyter Notebook
   - Video: Merging Dataframes
@@ -97,9 +114,15 @@
 - Assignment 3
   - Notebook: Assignment 3
   - Programming Assignment: Assignment 3 Submission
+</details>
 
 ### Week 4: Answering Questions with Messy Data
 ```In this week of the course you'll be introduced to a variety of statistical techniques such a distributions, sampling and t-tests. The week ends with two discussions of science and the rise of the fourth paradigm -- data driven discovery.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Statistical Analysis in Python and Project
   - Notebook: Week 4 Lectures Jupyter Notebook
   - Video: Introduction
@@ -111,11 +134,17 @@
   - Notebook: Assignment 4 - Project
   - Programming Assignment: Assignment 4 Submission
   - Reading: Post-course Survey
+</details>
 
 ## Course 2: [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) `25H`
 
 ### Week 1: Principles of Information Visualization
 ```In this module, you will get an introduction to principles of information visualization. We will be introduced to tools for thinking about design and graphical heuristics for thinking about creating effective visualizations. All of the course information on grading, prerequisites, and expectations are on the course syllabus, which is included in this module.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Principles of Information Visualization
   - Video: Introduction
   - Reading: Syllabus
@@ -134,9 +163,15 @@
   - Reading: Graphics Lies, Misleading Visuals
   - Peer-graded Assignment: Graphics Lies, Misleading Visuals
   - Review Your Peers: Graphics Lies, Misleading Visuals
+</details>
 
 ### Week 2: Basic Charting
 ```In this module, you will delve into basic charting. For this week’s assignment, you will work with real world CSV weather data. You will manipulate the data to display the minimum and maximum temperature for a range of dates and demonstrate that you know how to create a line graph using matplotlib. Additionally, you will demonstrate the procedure of composite charts, by overlaying a scatter plot of record breaking data for a given year.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Basic Charting
   - Notebook: Module 2 Jupyter Notebook
   - Video: Introduction
@@ -152,9 +187,15 @@
   - Notebook: Plotting Weather Patterns
   - Peer-graded Assignment: Plotting Weather Patterns
   - Review Your Peers: Plotting Weather Patterns
+</details>
 
 ### Week 3: Charting Fundamentals
 ```In this module you will explore charting fundamentals. For this week’s assignment you will work to implement a new visualization technique based on academic research. This assignment is flexible and you can address it using a variety of difficulties - from an easy static image to an interactive chart where users can set ranges of values to be used.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Charting Fundamentals
   - Notebook: Module 3 Jupyter Notebook
   - Video: Subplots
@@ -172,9 +213,15 @@
   - Reading: Assignment Reading
   - Peer-graded Assignment: Building a Custom Visualization
   - Review Your Peers: Building a Custom Visualization
+</details>
 
 ### Week 4: Applied Visualizations
 ```In this module, then everything starts to come together. Your final assignment is entitled “Becoming a Data Scientist.” This assignment requires that you identify at least two publicly accessible datasets from the same region that are consistent across a meaningful dimension. You will state a research question that can be answered using these data sets and then create a visual using matplotlib that addresses your stated research question. You will then be asked to justify how your visual addresses your research question.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Applied Visualizations
   - Notebook: Module 4 Jupyter Notebook
   - Video: Plotting with Pandas
@@ -186,11 +233,17 @@
   - Peer-graded Assignment: Becoming an Independent Data Scientist
   - Review Your Peers: Becoming an Independent Data Scientist
   - Reading: Post-course Survey
+</details>
 
 ## Course 3: [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) `35H`
 
 ### Week 1: Fundamentals of Machine Learning - Intro to SciKit Learn
 ```This module introduces basic machine learning concepts, tasks, and workflow using an example classification problem based on the K-nearest neighbors method, and implemented using the scikit-learn library.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Fundamentals of Machine Learning - Intro to SciKit Learn
   - Reading: Course Syllabus
   - Video: Introduction
@@ -207,9 +260,15 @@
 - Assignment 1
   - Notebook: Assignment 1
   - Programming Assignment: Assignment 1 Submission
+</details>
 
 ### Week 2: Supervised Machine Learning - Part 1
 ```This module delves into a wider variety of supervised learning methods for both classification and regression, learning about the connection between model complexity and generalization performance, the importance of proper feature scaling, and how to control model complexity by applying techniques like regularization to avoid overfitting. In addition to k-nearest neighbors, this week covers linear regression (least-squares, ridge, lasso, and polynomial regression), logistic regression, support vector machines, the use of cross-validation for model evaluation, and decision trees.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Supervised Machine Learning
   - Notebook: Module 2 Notebook
   - Video: Introduction to Supervised Machine Learning
@@ -231,9 +290,15 @@
 - Assignment 2
   - Notebook: Assignment 2
   - Programming Assignment: Assignment 2 Submission
+</details>
 
 ### Week 3: Evaluation
 ```This module covers evaluation and model selection methods that you can use to help understand and optimize the performance of your machine learning models.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Evaluation
   - Notebook: Module 3 Notebook
   - Video: Model Evaluation & Selection
@@ -248,9 +313,15 @@
 - Assignment 3
   - Notebook: Assignment 3
   - Programming Assignment: Assignment 3 Submission
+</details>
 
 ### Week 4: Supervised Machine Learning - Part 2
 ```This module covers more advanced supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks (with an optional summary on deep learning). You will also learn about the critical problem of data leakage in machine learning and how to detect and avoid it.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Supervised Machine Learning - Part 2
   - Notebook: Module 4 Notebook
   - Video: Naive Bayes Classifiers
@@ -281,10 +352,16 @@
 - Conclusion
   - Video: Conclusion
   - Reading: Post-course Survey
+</details>
 
 ## Course 4: [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) `30H`
 
 ### Week 1: Working with Text in Python
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Working with Text in Python
   - Reading: Course Syllabus
   - Reading: Help us learn more about you!!
@@ -302,8 +379,14 @@
 - Assignment 1
   - Lab: Assignment 1
   - Programming Assignment: Assignment 1 Submission
+</details>
 
 ### Week 2: Basic Natural Language Processing
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Basic Natural Language Processing
   - Video: Basic Natural Language Processing
   - Lab: Module 2 (Python 3)
@@ -314,8 +397,14 @@
 - Assignment 2
   - Lab: Assignment 2
   - Programming Assignment: Assignment 2 Submission
+</details>
 
 ### Week 3: Classification of Text
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Classification of Text
   - Video: Text Classification
   - Video: Identifying Features from Text
@@ -329,8 +418,14 @@
 - Assignment 3
   - Lab: Assignment 3
   - Programming Assignment: Assignment 3 Submission
+</details>
 
 ### Week 4: Topic Modeling
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Topic Modeling
   - Video: Semantic Text Similarity
   - Video: Topic Modeling
@@ -344,11 +439,17 @@
   - Programming Assignment: Assignment 4 Submission
 - Post-Course Survey
   - Reading: Post-Course Survey
+</details>
 
 ## Course 5: [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) `30H`
 
 ### Week 1: Why Study Networks and Basics on NetworkX
 ```Module One introduces you to different types of networks in the real world and why we study them. You'll learn about the basic elements of networks, as well as different types of networks. You'll also learn how to represent and manipulate networked data using the NetworkX library. The assignment will give you an opportunity to use NetworkX to analyze a networked dataset of employees in a small company.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Why Study Networks and Basics on NetworkX
   - Reading: Course Syllabus
   - Reading: Help us learn more about you!
@@ -363,9 +464,15 @@
 - Assignment
   - Lab: Assignment 1
   - Programming Assignment: Assignment 1 Submission
+</details>
 
 ### Week 2: Network Connectivity
 ```In Module Two you'll learn how to analyze the connectivity of a network based on measures of distance, reachability, and redundancy of paths between nodes. In the assignment, you will practice using NetworkX to compute measures of connectivity of a network of email communication among the employees of a mid-size manufacturing company.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Network Connectivity
   - Video: Clustering Coefficient
   - Video: Distance Measures
@@ -377,9 +484,15 @@
 - Assignment
   - Lab: Assignment 2
   - Programming Assignment: Assignment 2 Submission
+</details>
 
 ### Week 3: Influence Measures and Network Centralization
 ```In Module Three, you'll explore ways of measuring the importance or centrality of a node in a network, using measures such as Degree, Closeness, and Betweenness centrality, Page Rank, and Hubs and Authorities. You'll learn about the assumptions each measure makes, the algorithms we can use to compute them, and the different functions available on NetworkX to measure centrality. In the assignment, you'll practice choosing the most appropriate centrality measure on a real-world setting.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Influence Measures and Network Centralization
   - Video: Degree and Closeness Centrality
   - Video: Betweenness Centrality
@@ -391,9 +504,15 @@
 - Assignment
   - Lab: Assignment 3
   - Programming Assignment: Assignment 3 Submission
+</details>
 
 ### Week 4: Network Evolution
 ```In Module Four, you'll explore the evolution of networks over time, including the different models that generate networks with realistic features, such as the Preferential Attachment Model and Small World Networks. You will also explore the link prediction problem, where you will learn useful features that can predict whether a pair of disconnected nodes will be connected in the future. In the assignment, you will be challenged to identify which model generated a given network. Additionally, you will have the opportunity to combine different concepts of the course by predicting the salary, position, and future connections of the employees of a company using their logs of email exchanges.```
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Applications
   - Video: Preferential Attachment Model
   - Reading: Power Laws and Rich-Get-Richer Phenomena (Optional)
@@ -407,3 +526,4 @@
   - Programming Assignment: Assignment 4 Submission
 - Post-Course Survey
   - Reading: Post-Course Survey
+</details>
