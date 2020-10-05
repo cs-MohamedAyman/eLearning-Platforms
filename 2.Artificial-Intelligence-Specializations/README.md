@@ -449,8 +449,8 @@ AI Foundations for Everyone
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-IBM Applied AI Professional Certificate
-<a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Specialization</a> by IBM
+IBM Applied AI
+<a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Professional Certificate</a> by IBM
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
@@ -793,8 +793,8 @@ AI for Medicine
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-IBM AI Engineering Professional Certificate
-<a href="https://www.coursera.org/professional-certificates/ai-engineer">Specialization</a> by IBM
+IBM AI Engineering
+<a href="https://www.coursera.org/professional-certificates/ai-engineer">Professional Certificate</a> by IBM
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/machine-learning-with-python">Machine Learning with Python</a></td>
