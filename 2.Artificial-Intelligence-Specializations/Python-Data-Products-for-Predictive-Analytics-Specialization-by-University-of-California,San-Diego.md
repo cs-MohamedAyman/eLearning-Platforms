@@ -43,6 +43,11 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 ## Course 1: [Basic Data Processing and Visualization](https://www.coursera.org/learn/basic-data-processing-visualization-python) `10H`
 
 ### Week 1: Introduction to Data
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Course Information
   - Reading: Syllabus
   - Reading: Course Materials
@@ -60,8 +65,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Reading: (Optional) Python: Additional Resources and Recommended Readings
   - Video: Livecoding: Getting Started With Jupyter
   - Practice Quiz: Review: Python and Jupyter
+</details>
 
 ### Week 2: Univariate Data
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - CSV and JSON Files
   - Video: CSV & JSON Files
   - Video: Reading CSV & JSON Files
@@ -74,8 +85,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Simple Statistics
 - Quiz: Week 2 Assessment
   - Quiz: Python: Reading Data and Simple Statistics
+</details>
 
 ### Week 3: Multivariate Data
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Data Filtering and Cleaning
   - Video: Data Filtering and Cleaning
   - Practice Quiz: Review: Data Filtering and Cleaning
@@ -86,8 +103,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Processing Different Data Types
 - Quiz: Week 3 Assessment
   - Quiz: Data Processing in Python
+</details>
 
 ### Week 4: Populations and Samples
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - NumPy
   - Video: Matrix Processing and Numpy
   - Practice Quiz: Review: NumPy
@@ -103,8 +126,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Quiz: Python Libraries and Toolkits
 - Mini Project
   - Practice Peer-graded Assignment: Mini Project
+</details>
 
 ### Week 5: Populations and Samples
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Course Summary
   - Video: Course Summary
 - Project 1: Reading and Manipulating Datasets in Python
@@ -113,10 +142,16 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Peer-graded Assignment: Project Submission
   - Grading in progress
   - Review Your Peers: Project Submission
+</details>
 
 ## Course 2: [Design Thinking and Predictive Analytics for Data Products](https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products) `10H`
 
 ### Week 1: Overview & Inference Procedures
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Course Information
   - Reading: Syllabus
   - Reading: Course Materials
@@ -134,8 +169,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Regression
 - Week 1 Assessment
   - Quiz: Supervised Learning & Regression
+</details>
 
 ### Week 2: Confidence Intervals
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Features
   - Video: Features from Categorical Data
   - Video: Features from Temporal Data
@@ -146,8 +187,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Reading: Supplementary Notebook for Features
 - Week 2 Assessment
   - Quiz: Features
+</details>
 
 ### Week 3: Hypothesis Testing
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Classification
   - Video: Supervised Learning: Classification
   - Video: Classification: Nearest Neighbors
@@ -157,8 +204,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Logistic Regression and Support Vector Machines
 - Week 3 Assessment
   - Quiz: Classification
+</details>
 
 ### Week 4: Confidence Intervals
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - More on Classification
   - Video: Classification in Python
   - Video: Introduction to Training and Testing
@@ -170,17 +223,29 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Gradient Descent
 - Week 4 Assessment
   - Quiz: More on Classification
+</details>
 
 ### Week 5: Hypothesis Testing
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Project 2: Making Predictions From Data
   - Reading: Project Description
   - Reading: Where to Find Datasets
   - Peer-graded Assignment: Project Submission
   - Review Your Peers: Project Submission
+</details>
 
 ## Course 3: [Meaningful Predictive Modeling](https://www.coursera.org/learn/meaningful-predictive-modeling) `10H`
 
 ### Week 1: Diagnostics for Data
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Course Introduction
   - Video: Introduction to Course 3: Meaningful Predictive Modeling
   - Reading: Syllabus
@@ -199,8 +264,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Classification Diagnostics
 - Week 1 Assessment
   - Quiz: Diagnostics for Data
+</details>
 
 ### Week 2: Codebases, Regularization, and Evaluating a Model
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Setting Up a Codebase
   - Video: Setting Up a Codebase for Evaluation and Validation
   - Practice Quiz: Review: Setting Up a Codebase
@@ -212,8 +283,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Evaluating a Model
 - Week 2 Assessment
   - Quiz: Codebases, Regularization, and Evaluating a Model
+</details>
 
 ### Week 3: Validation and Pipelines
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Validation
   - Video: Validation
   - Video: “Theorems” About Training, Testing, and Validation
@@ -224,17 +301,29 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Predictive Pipelines
 - Week 3 Assessment
   - Quiz: Predictive Pipelines
+</details>
 
 ### Week 4: Final Project
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Project 3: Validating Predictions from Data
   - Reading: Project Description
   - Reading: Where to Find Datasets
   - Peer-graded Assignment: Project Submission
   - Review Your Peers: Project Submission
+</details>
 
 ## Course 4: [Deploying Machine Learning Models](https://www.coursera.org/learn/deploying-machine-learning-models) `10H`
 
 ### Week 1: Introduction
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Course Information
   - Reading: Syllabus
   - Reading: Course Materials
@@ -250,8 +339,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Introduction to Latent Factor Models
 - Week 1 Assessment
   - Quiz: Recommender Systems and Latent Factor Models
+</details>
 
 ### Week 2: Implementing Recommender Systems
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Similarity-Based Recommenders
   - Video: Implementing a Similarity-Based Recommender
   - Video: Similarity-Based Recommender for Rating Prediction
@@ -262,8 +357,14 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Implementing Latent Factor Models
 - Week 2 Assessment
   - Quiz: Implementing Recommender Systems
+</details>
 
 ### Week 3: Deploying Recommender Systems
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Vids
   - Video: Intro to Web Server Frameworks (in Python)
   - Quiz: Review: Flask and Django
@@ -272,17 +373,30 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Video: Flask
 - Week 3 Assessment
   - Quiz: Deploying Recommender Systems
+</details>
 
 ### Week 4: Project 4: Recommender System
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Project 4: Recommender System
   - Reading: Project Description
   - Reading: How to Find a Dataset
   - Peer-graded Assignment: Project Submission
   - Review Your Peers: Project Submission
+</details>
 
 ### Week 5: Capstone
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Capstone
   - Video: Description of Capstone Tasks
   - Reading: Capstone Overview
   - Peer-graded Assignment: Capstone Submission
   - Review Your Peers: Capstone Submission
+</details>
