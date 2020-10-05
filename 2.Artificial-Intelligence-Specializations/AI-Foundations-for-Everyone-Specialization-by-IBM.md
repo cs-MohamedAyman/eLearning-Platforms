@@ -101,7 +101,6 @@ Learners will perform several no-code hands-on exercises in each of the three co
   - Reading: Principles for ethical AI
   - Practice Quiz: Review Questions for Readings (Not Graded)
   - Reading: Lesson Summary
-  - Discussion Prompt: Concerns with AI
 - Week 3 Quiz
   - Quiz: Graded: AI Issues, Ethics and Bias
 
