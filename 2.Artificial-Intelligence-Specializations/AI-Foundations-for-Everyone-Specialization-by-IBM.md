@@ -50,6 +50,11 @@ Learners will perform several no-code hands-on exercises in each of the three co
 ## Course 1: [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai) `10H`
 
 ### Week 1: What is AI? Applications and Examples of AI
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Welcome
   - Reading: Who should take this course?
 - What is AI?
@@ -66,8 +71,14 @@ Learners will perform several no-code hands-on exercises in each of the three co
   - Reading: Lesson Summary
 - Week 1 Quiz
   - Quiz: Graded: What is AI? Applications and Examples of AI
+</details>
 
 ### Week 2: AI Concepts, Terminology, and Application Areas
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - AI Introduction
   - Video: Cognitive Computing (Perception, Learning, Reasoning)
   - Reading: Lesson Summary
@@ -87,8 +98,14 @@ Learners will perform several no-code hands-on exercises in each of the three co
   - Reading: Lesson Summary
 - Week 2 Quiz
   - Quiz: Graded: AI Concepts, Terminology, and Application Areas
+</details>
 
 ### Week 3: AI: Issues, Concerns and Ethical Considerations
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - AI and Ethics, Jobs, Bias
   - Video: Issues and Concerns around AI
   - Video: AI and Ethical Concerns
@@ -103,8 +120,14 @@ Learners will perform several no-code hands-on exercises in each of the three co
   - Reading: Lesson Summary
 - Week 3 Quiz
   - Quiz: Graded: AI Issues, Ethics and Bias
+</details>
 
 ### Week 4: The Future with AI, and AI in Action
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Our Future with AI
   - Video: The evolution and future of AI
   - Reading: What’s next for AI?
@@ -127,10 +150,16 @@ Learners will perform several no-code hands-on exercises in each of the three co
   - Review Your Peers: Final Assignment Part Two
 - Conclusion
   - Reading: Conclusion and Next Steps
+</details>
 
 ## Course 2: [Getting Started with AI using IBM Watson](https://www.coursera.org/learn/ai-with-ibm-watson) `10H`
 
 ### Week 1: Watson AI Overview
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Welcome
   - Reading: Who should take this course?
   - Video: Introduction to the course
@@ -152,8 +181,14 @@ Learners will perform several no-code hands-on exercises in each of the three co
 - Quiz
   - Practice Quiz: Practice: Watson AI Overview
   - Quiz: Graded: Watson AI Overview
+</details>
 
 ### Week 2: Watson AI Services
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to Watson Services
   - Video: Introduction to Watson Services
   - Video: A Few Watson Services
@@ -182,8 +217,14 @@ Learners will perform several no-code hands-on exercises in each of the three co
 - Quiz
   - Practice Quiz: Practice: Watson AI Services
   - Quiz: Graded: Watson AI Services
+</details>
 
 ### Week 3: More Watson AI Services
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Data
   - Video: Watson Studio
   - Video: Watson Machine Learning
@@ -205,8 +246,14 @@ Learners will perform several no-code hands-on exercises in each of the three co
 - Quiz
   - Practice Quiz: Practice: More Watson AI Services
   - Quiz: Graded: More Watson AI Services
+</details>
 
 ### Week 4: Watson in Action
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Introduction to Watson Services
   - Video: Introduction to Watson Services
 - Watson Use Cases
@@ -227,10 +274,16 @@ Learners will perform several no-code hands-on exercises in each of the three co
 - Watson in Action: Analyzing documents with Watson Discovery
   - Reading: Exercise: Analyzing documents with Watson Discovery!
   - Quiz: Graded: Analyzing documents with Watson Discovery!
+</details>
 
 ## Course 3: [Building AI Powered Chatbots Without Programming](https://www.coursera.org/learn/building-ai-powered-chatbots) `10H`
 
 ### Week 1: Introduction and Intents
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - General Information
   - Reading: General Information
 - Syllabus
@@ -249,8 +302,14 @@ Learners will perform several no-code hands-on exercises in each of the three co
   - Reading: Lab 3: Import Intents
   - Quiz: Module 2 Quiz: Intents
   - Reading: What's Next
+</details>
 
 ### Week 2: Entities and Dialog
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Working with Entities
   - Video: Understanding Entities
   - Reading: Lab 4: Create Entities
@@ -264,8 +323,14 @@ Learners will perform several no-code hands-on exercises in each of the three co
   - Reading: Lab 7: Define Domain-Specific Intents
   - Quiz: Module 4 Quiz: Dialog
   - Reading: What's Next
+</details>
 
 ### Week 3: Deployment and Context Variables & Slots
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Deploying your Chatbot
   - Video: Deploying a WordPress Site
   - Reading: Lab 8: Add a preview and retrieve your credentials
@@ -279,8 +344,14 @@ Learners will perform several no-code hands-on exercises in each of the three co
   - Reading: Lab 11: Master Slots
   - Quiz: Module 6 Quiz: Context Variables & Slots
   - Reading: What's Next
+</details>
 
 ### Week 4: Digressions
+
+<details>
+      <summary>Week Details</summary>
+<br>
+
 - Advanced Concepts - Part 2
   - Video: Understanding Digressions
   - Reading: Lab 12: Enable Digressions
@@ -294,3 +365,4 @@ Learners will perform several no-code hands-on exercises in each of the three co
   - Quiz: Final Exam
   - Video: Final words of advice
   - Practice Quiz: Opt-in to receive your badge!
+</details>
