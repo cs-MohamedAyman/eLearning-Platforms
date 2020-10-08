@@ -416,207 +416,6 @@ Process Mining: Data science in Action by Eindhoven University of Technology
 </table>   
 </details>
 <details>
-	<summary>Business Intelligence Specializations</summary>
-	
-<table>
-	<thead>
-		<tr>
-			<th width="45%">Specialization</th>
-			<th width="55%">Course Name</th>
-			<th>Level</th>
-			<th>H</th>
-		</tr>
-	</thead>
-	<tbody>
-			<tr>
-				<td rowspan=5 align=center>
-Business Statistics and Analysis  
-<a href="https://www.coursera.org/specializations/business-statistics-analysis">Specialization</a> by Rice University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/excel-data-analysis">Introduction to Data Analysis Using Excel</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application">Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/hypothesis-testing-confidence-intervals">Business Applications of Hypothesis Testing and Confidence Interval Estimation</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/linear-regression-business-statistics">Linear Regression for Business Statistics</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/business-statistics-analysis-capstone">Business Statistics and Analysis Capstone</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=5 align=center>
-Data Visualization with Tableau  
-<a href="https://www.coursera.org/specializations/data-visualization">Specialization</a> by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/data-visualization-tableau">Fundamentals of Visualization with Tableau</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/dataviz-design">Essential Design Principles for Tableau</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/dataviz-visual-analytics">Visual Analytics with Tableau</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/dataviz-dashboards">Creating Dashboards and Storytelling with Tableau</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/dataviz-project">Data Visualization with Tableau Project</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=5 align=center>
-Statistics with R  
-<a href="https://www.coursera.org/specializations/statistics">Specialization</a> by Duke University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/probability-intro">Introduction to Probability and Data</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/inferential-statistics-intro">Inferential Statistics</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/linear-regression-model">Linear Regression and Modeling</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/bayesian">Bayesian Statistics</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">40</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/statistics-project">Statistics with R Capstone</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Statistical Analysis with R for Public Health  
-<a href="https://www.coursera.org/specializations/statistical-analysis-r-public-health">Specialization</a> by Imperial College London
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health">Introduction to Statistics & Data Analysis in Public Health</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/linear-regression-r-public-health">Linear Regression in R for Public Health</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/logistic-regression-r-public-health">Logistic Regression in R for Public Health</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/survival-analysis-r-public-health">Survival Analysis in R for Public Health</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Excel Skills for Business  
-<a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/excel-essentials">Excel Skills for Business: Essentials</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/excel-intermediate-1">Excel Skills for Business: Intermediate I</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/excel-intermediate-2">Excel Skills for Business: Intermediate II</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/excel-advanced">Excel Skills for Business: Advanced</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=3 align=center>
-Excel/VBA for Creative Problem Solving  
-<a href="https://www.coursera.org/specializations/excel-vba-creative-problem-solving">Specialization</a> by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1">Excel/VBA for Creative Problem Solving, Part 1</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2">Excel/VBA for Creative Problem Solving, Part 2</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-3-projects">Excel/VBA for Creative Problem Solving, Part 3 (Projects)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Data Visualization  
-<a href="https://www.coursera.org/specializations/datavisualization">Specialization</a> by Arizona State University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/intro-to-data-exploration">Introduction to Data Exploration and Visualization</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/multivariate-geographical-analysis">Multivariate and Geographical Data Analysis</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/temporal-and-hierarchical-analysis">Temporal and Hierarchical Data Analysis</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">30</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-visualization-tools">Additional Tools Used for Data Visualization</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">15</td>
-			</tr>
-	</tbody>
-</table>   
-</details>
-<details>
 	<summary>Data Science Specializations</summary>
 	
 <table>
@@ -956,6 +755,207 @@ Advanced Data Science with IBM
 			<tr>
 				<td><a href="https://www.coursera.org/learn/advanced-data-science-capstone">Advanced Data Science Capstone</a></td>
 				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+	</tbody>
+</table>   
+</details>
+<details>
+	<summary>Business Intelligence Specializations</summary>
+	
+<table>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+				<td rowspan=5 align=center>
+Business Statistics and Analysis  
+<a href="https://www.coursera.org/specializations/business-statistics-analysis">Specialization</a> by Rice University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/excel-data-analysis">Introduction to Data Analysis Using Excel</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application">Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/hypothesis-testing-confidence-intervals">Business Applications of Hypothesis Testing and Confidence Interval Estimation</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/linear-regression-business-statistics">Linear Regression for Business Statistics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/business-statistics-analysis-capstone">Business Statistics and Analysis Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Data Visualization with Tableau  
+<a href="https://www.coursera.org/specializations/data-visualization">Specialization</a> by University of California, Davis
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/data-visualization-tableau">Fundamentals of Visualization with Tableau</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/dataviz-design">Essential Design Principles for Tableau</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/dataviz-visual-analytics">Visual Analytics with Tableau</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/dataviz-dashboards">Creating Dashboards and Storytelling with Tableau</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/dataviz-project">Data Visualization with Tableau Project</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Statistics with R  
+<a href="https://www.coursera.org/specializations/statistics">Specialization</a> by Duke University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/probability-intro">Introduction to Probability and Data</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/inferential-statistics-intro">Inferential Statistics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/linear-regression-model">Linear Regression and Modeling</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/bayesian">Bayesian Statistics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/statistics-project">Statistics with R Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Statistical Analysis with R for Public Health  
+<a href="https://www.coursera.org/specializations/statistical-analysis-r-public-health">Specialization</a> by Imperial College London
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health">Introduction to Statistics & Data Analysis in Public Health</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/linear-regression-r-public-health">Linear Regression in R for Public Health</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/logistic-regression-r-public-health">Logistic Regression in R for Public Health</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/survival-analysis-r-public-health">Survival Analysis in R for Public Health</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Excel Skills for Business  
+<a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/excel-essentials">Excel Skills for Business: Essentials</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/excel-intermediate-1">Excel Skills for Business: Intermediate I</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/excel-intermediate-2">Excel Skills for Business: Intermediate II</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/excel-advanced">Excel Skills for Business: Advanced</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=3 align=center>
+Excel/VBA for Creative Problem Solving  
+<a href="https://www.coursera.org/specializations/excel-vba-creative-problem-solving">Specialization</a> by University of Colorado Boulder
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1">Excel/VBA for Creative Problem Solving, Part 1</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2">Excel/VBA for Creative Problem Solving, Part 2</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-3-projects">Excel/VBA for Creative Problem Solving, Part 3 (Projects)</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Data Visualization  
+<a href="https://www.coursera.org/specializations/datavisualization">Specialization</a> by Arizona State University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/intro-to-data-exploration">Introduction to Data Exploration and Visualization</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/multivariate-geographical-analysis">Multivariate and Geographical Data Analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/temporal-and-hierarchical-analysis">Temporal and Hierarchical Data Analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-visualization-tools">Additional Tools Used for Data Visualization</a></td>
+				<td align="center">Intermediate</td>
 				<td align="center">15</td>
 			</tr>
 	</tbody>
