@@ -609,65 +609,6 @@ Data Science: Statistics and Machine Learning
 				<td align="center">5</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Introduction to Programming with MATLAB by Vanderbilt University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/vanderbilt%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/matlab">Introduction to Programming with MATLAB</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">40</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Practical Data Science with MATLAB  
-<a href="https://www.coursera.org/specializations/practical-data-science-matlab">Specialization</a> by MathWorks
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/exploratory-data-analysis-matlab">Exploratory Data Analysis with MATLAB</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/feature-engineering-matlab">Data Processing and Feature Engineering with MATLAB</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">5</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/predictive-modeling-machine-learning">Predictive Modeling and Machine Learning with MATLAB</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/matlab-capstone">Data Science Project: MATLAB for the Real World</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">0</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-From Data to Insights with Google Cloud Platform  
-<a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring ​and ​Preparing ​your ​Data with BigQuery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights">Creating New BigQuery Datasets and Visualizing Insights</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/gcp-advanced-insights-bigquery">Achieving Advanced Insights with BigQuery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-insights-gcp-apply-ml">Applying Machine Learning to your Data with GCP</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
 				<td rowspan=4 align=center>
 Data Science at Scale  
 <a href="https://www.coursera.org/specializations/data-science">Specialization</a> by University of Washington
@@ -790,6 +731,65 @@ Advanced Data Science with IBM
 			<tr>
 				<td><a href="https://www.coursera.org/learn/advanced-data-science-capstone">Advanced Data Science Capstone</a></td>
 				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to Programming with MATLAB by Vanderbilt University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/vanderbilt%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/matlab">Introduction to Programming with MATLAB</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Practical Data Science with MATLAB  
+<a href="https://www.coursera.org/specializations/practical-data-science-matlab">Specialization</a> by MathWorks
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/exploratory-data-analysis-matlab">Exploratory Data Analysis with MATLAB</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/feature-engineering-matlab">Data Processing and Feature Engineering with MATLAB</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/predictive-modeling-machine-learning">Predictive Modeling and Machine Learning with MATLAB</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/matlab-capstone">Data Science Project: MATLAB for the Real World</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">0</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+From Data to Insights with Google Cloud Platform  
+<a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring ​and ​Preparing ​your ​Data with BigQuery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights">Creating New BigQuery Datasets and Visualizing Insights</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gcp-advanced-insights-bigquery">Achieving Advanced Insights with BigQuery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-insights-gcp-apply-ml">Applying Machine Learning to your Data with GCP</a></td>
+				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 	</tbody>
