@@ -635,6 +635,31 @@ Data Science at Scale
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
+Applied Data Science 
+<a href="https://www.coursera.org/specializations/applied-data-science">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science and AI</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-analysis-with-python">Data Analysis with Python</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-for-data-visualization">Data Visualization with Python</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/applied-data-science-capstone">Applied Data Science Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">45</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
 Introduction to Data Science  
 <a href="https://www.coursera.org/specializations/introduction-data-science">Specialization</a> by IBM
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
