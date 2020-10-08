@@ -659,6 +659,51 @@ Applied Data Science
 				<td align="center">45</td>
 			</tr>
 			<tr>
+				<td rowspan=8 align=center>
+IBM Data Analyst 
+<a href="https://www.coursera.org/professional-certificates/ibm-data-analyst">Professional Certificate</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/excel-basics-data-analysis-ibm">Excel Basics for Data Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos">Data Visualization and Dashboards with Excel and Cognos</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">2</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science and AI</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/sql-data-science">Databases and SQL for Data Science</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-analysis-with-python">Data Analysis with Python</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-for-data-visualization">Data Visualization with Python</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ibm-data-analyst-capstone-project">IBM Data Analyst Capstone Project</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">0</td>
+			</tr>
+			<tr>
 				<td rowspan=4 align=center>
 Introduction to Data Science  
 <a href="https://www.coursera.org/specializations/introduction-data-science">Specialization</a> by IBM
