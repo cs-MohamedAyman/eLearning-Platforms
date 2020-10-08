@@ -809,6 +809,81 @@ Practical Data Science with MATLAB
 				<td align="center">0</td>
 			</tr>
 			<tr>
+				<td rowspan=4 align=center>
+From Data to Insights with Google Cloud Platform  
+<a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring ​and ​Preparing ​your ​Data with BigQuery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights">Creating New BigQuery Datasets and Visualizing Insights</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gcp-advanced-insights-bigquery">Achieving Advanced Insights with BigQuery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-insights-gcp-apply-ml">Applying Machine Learning to your Data with GCP</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Data Science at Scale  
+<a href="https://www.coursera.org/specializations/data-science">Specialization</a> by University of Washington
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/data-manipulation">Data Manipulation at Scale: Systems and Algorithms</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/predictive-analytics">Practical Predictive Analytics: Models and Methods</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-results">Communicating Data Science Results</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/datasci-capstone">Data Science at Scale - Capstone Project</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Introduction to Data Science  
+<a href="https://www.coursera.org/specializations/introduction-data-science">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/what-is-datascience">What is Data Science?</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/open-source-tools-for-data-science">Open Source tools for Data Science</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-science-methodology">Data Science Methodology</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/sql-data-science">Databases and SQL for Data Science</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
 				<td rowspan=9 align=center>
 IBM Data Science
 <a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Professional Certificate</a> by IBM
@@ -857,81 +932,6 @@ IBM Data Science
 				<td><a href="https://www.coursera.org/learn/applied-data-science-capstone">Applied Data Science Capstone</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">50</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-From Data to Insights with Google Cloud Platform  
-<a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring ​and ​Preparing ​your ​Data with BigQuery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights">Creating New BigQuery Datasets and Visualizing Insights</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/gcp-advanced-insights-bigquery">Achieving Advanced Insights with BigQuery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-insights-gcp-apply-ml">Applying Machine Learning to your Data with GCP</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Introduction to Data Science  
-<a href="https://www.coursera.org/specializations/introduction-data-science">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/what-is-datascience">What is Data Science?</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/open-source-tools-for-data-science">Open Source tools for Data Science</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-science-methodology">Data Science Methodology</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/sql-data-science">Databases and SQL for Data Science</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Data Science at Scale  
-<a href="https://www.coursera.org/specializations/data-science">Specialization</a> by University of Washington
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/data-manipulation">Data Manipulation at Scale: Systems and Algorithms</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/predictive-analytics">Practical Predictive Analytics: Models and Methods</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-results">Communicating Data Science Results</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/datasci-capstone">Data Science at Scale - Capstone Project</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">15</td>
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
