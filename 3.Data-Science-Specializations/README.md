@@ -933,6 +933,31 @@ Data Science at Scale
 				<td align="center">Intermediate</td>
 				<td align="center">15</td>
 			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Advanced Data Science with IBM  
+<a href="https://www.coursera.org/specializations/advanced-data-science-ibm">Specialization</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/ds">Fundamentals of Scalable Data Science</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/advanced-machine-learning-signal-processing">Advanced Machine Learning and Signal Processing</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ai">Applied AI with DeepLearning</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/advanced-data-science-capstone">Advanced Data Science Capstone</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
 	</tbody>
 </table>   
 </details>
@@ -1343,31 +1368,6 @@ Advanced Business Analytics
 				<td><a href="https://www.coursera.org/learn/data-analytics-business-capstone">Advanced Business Analytics Capstone</a></td>
 				<td align="center">Advanced</td>
 				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-Advanced Data Science with IBM  
-<a href="https://www.coursera.org/specializations/advanced-data-science-ibm">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/ds">Fundamentals of Scalable Data Science</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/advanced-machine-learning-signal-processing">Advanced Machine Learning and Signal Processing</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/ai">Applied AI with DeepLearning</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/advanced-data-science-capstone">Advanced Data Science Capstone</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">15</td>
 			</tr>
 	</tbody>
 </table>   
