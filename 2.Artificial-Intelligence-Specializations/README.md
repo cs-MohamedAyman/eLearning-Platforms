@@ -274,6 +274,41 @@ IBM Introduction to Machine Learning
 				<td align="center">10</td>
 			</tr>
 			<tr>
+				<td rowspan=6 align=center>
+IBM Machine Learning 
+<a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">Professional Certificate</a> by IBM
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/supervised-learning-regression">Supervised Learning: Regression</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/supervised-learning-classification">Supervised Learning: Classification</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/ibm-unsupervised-learning">Unsupervised Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/deep-learning-reinforcement-learning">Deep Learning and Reinforcement Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/time-series-survival-analysis">Specialized Models: Time Series and Survival Analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
 				<td rowspan=5 align=center>
 Machine Learning with TensorFlow on Google Cloud Platform  
 <a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud
