@@ -37,8 +37,8 @@ Data Science Specializations road map for computer science students.
 
 ### 3.1- Data Analysis Specializations
 ### 3.2- Machine Learning and Data Mining Specializations
-### 3.3- Business Intelligence Specializations
-### 3.4- Data Science Specializations
+### 3.3- Data Science Specializations
+### 3.4- Business Intelligence Specializations
 ### 3.5- Database Systems and Data Warehousing Specializations
 ### 3.6- Big Data Specializations
 ### 3.7- Data Engineering Specializations
