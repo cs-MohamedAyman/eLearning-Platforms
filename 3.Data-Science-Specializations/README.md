@@ -490,6 +490,121 @@ Executive Data Science
 			</tr>
 			<tr>
 				<td rowspan=5 align=center>
+Data Science: Foundations using R  
+<a href="https://www.coursera.org/specializations/data-science-foundations-r">Specialization</a> by Johns Hopkins University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientist’s Toolbox</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/r-programming">R Programming</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">60</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">60</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/reproducible-research">Reproducible Research</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=10 align=center>
+Data Science  
+<a href="https://www.coursera.org/specializations/jhu-data-science">Specialization</a> by Johns Hopkins University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientist’s Toolbox</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/r-programming">R Programming</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">60</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">60</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/reproducible-research">Reproducible Research</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">55</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/regression-models">Regression Models</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">55</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/practical-machine-learning">Practical Machine Learning</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-products">Developing Data Products</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Data Science: Statistics and Machine Learning  
+<a href="https://www.coursera.org/specializations/data-science-statistics-machine-learning">Specialization</a> by Johns Hopkins University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">55</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/regression-models">Regression Models</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">55</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/practical-machine-learning">Practical Machine Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-products">Developing Data Products</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
 Data Visualization with Tableau  
 <a href="https://www.coursera.org/specializations/data-visualization">Specialization</a> by University of California, Davis
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
@@ -694,36 +809,6 @@ Practical Data Science with MATLAB
 				<td align="center">0</td>
 			</tr>
 			<tr>
-				<td rowspan=5 align=center>
-Data Science: Foundations using R  
-<a href="https://www.coursera.org/specializations/data-science-foundations-r">Specialization</a> by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientist’s Toolbox</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/r-programming">R Programming</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">60</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">60</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/reproducible-research">Reproducible Research</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
 				<td rowspan=9 align=center>
 IBM Data Science
 <a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Professional Certificate</a> by IBM
@@ -774,61 +859,6 @@ IBM Data Science
 				<td align="center">50</td>
 			</tr>
 			<tr>
-				<td rowspan=10 align=center>
-Data Science  
-<a href="https://www.coursera.org/specializations/jhu-data-science">Specialization</a> by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientist’s Toolbox</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/r-programming">R Programming</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">60</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">60</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/reproducible-research">Reproducible Research</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">55</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/regression-models">Regression Models</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">55</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/practical-machine-learning">Practical Machine Learning</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-products">Developing Data Products</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
 				<td rowspan=4 align=center>
 From Data to Insights with Google Cloud Platform  
 <a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud
@@ -877,36 +907,6 @@ Introduction to Data Science
 				<td><a href="https://www.coursera.org/learn/sql-data-science">Databases and SQL for Data Science</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=5 align=center>
-Data Science: Statistics and Machine Learning  
-<a href="https://www.coursera.org/specializations/data-science-statistics-machine-learning">Specialization</a> by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">55</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/regression-models">Regression Models</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">55</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/practical-machine-learning">Practical Machine Learning</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-products">Developing Data Products</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">5</td>
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
