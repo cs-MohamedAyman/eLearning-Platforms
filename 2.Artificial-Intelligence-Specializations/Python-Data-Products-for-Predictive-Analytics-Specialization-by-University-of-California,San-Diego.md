@@ -42,7 +42,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 
 ## Course 1: [Basic Data Processing and Visualization](https://www.coursera.org/learn/basic-data-processing-visualization-python) `10H`
 
-### Week 1: Introduction to Data
+### Week 1: Introduction to Data Products
 ```This week, we will go over the syllabus and set you up with the course materials and software. We will introduce you to data products and refresh your memory on Python and Jupyter notebooks.```
 
 <details>
@@ -68,7 +68,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Quiz: Review: Python and Jupyter
 </details>
 
-### Week 2: Univariate Data
+### Week 2: Reading Data in Python
 ```This week, we will learn how to load in datasets from CSV and JSON files. We will also practice manipulating data from these datasets with basic Python commands.```
 
 <details>
@@ -89,7 +89,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Quiz: Python: Reading Data and Simple Statistics
 </details>
 
-### Week 3: Multivariate Data
+### Week 3: Data Processing in Python
 ```This week, our goal is to understand how to clean up a dataset before analyzing it. We will go over how to work with different types of data, such as strings and dates.```
 
 <details>
@@ -108,7 +108,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Quiz: Data Processing in Python
 </details>
 
-### Week 4: Populations and Samples
+### Week 4: Python Libraries and Toolkits
 ```In this last week, we will get a sense of common libraries in Python and how they can be useful. We will cover data visualization with numpy and MatPlotLib, and also introduce you to the basics of webscraping with urllib and BeautifulSoup.```
 
 <details>
@@ -132,7 +132,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Practice Peer-graded Assignment: Mini Project
 </details>
 
-### Week 5: Populations and Samples
+### Week 5: Final Project
 ```Create your own Jupyter notebook with a dataset of your own choosing and practice data manipulation. Show off the skills you've learned and the libraries you know about in this project. We hope you enjoyed the course, and best of luck in your future learning!```
 
 <details>
@@ -151,7 +151,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
 
 ## Course 2: [Design Thinking and Predictive Analytics for Data Products](https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products) `10H`
 
-### Week 1: Overview & Inference Procedures
+### Week 1: Supervised Learning & Regression
 ```Welcome to the second course in this specialization! This week, we will go over the syllabus, download all course materials, and get your system up and running for the course. We will also introduce the basics of supervised learning and regression.```
 
 <details>
@@ -177,7 +177,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Quiz: Supervised Learning & Regression
 </details>
 
-### Week 2: Confidence Intervals
+### Week 2: Features
 ```This week, we will learn what features are in a dataset and how we can work with them through cleaning, manipulation, and analysis in Jupyter notebooks.```
 
 <details>
@@ -196,7 +196,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Quiz: Features
 </details>
 
-### Week 3: Hypothesis Testing
+### Week 3: Classification
 ```This week, we will learn about classification and several ways you can implement it, such as K-nearest neighbors, logistic regression, and support vector machines.```
 
 <details>
@@ -214,7 +214,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Quiz: Classification
 </details>
 
-### Week 4: Confidence Intervals
+### Week 4: Gradient Descent
 ```This week, we will learn the importance of properly training and testing a model. We will also implement gradient descent in both Python and TensorFlow.```
 
 <details>
@@ -234,7 +234,7 @@ You’ll start by creating your first data strategy. You’ll also develop stati
   - Quiz: More on Classification
 </details>
 
-### Week 5: Hypothesis Testing
+### Week 5: Final Project
 ```In the final week of this course, you will continue building on the project from the first course of Python Data Products for Predictive Analytics with simple predictive machine learning algorithms. Find a dataset, clean it, and perform basic analyses on the data.```
 
 <details>
