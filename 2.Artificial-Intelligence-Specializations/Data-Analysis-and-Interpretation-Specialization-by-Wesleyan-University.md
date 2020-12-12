@@ -341,6 +341,7 @@ A major component of the Capstone project is for you to be able to choose the in
 
 ### Week 3: Multiple Regression
 ```Multiple regression analysis is tool that allows you to expand on your research question, and conduct a more rigorous test of the association between your explanatory and response variable by adding additional quantitative and/or categorical explanatory variables to your linear regression model. In this session, you will apply and interpret a multiple regression analysis for a quantitative response variable, and will learn how to use confidence intervals to take into account error in estimating a population parameter. You will also learn how to account for nonlinear associations in a linear regression model. Finally, you will develop experience using regression diagnostic techniques to evaluate how well your multiple regression model predicts your observed response variable.
+
 Note that if you have not yet identified additional explanatory variables, you should choose at least one additional explanatory variable from your data set. When you go back to your codebooks, ask yourself a few questions like “What other variables might explain the association between my explanatory and response variable?”; “What other variables might explain more of the variability in my response variable?”, or even “What other explanatory variables might be interesting to explore?” Additional explanatory variables can be either quantitative, categorical, or both. Although you need only two explanatory variables to test a multiple regression model, we encourage you to identify more than one additional explanatory variable. Doing so will really allow you to experience the power of multiple regression analysis, and will increase your confidence in your ability to test and interpret more complex regression models. If your research question does not include one quantitative response variable, you can use the same quantitative response variable that you used in Module 2, or you may choose another one from your data set.```
 
 <details>
@@ -562,5 +563,3 @@ You can use the same variables that you have used in past weeks as clustering va
 <br>
 
 </details>
-
-
