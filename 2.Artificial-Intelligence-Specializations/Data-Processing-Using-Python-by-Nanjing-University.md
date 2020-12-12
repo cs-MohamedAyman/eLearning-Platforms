@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/nanjing-university.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/nanjing university.jpg">
 
 # [Data Processing Using Python](https://www.coursera.org/learn/python-data-processing) `20H`
 
@@ -11,7 +11,7 @@
 - Recently (updated on November 6, 2019) this course has undergone a comprehensive revision, the new version mainly made changes in the following aspects:
   - Enriched the actual operation and explanation of the Python-based case;
   - Added and expanded vector operations and broadcasting ideas and common applications such as the NumPy package, multiple links of data exploration and preprocessing, pandas-based data analysis and data mining cases, etc.
-- Some are directly modified on the original video, and some are presented in the form of expanded video. Especially the newly recorded video is longer because there are a lot of things to say, and many of them are more than 20 minutes. 😓, friends may compare Hard work, come on!
+- Some are directly modified on the original video, and some are presented in the form of expanded video. Especially the newly recorded video is longer because there are a lot of things to say, and many of them are more than 20 minutes.
 
 ## Syllabus - What you will learn from this course
 
