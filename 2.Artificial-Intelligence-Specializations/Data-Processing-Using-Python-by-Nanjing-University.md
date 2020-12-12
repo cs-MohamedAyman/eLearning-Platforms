@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/nanjing-university.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/nanjing university.jpg">
 
 # [Data Processing Using Python](https://www.coursera.org/learn/python-data-processing) `20H`
 
