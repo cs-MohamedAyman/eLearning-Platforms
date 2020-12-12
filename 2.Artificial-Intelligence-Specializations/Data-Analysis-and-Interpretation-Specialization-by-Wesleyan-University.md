@@ -526,9 +526,8 @@ You can use the same variables that you have used in past weeks as clustering va
 
 ## Course 5: [Data Analysis and Interpretation Capstone](https://www.coursera.org/learn/data-analysis-capstone) `10H`
 
-### Week 1: 
-```
-```
+### Week 1: Module 1. Identify Your Data and Research Question
+```In this Module, your goal is to review the lectures and readings in the Overview of the Capstone Project, and 1) decide which data set you will use to complete your capstone project. In addition 2) identify your research question, 3) propose a title for your final report, and 4) complete Milestone Assignment 1 as described in the assignment. By the end of this Module you will have drafted a final report Title and Introduction to the Research Question. Your Introduction to the Research Question should include a statement of your research question, your motivation or rationale for testing the research question, and some potential implications of answering your research question.```
 
 <details>
       <summary>Week Details</summary>
@@ -537,9 +536,8 @@ You can use the same variables that you have used in past weeks as clustering va
 </details>
 
 
-### Week 1: 
-```
-```
+### Week 2: Module 2. Data Management
+```In this Module, your goals are to 1) complete the majority of your data management so that you are ready to begin your preliminary statistical analyses; and 2) complete Milestone Assignment 2 as described in the assignment. By the end of this Module you will have drafted a final report Methods section. Your Methods section should include a description of your sample, measures, and the analyses you plan to use to test your research question.```
 
 <details>
       <summary>Week Details</summary>
@@ -548,9 +546,8 @@ You can use the same variables that you have used in past weeks as clustering va
 </details>
 
 
-### Week 1: 
-```
-```
+### Week 3: Module 3. Exploratory Data Analysis
+```In this Module, your goals are to 1) explore your data more extensively through descriptive and basic statistical analyses and data visualization; and 2) complete Milestone Assignment 3 as described in the Assignment. By the end of this module, you will have begun to draft your final report Results section, including some figures.```
 
 <details>
       <summary>Week Details</summary>
@@ -559,9 +556,8 @@ You can use the same variables that you have used in past weeks as clustering va
 </details>
 
 
-### Week 1: 
-```
-```
+### Week 4: Complete Your Final Report
+```In this Module, you 1) will complete your analyses; 2) finish writing your final report, and 3) submit your completed Final Report as the fourth and final assignment. A complete description of what is required for your final report and a detailed grading rubric can be found with the assignment; a sample final report is provided with the materials in the first module.```
 
 <details>
       <summary>Week Details</summary>
