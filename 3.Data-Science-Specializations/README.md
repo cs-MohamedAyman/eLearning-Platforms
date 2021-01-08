@@ -5,7 +5,7 @@ Data Science Specializations road map for computer science students.
 
 <details>
 	<summary>Data Analysis Specializations</summary>
-	
+
 <table>
 	<thead>
 		<tr>
@@ -18,18 +18,90 @@ Data Science Specializations road map for computer science students.
 	<tbody>
 			<tr>
 				<td rowspan=1 align=center>
-Data Science Math Skills by Duke University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+Bayesian Statistics: From Concept to Data Analysis by University of California, Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/bayesian-statistics">Bayesian Statistics: From Concept to Data Analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Bayesian Statistics: Techniques and Models by University of California, Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/mcmc-bayesian-statistics">Bayesian Statistics: Techniques and Models</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Bayesian Statistics: Mixture Models by University of California, Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/mixture-models">Bayesian Statistics: Mixture Models</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Data Science Math Skills by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 			<tr>
+				<td rowspan=1 align=center>
+Introduction to Data Analytics by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Everyday Excel, Part 1 by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/everyday-excel-part-1">Everyday Excel, Part 1</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Everyday Excel, Part 2 by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/everyday-excel-part-2">Everyday Excel, Part 2</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Excel Fundamentals for Data Analysis by Macquarie University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/excel-data-analysis-fundamentals">Excel Fundamentals for Data Analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Data Visualization in Excel by Macquarie University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/excel-data-visualization">Data Visualization in Excel</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
 				<td rowspan=5 align=center>
 Data Analysis and Presentation Skills: the PwC Approach  
-<a href="https://www.coursera.org/specializations/pwc-analytics">Specialization</a> by PwC
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/pwc.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/pwc-analytics">Specialization</a> by PwC<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/pwc.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/decision-making">Data-driven Decision Making</a></td>
 				<td align="center">Beginner</td>
@@ -57,8 +129,8 @@ Data Analysis and Presentation Skills: the PwC Approach
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Data Processing Using Python by Nanjing University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/nanjing%20university.jpg" width="40%">
+Data Processing Using Python by Nanjing University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/nanjing%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/python-data-processing">Data Processing Using Python</a></td>
 				<td align="center">Beginner</td>
@@ -67,8 +139,8 @@ Data Processing Using Python by Nanjing University
 			<tr>
 				<td rowspan=5 align=center>
 Data Analysis and Interpretation  
-<a href="https://www.coursera.org/specializations/data-analysis">Specialization</a> by Wesleyan University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-analysis">Specialization</a> by Wesleyan University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/data-visualization">Data Management and Visualization</a></td>
 				<td align="center">Beginner</td>
@@ -96,9 +168,29 @@ Data Analysis and Interpretation
 			</tr>
 			<tr>
 				<td rowspan=3 align=center>
+Mathematics for Machine Learning  
+<a href="https://www.coursera.org/specializations/mathematics-machine-learning">Specialization</a> by Imperial College London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">Mathematics for Machine Learning: Multivariate Calculus</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/pca-machine-learning">Mathematics for Machine Learning: PCA</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=3 align=center>
 Statistics with Python  
-<a href="https://www.coursera.org/specializations/statistics-with-python">Specialization</a> by University of Michigan
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/statistics-with-python">Specialization</a> by University of Michigan<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/understanding-visualization-data">Understanding and Visualizing Data with Python</a></td>
 				<td align="center">Beginner</td>
@@ -116,8 +208,8 @@ Statistics with Python
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/python-statistics-financial-analysis">Python and Statistics for Financial Analysis</a></td>
 				<td align="center">Beginner</td>
@@ -126,8 +218,8 @@ Python and Statistics for Financial Analysis by The Hong Kong University of Scie
 			<tr>
 				<td rowspan=4 align=center>
 Python Data Products for Predictive Analytics  
-<a href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California, San Diego
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California, San Diego<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/basic-data-processing-visualization-python">Basic Data Processing and Visualization</a></td>
 				<td align="center">Intermediate</td>
@@ -151,8 +243,8 @@ Python Data Products for Predictive Analytics
 			<tr>
 				<td rowspan=5 align=center>
 Applied Data Science with Python  
-<a href="https://www.coursera.org/specializations/data-science-python">Specialization</a> by University of Michigan
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-science-python">Specialization</a> by University of Michigan<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/python-data-analysis">Introduction to Data Science in Python</a></td>
 				<td align="center">Intermediate</td>
@@ -178,38 +270,9 @@ Applied Data Science with Python
 				<td align="center">Intermediate</td>
 				<td align="center">30</td>
 			</tr>
-			<tr>
-				<td rowspan=5 align=center>
-Python for Everybody  
-<a href="https://www.coursera.org/specializations/python">Specialization</a> by University of Michigan
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/python">Programming for Everybody (Getting Started with Python)</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/python-data">Python Data Structures</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/python-network-data">Using Python to Access Web Data</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/python-databases">Using Databases with Python</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/python-data-visualization">Capstone: Retrieving, Processing, and Visualizing Data with Python</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>			
 	</tbody>
-</table>   
+</table>
+
 </details>
 <details>
 	<summary>Machine Learning and Data Mining Specializations</summary>
