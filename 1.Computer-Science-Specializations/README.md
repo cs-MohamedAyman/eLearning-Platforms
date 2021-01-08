@@ -518,8 +518,8 @@ Improving your statistical inferences by Eindhoven University of Technology
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Bayesian Statistics: From Concept to Data Analysis by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+Bayesian Statistics: From Concept to Data Analysis by University of California, Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/bayesian-statistics">Bayesian Statistics: From Concept to Data Analysis</a></td>
 				<td align="center">Intermediate</td>
@@ -527,12 +527,21 @@ Bayesian Statistics: From Concept to Data Analysis by University of California, 
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Bayesian Statistics: Techniques and Models by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+Bayesian Statistics: Techniques and Models by University of California, Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/mcmc-bayesian-statistics">Bayesian Statistics: Techniques and Models</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Bayesian Statistics: Mixture Models by University of California, Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/mixture-models">Bayesian Statistics: Mixture Models</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
 			</tr>
 		</tbody>
 </table>
