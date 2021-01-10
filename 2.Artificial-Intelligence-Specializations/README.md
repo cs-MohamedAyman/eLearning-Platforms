@@ -18,6 +18,15 @@ Artificial Intelligence Specializations road map for computer science students, 
 	<tbody>
 			<tr>
 				<td rowspan=1 align=center>
+Improving your statistical inferences by Eindhoven University of Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/statistical-inferences">Improving your statistical inferences</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
 Bayesian Statistics: From Concept to Data Analysis by University of California, Santa Cruz<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
 				</td>
