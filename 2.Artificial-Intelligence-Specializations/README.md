@@ -627,7 +627,7 @@ AI in Healthcare
 			<tr>
 				<td><a href="https://www.coursera.org/learn/ai-in-healthcare-capstone">AI in Healthcare Capstone</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">0</td>
+				<td align="center">10</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
