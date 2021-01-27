@@ -796,7 +796,7 @@ Computer Vision
 </table>    
 </details>
 <details>
-	<summary>Deep Learning Specializations</summary>
+	<summary>Neural Networks and Deep Learning Specializations</summary>
 	
 <table>
 	<thead>
