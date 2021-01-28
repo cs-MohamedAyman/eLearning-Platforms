@@ -25,7 +25,7 @@ Artificial Intelligence Specializations road map for computer science students, 
 #### 2.2- Machine Learning and Data Mining Specializations
 #### 2.3- Artificial Intelligence Specializations
 #### 2.4- Computer Vision and Image Processing Specializations
-#### 2.5- Deep Learning Specializations
+#### 2.5- Neural Networks and Deep Learning Specializations
 #### 2.6- Natural Language Processing Specializations
 #### 2.7- Reinforcement Learning Specializations
 
