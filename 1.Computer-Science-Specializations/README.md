@@ -461,6 +461,15 @@ An Intuitive Introduction to Probability by University of Zurich
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
+Data Science Math Skills by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
 Mathematical Biostatistics Boot Camp 1 by Johns Hopkins University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
 				</td>
