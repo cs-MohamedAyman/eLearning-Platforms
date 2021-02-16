@@ -742,6 +742,15 @@ Matrix Algebra for Engineers by The Hong Kong University of Science and Technolo
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
+Introduction to Complex Analysis by Wesleyan University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/complex-analysis">Introduction to Complex Analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
 Fundamentals of Digital Image and Video Processing by Northwestern University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northwestern%20university.jpg" width="40%">
 				</td>
