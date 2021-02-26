@@ -95,6 +95,121 @@ Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science an
 <details>
 	<summary>Probability and Statistics Specializations</summary>
 
+<table>
+		<thead>
+			<tr>
+				<th width="45%">Specialization</th>
+				<th width="55%">Course Name</th>
+				<th>Level</th>
+				<th>H</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td rowspan=1 align=center>
+An Intuitive Introduction to Probability by University of Zurich
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20zurich.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introductiontoprobability">An Intuitive Introduction to Probability</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Data Science Math Skills by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Mathematical Biostatistics Boot Camp 1 by Johns Hopkins University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/biostatistics">Mathematical Biostatistics Boot Camp 1</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Mathematical Biostatistics Boot Camp 2 by Johns Hopkins University
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/biostatistics-2">Mathematical Biostatistics Boot Camp 2</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Methods and Statistics in Social Sciences  
+<a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/quantitative-methods">Quantitative Methods</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/qualitative-methods">Qualitative Research Methods</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/basic-statistics">Basic Statistics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/inferential-statistics">Inferential Statistics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/social-science-capstone">Methods and Statistics in Social Science - Final Research Project</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Improving your statistical inferences by Eindhoven University of Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/statistical-inferences">Improving your statistical inferences</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Bayesian Statistics: From Concept to Data Analysis by University of California, Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/bayesian-statistics">Bayesian Statistics: From Concept to Data Analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Bayesian Statistics: Techniques and Models by University of California, Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/mcmc-bayesian-statistics">Bayesian Statistics: Techniques and Models</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Bayesian Statistics: Mixture Models by University of California, Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/mixture-models">Bayesian Statistics: Mixture Models</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+		</tbody>
+</table>
+</details>
 </details>
 <details>
 	<summary>Data Analysis Specializations</summary>
