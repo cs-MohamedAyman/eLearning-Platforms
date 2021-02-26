@@ -867,7 +867,7 @@ Fundamentals of Parallelism on Intel Architecture by Intel
 </table>
 </details>
 <details>
-	<summary>Theory of Computations and Computer Architecture and Organization Specializations</summary>
+	<summary>Theory of Computations and Computer Architecture Specializations</summary>
 
 <table>
 		<thead>
