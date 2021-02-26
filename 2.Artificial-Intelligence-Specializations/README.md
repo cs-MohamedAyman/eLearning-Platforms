@@ -5,9 +5,11 @@ Artificial Intelligence Specializations road map for computer science students, 
 
 <details>
 	<summary>Calculus and Algebra Specializations</summary>
+
 </details>
 <details>
 	<summary>Probability and Statistics Specializations</summary>
+
 </details>
 <details>
 	<summary>Data Analysis Specializations</summary>
