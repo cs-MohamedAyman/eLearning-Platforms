@@ -88,6 +88,35 @@ Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science an
 				<td align="center">Beginner</td>
 				<td align="center">10</td>
 			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Data Science Math Skills by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=3 align=center>
+Mathematics for Machine Learning  
+<a href="https://www.coursera.org/specializations/mathematics-machine-learning">Specialization</a> by Imperial College London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">Mathematics for Machine Learning: Multivariate Calculus</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/pca-machine-learning">Mathematics for Machine Learning: PCA</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
 	<tbody>
 </table>
 </details>
@@ -206,6 +235,26 @@ Bayesian Statistics: Mixture Models by University of California, Santa Cruz<br>
 				<td align="center">Intermediate</td>
 				<td align="center">25</td>
 			</tr>
+			<tr>
+				<td rowspan=3 align=center>
+Statistics with Python  
+<a href="https://www.coursera.org/specializations/statistics-with-python">Specialization</a> by University of Michigan<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/understanding-visualization-data">Understanding and Visualizing Data with Python</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/inferential-statistical-analysis-python">Inferential Statistical Analysis with Python</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/fitting-statistical-models-data-python">Fitting Statistical Models to Data with Python</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
 		</tbody>
 </table>
 </details>
@@ -222,51 +271,6 @@ Bayesian Statistics: Mixture Models by University of California, Santa Cruz<br>
 		</tr>
 	</thead>
 	<tbody>
-			<tr>
-				<td rowspan=1 align=center>
-Improving your statistical inferences by Eindhoven University of Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/statistical-inferences">Improving your statistical inferences</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">30</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Bayesian Statistics: From Concept to Data Analysis by University of California, Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/bayesian-statistics">Bayesian Statistics: From Concept to Data Analysis</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Bayesian Statistics: Techniques and Models by University of California, Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/mcmc-bayesian-statistics">Bayesian Statistics: Techniques and Models</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">30</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Bayesian Statistics: Mixture Models by University of California, Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/mixture-models">Bayesian Statistics: Mixture Models</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Data Science Math Skills by Duke University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
 			<tr>
 				<td rowspan=1 align=center>
 Introduction to Data Analytics by IBM<br>
@@ -382,46 +386,6 @@ Data Analysis and Interpretation
 				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td rowspan=3 align=center>
-Mathematics for Machine Learning  
-<a href="https://www.coursera.org/specializations/mathematics-machine-learning">Specialization</a> by Imperial College London<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">Mathematics for Machine Learning: Multivariate Calculus</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/pca-machine-learning">Mathematics for Machine Learning: PCA</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=3 align=center>
-Statistics with Python  
-<a href="https://www.coursera.org/specializations/statistics-with-python">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/understanding-visualization-data">Understanding and Visualizing Data with Python</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/inferential-statistical-analysis-python">Inferential Statistical Analysis with Python</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/fitting-statistical-models-data-python">Fitting Statistical Models to Data with Python</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
 				<td rowspan=1 align=center>
 Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
@@ -487,7 +451,6 @@ Applied Data Science with Python
 			</tr>
 	</tbody>
 </table>
-
 </details>
 <details>
 	<summary>Machine Learning and Data Mining Specializations</summary>
