@@ -21,13 +21,15 @@ Computer Science Specializations road map for computer science students, which i
 ## [2. Artificial-Intelligence-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/2.Artificial-Intelligence-Specializations)
 Artificial Intelligence Specializations road map for computer science students, which including the following main topics:
 
-#### 2.1- Data Analysis Specializations
-#### 2.2- Machine Learning and Data Mining Specializations
-#### 2.3- Artificial Intelligence Specializations
-#### 2.4- Computer Vision and Image Processing Specializations
-#### 2.5- Neural Networks and Deep Learning Specializations
-#### 2.6- Natural Language Processing Specializations
-#### 2.7- Reinforcement Learning Specializations
+#### 2.1- Calculus and Algebra Specializations
+#### 2.2- Probability and Statistics Specializations
+#### 2.3- Data Analysis Specializations
+#### 2.4- Machine Learning and Data Mining Specializations
+#### 2.5- Artificial Intelligence Specializations
+#### 2.6- Computer Vision and Image Processing Specializations
+#### 2.7- Neural Networks and Deep Learning Specializations
+#### 2.8- Natural Language Processing Specializations
+#### 2.9- Reinforcement Learning Specializations
 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
@@ -35,13 +37,15 @@ Artificial Intelligence Specializations road map for computer science students, 
 ## [3. Data-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/3.Data-Science-Specializations)
 Data Science Specializations road map for computer science students, which including the following main topics:
 
-#### 3.1- Data Analysis Specializations
-#### 3.2- Machine Learning and Data Mining Specializations
-#### 3.3- Data Science Specializations
-#### 3.4- Business Intelligence Specializations
-#### 3.5- Database Systems and Data Warehousing Specializations
-#### 3.6- Big Data Specializations
-#### 3.7- Data Engineering Specializations
+#### 3.1- Calculus and Algebra Specializations
+#### 3.2- Probability and Statistics Specializations
+#### 3.3- Data Analysis Specializations
+#### 3.4- Machine Learning and Data Mining Specializations
+#### 3.5- Data Science Specializations
+#### 3.6- Business Intelligence Specializations
+#### 3.7- Database Systems and Data Warehousing Specializations
+#### 3.8- Big Data Specializations
+#### 3.9- Data Engineering Specializations
 
 **SKILLS YOU WILL GAIN:**<br>
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
