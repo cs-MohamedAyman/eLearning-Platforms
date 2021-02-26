@@ -8,7 +8,7 @@ Computer Science Specializations road map for computer science students, which i
 
 #### `1.1` Python Programming Language and Object Oriented Specializations `6 Entities`
 #### `1.2` C/C++ Programming Language and Object Oriented Specializations `7 Entities`
-#### `1.3` Mathematics and Discrete Mathematics Specializations `17 Entities`
+#### `1.3` Mathematics and Discrete Mathematics Specializations `12 Entities`
 #### `1.4` Probability and Statistics Specializations `9 Entities`
 #### `1.5` Logic Design Specializations `6 Entities`
 #### `1.6` Data Structures and Algorithms Specializations `10 Entities`
