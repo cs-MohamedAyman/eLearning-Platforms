@@ -310,15 +310,6 @@ Introduction to Discrete Mathematics for Computer Science
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/ordinary-differential-equations">Introduction to Ordinary Differential Equations</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
 Vector Calculus for Engineers by The Hong Kong University of Science and Technology
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
@@ -334,15 +325,6 @@ Numerical Methods for Engineers by The Hong Kong University of Science and Techn
 				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">40</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Differential Equations for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/differential-equations-engineers">Differential Equations for Engineers</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">30</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
@@ -397,6 +379,24 @@ Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science an
 				<td><a href="https://www.coursera.org/learn/fibonacci">Fibonacci Numbers and the Golden Ratio</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Differential Equations for Engineers by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/differential-equations-engineers">Differential Equations for Engineers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/ordinary-differential-equations">Introduction to Ordinary Differential Equations</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
