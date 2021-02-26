@@ -13,7 +13,7 @@ Computer Science Specializations road map for computer science students, which i
 #### 1.5- Logic Design Specializations
 #### 1.6- Data Structures and Algorithms Specializations
 #### 1.7- Operating Systems and Parallel Computing Specializations
-#### 1.8- Theory of Computations and Computer Architecture and Organization Specializations
+#### 1.8- Theory of Computations and Computer Architecture Specializations
 
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
