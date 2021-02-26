@@ -1,7 +1,7 @@
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 ## 4. Software-Engineering-Specializations
-Software Engineering Specializations road map for computer science students.
+Software Engineering Specializations road map for computer science students, which including the following main topics:
 
 <details>
 	<summary>Java Programming Language and Object Orinted Specializations</summary>
