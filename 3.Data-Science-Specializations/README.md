@@ -1,7 +1,7 @@
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 ## 3. Data-Science-Specializations
-Data Science Specializations road map for computer science students.
+Data Science Specializations road map for computer science students, which including the following main topics:
 
 <details>
 	<summary>Data Analysis Specializations</summary>
