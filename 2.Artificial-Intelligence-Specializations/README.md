@@ -841,6 +841,26 @@ Healthcare Trends for Business Professionals
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
+			<tr>
+				<td rowspan=3 align=center>
+Machine Learning for Trading  
+<a href="https://www.coursera.org/specializations/machine-learning-trading">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-trading-machine-learning-gcp">Introduction to Trading, Machine Learning & GCP</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/machine-learning-trading-finance">Using Machine Learning in Trading and Finance</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/trading-strategies-reinforcement-learning">Trading Strategies as a Reinforcement Learning (RL) Problem</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">5</td>
+			</tr>
 	</tbody>
 </table>    
 </details>
@@ -1156,26 +1176,6 @@ IBM AI Engineering Profession
 				<td><a href="https://www.coursera.org/learn/ai-deep-learning-capstone">AI Capstone Project with Deep Learning</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=3 align=center>
-Machine Learning for Trading  
-<a href="https://www.coursera.org/specializations/machine-learning-trading">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/introduction-trading-machine-learning-gcp">Introduction to Trading, Machine Learning & GCP</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/machine-learning-trading-finance">Using Machine Learning in Trading and Finance</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/trading-strategies-reinforcement-learning">Trading Strategies as a Reinforcement Learning (RL) Problem</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">5</td>
 			</tr>
 			<tr>
 				<td rowspan=3 align=center>
