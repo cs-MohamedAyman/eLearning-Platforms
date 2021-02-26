@@ -1078,31 +1078,6 @@ Practical Data Science with MATLAB
 				<td align="center">Beginner</td>
 				<td align="center">0</td>
 			</tr>
-			<tr>
-				<td rowspan=4 align=center>
-From Data to Insights with Google Cloud Platform  
-<a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring ​and ​Preparing ​your ​Data with BigQuery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights">Creating New BigQuery Datasets and Visualizing Insights</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/gcp-advanced-insights-bigquery">Achieving Advanced Insights with BigQuery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-insights-gcp-apply-ml">Applying Machine Learning to your Data with GCP</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
 	</tbody>
 </table>   
 </details>
@@ -1595,6 +1570,31 @@ Big Data for Data Engineers
 		</tr>
 	</thead>
 	<tbody>
+			<tr>
+				<td rowspan=4 align=center>
+From Data to Insights with Google Cloud Platform  
+<a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring ​and ​Preparing ​your ​Data with BigQuery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights">Creating New BigQuery Datasets and Visualizing Insights</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gcp-advanced-insights-bigquery">Achieving Advanced Insights with BigQuery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-insights-gcp-apply-ml">Applying Machine Learning to your Data with GCP</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
 			<tr>
 				<td rowspan=5 align=center>
 Data Engineering, Big Data, and Machine Learning on GCP  
