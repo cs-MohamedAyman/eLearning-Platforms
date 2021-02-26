@@ -33,7 +33,7 @@ Artificial Intelligence Specializations road map for computer science students, 
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
 ## [3. Data-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/3.Data-Science-Specializations)
-Data Science Specializations road map for computer science students.
+Data Science Specializations road map for computer science students, which including the following main topics:
 
 #### 3.1- Data Analysis Specializations
 #### 3.2- Machine Learning and Data Mining Specializations
@@ -47,7 +47,7 @@ Data Science Specializations road map for computer science students.
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
 
 ## [4. Software-Engineering-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/4.Software-Engineering-Specializations)
-Software Engineering Specializations road map for computer science students.
+Software Engineering Specializations road map for computer science students, which including the following main topics:
 
 #### 4.1- Java Programming Language and Object Orinted Specializations
 #### 4.2- Software Engineering Specializations
