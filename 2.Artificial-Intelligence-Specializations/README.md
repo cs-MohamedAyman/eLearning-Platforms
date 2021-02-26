@@ -90,7 +90,6 @@ Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science an
 			</tr>
 	<tbody>
 </table>
-
 </details>
 <details>
 	<summary>Probability and Statistics Specializations</summary>
@@ -209,7 +208,6 @@ Bayesian Statistics: Mixture Models by University of California, Santa Cruz<br>
 			</tr>
 		</tbody>
 </table>
-</details>
 </details>
 <details>
 	<summary>Data Analysis Specializations</summary>
