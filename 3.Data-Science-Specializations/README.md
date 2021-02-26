@@ -6,6 +6,91 @@ Data Science Specializations road map for computer science students, which inclu
 <details>
 	<summary>Calculus and Algebra Specializations</summary>
 
+<table>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+				<td rowspan=1 align=center>
+Vector Calculus for Engineers by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus for Engineers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Numerical Methods for Engineers by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Matrix Algebra for Engineers by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/matrix-algebra-engineers">Matrix Algebra for Engineers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Numerical Methods for Engineers by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to numerical analysis by National Research University Higher School of Economics
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
+				</td>
+				<td><a href="http://coursera.org/learn/intro-to-numerical-analysis">Introduction to numerical analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to Calculus by The University of Sydney
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-to-calculus">Introduction to Calculus</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">55</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Matrix Methods by University of Minnesota
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/matrix-methods">Matrix Methods</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/fibonacci">Fibonacci Numbers and the Golden Ratio</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+	<tbody>
+</table>
+
 </details>
 <details>
 	<summary>Probability and Statistics Specializations</summary>
