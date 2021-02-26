@@ -6,14 +6,14 @@ Coursera specializations road map for computer science students.
 ## [1. Computer-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/1.Computer-Science-Specializations)
 Computer Science Specializations road map for computer science students, which including the following main topics:
 
-#### 1.1- Python Programming Language and Object Oriented Specializations     `6 entity`
-#### 1.2- C/C++ Programming Language and Object Oriented Specializations      `7 entity`
-#### 1.3- Mathematics and Discrete Mathematics Specializations                `17 entity`
-#### 1.4- Probability and Statistics Specializations                          `9 entity`
-#### 1.5- Logic Design Specializations                                        `6 entity`
-#### 1.6- Data Structures and Algorithms Specializations                      `10 entity`
-#### 1.7- Operating Systems and Parallel Computing Specializations            `4 entity`
-#### 1.8- Theory of Computations and Computer Architecture Specializations    `2 entity`
+#### 1.1- Python Programming Language and Object Oriented Specializations     `6 Entities` * `30H`
+#### 1.2- C/C++ Programming Language and Object Oriented Specializations      `7 Entities`
+#### 1.3- Mathematics and Discrete Mathematics Specializations                `17 Entities`
+#### 1.4- Probability and Statistics Specializations                          `9 Entities`
+#### 1.5- Logic Design Specializations                                        `6 Entities`
+#### 1.6- Data Structures and Algorithms Specializations                      `10 Entities`
+#### 1.7- Operating Systems and Parallel Computing Specializations            `4 Entities`
+#### 1.8- Theory of Computations and Computer Architecture Specializations    `2 Entities`
 
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
