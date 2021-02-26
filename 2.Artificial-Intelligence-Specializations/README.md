@@ -419,36 +419,6 @@ Python Data Products for Predictive Analytics
 				<td align="center">Intermediate</td>
 				<td align="center">10</td>
 			</tr>
-			<tr>
-				<td rowspan=5 align=center>
-Applied Data Science with Python  
-<a href="https://www.coursera.org/specializations/data-science-python">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/python-data-analysis">Introduction to Data Science in Python</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/python-plotting">Applied Plotting, Charting & Data Representation in Python</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">25</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/python-machine-learning">Applied Machine Learning in Python</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">35</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/python-text-mining">Applied Text Mining in Python</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">30</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/python-social-network-analysis">Applied Social Network Analysis in Python</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">30</td>
-			</tr>
 	</tbody>
 </table>
 </details>
@@ -687,6 +657,36 @@ Process Mining: Data science in Action by Eindhoven University of Technology
 				<td><a href="https://www.coursera.org/learn/process-mining">Process Mining: Data science in Action</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Applied Data Science with Python  
+<a href="https://www.coursera.org/specializations/data-science-python">Specialization</a> by University of Michigan<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/python-data-analysis">Introduction to Data Science in Python</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-plotting">Applied Plotting, Charting & Data Representation in Python</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-machine-learning">Applied Machine Learning in Python</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-text-mining">Applied Text Mining in Python</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-social-network-analysis">Applied Social Network Analysis in Python</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
 			</tr>
 	</tbody>
 </table>    
