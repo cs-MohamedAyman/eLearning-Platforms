@@ -884,39 +884,21 @@ Digital Signal Processing
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Vector Calculus for Engineers by The Hong Kong University of Science and Technology
+Differential Equations for Engineers by The Hong Kong University of Science and Technology
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus for Engineers</a></td>
+				<td><a href="https://www.coursera.org/learn/differential-equations-engineers">Differential Equations for Engineers</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">25</td>
+				<td align="center">30</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Introduction to Calculus by The University of Sydney
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg" width="40%">
+Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/introduction-to-calculus">Introduction to Calculus</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">55</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Numerical Methods for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">40</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Matrix Algebra for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/matrix-algebra-engineers">Matrix Algebra for Engineers</a></td>
+				<td><a href="https://www.coursera.org/learn/ordinary-differential-equations">Introduction to Ordinary Differential Equations</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">20</td>
+				<td align="center">15</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
