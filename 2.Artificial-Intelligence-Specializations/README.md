@@ -1353,6 +1353,101 @@ IBM AI Enterprise Workflow
 				<td align="center">Advanced</td>
 				<td align="center">5</td>
 			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+TensorFlow in Practice  
+<a href="https://www.coursera.org/specializations/tensorflow-in-practice">Specialization</a> by deeplearning.ai<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-tensorflow">Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow">Convolutional Neural Networks in TensorFlow</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/natural-language-processing-tensorflow">Natural Language Processing in TensorFlow</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction">Sequences, Time Series and Prediction</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Advanced Machine Learning with TensorFlow on Google Cloud Platform  
+<a href="https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp">End-to-End Machine Learning with TensorFlow on GCP</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gcp-production-ml-systems">Production Machine Learning Systems</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/image-understanding-tensorflow-gcp">Image Understanding with TensorFlow on GCP</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/sequence-models-tensorflow-gcp">Sequence Models for Time Series and Natural Language Processing</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/recommendation-models-gcp">Recommendation Systems with TensorFlow on GCP</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=7 align=center>
+Advanced Machine Learning  
+<a href="https://www.coursera.org/specializations/aml">Specialization</a> by National Research University Higher School of Economics<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/intro-to-deep-learning">Introduction to Deep Learning</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/competitive-data-science">How to Win a Data Science Competition: Learn from Top Kagglers</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">50</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/bayesian-methods-in-machine-learning">Bayesian Methods for Machine Learning</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/practical-rl">Practical Reinforcement Learning</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/deep-learning-in-computer-vision">Deep Learning in Computer Vision</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/language-processing">Natural Language Processing</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/hadron-collider-machine-learning">Addressing Large Hadron Collider Challenges by Machine Learning</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">25</td>
+			</tr>
 		</tbody>
 </table>    
 </details>
