@@ -27,7 +27,7 @@ Artificial Intelligence Specializations road map for computer science students, 
 #### `2.4` Machine Learning and Data Mining Specializations `10 Entities`
 #### `2.5` Artificial Intelligence Specializations `8 Entities`
 #### `2.6` Computer Vision and Image Processing Specializations `8 Entities`
-#### `2.7` Neural Networks and Deep Learning Specializations `10 Entities`
+#### `2.7` Deep Learning and Neural Networks Specializations `10 Entities`
 #### `2.8` Natural Language Processing Specializations `6 Entities`
 #### `2.9` Reinforcement Learning Specializations `8 Entities`
 
