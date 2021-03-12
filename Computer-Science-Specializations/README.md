@@ -397,8 +397,8 @@ Introduction to Complex Analysis by Wesleyan University
 				<td align="center">30</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Calculus: Single Variable Part 1 - Functions by University of Pennsylvania
+				<td rowspan=4 align=center>
+Calculus: Single Variable Courses by University of Pennsylvania
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/single-variable-calculus">Calculus: Single Variable Part 1 - Functions</a></td>
@@ -406,28 +406,16 @@ Calculus: Single Variable Part 1 - Functions by University of Pennsylvania
 				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Calculus: Single Variable Part 2 - Differentiation by University of Pennsylvania
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
-				</td>
 				<td><a href="https://www.coursera.org/learn/differentiation-calculus">Calculus: Single Variable Part 2 - Differentiation</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Calculus: Single Variable Part 3 - Integration by University of Pennsylvania
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
-				</td>
 				<td><a href="https://www.coursera.org/learn/integration-calculus">Calculus: Single Variable Part 3 - Integration</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Calculus: Single Variable Part 4 - Applications by University of Pennsylvania
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
-				</td>
 				<td><a href="https://www.coursera.org/learn/applications-calculus">Calculus: Single Variable Part 4 - Applications</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">10</td>
