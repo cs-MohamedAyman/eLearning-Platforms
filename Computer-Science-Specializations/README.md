@@ -18,7 +18,7 @@ Computer Science Specializations road map for computer science students, which i
 		<tbody>
 			<tr>
 				<td rowspan=3 align=center>
-Introduction to Computer Science and Programming  
+Introduction to Computer Science and Programming 
 <a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
 				</td>
@@ -38,7 +38,7 @@ Introduction to Computer Science and Programming
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
-Introduction to Scripting in Python  
+Introduction to Scripting in Python 
 <a href="https://www.coursera.org/specializations/introduction-scripting-in-python">Specialization</a> by Rice University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
 				</td>
@@ -63,7 +63,7 @@ Introduction to Scripting in Python
 			</tr>
 			<tr>
 				<td rowspan=5 align=center>
-Python 3 Programming  
+Python 3 Programming 
 <a href="https://www.coursera.org/specializations/python-3-programming">Specialization</a> by University of Michigan
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
 				</td>
@@ -93,7 +93,7 @@ Python 3 Programming
 			</tr>
 			<tr>
 				<td rowspan=7 align=center>
-Fundamentals of Computing  
+Fundamentals of Computing 
 <a href="https://www.coursera.org/specializations/computer-fundamentals">Specialization</a> by Rice University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
 				</td>
@@ -158,7 +158,7 @@ Learn to Program: Crafting Quality Code by University of Toronto
 		<tbody>
 			<tr>
 				<td rowspan=3 align=center>
-Introduction to Computer Science and Programming  
+Introduction to Computer Science and Programming 
 <a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
 				</td>
@@ -178,7 +178,7 @@ Introduction to Computer Science and Programming
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
-Introduction to Programming in C  
+Introduction to Programming in C 
 <a href="https://www.coursera.org/specializations/c-programming">Specialization</a> by Duke University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
 				</td>
@@ -202,8 +202,9 @@ Introduction to Programming in C
 				<td align="center">25</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-C for Everyone: Programming Fundamentals by University of California, Santa Cruz
+				<td rowspan=4 align=center>
+Coding for Everyone: C and C++ 
+<a href="https://www.coursera.org/specializations/coding-for-everyone">Specialization</a> by University of California, Santa Cruz
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/c-for-everyone">C for Everyone: Programming Fundamentals</a></td>
@@ -211,35 +212,23 @@ C for Everyone: Programming Fundamentals by University of California, Santa Cruz
 				<td align="center">25</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-C for Everyone: Structured Programming by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
 				<td><a href="https://www.coursera.org/learn/c-structured-programming">C for Everyone: Structured Programming</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-C++ For C Programmers, Part A by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
 				<td><a href="https://www.coursera.org/learn/c-plus-plus-a">C++ For C Programmers, Part A</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-C++ For C Programmers, Part B by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
-				</td>
 				<td><a href="https://www.coursera.org/learn/c-plus-plus-b">C++ For C Programmers, Part B</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
-Computational Thinking with Beginning C Programming  
+Computational Thinking with Beginning C Programming 
 <a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
 				</td>
@@ -280,7 +269,7 @@ Computational Thinking with Beginning C Programming
 		<tbody>
 			<tr>
 				<td rowspan=5 align=center>
-Introduction to Discrete Mathematics for Computer Science  
+Introduction to Discrete Mathematics for Computer Science 
 <a href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a> by National Research University Higher School of Economics
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
 				</td>
@@ -506,7 +495,7 @@ Mathematical Biostatistics Boot Camp 2 by Johns Hopkins University
 			</tr>
 			<tr>
 				<td rowspan=5 align=center>
-Methods and Statistics in Social Sciences  
+Methods and Statistics in Social Sciences 
 <a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
 				</td>
@@ -658,7 +647,7 @@ Logic for Economists by University of Amsterdam
 		<tbody>
 			<tr>
 				<td rowspan=3 align=center>
-Accelerated Computer Science Fundamentals  
+Accelerated Computer Science Fundamentals 
 <a href="https://www.coursera.org/specializations/cs-fundamentals">Specialization</a> by University of Illinois at Urbana-Champaign
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
 				</td>
@@ -678,7 +667,7 @@ Accelerated Computer Science Fundamentals
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
-Algorithms  
+Algorithms 
 <a href="https://www.coursera.org/specializations/algorithms">Specialization</a> by Stanford University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
 				</td>
@@ -703,7 +692,7 @@ Algorithms
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-Data Structures and Algorithms  
+Data Structures and Algorithms 
 <a href="https://www.coursera.org/specializations/data-structures-algorithms">Specialization</a> by University of California San Diego & National Research University Higher School of Economics
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
@@ -836,7 +825,7 @@ Operating Systems and You: Becoming a Power User by Google
 			</tr>
 			<tr>
 				<td rowspan=3 align=center>
-Parallel, Concurrent, and Distributed Programming in Java  
+Parallel, Concurrent, and Distributed Programming in Java 
 <a href="https://www.coursera.org/specializations/pcdp">Specialization</a> by Rice University
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
 				</td>
