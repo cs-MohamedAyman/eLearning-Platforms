@@ -18,18 +18,18 @@ Computer Science Specializations road map for computer science students, which i
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
 
-## [Artificial-Intelligence-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md)
+## [Artificial Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
 Artificial Intelligence Specializations road map for computer science students, which including the following main topics:
 
-#### `1.` Calculus and Algebra Specializations `10 Entities`
-#### `2.` Probability and Statistics Specializations `10 Entities`
-#### `3.` Data Analysis Specializations `10 Entities`
-#### `4.` Machine Learning and Data Mining Specializations `10 Entities`
-#### `5.` Artificial Intelligence Specializations `8 Entities`
-#### `6.` Computer Vision and Image Processing Specializations `8 Entities`
-#### `7.` Deep Learning and Neural Networks Specializations `10 Entities`
-#### `8.` Natural Language Processing Specializations `6 Entities`
-#### `9.` Reinforcement Learning Specializations `8 Entities`
+#### `1.` [Calculus and Algebra](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `10 Entities`
+#### `2.` [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `10 Entities`
+#### `3.` [Data Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `10 Entities`
+#### `4.` [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `10 Entities`
+#### `5.` [Artificial Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `8 Entities`
+#### `6.` [Computer Vision and Image Processing](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `8 Entities`
+#### `7.` [Deep Learning and Neural Networks](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `10 Entities`
+#### `8.` [Natural Language Processing](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `6 Entities`
+#### `9.` [Reinforcement Learning](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `8 Entities`
 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
