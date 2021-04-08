@@ -3,7 +3,7 @@
 # Coursera-Specializations
 Coursera specializations road map for computer science students.
 
-## [Computer-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
+## [Computer Science](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
 Computer Science Specializations road map for computer science students, which including the following main topics:
 
 #### `1.` [Python Programming Language and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `5 Entities`
