@@ -34,18 +34,18 @@ Artificial Intelligence Specializations road map for computer science students, 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
-## [Data-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md)
+## [Data Science](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 Data Science Specializations road map for computer science students, which including the following main topics:
 
-#### `1.` Calculus and Algebra Specializations `10 Entities`
-#### `2.` Probability and Statistics Specializations `10 Entities`
-#### `3.` Data Analysis Specializations `10 Entities`
-#### `4.` Machine Learning and Data Mining Specializations `10 Entities`
-#### `5.` Data Science Specializations `10 Entities`
-#### `6.` Business Intelligence Specializations `7 Entities`
-#### `7.` Database Systems and Data Warehousing Specializations `5 Entities`
-#### `8.` Big Data Specializations `5 Entities`
-#### `9.` Data Engineering Specializations `7 Entities`
+#### `1.` [Calculus and Algebra](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `10 Entities`
+#### `2.` [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `10 Entities`
+#### `3.` [Data Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `10 Entities`
+#### `4.` [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `10 Entities`
+#### `5.` [Data Science](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `10 Entities`
+#### `6.` [Business Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `7 Entities`
+#### `7.` [Database Systems and Data Warehousing](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `5 Entities`
+#### `8.` [Big Data](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `5 Entities`
+#### `9.` [Data Engineering](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `7 Entities`
 
 **SKILLS YOU WILL GAIN:**<br>
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
