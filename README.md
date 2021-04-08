@@ -3,22 +3,22 @@
 # Coursera-Specializations
 Coursera specializations road map for computer science students.
 
-## [Computer-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Computer-Science-Specializations)
+## [Computer-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 Computer Science Specializations road map for computer science students, which including the following main topics:
 
-#### `1.` Python Programming Language and Object Oriented Specializations `5 Entities`
-#### `2.` C/C++ Programming Language and Object Oriented Specializations `4 Entities`
-#### `3.` Mathematics and Discrete Mathematics Specializations `9 Entities`
-#### `4.` Probability and Statistics Specializations `9 Entities`
-#### `5.` Logic Design Specializations `6 Entities`
-#### `6.` Data Structures and Algorithms Specializations `10 Entities`
-#### `7.` Operating Systems and Parallel Computing Specializations `4 Entities`
-#### `8.` Theory of Computations and Computer Architecture Specializations `2 Entities`
+#### `1.` [Python Programming Language and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `5 Entities`
+#### `2.` [C/C++ Programming Language and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `4 Entities`
+#### `3.` [Mathematics and Discrete Mathematics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `9 Entities`
+#### `4.` [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `9 Entities`
+#### `5.` [Logic Design] Specializations `6 Entities`
+#### `6.` [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `10 Entities`
+#### `7.` [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `4 Entities`
+#### `8.` [Theory of Computations and Computer Architecture](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `2 Entities`
 
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
 
-## [Artificial-Intelligence-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations)
+## [Artificial-Intelligence-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md)
 Artificial Intelligence Specializations road map for computer science students, which including the following main topics:
 
 #### `1.` Calculus and Algebra Specializations `10 Entities`
@@ -34,7 +34,7 @@ Artificial Intelligence Specializations road map for computer science students, 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
-## [Data-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations)
+## [Data-Science-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md)
 Data Science Specializations road map for computer science students, which including the following main topics:
 
 #### `1.` Calculus and Algebra Specializations `10 Entities`
@@ -50,7 +50,7 @@ Data Science Specializations road map for computer science students, which inclu
 **SKILLS YOU WILL GAIN:**<br>
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
 
-## [Software-Engineering-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations)
+## [Software-Engineering-Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md)
 Software Engineering Specializations road map for computer science students, which including the following main topics:
 
 #### `1.` Java Programming Language and Object Orinted Specializations `5 Entities`
