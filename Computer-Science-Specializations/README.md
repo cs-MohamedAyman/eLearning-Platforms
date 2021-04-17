@@ -169,22 +169,21 @@ Programming in Python: A Hands-on Introduction
 </details>
 <details>
 	<summary>C/C++ Programming Language and Object Oriented Specializations</summary>
-
 <table>
-		<thead>
-			<tr>
-				<th width="45%">Specialization</th>
-				<th width="55%">Course Name</th>
-				<th>Level</th>
-				<th>H</th>
-			</tr>
-		</thead>
-		<tbody>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
 			<tr>
 				<td rowspan=3 align=center>
-Introduction to Computer Science and Programming 
-<a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
+Introduction to Computer Science and Programming  
+<a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introduction-to-computer-programming">Introduction to Computer Programming</a></td>
 				<td align="center">Beginner</td>
@@ -202,9 +201,9 @@ Introduction to Computer Science and Programming
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
-Introduction to Programming in C 
-<a href="https://www.coursera.org/specializations/c-programming">Specialization</a> by Duke University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+Introduction to Programming in C  
+<a href="https://www.coursera.org/specializations/c-programming">Specialization</a> by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/programming-fundamentals">Programming Fundamentals</a></td>
 				<td align="center">Beginner</td>
@@ -227,9 +226,34 @@ Introduction to Programming in C
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
-Coding for Everyone: C and C++ 
-<a href="https://www.coursera.org/specializations/coding-for-everyone">Specialization</a> by University of California, Santa Cruz
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+Computational Thinking with Beginning C Programming  
+<a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-analysis-representation-selection-iteration">Data Analysis and Representation, Selection and Iteration</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/abstraction-problem-decomposition-functions">Abstraction, Problem Decomposition, and Functions</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/simulation-algorithm-analysis-pointers">Simulation, Algorithm Analysis, and Pointers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Coding for Everyone: C and C++ Specialization by University of Californ 
+<a href="https://www.coursera.org/specializations/coding-for-everyone">Specialization</a> by University of California Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/c-for-everyone">C for Everyone: Programming Fundamentals</a></td>
 				<td align="center">Beginner</td>
@@ -252,30 +276,30 @@ Coding for Everyone: C and C++
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
-Computational Thinking with Beginning C Programming 
-<a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+Programming in C++: A Hands-on Introduction  
+<a href="https://www.coursera.org/specializations/hands-on-cpp">Specialization</a> by Codio<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-analysis-representation-selection-iteration">Data Analysis and Representation, Selection and Iteration</a></td>
+				<td><a href="https://www.coursera.org/learn/codio-cpp-basics">C++ Basics: Selection and Iteration</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/abstraction-problem-decomposition-functions">Abstraction, Problem Decomposition, and Functions</a></td>
+				<td><a href="https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files">C++ Basic Structures: Vectors, Pointers, Strings, and Files</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">20</td>
+				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/simulation-algorithm-analysis-pointers">Simulation, Algorithm Analysis, and Pointers</a></td>
+				<td><a href="https://www.coursera.org/learn/cpp-object-basics">C++ Object Basics: Functions, Recursion, and Objects</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">15</td>
+				<td align="center">10</td>
 			</tr>
-		</tbody>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/object-oriented-cpp">Object-Oriented C++: Inheritance and Encapsulation</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+	</tbody>
 </table>
 </details>
 <details>
