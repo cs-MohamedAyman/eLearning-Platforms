@@ -1535,22 +1535,22 @@ Business Analytics
 				<td align="center">15</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/wharton-operations-analytics">Customer Analytics"</a></td>
+				<td><a href="https://www.coursera.org/learn/wharton-operations-analytics">Operations Analytics</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/wharton-people-analytics">Operations Analytics</a></td>
+				<td><a href="https://www.coursera.org/learn/wharton-people-analytics">People Analytics</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/accounting-analytics">People Analytics</a></td>
+				<td><a href="https://www.coursera.org/learn/accounting-analytics">Accounting Analytics</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/wharton-capstone-analytics">Accounting Analytics</a></td>
+				<td><a href="https://www.coursera.org/learn/wharton-capstone-analytics">Business Analytics Capstone</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
@@ -1560,31 +1560,31 @@ GIS, Mapping, and Spatial Analysis
 <a href="https://www.coursera.org/specializations/gis-mapping-spatial-analysis">Specialization</a> by University of Toronto<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20toronto.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/introduction-gis-mapping">Business Analytics Capstone</a></td>
+				<td><a href="https://www.coursera.org/learn/introduction-gis-mapping">Introduction to GIS Mapping</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/gis-data-acquisition-map-design">Introduction to GIS Mapping</a></td>
+				<td><a href="https://www.coursera.org/learn/gis-data-acquisition-map-design">GIS Data Acquisition and Map Design</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis">GIS Data Acquisition and Map Design</a></td>
+				<td><a href="https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis">Spatial Analysis and Satellite Imagery in a GIS</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/gis-mapping-spatial-analysis-capstone">Spatial Analysis and Satellite Imagery in a GIS</a></td>
+				<td><a href="https://www.coursera.org/learn/gis-mapping-spatial-analysis-capstone">GIS, Mapping, and Spatial Analysis Capstone</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-GIS, Mapping, and Spatial Analysis Capstone by The Pennsylvania State University<br>
+Maps and the Geospatial Revolution by University of Pennsylvania<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/geospatial">GIS, Mapping, and Spatial Analysis Capstone</a></td>
+				<td><a href="https://www.coursera.org/learn/geospatial">Maps and the Geospatial Revolution</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">20</td>
 			</tr>
@@ -1594,36 +1594,36 @@ Geographic Information Systems (GIS)
 <a href="https://www.coursera.org/specializations/gis">Specialization</a> by University of California Davis<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/gis">Maps and the Geospatial Revolution</a></td>
+				<td><a href="https://www.coursera.org/learn/gis">Fundamentals of GIS</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">35</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/gis-data">Fundamentals of GIS</a></td>
+				<td><a href="https://www.coursera.org/learn/gis-data">GIS Data Formats, Design and Quality</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">30</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/spatial-analysis">GIS Data Formats, Design and Quality</a></td>
+				<td><a href="https://www.coursera.org/learn/spatial-analysis">Geospatial and Environmental Analysis</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/gis-applications">Geospatial and Environmental Analysis</a></td>
+				<td><a href="https://www.coursera.org/learn/gis-applications">Imagery, Automation, and Applications</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">30</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/gis-capstone">Imagery, Automation, and Applications</a></td>
+				<td><a href="https://www.coursera.org/learn/gis-capstone">Geospatial Analysis Project</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">65</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Geospatial Analysis Project by ecole polytechnique federale de lausanne<br>
+Geographical Information Systems - Part 1 by ecole polytechnique federale de lausanne<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/gis-1">Geospatial Analysis Project</a></td>
+				<td><a href="https://www.coursera.org/learn/gis-1">Geographical Information Systems - Part 1</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">20</td>
 			</tr>
