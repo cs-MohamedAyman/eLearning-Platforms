@@ -574,21 +574,20 @@ Bayesian Statistics: Mixture Models by University of California Santa Cruz<br>
 </details>
 <details>
 	<summary>Logic Design Specializations</summary>
-
 <table>
-		<thead>
-			<tr>
-				<th width="45%">Specialization</th>
-				<th width="55%">Course Name</th>
-				<th>Level</th>
-				<th>H</th>
-			</tr>
-		</thead>
-		<tbody>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
 			<tr>
 				<td rowspan=1 align=center>
-Introduction to Mathematical Thinking by Stanford University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+Introduction to Mathematical Thinking by Stanford University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/mathematical-thinking">Introduction to Mathematical Thinking</a></td>
 				<td align="center">Intermediate</td>
@@ -596,8 +595,8 @@ Introduction to Mathematical Thinking by Stanford University
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Digital Systems: From Logic Gates to Processors by Universitat Autonoma de Barcelona
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20autonoma%20de%20barcelona.jpg" width="40%">
+Digital Systems: From Logic Gates to Processors by Universitat Autonoma de Barcelona<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20autonoma%20de%20barcelona.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/digital-systems">Digital Systems: From Logic Gates to Processors</a></td>
 				<td align="center">Intermediate</td>
@@ -605,8 +604,8 @@ Digital Systems: From Logic Gates to Processors by Universitat Autonoma de Barce
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Introduction to Logic by Stanford University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+Introduction to Logic by Stanford University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/logic-introduction">Introduction to Logic</a></td>
 				<td align="center">Intermediate</td>
@@ -614,8 +613,8 @@ Introduction to Logic by Stanford University
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-VLSI CAD Part I: Logic by University of Illinois at Urbana-Champaign
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+VLSI CAD Part I: Logic by University of Illinois at Urbana-Champaign<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/vlsi-cad-logic">VLSI CAD Part I: Logic</a></td>
 				<td align="center">Intermediate</td>
@@ -623,8 +622,8 @@ VLSI CAD Part I: Logic by University of Illinois at Urbana-Champaign
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-VLSI CAD Part II: Layout by University of Illinois at Urbana-Champaign
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+VLSI CAD Part II: Layout by University of Illinois at Urbana-Champaign<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/vlsi-cad-layout">VLSI CAD Part II: Layout</a></td>
 				<td align="center">Intermediate</td>
@@ -632,14 +631,14 @@ VLSI CAD Part II: Layout by University of Illinois at Urbana-Champaign
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Logic for Economists by University of Amsterdam
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
+Logic for Economists by University of Amsterdam<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/logic-for-economists">Logic for Economists</a></td>
 				<td align="center">Advanced</td>
 				<td align="center">10</td>
 			</tr>
-		</tbody>
+	</tbody>
 </table>
 </details>
 <details>
