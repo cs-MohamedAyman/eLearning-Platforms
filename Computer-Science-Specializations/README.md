@@ -304,22 +304,21 @@ Programming in C++: A Hands-on Introduction
 </details>
 <details>
 	<summary>Mathematics and Discrete Mathematics Specializations</summary>
-
 <table>
-		<thead>
-			<tr>
-				<th width="45%">Specialization</th>
-				<th width="55%">Course Name</th>
-				<th>Level</th>
-				<th>H</th>
-			</tr>
-		</thead>
-		<tbody>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
 			<tr>
 				<td rowspan=5 align=center>
-Introduction to Discrete Mathematics for Computer Science 
-<a href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a> by National Research University Higher School of Economics
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
+Introduction to Discrete Mathematics for Computer Science  
+<a href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a> by National Research University Higher School of Economics<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/what-is-a-proof">Mathematical Thinking in Computer Science</a></td>
 				<td align="center">Beginner</td>
@@ -347,8 +346,17 @@ Introduction to Discrete Mathematics for Computer Science
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Vector Calculus for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+Numerical Methods for Engineers by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Vector Calculus for Engineers by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus for Engineers</a></td>
 				<td align="center">Beginner</td>
@@ -356,44 +364,8 @@ Vector Calculus for Engineers by The Hong Kong University of Science and Technol
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Numerical Methods for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">40</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Matrix Algebra for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/matrix-algebra-engineers">Matrix Algebra for Engineers</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Numerical Methods for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">40</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Introduction to numerical analysis by National Research University Higher School of Economics
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
-				</td>
-				<td><a href="http://coursera.org/learn/intro-to-numerical-analysis">Introduction to numerical analysis</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">30</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Introduction to Calculus by The University of Sydney
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg" width="40%">
+Introduction to Calculus by The University of Sydney<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introduction-to-calculus">Introduction to Calculus</a></td>
 				<td align="center">Intermediate</td>
@@ -401,35 +373,17 @@ Introduction to Calculus by The University of Sydney
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Matrix Methods by University of Minnesota
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
+Matrix Algebra for Engineers by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/matrix-methods">Matrix Methods</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">5</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/fibonacci">Fibonacci Numbers and the Golden Ratio</a></td>
+				<td><a href="https://www.coursera.org/learn/matrix-algebra-engineers">Matrix Algebra for Engineers</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">10</td>
+				<td align="center">20</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Differential Equations for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/differential-equations-engineers">Differential Equations for Engineers</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">30</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
+Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/ordinary-differential-equations">Introduction to Ordinary Differential Equations</a></td>
 				<td align="center">Beginner</td>
@@ -437,47 +391,68 @@ Introduction to Ordinary Differential Equations by Korea Advanced Institute of S
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Introduction to Complex Analysis by Wesleyan University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
+Differential Equations for Engineers by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/differential-equations-engineers">Differential Equations for Engineers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to numerical analysis by National Research University Higher School of Economics<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
+				</td>
+				<td><a href="http://coursera.org/learn/intro-to-numerical-analysis">Introduction to numerical analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Basic Algebra by National Autonomous University of Mexico<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20autonomous%20university%20of%20mexico.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/algebra-basica">Basic Algebra</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Matrix Methods by University of Minnesota<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/matrix-methods">Matrix Methods</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/fibonacci">Fibonacci Numbers and the Golden Ratio</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to Complex Analysis by Wesleyan University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/complex-analysis">Introduction to Complex Analysis</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">30</td>
 			</tr>
 			<tr>
-				<td rowspan=4 align=center>
-Calculus: Single Variable Courses by University of Pennsylvania
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/single-variable-calculus">Calculus: Single Variable Part 1 - Functions</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/differentiation-calculus">Calculus: Single Variable Part 2 - Differentiation</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/integration-calculus">Calculus: Single Variable Part 3 - Integration</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/applications-calculus">Calculus: Single Variable Part 4 - Applications</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
 				<td rowspan=1 align=center>
-Single Variable Calculus by University of Pennsylvania
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
+Single Variable Calculus by University of Pennsylvania<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/discrete-calculus">Single Variable Calculus</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">10</td>
 			</tr>
-		</tbody>
+	</tbody>
 </table>
 </details>
 <details>
