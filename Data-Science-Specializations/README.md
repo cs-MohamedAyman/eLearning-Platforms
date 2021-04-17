@@ -5,7 +5,6 @@ Data Science Specializations road map for computer science students, which inclu
 
 <details>
 	<summary>Calculus and Algebra Specializations</summary>
-
 <table>
 	<thead>
 		<tr>
@@ -18,8 +17,26 @@ Data Science Specializations road map for computer science students, which inclu
 	<tbody>
 			<tr>
 				<td rowspan=1 align=center>
-Vector Calculus for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+Data Science Math Skills by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Numerical Methods for Engineers by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Vector Calculus for Engineers by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus for Engineers</a></td>
 				<td align="center">Beginner</td>
@@ -27,44 +44,8 @@ Vector Calculus for Engineers by The Hong Kong University of Science and Technol
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Numerical Methods for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">40</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Matrix Algebra for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/matrix-algebra-engineers">Matrix Algebra for Engineers</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">20</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Numerical Methods for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">40</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Introduction to numerical analysis by National Research University Higher School of Economics
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
-				</td>
-				<td><a href="http://coursera.org/learn/intro-to-numerical-analysis">Introduction to numerical analysis</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">30</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Introduction to Calculus by The University of Sydney
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg" width="40%">
+Introduction to Calculus by The University of Sydney<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introduction-to-calculus">Introduction to Calculus</a></td>
 				<td align="center">Intermediate</td>
@@ -72,8 +53,35 @@ Introduction to Calculus by The University of Sydney
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Matrix Methods by University of Minnesota
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
+Matrix Algebra for Engineers by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/matrix-algebra-engineers">Matrix Algebra for Engineers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to numerical analysis by National Research University Higher School of Economics<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
+				</td>
+				<td><a href="http://coursera.org/learn/intro-to-numerical-analysis">Introduction to numerical analysis</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Basic Algebra by National Autonomous University of Mexico<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20autonomous%20university%20of%20mexico.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/algebra-basica">Basic Algebra</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Matrix Methods by University of Minnesota<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/matrix-methods">Matrix Methods</a></td>
 				<td align="center">Intermediate</td>
@@ -81,21 +89,12 @@ Matrix Methods by University of Minnesota
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/fibonacci">Fibonacci Numbers and the Golden Ratio</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Data Science Math Skills by Duke University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
 			</tr>
 			<tr>
 				<td rowspan=3 align=center>
@@ -117,26 +116,154 @@ Mathematics for Machine Learning
 				<td align="center">Beginner</td>
 				<td align="center">20</td>
 			</tr>
-	<tbody>
+			<tr>
+				<td rowspan=4 align=center>
+Differential Calculus through Data and Modeling  
+<a href="https://www.coursera.org/specializations/differential-calculus-data-modeling">Specialization</a> by Johns Hopkins University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-precalculus-review">Calculus through Data & Modeling: Precalculus Review</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-imits-derivatives">Calculus through Data & Modeling: Limits & Derivatives</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-differentiation-rules">Calculus through Data & Modeling: Differentiation Rules</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-applying-differentiation">Calculus through Data & Modeling: Applying Differentiation</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Integral Calculus through Data and Modeling  
+<a href="https://www.coursera.org/specializations/integral-calculus-data-modeling">Specialization</a> by Johns Hopkins University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-series-and-integrals">Calculus through Data & Modelling: Series and Integration</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-techniques-of-integration">Calculus through Data & Modelling: Techniques of Integration</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-integration-applications">Calculus through Data & Modelling: Integration Applications</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-vector-calculus">Calculus through Data & Modelling: Vector Calculus</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td rowspan=3 align=center>
+Precalculus through Data and Modelling  
+<a href="https://www.coursera.org/specializations/precalculus-data-modelling">Specialization</a> by Johns Hopkins University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/precalculus-relations-functions">Precalculus: Relations and Functions</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/precalculus-periodic-functions">Precalculus: Periodic Functions</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/precalculus-mathematical-modelling">Precalculus: Mathematical Modeling</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Mathematics for Data Science  
+<a href="https://www.coursera.org/specializations/mathematics-for-data-science">Specialization</a> by HSE University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/hse%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs">Discrete Math and Analyzing Social Graphs</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning">Calculus and Optimization for Machine Learning</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/first-steps-in-linear-algebra-for-machine-learning">First Steps in Linear Algebra for Machine Learning</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/probability-theory-statistics">Probability Theory, Statistics and Exploratory Data Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to Enumerative Combinatorics by National Research University Higher School of Economics<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/enumerative-combinatorics">Introduction to Enumerative Combinatorics</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">110</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Advanced Statistics for Data Science  
+<a href="https://www.coursera.org/specializations/advanced-statistics-data-science">Specialization</a> by Johns Hopkins University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/biostatistics">Mathematical Biostatistics Boot Camp 1</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/biostatistics-2">Mathematical Biostatistics Boot Camp 2</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/linear-models">Advanced Linear Models for Data Science 1: Least Squares</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/linear-models-2">Advanced Linear Models for Data Science 2: Statistical Linear Models</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">5</td>
+			</tr>
+	</tbody>
 </table>
 </details>
 <details>
 	<summary>Probability and Statistics Specializations</summary>
-
 <table>
-		<thead>
-			<tr>
-				<th width="45%">Specialization</th>
-				<th width="55%">Course Name</th>
-				<th>Level</th>
-				<th>H</th>
-			</tr>
-		</thead>
-		<tbody>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
 			<tr>
 				<td rowspan=1 align=center>
-An Intuitive Introduction to Probability by University of Zurich
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20zurich.jpg" width="40%">
+An Intuitive Introduction to Probability by University of Zurich<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20zurich.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introductiontoprobability">An Intuitive Introduction to Probability</a></td>
 				<td align="center">Beginner</td>
@@ -153,27 +280,18 @@ Data Science Math Skills by Duke University<br>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Mathematical Biostatistics Boot Camp 1 by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+Introduction to Statistics by Stanford University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/biostatistics">Mathematical Biostatistics Boot Camp 1</a></td>
+				<td><a href="https://www.coursera.org/learn/stanford-statistics">Introduction to Statistics</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Mathematical Biostatistics Boot Camp 2 by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/biostatistics-2">Mathematical Biostatistics Boot Camp 2</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
 				<td rowspan=5 align=center>
 Methods and Statistics in Social Sciences  
-<a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/quantitative-methods">Quantitative Methods</a></td>
 				<td align="center">Beginner</td>
@@ -201,8 +319,8 @@ Methods and Statistics in Social Sciences
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Improving your statistical inferences by Eindhoven University of Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
+Improving your statistical inferences by Eindhoven University of Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/statistical-inferences">Improving your statistical inferences</a></td>
 				<td align="center">Intermediate</td>
@@ -210,8 +328,8 @@ Improving your statistical inferences by Eindhoven University of Technology
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Bayesian Statistics: From Concept to Data Analysis by University of California, Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+Bayesian Statistics: From Concept to Data Analysis by University of California Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/bayesian-statistics">Bayesian Statistics: From Concept to Data Analysis</a></td>
 				<td align="center">Intermediate</td>
@@ -219,8 +337,8 @@ Bayesian Statistics: From Concept to Data Analysis by University of California, 
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Bayesian Statistics: Techniques and Models by University of California, Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+Bayesian Statistics: Techniques and Models by University of California Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/mcmc-bayesian-statistics">Bayesian Statistics: Techniques and Models</a></td>
 				<td align="center">Intermediate</td>
@@ -228,8 +346,8 @@ Bayesian Statistics: Techniques and Models by University of California, Santa Cr
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Bayesian Statistics: Mixture Models by University of California, Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+Bayesian Statistics: Mixture Models by University of California Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/mixture-models">Bayesian Statistics: Mixture Models</a></td>
 				<td align="center">Intermediate</td>
@@ -255,12 +373,63 @@ Statistics with Python
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
-		</tbody>
+			<tr>
+				<td rowspan=1 align=center>
+A Crash Course in Causality: Inferring Causal Effects from Observational Data by University of Pennsylvania<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/crash-course-in-causality">A Crash Course in Causality: Inferring Causal Effects from Observational Data</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Causal Inference by Columbia University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/causal-inference">Causal Inference</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Causal Inference 2 by Columbia University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/causal-inference-2">Causal Inference 2</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Design of Experiments  
+<a href="https://www.coursera.org/specializations/design-experiments">Specialization</a> by Arizona State University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-experimental-design-basics">Experimental Design Basics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/factorial-fractional-factorial-designs">Factorial and Fractional Factorial Designs</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/response-surfaces-mixtures-model-building">Response Surfaces, Mixtures, and Model Building</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/random-models-nested-split-plot-designs">Random Models, Nested and Split-plot Designs</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+	</tbody>
 </table>
 </details>
 <details>
 	<summary>Data Analysis Specializations</summary>
-
 <table>
 	<thead>
 		<tr>
@@ -397,8 +566,8 @@ Python and Statistics for Financial Analysis by The Hong Kong University of Scie
 			<tr>
 				<td rowspan=4 align=center>
 Python Data Products for Predictive Analytics  
-<a href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California, San Diego<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California San Diego<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/basic-data-processing-visualization-python">Basic Data Processing and Visualization</a></td>
 				<td align="center">Intermediate</td>
@@ -424,7 +593,6 @@ Python Data Products for Predictive Analytics
 </details>
 <details>
 	<summary>Machine Learning and Data Mining Specializations</summary>
-	
 <table>
 	<thead>
 		<tr>
@@ -437,18 +605,46 @@ Python Data Products for Predictive Analytics
 	<tbody>
 			<tr>
 				<td rowspan=1 align=center>
-Machine Learning by Stanford University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+Machine Learning by Stanford University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">55</td>
 			</tr>
 			<tr>
+				<td rowspan=1 align=center>
+Machine Learning for All by University of London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/uol-machine-learning-for-all">Machine Learning for All</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to Machine Learning by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/machine-learning-duke">Introduction to Machine Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Foundations of Data Science: K-Means Clustering in Python by University of London & Goldsmiths University of London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/goldsmiths%20university%20of%20london.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/data-science-k-means-clustering-python">Foundations of Data Science: K-Means Clustering in Python</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
 				<td rowspan=4 align=center>
 Machine Learning  
-<a href="https://www.coursera.org/specializations/machine-learning">Specialization</a> by University of Washington
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/machine-learning">Specialization</a> by University of Washington<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/ml-foundations">Machine Learning Foundations: A Case Study Approach</a></td>
 				<td align="center">Intermediate</td>
@@ -471,9 +667,34 @@ Machine Learning
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
+Data Science Fundamentals  
+<a href="https://www.coursera.org/specializations/data-science-fundamentals">Specialization</a> by University of California Irvine<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20irvine.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/intro-analyticthinking-datascience-datamining">Intro to Analytic Thinking, Data Science, and Data Mining</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/predictive-modeling-model-fitting-regression-analysis">Predictive Modeling, Model Fitting, and Regression Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/cluster-analysis-association-mining-and-model-evaluation">Cluster Analysis, Association Mining, and Model Evaluation</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/natural-language-processing-captsone-assignment">Natural Language Processing and Capstone Assignment</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
 IBM Introduction to Machine Learning  
-<a href="https://www.coursera.org/specializations/ibm-intro-machine-learning">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/ibm-intro-machine-learning">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
 				<td align="center">Intermediate</td>
@@ -496,9 +717,9 @@ IBM Introduction to Machine Learning
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-IBM Machine Learning 
-<a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">Professional Certificate</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+IBM Machine Learning Profession 
+<a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
 				<td align="center">Intermediate</td>
@@ -532,8 +753,8 @@ IBM Machine Learning
 			<tr>
 				<td rowspan=5 align=center>
 Machine Learning with TensorFlow on Google Cloud Platform  
-<a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/google-machine-learning">How Google does Machine Learning</a></td>
 				<td align="center">Intermediate</td>
@@ -562,8 +783,8 @@ Machine Learning with TensorFlow on Google Cloud Platform
 			<tr>
 				<td rowspan=4 align=center>
 Machine Learning: Algorithms in the Real World  
-<a href="https://www.coursera.org/specializations/machine-learning-algorithms-real-world">Specialization</a> by Alberta Machine Intelligence Institute
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/machine-learning-algorithms-real-world">Specialization</a> by Alberta Machine Intelligence Institute<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/machine-learning-applied">Introduction to Applied Machine Learning</a></td>
 				<td align="center">Intermediate</td>
@@ -587,8 +808,8 @@ Machine Learning: Algorithms in the Real World
 			<tr>
 				<td rowspan=5 align=center>
 Recommender Systems  
-<a href="https://www.coursera.org/specializations/recommender-systems">Specialization</a> by University of Minnesota
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/recommender-systems">Specialization</a> by University of Minnesota<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/recommender-systems-introduction">Introduction to Recommender Systems: Non-Personalized and Content-Based</a></td>
 				<td align="center">Intermediate</td>
@@ -617,8 +838,8 @@ Recommender Systems
 			<tr>
 				<td rowspan=6 align=center>
 Data Mining  
-<a href="https://www.coursera.org/specializations/data-mining">Specialization</a> by University of Illinois at Urbana-Champaign
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-mining">Specialization</a> by University of Illinois at Urbana-Champaign<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/datavisualization">Data Visualization</a></td>
 				<td align="center">Intermediate</td>
@@ -651,8 +872,8 @@ Data Mining
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Process Mining: Data science in Action by Eindhoven University of Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
+Process Mining: Data science in Action by Eindhoven University of Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/process-mining">Process Mining: Data science in Action</a></td>
 				<td align="center">Intermediate</td>
@@ -689,7 +910,7 @@ Applied Data Science with Python
 				<td align="center">30</td>
 			</tr>
 	</tbody>
-</table>    
+</table>
 </details>
 <details>
 	<summary>Data Science Specializations</summary>
