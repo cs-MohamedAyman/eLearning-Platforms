@@ -6,12 +6,12 @@ Coursera specializations road map for computer science students.
 ## [Computer Science](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
 Computer Science Specializations road map for computer science students, which including the following main topics:
 
-#### `1.` [Python Programming Language and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `5 Entities`
-#### `2.` [C/C++ Programming Language and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `4 Entities`
-#### `3.` [Mathematics and Discrete Mathematics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `9 Entities`
+#### `1.` [Python Programming Language and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `6 Entities`
+#### `2.` [C/C++ Programming Language and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `5 Entities`
+#### `3.` [Mathematics and Discrete Mathematics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `13 Entities`
 #### `4.` [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `9 Entities`
 #### `5.` [Logic Design](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `6 Entities`
-#### `6.` [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `10 Entities`
+#### `6.` [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `13 Entities`
 #### `7.` [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `4 Entities`
 #### `8.` [Theory of Computations and Computer Architecture](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `2 Entities`
 
