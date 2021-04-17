@@ -250,21 +250,20 @@ Advanced Statistics for Data Science
 </details>
 <details>
 	<summary>Probability and Statistics Specializations</summary>
-
 <table>
-		<thead>
-			<tr>
-				<th width="45%">Specialization</th>
-				<th width="55%">Course Name</th>
-				<th>Level</th>
-				<th>H</th>
-			</tr>
-		</thead>
-		<tbody>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
 			<tr>
 				<td rowspan=1 align=center>
-An Intuitive Introduction to Probability by University of Zurich
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20zurich.jpg" width="40%">
+An Intuitive Introduction to Probability by University of Zurich<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20zurich.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introductiontoprobability">An Intuitive Introduction to Probability</a></td>
 				<td align="center">Beginner</td>
@@ -281,27 +280,18 @@ Data Science Math Skills by Duke University<br>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Mathematical Biostatistics Boot Camp 1 by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+Introduction to Statistics by Stanford University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/biostatistics">Mathematical Biostatistics Boot Camp 1</a></td>
+				<td><a href="https://www.coursera.org/learn/stanford-statistics">Introduction to Statistics</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Mathematical Biostatistics Boot Camp 2 by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/biostatistics-2">Mathematical Biostatistics Boot Camp 2</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
 				<td rowspan=5 align=center>
 Methods and Statistics in Social Sciences  
-<a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/quantitative-methods">Quantitative Methods</a></td>
 				<td align="center">Beginner</td>
@@ -329,8 +319,8 @@ Methods and Statistics in Social Sciences
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Improving your statistical inferences by Eindhoven University of Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
+Improving your statistical inferences by Eindhoven University of Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/statistical-inferences">Improving your statistical inferences</a></td>
 				<td align="center">Intermediate</td>
@@ -338,8 +328,8 @@ Improving your statistical inferences by Eindhoven University of Technology
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Bayesian Statistics: From Concept to Data Analysis by University of California, Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+Bayesian Statistics: From Concept to Data Analysis by University of California Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/bayesian-statistics">Bayesian Statistics: From Concept to Data Analysis</a></td>
 				<td align="center">Intermediate</td>
@@ -347,8 +337,8 @@ Bayesian Statistics: From Concept to Data Analysis by University of California, 
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Bayesian Statistics: Techniques and Models by University of California, Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+Bayesian Statistics: Techniques and Models by University of California Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/mcmc-bayesian-statistics">Bayesian Statistics: Techniques and Models</a></td>
 				<td align="center">Intermediate</td>
@@ -356,8 +346,8 @@ Bayesian Statistics: Techniques and Models by University of California, Santa Cr
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Bayesian Statistics: Mixture Models by University of California, Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20santa%20cruz.jpg" width="40%">
+Bayesian Statistics: Mixture Models by University of California Santa Cruz<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/mixture-models">Bayesian Statistics: Mixture Models</a></td>
 				<td align="center">Intermediate</td>
@@ -383,7 +373,59 @@ Statistics with Python
 				<td align="center">Beginner</td>
 				<td align="center">15</td>
 			</tr>
-		</tbody>
+			<tr>
+				<td rowspan=1 align=center>
+A Crash Course in Causality: Inferring Causal Effects from Observational Data by University of Pennsylvania<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/crash-course-in-causality">A Crash Course in Causality: Inferring Causal Effects from Observational Data</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Causal Inference by Columbia University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/causal-inference">Causal Inference</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Causal Inference 2 by Columbia University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/causal-inference-2">Causal Inference 2</a></td>
+				<td align="center">Advanced</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Design of Experiments  
+<a href="https://www.coursera.org/specializations/design-experiments">Specialization</a> by Arizona State University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-experimental-design-basics">Experimental Design Basics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/factorial-fractional-factorial-designs">Factorial and Fractional Factorial Designs</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/response-surfaces-mixtures-model-building">Response Surfaces, Mixtures, and Model Building</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/random-models-nested-split-plot-designs">Random Models, Nested and Split-plot Designs</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+	</tbody>
 </table>
 </details>
 <details>
