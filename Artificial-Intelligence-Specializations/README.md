@@ -1136,7 +1136,6 @@ Machine Learning for Trading
 </details>
 <details>
 	<summary>Computer Vision and Image Processing Specializations</summary>
-	
 <table>
 	<thead>
 		<tr>
@@ -1149,9 +1148,9 @@ Machine Learning for Trading
 	<tbody>
 			<tr>
 				<td rowspan=4 align=center>
-Digital Signal Processing
-<a href="https://www.coursera.org/specializations/digital-signal-processing">Specialization</a> by ecole polytechnique federale de lausanne
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
+Digital Signal Processing  
+<a href="https://www.coursera.org/specializations/digital-signal-processing">Specialization</a> by ecole polytechnique federale de lausanne<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/dsp1">Digital Signal Processing 1: Basic Concepts and Algorithms</a></td>
 				<td align="center">Intermediate</td>
@@ -1174,17 +1173,8 @@ Digital Signal Processing
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Differential Equations for Engineers by The Hong Kong University of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/differential-equations-engineers">Differential Equations for Engineers</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">30</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
+Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/ordinary-differential-equations">Introduction to Ordinary Differential Equations</a></td>
 				<td align="center">Beginner</td>
@@ -1192,8 +1182,17 @@ Introduction to Ordinary Differential Equations by Korea Advanced Institute of S
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Introduction to Complex Analysis by Wesleyan University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
+Differential Equations for Engineers by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/differential-equations-engineers">Differential Equations for Engineers</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to Complex Analysis by Wesleyan University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/complex-analysis">Introduction to Complex Analysis</a></td>
 				<td align="center">Intermediate</td>
@@ -1201,8 +1200,17 @@ Introduction to Complex Analysis by Wesleyan University
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Fundamentals of Digital Image and Video Processing by Northwestern University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northwestern%20university.jpg" width="40%">
+Information Theory by The Chinese University of Hong Kong<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20chinese%20university%20of%20hong%20kong.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/information-theory">Information Theory</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Fundamentals of Digital Image and Video Processing by Northwestern University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northwestern%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/digital">Fundamentals of Digital Image and Video Processing</a></td>
 				<td align="center">Intermediate</td>
@@ -1210,8 +1218,8 @@ Fundamentals of Digital Image and Video Processing by Northwestern University
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Barcelona
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20pompeu%20fabra%20of%20barcelona.jpg" width="40%">
+Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Barcelona<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20pompeu%20fabra%20of%20barcelona.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/audio-signal-processing">Audio Signal Processing for Music Applications</a></td>
 				<td align="center">Intermediate</td>
@@ -1219,8 +1227,8 @@ Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Ba
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital by Duke University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/image-processing">Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital</a></td>
 				<td align="center">Intermediate</td>
@@ -1229,8 +1237,8 @@ Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital b
 			<tr>
 				<td rowspan=4 align=center>
 Computer Vision  
-<a href="https://www.coursera.org/specializations/computervision">Specialization</a> by University at Buffalo
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20at%20buffalo.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/computervision">Specialization</a> by University at Buffalo<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20at%20buffalo.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/computer-vision-basics">Computer Vision Basics</a></td>
 				<td align="center">Intermediate</td>
@@ -1251,8 +1259,28 @@ Computer Vision
 				<td align="center">Intermediate</td>
 				<td align="center">10</td>
 			</tr>
+			<tr>
+				<td rowspan=3 align=center>
+MATLAB Programming for Engineers and Scientists  
+<a href="https://www.coursera.org/specializations/matlab-programming-engineers-scientists">Specialization</a> by Vanderbilt University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/vanderbilt%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/matlab">Introduction to Programming with MATLAB</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">40</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/advanced-matlab-programming">Mastering Programming with MATLAB</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">60</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/matlab-image-processing">Introduction to Data, Signal, and Image Analysis with MATLAB</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">25</td>
+			</tr>
 	</tbody>
-</table>    
+</table>
 </details>
 <details>
 	<summary>Deep Learning and Neural Networks Specializations</summary>
