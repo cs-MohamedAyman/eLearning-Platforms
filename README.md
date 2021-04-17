@@ -46,7 +46,7 @@ Data Science Specializations road map for computer science students, which inclu
 #### `3.` [Data Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `10 Entities`
 #### `4.` [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `14 Entities`
 #### `5.` [Data Science](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `10 Entities`
-#### `6.` [Business Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `7 Entities`
+#### `6.` [Business Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `12 Entities`
 #### `7.` [Database Systems and Data Warehousing](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `5 Entities`
 #### `8.` [Big Data](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `5 Entities`
 #### `9.` [Data Engineering](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations `7 Entities`
