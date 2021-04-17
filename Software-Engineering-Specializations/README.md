@@ -68,7 +68,7 @@ Object Oriented Programming in Java by University of California, San Diego
 				<td rowspan=5 align=center>
 Object Oriented Java Programming: Data Structures and Beyond  
 <a href="https://www.coursera.org/specializations/java-object-oriented">Specialization</a> by University of California, San Diego
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/object-oriented-java">Object Oriented Programming in Java</a></td>
 				<td align="center">Intermediate</td>
@@ -547,7 +547,7 @@ Advanced App Development in Android
 				<td rowspan=6 align=center>
 iOS Development for Creative Entrepreneurs  
 <a href="https://www.coursera.org/specializations/ios-development">Specialization</a> by University of California, Irvine
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20irvine.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20irvine.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/objective-c">Foundations of Objective-C App Development</a></td>
 				<td align="center">Beginner</td>
@@ -882,7 +882,7 @@ User Experience Research and Design
 				<td rowspan=8 align=center>
 Interaction Design  
 <a href="https://www.coursera.org/specializations/interaction-design">Specialization</a> by University of California, San Diego
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/human-computer-interaction">Human-Centered Design: an Introduction</a></td>
 				<td align="center">Intermediate</td>
@@ -1026,7 +1026,7 @@ Architecting with Google Kubernetes Engine
 			<tr>
 				<td rowspan=1 align=center>
 DevOps Culture and Mindset by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/devops-culture-and-mindset">DevOps Culture and Mindset</a></td>
 				<td align="center">Intermediate</td>
@@ -1044,7 +1044,7 @@ Continuous Delivery & DevOps by University of Virginia
 			<tr>
 				<td rowspan=1 align=center>
 Continuous Integration by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/continuous-integration">Continuous Integration</a></td>
 				<td align="center">Intermediate</td>
