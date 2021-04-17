@@ -914,7 +914,6 @@ Applied Data Science with Python
 </details>
 <details>
 	<summary>Data Science Specializations</summary>
-	
 <table>
 	<thead>
 		<tr>
@@ -928,8 +927,8 @@ Applied Data Science with Python
 			<tr>
 				<td rowspan=5 align=center>
 Executive Data Science  
-<a href="https://www.coursera.org/specializations/executive-data-science">Specialization</a> by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/executive-data-science">Specialization</a> by Johns Hopkins University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/data-science-course">A Crash Course in Data Science</a></td>
 				<td align="center">Beginner</td>
@@ -958,10 +957,10 @@ Executive Data Science
 			<tr>
 				<td rowspan=5 align=center>
 Data Science: Foundations using R  
-<a href="https://www.coursera.org/specializations/data-science-foundations-r">Specialization</a> by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-science-foundations-r">Specialization</a> by Johns Hopkins University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientist’s Toolbox</a></td>
+				<td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientistโ€s Toolbox</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">10</td>
 			</tr>
@@ -988,10 +987,10 @@ Data Science: Foundations using R
 			<tr>
 				<td rowspan=10 align=center>
 Data Science  
-<a href="https://www.coursera.org/specializations/jhu-data-science">Specialization</a> by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/jhu-data-science">Specialization</a> by Johns Hopkins University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientist’s Toolbox</a></td>
+				<td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientistโ€s Toolbox</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">10</td>
 			</tr>
@@ -1043,8 +1042,8 @@ Data Science
 			<tr>
 				<td rowspan=5 align=center>
 Data Science: Statistics and Machine Learning  
-<a href="https://www.coursera.org/specializations/data-science-statistics-machine-learning">Specialization</a> by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-science-statistics-machine-learning">Specialization</a> by Johns Hopkins University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></td>
 				<td align="center">Intermediate</td>
@@ -1073,8 +1072,8 @@ Data Science: Statistics and Machine Learning
 			<tr>
 				<td rowspan=4 align=center>
 Data Science at Scale  
-<a href="https://www.coursera.org/specializations/data-science">Specialization</a> by University of Washington
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-science">Specialization</a> by University of Washington<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/data-manipulation">Data Manipulation at Scale: Systems and Algorithms</a></td>
 				<td align="center">Intermediate</td>
@@ -1096,10 +1095,40 @@ Data Science at Scale
 				<td align="center">15</td>
 			</tr>
 			<tr>
+				<td rowspan=5 align=center>
+Data Science Fundamentals with Python and SQL  
+<a href="https://www.coursera.org/specializations/data-science-fundamentals-python-sql">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/open-source-tools-for-data-science">Tools for Data Science</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science, AI & Development</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-project-for-data-science">Python Project for Data Science</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/statistics-for-data-science-python">Statistics for Data Science with Python</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/sql-data-science">Databases and SQL for Data Science with Python</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
 				<td rowspan=4 align=center>
-Applied Data Science 
-<a href="https://www.coursera.org/specializations/applied-data-science">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+Applied Data Science  
+<a href="https://www.coursera.org/specializations/applied-data-science">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science and AI</a></td>
 				<td align="center">Beginner</td>
@@ -1122,9 +1151,9 @@ Applied Data Science
 			</tr>
 			<tr>
 				<td rowspan=8 align=center>
-IBM Data Analyst 
-<a href="https://www.coursera.org/professional-certificates/ibm-data-analyst">Professional Certificate</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+IBM Data Analyst Profession 
+<a href="https://www.coursera.org/professional-certificates/ibm-data-analyst">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a></td>
 				<td align="center">Beginner</td>
@@ -1138,17 +1167,17 @@ IBM Data Analyst
 			<tr>
 				<td><a href="https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos">Data Visualization and Dashboards with Excel and Cognos</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">2</td>
+				<td align="center">10</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science and AI</a></td>
+				<td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science, AI & Development</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">30</td>
+				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/sql-data-science">Databases and SQL for Data Science</a></td>
+				<td><a href="https://www.coursera.org/learn/sql-data-science">Databases and SQL for Data Science with Python</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">15</td>
+				<td align="center">20</td>
 			</tr>
 			<tr>
 				<td><a href="https://www.coursera.org/learn/data-analysis-with-python">Data Analysis with Python</a></td>
@@ -1163,13 +1192,13 @@ IBM Data Analyst
 			<tr>
 				<td><a href="https://www.coursera.org/learn/ibm-data-analyst-capstone-project">IBM Data Analyst Capstone Project</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">0</td>
+				<td align="center">15</td>
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
 Introduction to Data Science  
-<a href="https://www.coursera.org/specializations/introduction-data-science">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/introduction-data-science">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/what-is-datascience">What is Data Science?</a></td>
 				<td align="center">Beginner</td>
@@ -1192,9 +1221,9 @@ Introduction to Data Science
 			</tr>
 			<tr>
 				<td rowspan=9 align=center>
-IBM Data Science
-<a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Professional Certificate</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+IBM Data Science Profession 
+<a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/what-is-datascience">What is Data Science?</a></td>
 				<td align="center">Beginner</td>
@@ -1243,8 +1272,8 @@ IBM Data Science
 			<tr>
 				<td rowspan=4 align=center>
 Advanced Data Science with IBM  
-<a href="https://www.coursera.org/specializations/advanced-data-science-ibm">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/advanced-data-science-ibm">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/ds">Fundamentals of Scalable Data Science</a></td>
 				<td align="center">Advanced</td>
@@ -1265,12 +1294,41 @@ Advanced Data Science with IBM
 				<td align="center">Advanced</td>
 				<td align="center">15</td>
 			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Computational Social Science  
+<a href="https://www.coursera.org/specializations/computational-social-science-ucdavis">Specialization</a> by University of California Davis<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/computational-social-science-methods">Computational Social Science Methods</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/big-data-ai-ethics">Big Data, Artificial Intelligence, and Ethics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/social-network-analysis">Social Network Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/computer-simulations">Computer Simulations</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/css-capstone">Computational Social Science Capstone Project</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
 	</tbody>
-</table>   
+</table>
 </details>
 <details>
 	<summary>Business Intelligence Specializations</summary>
-	
 <table>
 	<thead>
 		<tr>
@@ -1284,8 +1342,8 @@ Advanced Data Science with IBM
 			<tr>
 				<td rowspan=5 align=center>
 Business Statistics and Analysis  
-<a href="https://www.coursera.org/specializations/business-statistics-analysis">Specialization</a> by Rice University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/business-statistics-analysis">Specialization</a> by Rice University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/excel-data-analysis">Introduction to Data Analysis Using Excel</a></td>
 				<td align="center">Beginner</td>
@@ -1314,8 +1372,8 @@ Business Statistics and Analysis
 			<tr>
 				<td rowspan=5 align=center>
 Data Visualization with Tableau  
-<a href="https://www.coursera.org/specializations/data-visualization">Specialization</a> by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-visualization">Specialization</a> by University of California Davis<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/data-visualization-tableau">Fundamentals of Visualization with Tableau</a></td>
 				<td align="center">Beginner</td>
@@ -1344,8 +1402,8 @@ Data Visualization with Tableau
 			<tr>
 				<td rowspan=5 align=center>
 Statistics with R  
-<a href="https://www.coursera.org/specializations/statistics">Specialization</a> by Duke University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/statistics">Specialization</a> by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/probability-intro">Introduction to Probability and Data</a></td>
 				<td align="center">Beginner</td>
@@ -1374,8 +1432,8 @@ Statistics with R
 			<tr>
 				<td rowspan=4 align=center>
 Statistical Analysis with R for Public Health  
-<a href="https://www.coursera.org/specializations/statistical-analysis-r-public-health">Specialization</a> by Imperial College London
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/statistical-analysis-r-public-health">Specialization</a> by Imperial College London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health">Introduction to Statistics & Data Analysis in Public Health</a></td>
 				<td align="center">Beginner</td>
@@ -1399,8 +1457,8 @@ Statistical Analysis with R for Public Health
 			<tr>
 				<td rowspan=4 align=center>
 Excel Skills for Business  
-<a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/excel-essentials">Excel Skills for Business: Essentials</a></td>
 				<td align="center">Beginner</td>
@@ -1424,8 +1482,8 @@ Excel Skills for Business
 			<tr>
 				<td rowspan=3 align=center>
 Excel/VBA for Creative Problem Solving  
-<a href="https://www.coursera.org/specializations/excel-vba-creative-problem-solving">Specialization</a> by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/excel-vba-creative-problem-solving">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1">Excel/VBA for Creative Problem Solving, Part 1</a></td>
 				<td align="center">Beginner</td>
@@ -1444,8 +1502,8 @@ Excel/VBA for Creative Problem Solving
 			<tr>
 				<td rowspan=4 align=center>
 Data Visualization  
-<a href="https://www.coursera.org/specializations/datavisualization">Specialization</a> by Arizona State University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/datavisualization">Specialization</a> by Arizona State University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/intro-to-data-exploration">Introduction to Data Exploration and Visualization</a></td>
 				<td align="center">Intermediate</td>
@@ -1466,8 +1524,111 @@ Data Visualization
 				<td align="center">Intermediate</td>
 				<td align="center">15</td>
 			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Business Analytics  
+<a href="https://www.coursera.org/specializations/business-analytics">Specialization</a> by University of Pennsylvania<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/wharton-customer-analytics">Customer Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/wharton-operations-analytics">Operations Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/wharton-people-analytics">People Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/accounting-analytics">Accounting Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/wharton-capstone-analytics">Business Analytics Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+GIS, Mapping, and Spatial Analysis  
+<a href="https://www.coursera.org/specializations/gis-mapping-spatial-analysis">Specialization</a> by University of Toronto<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20toronto.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-gis-mapping">Introduction to GIS Mapping</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-data-acquisition-map-design">GIS Data Acquisition and Map Design</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis">Spatial Analysis and Satellite Imagery in a GIS</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-mapping-spatial-analysis-capstone">GIS, Mapping, and Spatial Analysis Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Maps and the Geospatial Revolution by University of Pennsylvania<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/geospatial">Maps and the Geospatial Revolution</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Geographic Information Systems (GIS)  
+<a href="https://www.coursera.org/specializations/gis">Specialization</a> by University of California Davis<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/gis">Fundamentals of GIS</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-data">GIS Data Formats, Design and Quality</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/spatial-analysis">Geospatial and Environmental Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-applications">Imagery, Automation, and Applications</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-capstone">Geospatial Analysis Project</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">65</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Geographical Information Systems - Part 1 by ecole polytechnique federale de lausanne<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/gis-1">Geographical Information Systems - Part 1</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
 	</tbody>
-</table>   
+</table>
 </details>
 <details>
 	<summary>Database Systems and Data Warehousing Specializations</summary>
@@ -1485,7 +1646,7 @@ Data Visualization
 			<tr>
 				<td rowspan=1 align=center>
 SQL for Data Science by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a></td>
 				<td align="center">Beginner</td>
@@ -1495,7 +1656,7 @@ SQL for Data Science by University of California, Davis
 				<td rowspan=4 align=center>
 Learn SQL Basics for Data Science  
 <a href="https://www.coursera.org/specializations/learn-sql-basics-data-science">Specialization</a> by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a></td>
 				<td align="center">Beginner</td>
@@ -1620,7 +1781,7 @@ Database systems
 			<tr>
 				<td rowspan=1 align=center>
 Distributed Computing with Spark SQL by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/spark-sql">Distributed Computing with Spark SQL</a></td>
 				<td align="center">Intermediate</td>
@@ -1630,7 +1791,7 @@ Distributed Computing with Spark SQL by University of California, Davis
 				<td rowspan=6 align=center>
 Big Data  
 <a href="https://www.coursera.org/specializations/big-data">Specialization</a> by University of California, San Diego
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/big-data-introduction">Introduction to Big Data</a></td>
 				<td align="center">Beginner</td>
@@ -1746,7 +1907,6 @@ Big Data for Data Engineers
 </details>
 <details>
 	<summary>Data Engineering Specializations</summary>
-	
 <table>
 	<thead>
 		<tr>
@@ -1758,35 +1918,10 @@ Big Data for Data Engineers
 	</thead>
 	<tbody>
 			<tr>
-				<td rowspan=4 align=center>
-From Data to Insights with Google Cloud Platform  
-<a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring ​and ​Preparing ​your ​Data with BigQuery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights">Creating New BigQuery Datasets and Visualizing Insights</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/gcp-advanced-insights-bigquery">Achieving Advanced Insights with BigQuery</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
-				<td><a href="https://www.coursera.org/learn/data-insights-gcp-apply-ml">Applying Machine Learning to your Data with GCP</a></td>
-				<td align="center">Beginner</td>
-				<td align="center">15</td>
-			</tr>
-			<tr>
 				<td rowspan=5 align=center>
 Data Engineering, Big Data, and Machine Learning on GCP  
-<a href="https://www.coursera.org/specializations/gcp-data-machine-learning">Specialization</a> by Google Cloud
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/gcp-data-machine-learning">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a></td>
 				<td align="center">Intermediate</td>
@@ -1814,9 +1949,9 @@ Data Engineering, Big Data, and Machine Learning on GCP
 			</tr>
 			<tr>
 				<td rowspan=5 align=center>
-Data Engineering with GCP
-<a href="https://www.coursera.org/professional-certificates/gcp-data-engineering">Professional Certificate</a> by Google Cloud
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+Data Engineering with GCP Profession 
+<a href="https://www.coursera.org/professional-certificates/gcp-data-engineering">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a></td>
 				<td align="center">Intermediate</td>
@@ -1845,8 +1980,8 @@ Data Engineering with GCP
 			<tr>
 				<td rowspan=5 align=center>
 Data Warehousing for Business Intelligence  
-<a href="https://www.coursera.org/specializations/data-warehousing">Specialization</a> by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-warehousing">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/database-management">Database Management Essentials</a></td>
 				<td align="center">Advanced</td>
@@ -1875,8 +2010,8 @@ Data Warehousing for Business Intelligence
 			<tr>
 				<td rowspan=5 align=center>
 Advanced Business Analytics  
-<a href="https://www.coursera.org/specializations/data-analytics-business">Specialization</a> by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-analytics-business">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/data-analytics-business">Introduction to Data Analytics for Business</a></td>
 				<td align="center">Advanced</td>
@@ -1903,19 +2038,35 @@ Advanced Business Analytics
 				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Introduction to Programming with MATLAB by Vanderbilt University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/vanderbilt%20university.jpg" width="40%">
+				<td rowspan=4 align=center>
+From Data to Insights with Google Cloud Platform  
+<a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/matlab">Introduction to Programming with MATLAB</a></td>
+				<td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring โ€and โ€Preparing โ€your โ€Data with BigQuery</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">40</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights">Creating New BigQuery Datasets and Visualizing Insights</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gcp-advanced-insights-bigquery">Achieving Advanced Insights with BigQuery</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/data-insights-gcp-apply-ml">Applying Machine Learning to your Data with GCP</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
 Practical Data Science with MATLAB  
-<a href="https://www.coursera.org/specializations/practical-data-science-matlab">Specialization</a> by MathWorks
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/practical-data-science-matlab">Specialization</a> by MathWorks<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/exploratory-data-analysis-matlab">Exploratory Data Analysis with MATLAB</a></td>
 				<td align="center">Beginner</td>
@@ -1924,20 +2075,45 @@ Practical Data Science with MATLAB
 			<tr>
 				<td><a href="https://www.coursera.org/learn/feature-engineering-matlab">Data Processing and Feature Engineering with MATLAB</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">5</td>
+				<td align="center">20</td>
 			</tr>
 			<tr>
 				<td><a href="https://www.coursera.org/learn/predictive-modeling-machine-learning">Predictive Modeling and Machine Learning with MATLAB</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">10</td>
+				<td align="center">25</td>
 			</tr>
 			<tr>
 				<td><a href="https://www.coursera.org/learn/matlab-capstone">Data Science Project: MATLAB for the Real World</a></td>
 				<td align="center">Beginner</td>
-				<td align="center">0</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+Key Technologies in Data Analytics  
+<a href="https://www.coursera.org/specializations/key-technologies-data-analytics">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/fundamentals-of-data-analysis">Fundamentals of Data Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/fundamentals-of-cloud-computing">Fundamentals of Cloud Computing</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/fundamentals-of-data-warehousing">Fundamentals of Data Warehousing</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/fundamentals-of-big-data">Fundamentals of Big Data</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
 			</tr>
 	</tbody>
-</table>   
+</table>
 </details>
 
 **SKILLS YOU WILL GAIN:**<br>
