@@ -829,65 +829,85 @@ Analysis of Algorithms by Princeton University<br>
 </details>
 <details>
 	<summary>Operating Systems and Parallel Computing Specializations</summary>
-
 <table>
-		<thead>
-			<tr>
-				<th width="45%">Specialization</th>
-				<th width="55%">Course Name</th>
-				<th>Level</th>
-				<th>H</th>
-			</tr>
-		</thead>
-		<tbody>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
 			<tr>
 				<td rowspan=1 align=center>
-The Introduction to Quantum Computing by Saint Petersburg State University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="40%">
+The Introduction to Quantum Computing by Saint Petersburg State University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/quantum-computing-algorithms">The Introduction to Quantum Computing</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Operating Systems and You: Becoming a Power User by Google
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google.jpg" width="40%">
+				<td rowspan=5 align=center>
+Google IT Support Profession 
+<a href="https://www.coursera.org/professional-certificates/google-it-support">Specialization</a> by Google<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google.jpg" width="40%">
 				</td>
+				<td><a href="https://www.coursera.org/learn/technical-support-fundamentals">Technical Support Fundamentals</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/computer-networking">The Bits and Bytes of Computer Networking</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
 				<td><a href="https://www.coursera.org/learn/os-power-user">Operating Systems and You: Becoming a Power User</a></td>
 				<td align="center">Beginner</td>
 				<td align="center">30</td>
 			</tr>
 			<tr>
+				<td><a href="https://www.coursera.org/learn/system-administration-it-infrastructure-services">System Administration and IT Infrastructure Services</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/it-security">IT Security: Defense against the digital dark arts</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
 				<td rowspan=3 align=center>
-Parallel, Concurrent, and Distributed Programming in Java 
-<a href="https://www.coursera.org/specializations/pcdp">Specialization</a> by Rice University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
+Parallel, Concurrent, and Distributed Programming in Java  
+<a href="https://www.coursera.org/specializations/pcdp">Specialization</a> by Rice University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/parallel-programming-in-java">Parallel Programming in Java</a></td>
+				<td><a href="https://www.coursera.org/learn/parallel-programming-in-java">IT Security: Defense against the digital dark arts"</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/concurrent-programming-in-java">Concurrent Programming in Java</a></td>
+				<td><a href="https://www.coursera.org/learn/concurrent-programming-in-java">Parallel Programming in Java</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.coursera.org/learn/distributed-programming-in-java">Distributed Programming in Java</a></td>
+				<td><a href="https://www.coursera.org/learn/distributed-programming-in-java">Concurrent Programming in Java</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">20</td>
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Fundamentals of Parallelism on Intel Architecture by Intel
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="40%">
+Distributed Programming in Java by Intel<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/parallelism-ia">Fundamentals of Parallelism on Intel Architecture</a></td>
+				<td><a href="https://www.coursera.org/learn/parallelism-ia">Distributed Programming in Java</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">15</td>
 			</tr>
-		</tbody>
+	</tbody>
 </table>
 </details>
 <details>
