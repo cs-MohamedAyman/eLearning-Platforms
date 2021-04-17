@@ -1646,7 +1646,7 @@ Geospatial Analysis Project by ecole polytechnique federale de lausanne<br>
 			<tr>
 				<td rowspan=1 align=center>
 SQL for Data Science by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a></td>
 				<td align="center">Beginner</td>
@@ -1656,7 +1656,7 @@ SQL for Data Science by University of California, Davis
 				<td rowspan=4 align=center>
 Learn SQL Basics for Data Science  
 <a href="https://www.coursera.org/specializations/learn-sql-basics-data-science">Specialization</a> by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a></td>
 				<td align="center">Beginner</td>
@@ -1781,7 +1781,7 @@ Database systems
 			<tr>
 				<td rowspan=1 align=center>
 Distributed Computing with Spark SQL by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/spark-sql">Distributed Computing with Spark SQL</a></td>
 				<td align="center">Intermediate</td>
@@ -1791,7 +1791,7 @@ Distributed Computing with Spark SQL by University of California, Davis
 				<td rowspan=6 align=center>
 Big Data  
 <a href="https://www.coursera.org/specializations/big-data">Specialization</a> by University of California, San Diego
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/big-data-introduction">Introduction to Big Data</a></td>
 				<td align="center">Beginner</td>
