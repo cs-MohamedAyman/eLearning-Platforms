@@ -430,7 +430,6 @@ Design of Experiments
 </details>
 <details>
 	<summary>Data Analysis Specializations</summary>
-
 <table>
 	<thead>
 		<tr>
@@ -567,8 +566,8 @@ Python and Statistics for Financial Analysis by The Hong Kong University of Scie
 			<tr>
 				<td rowspan=4 align=center>
 Python Data Products for Predictive Analytics  
-<a href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California, San Diego<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California San Diego<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/basic-data-processing-visualization-python">Basic Data Processing and Visualization</a></td>
 				<td align="center">Intermediate</td>
