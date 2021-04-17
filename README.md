@@ -16,7 +16,7 @@ Computer Science Specializations road map for computer science students, which i
 #### `8.` [Theory of Computations and Computer Architecture](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `2 Entities`
 
 **SKILLS YOU WILL GAIN:**<br>
-`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler`, `concepts of programming languages`, `computer architecture`, `computer organization`
+`computer science`, `discrete mathematics`, `mathematics`, `calculus`, `algebra`, `differential equations`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler design`, `operating systems`, `concepts of programming languages`, `computer architecture`, `computer organization`
 
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
