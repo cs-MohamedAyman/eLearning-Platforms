@@ -1329,7 +1329,6 @@ Computational Social Science
 </details>
 <details>
 	<summary>Business Intelligence Specializations</summary>
-	
 <table>
 	<thead>
 		<tr>
@@ -1343,8 +1342,8 @@ Computational Social Science
 			<tr>
 				<td rowspan=5 align=center>
 Business Statistics and Analysis  
-<a href="https://www.coursera.org/specializations/business-statistics-analysis">Specialization</a> by Rice University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/business-statistics-analysis">Specialization</a> by Rice University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/excel-data-analysis">Introduction to Data Analysis Using Excel</a></td>
 				<td align="center">Beginner</td>
@@ -1373,8 +1372,8 @@ Business Statistics and Analysis
 			<tr>
 				<td rowspan=5 align=center>
 Data Visualization with Tableau  
-<a href="https://www.coursera.org/specializations/data-visualization">Specialization</a> by University of California, Davis
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20davis.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-visualization">Specialization</a> by University of California Davis<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/data-visualization-tableau">Fundamentals of Visualization with Tableau</a></td>
 				<td align="center">Beginner</td>
@@ -1403,8 +1402,8 @@ Data Visualization with Tableau
 			<tr>
 				<td rowspan=5 align=center>
 Statistics with R  
-<a href="https://www.coursera.org/specializations/statistics">Specialization</a> by Duke University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/statistics">Specialization</a> by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/probability-intro">Introduction to Probability and Data</a></td>
 				<td align="center">Beginner</td>
@@ -1433,8 +1432,8 @@ Statistics with R
 			<tr>
 				<td rowspan=4 align=center>
 Statistical Analysis with R for Public Health  
-<a href="https://www.coursera.org/specializations/statistical-analysis-r-public-health">Specialization</a> by Imperial College London
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/statistical-analysis-r-public-health">Specialization</a> by Imperial College London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health">Introduction to Statistics & Data Analysis in Public Health</a></td>
 				<td align="center">Beginner</td>
@@ -1458,8 +1457,8 @@ Statistical Analysis with R for Public Health
 			<tr>
 				<td rowspan=4 align=center>
 Excel Skills for Business  
-<a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/excel-essentials">Excel Skills for Business: Essentials</a></td>
 				<td align="center">Beginner</td>
@@ -1483,8 +1482,8 @@ Excel Skills for Business
 			<tr>
 				<td rowspan=3 align=center>
 Excel/VBA for Creative Problem Solving  
-<a href="https://www.coursera.org/specializations/excel-vba-creative-problem-solving">Specialization</a> by University of Colorado Boulder
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/excel-vba-creative-problem-solving">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1">Excel/VBA for Creative Problem Solving, Part 1</a></td>
 				<td align="center">Beginner</td>
@@ -1503,8 +1502,8 @@ Excel/VBA for Creative Problem Solving
 			<tr>
 				<td rowspan=4 align=center>
 Data Visualization  
-<a href="https://www.coursera.org/specializations/datavisualization">Specialization</a> by Arizona State University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/datavisualization">Specialization</a> by Arizona State University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/intro-to-data-exploration">Introduction to Data Exploration and Visualization</a></td>
 				<td align="center">Intermediate</td>
@@ -1525,8 +1524,111 @@ Data Visualization
 				<td align="center">Intermediate</td>
 				<td align="center">15</td>
 			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Business Analytics  
+<a href="https://www.coursera.org/specializations/business-analytics">Specialization</a> by University of Pennsylvania<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/wharton-customer-analytics">Customer Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/wharton-operations-analytics">Customer Analytics"</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/wharton-people-analytics">Operations Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/accounting-analytics">People Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/wharton-capstone-analytics">Accounting Analytics</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
+GIS, Mapping, and Spatial Analysis  
+<a href="https://www.coursera.org/specializations/gis-mapping-spatial-analysis">Specialization</a> by University of Toronto<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20toronto.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/introduction-gis-mapping">Business Analytics Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-data-acquisition-map-design">Introduction to GIS Mapping</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/spatial-analysis-satellite-imagery-in-a-gis">GIS Data Acquisition and Map Design</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-mapping-spatial-analysis-capstone">Spatial Analysis and Satellite Imagery in a GIS</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+GIS, Mapping, and Spatial Analysis Capstone by The Pennsylvania State University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/geospatial">GIS, Mapping, and Spatial Analysis Capstone</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td rowspan=5 align=center>
+Geographic Information Systems (GIS)  
+<a href="https://www.coursera.org/specializations/gis">Specialization</a> by University of California Davis<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/gis">Maps and the Geospatial Revolution</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-data">Fundamentals of GIS</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/spatial-analysis">GIS Data Formats, Design and Quality</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-applications">Geospatial and Environmental Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/gis-capstone">Imagery, Automation, and Applications</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">65</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Geospatial Analysis Project by ecole polytechnique federale de lausanne<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/gis-1">Geospatial Analysis Project</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">20</td>
+			</tr>
 	</tbody>
-</table>   
+</table>
 </details>
 <details>
 	<summary>Database Systems and Data Warehousing Specializations</summary>
