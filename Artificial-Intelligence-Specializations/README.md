@@ -593,7 +593,6 @@ Python Data Products for Predictive Analytics
 </details>
 <details>
 	<summary>Machine Learning and Data Mining Specializations</summary>
-	
 <table>
 	<thead>
 		<tr>
@@ -606,18 +605,46 @@ Python Data Products for Predictive Analytics
 	<tbody>
 			<tr>
 				<td rowspan=1 align=center>
-Machine Learning by Stanford University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+Machine Learning by Stanford University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></td>
 				<td align="center">Intermediate</td>
 				<td align="center">55</td>
 			</tr>
 			<tr>
+				<td rowspan=1 align=center>
+Machine Learning for All by University of London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/uol-machine-learning-for-all">Machine Learning for All</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">25</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Introduction to Machine Learning by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/machine-learning-duke">Introduction to Machine Learning</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">30</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
+Foundations of Data Science: K-Means Clustering in Python by University of London & Goldsmiths University of London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/goldsmiths%20university%20of%20london.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/data-science-k-means-clustering-python">Foundations of Data Science: K-Means Clustering in Python</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">35</td>
+			</tr>
+			<tr>
 				<td rowspan=4 align=center>
 Machine Learning  
-<a href="https://www.coursera.org/specializations/machine-learning">Specialization</a> by University of Washington
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/machine-learning">Specialization</a> by University of Washington<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/ml-foundations">Machine Learning Foundations: A Case Study Approach</a></td>
 				<td align="center">Intermediate</td>
@@ -640,9 +667,34 @@ Machine Learning
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
+Data Science Fundamentals  
+<a href="https://www.coursera.org/specializations/data-science-fundamentals">Specialization</a> by University of California Irvine<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20irvine.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/intro-analyticthinking-datascience-datamining">Intro to Analytic Thinking, Data Science, and Data Mining</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/predictive-modeling-model-fitting-regression-analysis">Predictive Modeling, Model Fitting, and Regression Analysis</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/cluster-analysis-association-mining-and-model-evaluation">Cluster Analysis, Association Mining, and Model Evaluation</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/natural-language-processing-captsone-assignment">Natural Language Processing and Capstone Assignment</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">5</td>
+			</tr>
+			<tr>
+				<td rowspan=4 align=center>
 IBM Introduction to Machine Learning  
-<a href="https://www.coursera.org/specializations/ibm-intro-machine-learning">Specialization</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/ibm-intro-machine-learning">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
 				<td align="center">Intermediate</td>
@@ -665,9 +717,9 @@ IBM Introduction to Machine Learning
 			</tr>
 			<tr>
 				<td rowspan=6 align=center>
-IBM Machine Learning 
-<a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">Professional Certificate</a> by IBM
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+IBM Machine Learning Profession 
+<a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
 				<td align="center">Intermediate</td>
@@ -701,8 +753,8 @@ IBM Machine Learning
 			<tr>
 				<td rowspan=5 align=center>
 Machine Learning with TensorFlow on Google Cloud Platform  
-<a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/google-machine-learning">How Google does Machine Learning</a></td>
 				<td align="center">Intermediate</td>
@@ -731,8 +783,8 @@ Machine Learning with TensorFlow on Google Cloud Platform
 			<tr>
 				<td rowspan=4 align=center>
 Machine Learning: Algorithms in the Real World  
-<a href="https://www.coursera.org/specializations/machine-learning-algorithms-real-world">Specialization</a> by Alberta Machine Intelligence Institute
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/machine-learning-algorithms-real-world">Specialization</a> by Alberta Machine Intelligence Institute<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/machine-learning-applied">Introduction to Applied Machine Learning</a></td>
 				<td align="center">Intermediate</td>
@@ -756,8 +808,8 @@ Machine Learning: Algorithms in the Real World
 			<tr>
 				<td rowspan=5 align=center>
 Recommender Systems  
-<a href="https://www.coursera.org/specializations/recommender-systems">Specialization</a> by University of Minnesota
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/recommender-systems">Specialization</a> by University of Minnesota<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/recommender-systems-introduction">Introduction to Recommender Systems: Non-Personalized and Content-Based</a></td>
 				<td align="center">Intermediate</td>
@@ -786,8 +838,8 @@ Recommender Systems
 			<tr>
 				<td rowspan=6 align=center>
 Data Mining  
-<a href="https://www.coursera.org/specializations/data-mining">Specialization</a> by University of Illinois at Urbana-Champaign
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-mining">Specialization</a> by University of Illinois at Urbana-Champaign<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/datavisualization">Data Visualization</a></td>
 				<td align="center">Intermediate</td>
@@ -820,8 +872,8 @@ Data Mining
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
-Process Mining: Data science in Action by Eindhoven University of Technology
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
+Process Mining: Data science in Action by Eindhoven University of Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/process-mining">Process Mining: Data science in Action</a></td>
 				<td align="center">Intermediate</td>
@@ -858,7 +910,7 @@ Applied Data Science with Python
 				<td align="center">30</td>
 			</tr>
 	</tbody>
-</table>    
+</table>
 </details>
 <details>
 	<summary>Artificial Intelligence Specializations</summary>
