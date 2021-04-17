@@ -58,7 +58,7 @@ Computer Science: Programming with a Purpose by Princeton University
 			<tr>
 				<td rowspan=1 align=center>
 Object Oriented Programming in Java by University of California, San Diego
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20san%20diego.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/object-oriented-java">Object Oriented Programming in Java</a></td>
 				<td align="center">Intermediate</td>
@@ -279,7 +279,7 @@ Software Development Lifecycle
 Responsive Website Development and Design  
 <a href="https://www.coursera.org/specializations/website-development">Specialization</a> by University of London & Goldsmiths, University of London
 <br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/goldsmiths,%20university%20of%20london.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/goldsmiths%20university%20of%20london.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/website-coding">Responsive Website Basics: Code with HTML, CSS, and JavaScript</a></td>
 				<td align="center">Beginner</td>
@@ -624,7 +624,7 @@ Developing Android Apps with App Inventor by The Hong Kong University of Science
 			<tr>
 				<td rowspan=1 align=center>
 Programming Mobile Applications for Android Handheld Systems: Part 1 by University of Maryland, College Park
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20maryland,%20college%20park.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20maryland%20college%20park.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/android-programming">Programming Mobile Applications for Android Handheld Systems: Part 1</a></td>
 				<td align="center">Intermediate</td>
@@ -633,7 +633,7 @@ Programming Mobile Applications for Android Handheld Systems: Part 1 by Universi
 			<tr>
 				<td rowspan=1 align=center>
 Programming Mobile Applications for Android Handheld Systems: Part 2 by University of Maryland, College Park
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20maryland,%20college%20park.jpg" width="40%">
+<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20maryland%20college%20park.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/android-programming-2">Programming Mobile Applications for Android Handheld Systems: Part 2</a></td>
 				<td align="center">Intermediate</td>
