@@ -5,22 +5,21 @@ Computer Science Specializations road map for computer science students, which i
 
 <details>
 	<summary>Python Programming Language and Object Oriented Specializations</summary>
-
 <table>
-		<thead>
-			<tr>
-				<th width="45%">Specialization</th>
-				<th width="55%">Course Name</th>
-				<th>Level</th>
-				<th>H</th>
-			</tr>
-		</thead>
-		<tbody>
+	<thead>
+		<tr>
+			<th width="45%">Specialization</th>
+			<th width="55%">Course Name</th>
+			<th>Level</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
 			<tr>
 				<td rowspan=3 align=center>
-Introduction to Computer Science and Programming 
-<a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
+Introduction to Computer Science and Programming  
+<a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/introduction-to-computer-programming">Introduction to Computer Programming</a></td>
 				<td align="center">Beginner</td>
@@ -38,9 +37,9 @@ Introduction to Computer Science and Programming
 			</tr>
 			<tr>
 				<td rowspan=4 align=center>
-Introduction to Scripting in Python 
-<a href="https://www.coursera.org/specializations/introduction-scripting-in-python">Specialization</a> by Rice University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
+Introduction to Scripting in Python  
+<a href="https://www.coursera.org/specializations/introduction-scripting-in-python">Specialization</a> by Rice University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/python-programming">Python Programming Essentials</a></td>
 				<td align="center">Beginner</td>
@@ -63,9 +62,9 @@ Introduction to Scripting in Python
 			</tr>
 			<tr>
 				<td rowspan=5 align=center>
-Python 3 Programming 
-<a href="https://www.coursera.org/specializations/python-3-programming">Specialization</a> by University of Michigan
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
+Python 3 Programming  
+<a href="https://www.coursera.org/specializations/python-3-programming">Specialization</a> by University of Michigan<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/python-basics">Python Basics</a></td>
 				<td align="center">Beginner</td>
@@ -92,10 +91,19 @@ Python 3 Programming
 				<td align="center">25</td>
 			</tr>
 			<tr>
+				<td rowspan=1 align=center>
+Learn to Program: Crafting Quality Code by University of Toronto<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20toronto.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/program-code">Learn to Program: Crafting Quality Code</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">15</td>
+			</tr>
+			<tr>
 				<td rowspan=7 align=center>
-Fundamentals of Computing 
-<a href="https://www.coursera.org/specializations/computer-fundamentals">Specialization</a> by Rice University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
+Fundamentals of Computing  
+<a href="https://www.coursera.org/specializations/computer-fundamentals">Specialization</a> by Rice University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/rice%20university.jpg" width="40%">
 				</td>
 				<td><a href="https://www.coursera.org/learn/interactive-python-1">An Introduction to Interactive Programming in Python (Part 1)</a></td>
 				<td align="center">Beginner</td>
@@ -132,15 +140,31 @@ Fundamentals of Computing
 				<td align="center">5</td>
 			</tr>
 			<tr>
-				<td rowspan=1 align=center>
-Learn to Program: Crafting Quality Code by University of Toronto
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20toronto.jpg" width="40%">
+				<td rowspan=4 align=center>
+Programming in Python: A Hands-on Introduction  
+<a href="https://www.coursera.org/specializations/hands-on-python">Specialization</a> by Codio<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="40%">
 				</td>
-				<td><a href="https://www.coursera.org/learn/program-code">Learn to Program: Crafting Quality Code</a></td>
-				<td align="center">Intermediate</td>
-				<td align="center">15</td>
+				<td><a href="https://www.coursera.org/learn/codio-python-basics">Python Basics: Selection and Iteration</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
 			</tr>
-		</tbody>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-basic-structures-lists-strings-and-files">Python Basic Structures: Lists, Strings, and Files</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/python-object-basics">Python Object Basics: Functions, Recursion, and Objects</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.coursera.org/learn/object-oriented-python">Object-Oriented Python: Inheritance and Encapsulation</a></td>
+				<td align="center">Beginner</td>
+				<td align="center">10</td>
+			</tr>
+	</tbody>
 </table>
 </details>
 <details>
