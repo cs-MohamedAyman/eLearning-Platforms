@@ -31,7 +31,7 @@ Artificial Intelligence Specializations road map for computer science students, 
 #### `6.` [Computer Vision and Image Processing](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `10 Entities`
 #### `7.` [Deep Learning and Neural Networks](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `10 Entities`
 #### `8.` [Natural Language Processing](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `6 Entities`
-#### `9.` [Reinforcement Learning](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `8 Entities`
+#### `9.` [Reinforcement Learning](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations `6 Entities`
 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
