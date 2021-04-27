@@ -1865,26 +1865,7 @@ Medical Neuroscience by Duke University
 				<td align="center">Advanced</td>
 				<td align="center">65</td>
 			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Advanced Linear Models for Data Science 1: Least Squares by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/linear-models">Advanced Linear Models for Data Science 1: Least Squares</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">10</td>
-			</tr>
-			<tr>
-				<td rowspan=1 align=center>
-Advanced Linear Models for Data Science 2: Statistical Linear Models by Johns Hopkins University
-<br><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-				</td>
-				<td><a href="https://www.coursera.org/learn/linear-models-2">Advanced Linear Models for Data Science 2: Statistical Linear Models</a></td>
-				<td align="center">Advanced</td>
-				<td align="center">5</td>
-			</tr>
-	</tbody>
-</table>    
+</table>
 </details>
 
 **SKILLS YOU WILL GAIN:**<br>
