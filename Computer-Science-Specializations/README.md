@@ -346,6 +346,15 @@ Introduction to Discrete Mathematics for Computer Science
 			</tr>
 			<tr>
 				<td rowspan=1 align=center>
+Discrete Mathematics by Shanghai Jiao Tong University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/shanghai%20jiao%20tong%20university.jpg" width="40%">
+				</td>
+				<td><a href="https://www.coursera.org/learn/discrete-mathematics">Discrete Mathematics</a></td>
+				<td align="center">Intermediate</td>
+				<td align="center">45</td>
+			</tr>
+			<tr>
+				<td rowspan=1 align=center>
 Numerical Methods for Engineers by The Hong Kong University of Science and Technology<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
 				</td>
