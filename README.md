@@ -8,7 +8,7 @@ Computer Science Specializations road map for computer science students, which i
 
 #### `1.` [Python Programming Language and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `6 Entities`
 #### `2.` [C/C++ Programming Language and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `5 Entities`
-#### `3.` [Mathematics and Discrete Mathematics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `13 Entities`
+#### `3.` [Mathematics and Discrete Mathematics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `14 Entities`
 #### `4.` [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `9 Entities`
 #### `5.` [Logic Design](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `6 Entities`
 #### `6.` [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `13 Entities`
