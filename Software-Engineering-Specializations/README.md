@@ -1116,7 +1116,7 @@ Getting Started with Google Kubernetes Engine by Google Cloud
 </table>
 </details>
 <details>
-	<summary>Project Management Specializations</summary>
+	<summary>Systems Project Management Specializations</summary>
 	
 <table>
 	<thead>
