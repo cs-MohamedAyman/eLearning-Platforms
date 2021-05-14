@@ -651,7 +651,7 @@ Logic for Economists by University of Amsterdam<br>
 </table>
 </details>
 <details>
-	<summary>Data Structures and Algorithms Specializations</summary>
+	<summary>Data Structures and Algorithms Analysis and Design Specializations</summary>
 <table>
 	<thead>
 		<tr>
