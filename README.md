@@ -97,7 +97,7 @@ Data Science Specializations road map for computer science students, which inclu
 Operation Research Specializations road map for computer science students, which including the following main topics:
 
 <details>
-	<summary>Artificial Intelligence (main topics)</summary>
+	<summary>Operation Research (main topics)</summary>
 
 </details>
 
@@ -107,6 +107,6 @@ Operation Research Specializations road map for computer science students, which
 Bioinformatics Specializations road map for computer science students, which including the following main topics:
 
 <details>
-	<summary>Artificial Intelligence (main topics)</summary>
+	<summary>Bioinformatics (main topics)</summary>
 
 </details>
