@@ -3,7 +3,7 @@ Coursera specializations road map for computer science students.
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## [`Computer Science Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
+## [`Computer Science`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
 Computer Science Specializations road map for computer science students, which including the following main topics:
 
 <details>
@@ -25,7 +25,7 @@ Computer Science Specializations road map for computer science students, which i
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## [`Software Engineering Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md)
+## [`Software Engineering`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md) Specializations
 Software Engineering Specializations road map for computer science students, which including the following main topics:
 
 <details>
@@ -47,7 +47,7 @@ Software Engineering Specializations road map for computer science students, whi
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## [`Artificial Intelligence Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md)
+## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
 Artificial Intelligence Specializations road map for computer science students, which including the following main topics:
 
 <details>
@@ -70,7 +70,7 @@ Artificial Intelligence Specializations road map for computer science students, 
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## [`Data Science Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md)
+## [`Data Science`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 Data Science Specializations road map for computer science students, which including the following main topics:
 
 <details>
@@ -93,7 +93,7 @@ Data Science Specializations road map for computer science students, which inclu
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## [`Operation Research Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Operation-Research-Specializations/README.md)
+## [`Operation Research`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Operation-Research-Specializations/README.md) Specializations
 Operation Research Specializations road map for computer science students, which including the following main topics:
 
 <details>
@@ -103,7 +103,7 @@ Operation Research Specializations road map for computer science students, which
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## [`Bioinformatics Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md)
+## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
 Bioinformatics Specializations road map for computer science students, which including the following main topics:
 
 <details>
