@@ -1,7 +1,7 @@
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 ## Artificial Intelligence Specializations
-Artificial Intelligence Specializations road map for computer science students, which including the following main topics:
+Artificial Intelligence Specializations for computer science students, which including the following main topics:
 
 <details>
 	<summary>Calculus and Algebra Specializations</summary>
