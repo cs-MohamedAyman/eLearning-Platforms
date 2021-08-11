@@ -522,8 +522,8 @@ Improving your statistical inferences by Eindhoven University of Technology<br>
             </tr>
             <tr>
                 <td rowspan=3 align=center>
-Bayesian Statistics by University of Califor 
-NA Specialization by University of California Santa Cruz<br>
+Bayesian Statistics by University of California Santa Cruz 
+<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/bayesian-statistics">Bayesian Statistics: From Concept to Data Analysis</a></td>
@@ -556,16 +556,16 @@ Statistics with Python
             </tr>
             <tr>
                 <td rowspan=1 align=center>
-A Crash Course in Causality: Inferring Causal Effects from Observational Data by University of Pennsylvania<br>
+Inferring Causal Effects from Observational Data by University of Pennsylvania<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/crash-course-in-causality">A Crash Course in Causality: Inferring Causal Effects from Observational Data</a></td>
+                <td><a href="https://www.coursera.org/learn/crash-course-in-causality">Inferring Causal Effects from Observational Data</a></td>
                 <td align="center">20</td>
             </tr>
             <tr>
                 <td rowspan=2 align=center>
-Causal Inference by Colum 
-NA Specialization by Columbia University<br>
+Causal Inference by Columbia University 
+<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/causal-inference">Causal Inference</a></td>
