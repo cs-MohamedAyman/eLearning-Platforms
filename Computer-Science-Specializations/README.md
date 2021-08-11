@@ -670,8 +670,8 @@ Data Structures and Performance by University of California San Diego<br>
             </tr>
             <tr>
                 <td rowspan=3 align=center>
-Competitive Programming by Moscow Institute of Physics  
-NA Specialization by Moscow Institute of Physics and Technology<br>
+Competitive Programming by Moscow Institute of Physics and Technology 
+<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/c-for-competitive-programming">C/C++ for competitive programming</a></td>
@@ -737,8 +737,8 @@ Data Structures and Algorithms
             </tr>
             <tr>
                 <td rowspan=3 align=center>
-Algorithms by Prince 
-NA Specialization by Princeton University<br>
+Algorithms by Princeton University 
+<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/analysis-of-algorithms">Analysis of Algorithms</a></td>
@@ -754,8 +754,8 @@ NA Specialization by Princeton University<br>
             </tr>
             <tr>
                 <td rowspan=2 align=center>
-Geometric Algorithms  
-NA Specialization by EIT Digital<br>
+Geometric Algorithms by EIT Digital 
+<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eit%20digital.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/approximation-algorithms">Approximation Algorithms</a></td>
@@ -767,8 +767,8 @@ NA Specialization by EIT Digital<br>
             </tr>
             <tr>
                 <td rowspan=2 align=center>
-Computational Geometry by Saint Petersburg St 
-NA Specialization by Saint Petersburg State University<br>
+Computational Geometry by Saint Petersburg State University 
+<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/computational-geometry">Computational Geometry</a></td>
