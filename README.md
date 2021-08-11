@@ -9,10 +9,10 @@ Computer Science Specializations for computer science students, which including 
 <details>
 	<summary>Computer Science (main topics)</summary>
 
-  #### `1.` [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `12 Entities`
+  #### `1.` [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations `10 Entities`
   #### `2.` [Calculus and Algebra](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations 						`12 Entities`
-  #### `3.` [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations				`12 Entities`
-  #### `4.` [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations 	`12 Entities`
+  #### `3.` [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations				`11 Entities`
+  #### `4.` [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations 	`11 Entities`
 
   **SKILLS YOU WILL GAIN:**<br>
   `computer science`, `discrete mathematics`, `mathematics`, `calculus`, `algebra`, `differential equations`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `object oriented programming (oop)`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`
