@@ -260,8 +260,8 @@ Programming in C++: A Hands-on Introduction
     <tbody>
             <tr>
                 <td rowspan=5 align=center>
-Calculus and Algebra by The Hong Kong University of Science  
-NA Specialization by The Hong Kong University of Science and Technology<br>
+Calculus and Algebra by The Hong Kong University of Science and Technology 
+<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus for Engineers</a></td>
