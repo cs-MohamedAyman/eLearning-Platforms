@@ -4,486 +4,69 @@
 Artificial Intelligence Specializations for computer science students, which including the following main topics:
 
 <details>
-    <summary>Calculus and Algebra Specializations</summary>
+    <summary>Data Analysis and Visualization Specializations</summary>
 <table>
     <thead>
         <tr>
-            <th width="45%">Specialization</th>
-            <th width="55%">Course Name</th>
-            <th>Level</th>
-            <th>H</th>
+            <th width="40%">Specialization</th>
+            <th width="60%">Course Name</th>
+            <th>Hrs</th>
         </tr>
     </thead>
     <tbody>
             <tr>
-                <td rowspan=1 align=center>
-Data Science Math Skills by Duke University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+                <td rowspan=8 align=center>
+Google Data Analytics Profession 
+<a href="https://www.coursera.org/professional-certificates/google-data-analytics">Specialization</a> by Google<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
+                <td><a href="https://www.coursera.org/learn/foundations-data">Foundations: Data, Data, Everywhere</a></td>
+                <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Numerical Methods for Engineers by The Hong Kong University of Science and Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
-                <td align="center">Intermediate</td>
+                <td><a href="https://www.coursera.org/learn/ask-questions-make-decisions">Ask Questions to Make Data-Driven Decisions</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-preparation">Prepare Data for Exploration</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/process-data">Process Data from Dirty to Clean</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/analyze-data">Analyze Data to Answer Questions</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/visualize-data">Share Data Through the Art of Visualization</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-analysis-r">Data Analysis with R Programming</a></td>
                 <td align="center">40</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Vector Calculus for Engineers by The Hong Kong University of Science and Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus for Engineers</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Introduction to Calculus by The University of Sydney<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20university%20of%20sydney.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/introduction-to-calculus">Introduction to Calculus</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">55</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Matrix Algebra for Engineers by The Hong Kong University of Science and Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/matrix-algebra-engineers">Matrix Algebra for Engineers</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Introduction to numerical analysis by National Research University Higher School of Economics<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
-                </td>
-                <td><a href="http://coursera.org/learn/intro-to-numerical-analysis">Introduction to numerical analysis</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Basic Algebra by National Autonomous University of Mexico<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20autonomous%20university%20of%20mexico.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/algebra-basica">Basic Algebra</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Matrix Methods by University of Minnesota<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/matrix-methods">Matrix Methods</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science and Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/fibonacci">Fibonacci Numbers and the Golden Ratio</a></td>
-                <td align="center">Beginner</td>
+                <td><a href="https://www.coursera.org/learn/google-data-analytics-capstone">Google Data Analytics Capstone: Complete a Case Study</a></td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td rowspan=3 align=center>
-Mathematics for Machine Learning  
-<a href="https://www.coursera.org/specializations/mathematics-machine-learning">Specialization</a> by Imperial College London<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">Mathematics for Machine Learning: Multivariate Calculus</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/pca-machine-learning">Mathematics for Machine Learning: PCA</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Differential Calculus through Data and Modeling  
-<a href="https://www.coursera.org/specializations/differential-calculus-data-modeling">Specialization</a> by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-precalculus-review">Calculus through Data & Modeling: Precalculus Review</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-imits-derivatives">Calculus through Data & Modeling: Limits & Derivatives</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-differentiation-rules">Calculus through Data & Modeling: Differentiation Rules</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-applying-differentiation">Calculus through Data & Modeling: Applying Differentiation</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Integral Calculus through Data and Modeling  
-<a href="https://www.coursera.org/specializations/integral-calculus-data-modeling">Specialization</a> by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-series-and-integrals">Calculus through Data & Modelling: Series and Integration</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-techniques-of-integration">Calculus through Data & Modelling: Techniques of Integration</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-integration-applications">Calculus through Data & Modelling: Integration Applications</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/calculus-through-data-and-modelling-vector-calculus">Calculus through Data & Modelling: Vector Calculus</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td rowspan=3 align=center>
-Precalculus through Data and Modelling  
-<a href="https://www.coursera.org/specializations/precalculus-data-modelling">Specialization</a> by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/precalculus-relations-functions">Precalculus: Relations and Functions</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/precalculus-periodic-functions">Precalculus: Periodic Functions</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/precalculus-mathematical-modelling">Precalculus: Mathematical Modeling</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Mathematics for Data Science  
-<a href="https://www.coursera.org/specializations/mathematics-for-data-science">Specialization</a> by HSE University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/hse%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs">Discrete Math and Analyzing Social Graphs</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning">Calculus and Optimization for Machine Learning</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/first-steps-in-linear-algebra-for-machine-learning">First Steps in Linear Algebra for Machine Learning</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/probability-theory-statistics">Probability Theory, Statistics and Exploratory Data Analysis</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Introduction to Enumerative Combinatorics by National Research University Higher School of Economics<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/enumerative-combinatorics">Introduction to Enumerative Combinatorics</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">110</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Advanced Statistics for Data Science  
-<a href="https://www.coursera.org/specializations/advanced-statistics-data-science">Specialization</a> by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/biostatistics">Mathematical Biostatistics Boot Camp 1</a></td>
-                <td align="center">Advanced</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/biostatistics-2">Mathematical Biostatistics Boot Camp 2</a></td>
-                <td align="center">Advanced</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/linear-models">Advanced Linear Models for Data Science 1: Least Squares</a></td>
-                <td align="center">Advanced</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/linear-models-2">Advanced Linear Models for Data Science 2: Statistical Linear Models</a></td>
-                <td align="center">Advanced</td>
-                <td align="center">5</td>
-            </tr>
-    </tbody>
-</table>
-</details>
-<details>
-    <summary>Probability and Statistics Specializations</summary>
-<table>
-    <thead>
-        <tr>
-            <th width="45%">Specialization</th>
-            <th width="55%">Course Name</th>
-            <th>Level</th>
-            <th>H</th>
-        </tr>
-    </thead>
-    <tbody>
-            <tr>
-                <td rowspan=1 align=center>
-An Intuitive Introduction to Probability by University of Zurich<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20zurich.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/introductiontoprobability">An Intuitive Introduction to Probability</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Data Science Math Skills by Duke University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/datasciencemathskills">Data Science Math Skills</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Introduction to Statistics by Stanford University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/stanford-statistics">Introduction to Statistics</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-Methods and Statistics in Social Sciences  
-<a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/quantitative-methods">Quantitative Methods</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">40</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/qualitative-methods">Qualitative Research Methods</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/basic-statistics">Basic Statistics</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/inferential-statistics">Inferential Statistics</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/social-science-capstone">Methods and Statistics in Social Science - Final Research Project</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Improving your statistical inferences by Eindhoven University of Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/statistical-inferences">Improving your statistical inferences</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Bayesian Statistics: From Concept to Data Analysis by University of California Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/bayesian-statistics">Bayesian Statistics: From Concept to Data Analysis</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Bayesian Statistics: Techniques and Models by University of California Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/mcmc-bayesian-statistics">Bayesian Statistics: Techniques and Models</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Bayesian Statistics: Mixture Models by University of California Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/mixture-models">Bayesian Statistics: Mixture Models</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td rowspan=3 align=center>
-Statistics with Python  
-<a href="https://www.coursera.org/specializations/statistics-with-python">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/understanding-visualization-data">Understanding and Visualizing Data with Python</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/inferential-statistical-analysis-python">Inferential Statistical Analysis with Python</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/fitting-statistical-models-data-python">Fitting Statistical Models to Data with Python</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-A Crash Course in Causality: Inferring Causal Effects from Observational Data by University of Pennsylvania<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/crash-course-in-causality">A Crash Course in Causality: Inferring Causal Effects from Observational Data</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Causal Inference by Columbia University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/causal-inference">Causal Inference</a></td>
-                <td align="center">Advanced</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Causal Inference 2 by Columbia University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/causal-inference-2">Causal Inference 2</a></td>
-                <td align="center">Advanced</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Design of Experiments  
-<a href="https://www.coursera.org/specializations/design-experiments">Specialization</a> by Arizona State University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/introduction-experimental-design-basics">Experimental Design Basics</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/factorial-fractional-factorial-designs">Factorial and Fractional Factorial Designs</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/response-surfaces-mixtures-model-building">Response Surfaces, Mixtures, and Model Building</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/random-models-nested-split-plot-designs">Random Models, Nested and Split-plot Designs</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">10</td>
-            </tr>
-    </tbody>
-</table>
-</details>
-<details>
-    <summary>Data Analysis Specializations</summary>
-<table>
-    <thead>
-        <tr>
-            <th width="45%">Specialization</th>
-            <th width="55%">Course Name</th>
-            <th>Level</th>
-            <th>H</th>
-        </tr>
-    </thead>
-    <tbody>
-            <tr>
-                <td rowspan=1 align=center>
-Introduction to Data Analytics by IBM<br>
+Data Analysis and Visualization Foundations  
+<a href="https://www.coursera.org/specializations/data-analysis-visualization-foundations">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Everyday Excel, Part 1 by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/everyday-excel-part-1">Everyday Excel, Part 1</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">25</td>
+                <td><a href="https://www.coursera.org/learn/excel-basics-data-analysis-ibm">Excel Basics for Data Analysis</a></td>
+                <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Everyday Excel, Part 2 by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/everyday-excel-part-2">Everyday Excel, Part 2</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Excel Fundamentals for Data Analysis by Macquarie University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/excel-data-analysis-fundamentals">Excel Fundamentals for Data Analysis</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Data Visualization in Excel by Macquarie University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/excel-data-visualization">Data Visualization in Excel</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">20</td>
+                <td><a href="https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos">Data Visualization and Dashboards with Excel and Cognos</a></td>
+                <td align="center">10</td>
             </tr>
             <tr>
                 <td rowspan=5 align=center>
@@ -492,75 +75,22 @@ Data Analysis and Presentation Skills: the PwC Approach
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/pwc.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/decision-making">Data-driven Decision Making</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/excel-analysis">Problem Solving with Excel</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">20</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/advanced-excel">Data Visualization with Advanced Excel</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/powerpoint-presentations">Effective Business Presentations with Powerpoint</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/data-analysis-project-pwc">Data Analysis and Presentation Skills: the PwC Approach Final Project</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Data Processing Using Python by Nanjing University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/nanjing%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/python-data-processing">Data Processing Using Python</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-Data Analysis and Interpretation  
-<a href="https://www.coursera.org/specializations/data-analysis">Specialization</a> by Wesleyan University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/data-visualization">Data Management and Visualization</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-analysis-tools">Data Analysis Tools</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/regression-modeling-practice">Regression Modeling in Practice</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/machine-learning-data-analysis">Machine Learning for Data Analysis</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-analysis-capstone">Data Analysis and Interpretation Capstone</a></td>
-                <td align="center">Beginner</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/python-statistics-financial-analysis">Python and Statistics for Financial Analysis</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
@@ -570,23 +100,258 @@ Python Data Products for Predictive Analytics
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/basic-data-processing-visualization-python">Basic Data Processing and Visualization</a></td>
-                <td align="center">Intermediate</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products">Design Thinking and Predictive Analytics for Data Products</a></td>
-                <td align="center">Intermediate</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/meaningful-predictive-modeling">Meaningful Predictive Modeling</a></td>
-                <td align="center">Intermediate</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/deploying-machine-learning-models">Deploying Machine Learning Models</a></td>
-                <td align="center">Intermediate</td>
                 <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Applied Data Science  
+<a href="https://www.coursera.org/specializations/applied-data-science">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science and AI</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-analysis-with-python">Data Analysis with Python</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/python-for-data-visualization">Data Visualization with Python</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/applied-data-science-capstone">Applied Data Science Capstone</a></td>
+                <td align="center">45</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/python-statistics-financial-analysis">Python and Statistics for Financial Analysis</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Improving Your Statistical Questions by Eindhoven University of Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/improving-statistical-questions">Improving Your Statistical Questions</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
+Everyday Excel  
+<a href="https://www.coursera.org/specializations/everyday-excel">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/everyday-excel-part-1">Everyday Excel, Part 1</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/everyday-excel-part-2">Everyday Excel, Part 2</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/everyday-excel-projects">Everyday Excel, Part 3 (Projects)</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=5 align=center>
+Advanced Business Analytics  
+<a href="https://www.coursera.org/specializations/data-analytics-business">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/data-analytics-business">Introduction to Data Analytics for Business</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/predictive-modeling-analytics">Predictive Modeling and Analytics</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/business-analytics-decision-making">Business Analytics for Decision Making</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/communicating-business-analytics-results">Communicating Business Analytics Results</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-analytics-business-capstone">Advanced Business Analytics Capstone</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
+Excel Skills for Data Analytics and Visualization  
+<a href="https://www.coursera.org/specializations/excel-data-analytics-visualization">Specialization</a> by Macquarie University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/excel-data-analysis-fundamentals">Excel Fundamentals for Data Analysis</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/excel-data-visualization">Data Visualization in Excel</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/excel-power-tools">Excel Power Tools for Data Analysis</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Excel Skills for Business  
+<a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/excel-essentials">Excel Skills for Business: Essentials</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/excel-intermediate-1">Excel Skills for Business: Intermediate I</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/excel-intermediate-2">Excel Skills for Business: Intermediate II</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/excel-advanced">Excel Skills for Business: Advanced</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
+Excel Skills for Business Forecasting  
+<a href="https://www.coursera.org/specializations/excel-skills-for-business-forecasting">Specialization</a> by Macquarie University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/excel-business-forecasting-time-series">Excel Time Series Models for Business Forecasting</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/excel-business-forecasting-regression">Excel Regression Models for Business Forecasting</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/judgmental-business-forecasting-in-excel">Judgmental Business Forecasting in Excel</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=5 align=center>
+Data Analysis and Interpretation  
+<a href="https://www.coursera.org/specializations/data-analysis">Specialization</a> by Wesleyan University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/data-visualization">Data Management and Visualization</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-analysis-tools">Data Analysis Tools</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/regression-modeling-practice">Regression Modeling in Practice</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/machine-learning-data-analysis">Machine Learning for Data Analysis</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-analysis-capstone">Data Analysis and Interpretation Capstone</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Accounting Data Analytics  
+<a href="https://www.coursera.org/specializations/accounting-data-analytics">Specialization</a> by University of Illinois at Urbana-Champaign<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/intro-accounting-data-analytics-visual">Introduction to Accounting Data Analytics and Visualization</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/accounting-data-analytics-python">Accounting Data Analytics with Python</a></td>
+                <td align="center">35</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/machine-learning-accounting-python">Machine Learning for Accounting with Python</a></td>
+                <td align="center">65</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/accounting-data-analytics-capstone">Data Analytics in Accounting Capstone</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Analytics for Decision Making  
+<a href="https://www.coursera.org/specializations/analytics-for-decision-making">Specialization</a> by University of Minnesota<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/introduction-to-predictive-modeling">Introduction to Predictive Modeling</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/optimization-for-decision-making">Optimization for Decision Making</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/advanced-models-for-decision-making">Advanced Models for Decision Making</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/simulation-models-for-decision-making">Simulation Models for Decision Making</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
+Data-Driven Decision Making (DDDM)  
+<a href="https://www.coursera.org/specializations/data-driven-decision-making">Specialization</a> by University of Buffalo<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20buffalo.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/data-driven-process-improvement">Data-Driven Process Improvement</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-analyze-visualize">Data Analysis and Visualization</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/analytics-data-decisions">Applied Analytics and Data for Decision Making</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Information Visualization  
+<a href="https://www.coursera.org/specializations/information-visualization">Specialization</a> by New York University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/new%20york%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/information-visualization-fundamentals">Information Visualization: Foundations</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/information-visualization-applied-perception">Information Visualization: Applied Perception</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/information-visualization-programming-d3js">Information Visualization: Programming with D3.js</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/information-visualization-advanced-techniques">Information Visualization: Advanced Techniques</a></td>
+                <td align="center">20</td>
             </tr>
     </tbody>
 </table>
