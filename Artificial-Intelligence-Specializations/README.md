@@ -758,10 +758,9 @@ Data Mining Foundations and Practice
 <table>
     <thead>
         <tr>
-            <th width="45%">Specialization</th>
-            <th width="55%">Course Name</th>
-            <th>Level</th>
-            <th>H</th>
+            <th width="40%">Specialization</th>
+            <th width="60%">Course Name</th>
+            <th>Hrs</th>
         </tr>
     </thead>
     <tbody>
@@ -771,8 +770,15 @@ AI For Everyone by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/ai-for-everyone">AI For Everyone</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Artificial Intelligence (AI) Education for Teachers by Macquarie University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/artificial-intelligence-education-for-teachers">Artificial Intelligence (AI) Education for Teachers</a></td>
+                <td align="center">20</td>
             </tr>
             <tr>
                 <td rowspan=4 align=center>
@@ -781,23 +787,48 @@ Ethics in the Age of AI
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/ai-algorithm-limitations">Artificial Intelligence Algorithms Models and Limitations</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/ai-data-bias">Artificial Intelligence Data Fairness and Bias</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/ai-privacy-and-convenience">Artificial Intelligence Privacy and Convenience</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/ai-ethics-analysis">Artificial Intelligence Ethics in Action</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Machine Learning for Supply Chains  
+<a href="https://www.coursera.org/specializations/machine-learning-supply-chain">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/machine-learning-for-supply-chain-fundamentals">Fundamentals of Machine Learning for Supply Chain</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/demand-prediction-using-time-series">Demand Forecasting Using Time Series</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/advanced-ai-techniques-for-the-supply-chain">Advanced AI Techniques for the Supply Chain</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/ml-safety-stock">Capstone Project: Predicting Safety Stock</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Developing AI Applications on Azure by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/developing-ai-applications-azure">Developing AI Applications on Azure</a></td>
+                <td align="center">20</td>
             </tr>
             <tr>
                 <td rowspan=4 align=center>
@@ -806,22 +837,18 @@ Mind and Machine
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/mind-machine-artificial-intelligence">What is the mind and what is artificial intelligence?</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/mind-machine-problem-solving-methods">Methods for Solving Problems</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/mind-machine-computational-vision">Computational Vision</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/mind-machine-perspectives">Interpersonal, Developmental, and Evolutionary Perspectives of the Mind</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
@@ -831,27 +858,22 @@ AI in Healthcare
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/intro-to-healthcare">Introduction to Healthcare</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/introduction-clinical-data">Introduction to Clinical Data</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/fundamental-machine-learning-healthcare">Fundamentals of Machine Learning for Healthcare</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/evaluations-ai-applications-healthcare">Evaluations of AI Applications in Healthcare</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/ai-in-healthcare-capstone">AI in Healthcare Capstone</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
@@ -861,17 +883,14 @@ AI Foundations for Everyone
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/ai-with-ibm-watson">Getting Started with AI using IBM Watson</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/building-ai-powered-chatbots">Building AI Powered Chatbots Without Programming</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">20</td>
             </tr>
             <tr>
@@ -881,51 +900,56 @@ IBM Applied AI Profession
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">25</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/ai-with-ibm-watson">Getting Started with AI using IBM Watson</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/building-ai-powered-chatbots">Building AI Powered Chatbots Without Programming</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">20</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science and AI</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">25</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/building-ai-applications">Building AI Applications with Watson APIs</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">25</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/introduction-computer-vision-watson-opencv">Introduction to Computer Vision with Watson and OpenCV</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Deep Learning for Business by Yonsei University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/yonsei%20university.jpg" width="40%">
+                <td rowspan=6 align=center>
+IBM AI Enterprise Workflow  
+<a href="https://www.coursera.org/specializations/ibm-ai-workflow">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/deep-learning-business">Deep Learning for Business</a></td>
-                <td align="center">Beginner</td>
+                <td><a href="https://www.coursera.org/learn/ibm-ai-workflow-business-priorities-data-ingestion">AI Workflow: Business Priorities and Data Ingestion</a></td>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Digital Transformation by University of Virginia<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/bcg-uva-darden-digital-transformation">Digital Transformation</a></td>
-                <td align="center">Beginner</td>
+                <td><a href="https://www.coursera.org/learn/ibm-ai-workflow-data-analysis-hypothesis-testing">AI Workflow: Data Analysis and Hypothesis Testing</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/ibm-ai-workflow-feature-engineering-bias-detection">AI Workflow: Feature Engineering and Bias Detection</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-vr-nlp">AI Workflow: Machine Learning, Visual Recognition and NLP</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-model-deployment">AI Workflow: Enterprise Model Deployment</a></td>
                 <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/ibm-ai-workflow-ai-production">AI Workflow: AI in Production</a></td>
+                <td align="center">20</td>
             </tr>
             <tr>
                 <td rowspan=4 align=center>
@@ -934,43 +958,19 @@ Healthcare Trends for Business Professionals
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northeastern%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/healthcareconsumerism">Healthcare Consumerism and Implication for Care Delivery</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/healthcare-payment-models">Future Healthcare Payment Models</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/quality-of-healthcare">Evaluating the Quality of Healthcare Delivery</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">10</td>
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/artificialintelligence-in-healthcare">Business Application of Machine Learning and Artificial Intelligence in Healthcare</a></td>
-                <td align="center">Beginner</td>
                 <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=3 align=center>
-Machine Learning for Trading  
-<a href="https://www.coursera.org/specializations/machine-learning-trading">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/introduction-trading-machine-learning-gcp">Introduction to Trading, Machine Learning & GCP</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/machine-learning-trading-finance">Using Machine Learning in Trading and Finance</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/trading-strategies-reinforcement-learning">Trading Strategies as a Reinforcement Learning (RL) Problem</a></td>
-                <td align="center">Intermediate</td>
-                <td align="center">5</td>
             </tr>
     </tbody>
 </table>
