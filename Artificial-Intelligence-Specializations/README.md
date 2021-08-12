@@ -1428,7 +1428,7 @@ Basics in computer vision
                 <td rowspan=4 align=center>
 Computer Vision  
 <a href="https://www.coursera.org/specializations/computervision">Specialization</a> by University at Buffalo<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20at%20buffalo.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20buffalo.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/computer-vision-basics">Computer Vision Basics</a></td>
                 <td align="center">10</td>
@@ -1530,7 +1530,7 @@ Reinforcement Learning
                 <td rowspan=4 align=center>
 Machine Learning and Reinforcement Learning in Finance  
 <a href="https://www.coursera.org/specializations/machine-learning-reinforcement-finance">Specialization</a> by New York University Tandon School of Engineering<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/new%20york%20university%20tandon%20school%20of%20engineering.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/new%20york%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/guided-tour-machine-learning-finance">Guided Tour of Machine Learning in Finance</a></td>
                 <td align="center">25</td>
