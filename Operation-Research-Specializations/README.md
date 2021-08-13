@@ -353,6 +353,14 @@ Information Visualization
                 <td><a href="https://www.coursera.org/learn/information-visualization-advanced-techniques">Information Visualization: Advanced Techniques</a></td>
                 <td align="center">20</td>
             </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Practical Time Series Analysis by The State University of New York<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20state%20university%20of%20new%20york.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/practical-time-series-analysis">Practical Time Series Analysis</a></td>
+                <td align="center">25</td>
+            </tr>
     </tbody>
 </table>
 </details>
