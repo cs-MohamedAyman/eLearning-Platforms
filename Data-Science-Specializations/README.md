@@ -4,7 +4,7 @@
 Data Science Specializations for computer science students, which including the following main topics:
 
 <details>
-    <summary>Data Analysis and Visualization Specializations</summary>
+<summary>Data Analysis and Visualization Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -365,7 +365,7 @@ Practical Time Series Analysis by The State University of New York<br>
 </table>
 </details>
 <details>
-    <summary>Machine Learning and Data Mining Specializations</summary>
+<summary>Machine Learning and Data Mining Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -762,7 +762,7 @@ Data Mining Foundations and Practice
 </table>
 </details>
 <details>
-    <summary>Data Science Specializations</summary>
+<summary>Data Science Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -828,7 +828,7 @@ Data Science: Foundations using R
 <a href="https://www.coursera.org/specializations/data-science-foundations-r">Specialization</a> by Johns Hopkins University<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientist’s Toolbox</a></td>
+                <td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientists Toolbox</a></td>
                 <td align="center">10</td>
             </tr>
             <tr>
@@ -853,7 +853,7 @@ Data Science
 <a href="https://www.coursera.org/specializations/jhu-data-science">Specialization</a> by Johns Hopkins University<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientist’s Toolbox</a></td>
+                <td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientists Toolbox</a></td>
                 <td align="center">10</td>
             </tr>
             <tr>
@@ -1195,7 +1195,7 @@ Computational Social Science
 </table>
 </details>
 <details>
-    <summary>Database Systems and Data Engineering Specializations</summary>
+<summary>Database Systems and Data Engineering Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -1581,7 +1581,7 @@ From Data to Insights with Google Cloud Platform
 <a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring ​and ​Preparing ​your ​Data with BigQuery</a></td>
+                <td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring and Preparing your Data with BigQuery</a></td>
                 <td align="center">15</td>
             </tr>
             <tr>
@@ -1659,7 +1659,7 @@ Statistical Modeling for Data Science Applications
 </table>
 </details>
 <details>
-    <summary>Business Intelligence Specializations</summary>
+<summary>Business Intelligence Specializations</summary>
 <table>
     <thead>
         <tr>
