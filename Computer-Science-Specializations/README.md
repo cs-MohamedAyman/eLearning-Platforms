@@ -4,7 +4,7 @@
 Computer Science Specializations for computer science students, which including the following main topics:
 
 <details>
-    <summary>Programming Languages and Object Oriented Specializations</summary>
+<summary>Programming Languages and Object Oriented Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -248,7 +248,7 @@ Programming in C++: A Hands-on Introduction
 </table>
 </details>
 <details>
-    <summary>Calculus and Algebra Specializations</summary>
+<summary>Calculus and Algebra Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -432,7 +432,7 @@ Introduction to Enumerative Combinatorics by National Research University Higher
 </table>
 </details>
 <details>
-    <summary>Probability and Statistics Specializations</summary>
+<summary>Probability and Statistics Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -600,7 +600,7 @@ Design of Experiments
 </table>
 </details>
 <details>
-    <summary>Data Structures and Algorithms Specializations</summary>
+<summary>Data Structures and Algorithms Specializations</summary>
 <table>
     <thead>
         <tr>
