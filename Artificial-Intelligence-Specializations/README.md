@@ -1011,6 +1011,14 @@ Deep Learning for Business by Yonsei University<br>
                 <td align="center">10</td>
             </tr>
             <tr>
+                <td rowspan=1 align=center>
+An Introduction to Practical Deep Learning by Intel<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/intro-practical-deep-learning">An Introduction to Practical Deep Learning</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
                 <td rowspan=5 align=center>
 Deep Learning  
 <a href="https://www.coursera.org/specializations/deep-learning">Specialization</a> by deeplearning.ai<br>
