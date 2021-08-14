@@ -4,7 +4,7 @@
 Artificial Intelligence Specializations for computer science students, which including the following main topics:
 
 <details>
-    <summary>Data Analysis and Visualization Specializations</summary>
+<summary>Data Analysis and Visualization Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -365,7 +365,7 @@ Practical Time Series Analysis by The State University of New York<br>
 </table>
 </details>
 <details>
-    <summary>Machine Learning and Data Mining Specializations</summary>
+<summary>Machine Learning and Data Mining Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -762,7 +762,7 @@ Data Mining Foundations and Practice
 </table>
 </details>
 <details>
-    <summary>Artificial Intelligence Specializations</summary>
+<summary>Artificial Intelligence Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -984,7 +984,7 @@ Healthcare Trends for Business Professionals
 </table>
 </details>
 <details>
-    <summary>Deep Learning and Neural Networks Specializations</summary>
+<summary>Deep Learning and Neural Networks Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -1336,7 +1336,7 @@ IBM AI Enterprise Workflow
 </table>
 </details>
 <details>
-    <summary>Computer Vision and Image Processing Specializations</summary>
+<summary>Computer Vision and Image Processing Specializations</summary>
 <table>
     <thead>
         <tr>
@@ -1435,7 +1435,7 @@ Basics in computer vision
             <tr>
                 <td rowspan=4 align=center>
 Computer Vision  
-<a href="https://www.coursera.org/specializations/computervision">Specialization</a> by University at Buffalo<br>
+<a href="https://www.coursera.org/specializations/computervision">Specialization</a> by University of Buffalo<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20buffalo.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/computer-vision-basics">Computer Vision Basics</a></td>
