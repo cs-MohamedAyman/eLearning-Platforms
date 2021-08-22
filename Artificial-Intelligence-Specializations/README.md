@@ -672,14 +672,6 @@ Preparing for Google Cloud Certification: Machine Learning Engineer Profession
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Production Machine Learning Systems by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/gcp-production-ml-systems">Production Machine Learning Systems</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
                 <td rowspan=6 align=center>
 Data Mining  
 <a href="https://www.coursera.org/specializations/data-mining">Specialization</a> by University of Illinois at Urbana-Champaign<br>
