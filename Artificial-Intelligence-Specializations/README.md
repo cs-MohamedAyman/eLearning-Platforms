@@ -377,14 +377,6 @@ Practical Time Series Analysis by The State University of New York<br>
     <tbody>
             <tr>
                 <td rowspan=1 align=center>
-Art and Science of Machine Learning by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/art-science-ml">Art and Science of Machine Learning</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
 Machine Learning by Stanford University<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
                 </td>
