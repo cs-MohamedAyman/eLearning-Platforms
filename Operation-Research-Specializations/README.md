@@ -862,5 +862,3 @@ Medical Neuroscience by Duke University<br>
     </tbody>
 </table>
 </details>
-
-**SKILLS YOU WILL GAIN:**<br>
