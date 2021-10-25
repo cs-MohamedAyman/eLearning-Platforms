@@ -789,6 +789,3 @@ Computer Science: Algorithms, Theory, and Machines by Princeton University<br>
     </tbody>
 </table>
 </details>
-
-**SKILLS YOU WILL GAIN:**<br>
-`computer science`, `discrete mathematics`, `mathematics`, `calculus`, `algebra`, `differential equations`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler design`, `operating systems`, `concepts of programming languages`, `computer architecture`, `computer organization`, `parallel computing`, `parallel processing`
