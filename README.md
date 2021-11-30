@@ -7,8 +7,8 @@ Coursera specializations for computer science students.
 Computer Science Specializations for computer science students, which including the following main topics:
 
 #### `1.` [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations     `12 Entities`
-#### `2.` [Calculus and Algebra](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations                          `12 Entities`
-#### `3.` [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations                    `12 Entities`
+#### `2.` [Calculus and Algebra](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations                          `8 Entities`
+#### `3.` [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations                    `8 Entities`
 #### `4.` [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations       `12 Entities`
 
 #### `5.` [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations       `8 Entities`
