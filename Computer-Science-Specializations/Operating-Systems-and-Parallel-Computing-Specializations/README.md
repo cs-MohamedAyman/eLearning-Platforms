@@ -1,6 +1,6 @@
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## Operating Systems and Parallel Computing Specializations
+# Operating Systems and Parallel Computing Specializations
 
 <table>
     <thead>
@@ -65,6 +65,43 @@ Parallel Computing by Intel
             <tr>
                 <td><a href="https://www.coursera.org/learn/opencl-fpga-introduction">Introduction to OpenCL on FPGAs</a></td>
                 <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=6 align=center>
+Google IT Automation with Python Profession 
+<a href="https://www.coursera.org/professional-certificates/google-it-automation">Specialization</a> by Google<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/python-crash-course">Crash Course on Python</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/python-operating-system">Using Python to Interact with the Operating System</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/introduction-git-github">Introduction to Git and GitHub</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/troubleshooting-debugging-techniques">Troubleshooting and Debugging Techniques</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/configuration-management-cloud">Configuration Management and the Cloud</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/automating-real-world-tasks-python">Automating Real-World Tasks with Python</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Computer Science: Programming with a Purpose by Princeton University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/cs-programming-java">Computer Science: Programming with a Purpose</a></td>
+                <td align="center">90</td>
             </tr>
     </tbody>
 </table>
