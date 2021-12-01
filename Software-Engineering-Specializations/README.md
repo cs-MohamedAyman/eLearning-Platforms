@@ -285,27 +285,6 @@ Information Systems
                 <td><a href="https://www.coursera.org/learn/it-infrastructure-and-emerging-trends">IT Infrastructure and Emerging Trends</a></td>
                 <td align="center">10</td>
             </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Quantum Computing: from Basics to the Cutting Edge  
-<a href="https://www.coursera.org/specializations/quantum-computing-from-basics-to-the-cutting-edge">Specialization</a> by Saint Petersburg State University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/quantum-computing-lfmu">Quantum Computing. Less Formulas - More Understanding</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/physical-basis-quantum-computing">Physical Basics of Quantum Computing</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/quantum-computing-algorithms">The Introduction to Quantum Computing</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/one-way-quantum-computation">One-way Quantum Computation</a></td>
-                <td align="center">25</td>
-            </tr>
     </tbody>
 </table>
 </details>
