@@ -61,14 +61,6 @@ Core Java
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Computer Science: Programming with a Purpose by Princeton University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/cs-programming-java">Computer Science: Programming with a Purpose</a></td>
-                <td align="center">90</td>
-            </tr>
-            <tr>
                 <td rowspan=5 align=center>
 Object Oriented Java Programming: Data Structures and Beyond  
 <a href="https://www.coursera.org/specializations/java-object-oriented">Specialization</a> by University of California San Diego<br>
