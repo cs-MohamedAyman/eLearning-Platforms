@@ -241,5 +241,30 @@ Programming in C++: A Hands-on Introduction
                 <td><a href="https://www.coursera.org/learn/object-oriented-cpp">Object-Oriented C++: Inheritance and Encapsulation</a></td>
                 <td align="center">10</td>
             </tr>
+            <tr>
+                <td rowspan=3 align=center>
+Accelerated Computer Science Fundamentals  
+<a href="https://www.coursera.org/specializations/cs-fundamentals">Specialization</a> by University of Illinois at Urbana-Champaign<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/cs-fundamentals-1">Object-Oriented Data Structures in C++</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/cs-fundamentals-2">Ordered Data Structures</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/cs-fundamentals-3">Unordered Data Structures</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Computer Science: Programming with a Purpose by Princeton University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/cs-programming-java">Computer Science: Programming with a Purpose</a></td>
+                <td align="center">90</td>
+            </tr>
     </tbody>
 </table>

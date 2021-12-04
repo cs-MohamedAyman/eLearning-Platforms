@@ -36,60 +36,6 @@ Introduction to Statistics by Stanford University<br>
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
-Advanced Statistics for Data Science  
-<a href="https://www.coursera.org/specializations/advanced-statistics-data-science">Specialization</a> by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/biostatistics">Mathematical Biostatistics Boot Camp 1</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/biostatistics-2">Mathematical Biostatistics Boot Camp 2</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/linear-models">Advanced Linear Models for Data Science 1: Least Squares</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/linear-models-2">Advanced Linear Models for Data Science 2: Statistical Linear Models</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-Methods and Statistics in Social Sciences  
-<a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/quantitative-methods">Quantitative Methods</a></td>
-                <td align="center">40</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/qualitative-methods">Qualitative Research Methods</a></td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/basic-statistics">Basic Statistics</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/inferential-statistics">Inferential Statistics</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/social-science-capstone">Methods and Statistics in Social Science - Final Research Project</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Improving your statistical inferences by Eindhoven University of Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/statistical-inferences">Improving your statistical inferences</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
                 <td rowspan=3 align=center>
 Bayesian Statistics by University of California Santa Cruz 
 <br>

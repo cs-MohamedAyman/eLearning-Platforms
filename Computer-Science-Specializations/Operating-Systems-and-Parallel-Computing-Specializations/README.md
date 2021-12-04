@@ -95,13 +95,5 @@ Google IT Automation with Python Profession
                 <td><a href="https://www.coursera.org/learn/automating-real-world-tasks-python">Automating Real-World Tasks with Python</a></td>
                 <td align="center">15</td>
             </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Computer Science: Programming with a Purpose by Princeton University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/cs-programming-java">Computer Science: Programming with a Purpose</a></td>
-                <td align="center">90</td>
-            </tr>
     </tbody>
 </table>
