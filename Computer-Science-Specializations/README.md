@@ -2,6 +2,18 @@
 
 # Computer Science Specializations
 
+<br>
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/agenda.jpg">
+
+## Table of Contents
+  * [Programming Languages and Object Oriented Specializations](#Programming-Languages-and-Object-Oriented-Specializations)
+  * [Calculus and Algebra Specializations](#Calculus-and-Algebra-Specializations)
+  * [Probability and Statistics Specializations](#Probability-and-Statistics-Specializations)
+  * [Data Structures and Algorithms Analysis Specializations](#Data-Structures-and-Algorithms-Analysis-Specializations)
+  * [Operating Systems and Parallel Computing Specializations](#Operating-Systems-and-Parallel-Computing-Specializations)
+
+<br><br>
+
 ## Programming Languages and Object Oriented Specializations
 
 <table>
@@ -44,6 +56,10 @@
         </tr>
     </tbody>
 </table>
+
+## Calculus and Algebra Specializations
+
+## Probability and Statistics Specializations
 
 ## Data Structures and Algorithms Analysis Specialization
 
@@ -88,3 +104,4 @@
     </tbody>
 </table>
 
+## Operating Systems and Parallel Computing Specializations
