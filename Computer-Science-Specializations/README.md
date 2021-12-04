@@ -61,7 +61,7 @@
 
 ## Probability and Statistics Specializations
 
-## Data Structures and Algorithms Analysis Specialization
+## Data Structures and Algorithms Analysis Specializations
 
 <table>
     <tbody>
