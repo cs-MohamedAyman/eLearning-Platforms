@@ -3,7 +3,7 @@
 # Computer Science Specializations
 
 <br>
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/agenda.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
 
 ## Table of Contents
   * [Programming Languages and Object Oriented Specializations](#Programming-Languages-and-Object-Oriented-Specializations)
