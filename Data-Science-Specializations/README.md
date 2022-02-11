@@ -7,7 +7,7 @@
 
 ## Table of Contents
   * [Data Analysis and Visualization Specializations](#Data-Analysis-and-Visualization-Specializations)
-  * [Data Science Specializations](#Data-Science-Specializations-2)
+  * [Data Science Specializations](#Data-Science-Specializations-1)
   * [Natural Language Processing and Text Mining Specializations](#Natural-Language-Processing-and-Text-Mining-Specializations)
   * [Business Intelligence Specializations](#Business-Intelligence-Specializations)
   * [Big Data and Data Engineering Specializations](#Big-Data-and-Data-Engineering-Specializations)
