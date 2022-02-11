@@ -1,10 +1,21 @@
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## Software Engineering Specializations
-Software Engineering Specializations for computer science students, which including the following main topics:
+# Software Engineering Specializations
 
-<details>
-<summary>Software Engineering Specializations</summary>
+<br>
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
+
+## Table of Contents
+  * [Software Engineering Specializations](#Software-Engineering-Specializations)
+  * [Distributed Systems and Cloud Computing Specializations](#Distributed-Systems-and-Cloud-Computing-Specializations)
+  * [Database Systems and Warehousing Specializations](#Database-Systems-and-Warehousing-Specializations)
+  * [Web/Mobile/Game Development Specializations](#Web/Mobile/Game-Development-Specializations)
+  * [Continuous Delivery and DevOps Specializations](#Continuous-Delivery-and-DevOps-Specializations)
+
+<br><br>
+
+## Software Engineering Specializations
+
 <table>
     <thead>
         <tr>
@@ -287,9 +298,12 @@ Information Systems
             </tr>
     </tbody>
 </table>
-</details>
-<details>
-<summary>Web Development Specializations</summary>
+
+
+## Distributed Systems and Cloud Computing Specializations
+## Database Systems and Warehousing Specializations
+## Web/Mobile/Game Development Specializations
+
 <table>
     <thead>
         <tr>
@@ -649,9 +663,7 @@ Design and Make Infographics (Project-Centered Course) by Michigan State Univers
             </tr>
     </tbody>
 </table>
-</details>
-<details>
-<summary>Mobile Development Specializations</summary>
+
 <table>
     <thead>
         <tr>
@@ -1007,9 +1019,7 @@ Design and Make Infographics (Project-Centered Course) by Michigan State Univers
             </tr>
     </tbody>
 </table>
-</details>
-<details>
-<summary>Game Development Specializations</summary>
+
 <table>
     <thead>
         <tr>
@@ -1395,9 +1405,9 @@ Design and Make Infographics (Project-Centered Course) by Michigan State Univers
             </tr>
     </tbody>
 </table>
-</details>
-<details>
-<summary>Continuous Delivery and DevOps Specializations</summary>
+
+## Continuous Delivery and DevOps Specializations
+
 <table>
     <thead>
         <tr>
@@ -1809,4 +1819,3 @@ Scrum Master Certification
             </tr>
     </tbody>
 </table>
-</details>
