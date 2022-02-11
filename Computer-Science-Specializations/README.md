@@ -14,7 +14,7 @@
 
 <br><br>
 
-## Programming Languages and Object Oriented Specializations
+## [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Programming-Languages-and-Object-Oriented-Specializations/README.md) Specializations
 
 <table>
     <tbody>
@@ -57,11 +57,11 @@
     </tbody>
 </table>
 
-## Calculus and Algebra Specializations
+## [Calculus and Algebra](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Calculus-and-Algebra-Specializations/README.md) Specializations
 
-## Probability and Statistics Specializations
+## [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Probability-and-Statistics-Specializations/README.md) Specializations
 
-## Data Structures and Algorithms Analysis Specializations
+## [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Data-Structures-and-Algorithms-Specializations/README.md) Specializations
 
 <table>
     <tbody>
@@ -104,4 +104,4 @@
     </tbody>
 </table>
 
-## Operating Systems and Parallel Computing Specializations
+## [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Operating-Systems-and-Parallel-Computing-Specializations/README.md) Specializations
