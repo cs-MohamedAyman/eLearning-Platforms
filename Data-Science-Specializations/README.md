@@ -7,7 +7,7 @@
 
 ## Table of Contents
   * [Data Analysis and Visualization Specializations](#Data-Analysis-and-Visualization-Specializations)
-  * [Machine Learning and Data Mining Specializations](#Machine-Learning-and-Data-Mining-Specializations)
+  * [Data Science Specializations](#Data-Science-Specializations)
   * [Natural Language Processing and Text Mining Specializations](#Natural-Language-Processing-and-Text-Mining-Specializations)
   * [Business Intelligence Specializations](#Business-Intelligence-Specializations)
   * [Big Data and Data Engineering Specializations](#Big-Data-and-Data-Engineering-Specializations)
@@ -421,7 +421,7 @@ Methods and Statistics in Social Sciences
     </tbody>
 </table>
 
-## Machine Learning and Data Mining Specializations
+## Data Science Specializations
 
 <table>
     <thead>
