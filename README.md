@@ -61,5 +61,5 @@ Bioinformatics Specializations for computer science students, which including th
 
 #### - [Introductory to Biology](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
 #### - [Computational Biology](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
-#### - [Integraty Bioinformatics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
+#### - [Integrative Bioinformatics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
 #### - [Drug Design](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
