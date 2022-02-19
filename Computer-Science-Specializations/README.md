@@ -7,8 +7,7 @@
 
 ## Table of Contents
   * [Programming Languages and Object Oriented Specializations](#Programming-Languages-and-Object-Oriented-Specializations)
-  * [Calculus and Algebra Specializations](#Calculus-and-Algebra-Specializations)
-  * [Probability and Statistics Specializations](#Probability-and-Statistics-Specializations)
+  * [Mathematics and Probability Specializations](#Mathematics-and-Probability-Specializations)
   * [Data Structures and Algorithms Analysis Specializations](#Data-Structures-and-Algorithms-Analysis-Specializations)
   * [Operating Systems and Parallel Computing Specializations](#Operating-Systems-and-Parallel-Computing-Specializations)
 
@@ -57,11 +56,9 @@
     </tbody>
 </table>
 
-## [Calculus and Algebra](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Calculus-and-Algebra-Specializations/README.md) Specializations
+## [Mathematics and Probability Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Mathematics-and-Probability-Specializations/README.md) Specializations
 
-## [Probability and Statistics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Probability-and-Statistics-Specializations/README.md) Specializations
-
-## [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Data-Structures-and-Algorithms-Specializations/README.md) Specializations
+## [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Data-Structures-and-Algorithms-Analysis-Specializations/README.md) Specializations
 
 <table>
     <tbody>
