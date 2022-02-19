@@ -1,6 +1,6 @@
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-# Operating Systems and Parallel Computing Specializations
+## Operating Systems and Parallel Computing Specializations
 
 <table>
     <thead>

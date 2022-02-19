@@ -242,6 +242,14 @@ Programming in C++: A Hands-on Introduction
                 <td align="center">10</td>
             </tr>
             <tr>
+                <td rowspan=1 align=center>
+Computer Science: Programming with a Purpose by Princeton University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/cs-programming-java">Computer Science: Programming with a Purpose</a></td>
+                <td align="center">90</td>
+            </tr>
+            <tr>
                 <td rowspan=3 align=center>
 Accelerated Computer Science Fundamentals  
 <a href="https://www.coursera.org/specializations/cs-fundamentals">Specialization</a> by University of Illinois at Urbana-Champaign<br>
@@ -258,13 +266,6 @@ Accelerated Computer Science Fundamentals
                 <td><a href="https://www.coursera.org/learn/cs-fundamentals-3">Unordered Data Structures</a></td>
                 <td align="center">20</td>
             </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Computer Science: Programming with a Purpose by Princeton University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/cs-programming-java">Computer Science: Programming with a Purpose</a></td>
-                <td align="center">90</td>
-            </tr>
     </tbody>
 </table>
+
