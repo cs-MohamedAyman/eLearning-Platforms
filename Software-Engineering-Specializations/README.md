@@ -7,7 +7,6 @@
 
 ## Table of Contents
   * [Software Engineering Specializations](#Software-Engineering-Specializations)
-  * [Distributed Systems and Cloud Computing Specializations](#Distributed-Systems-and-Cloud-Computing-Specializations)
   * [Database Systems and Warehousing Specializations](#Database-Systems-and-Warehousing-Specializations)
   * [Web/Mobile/Game Development Specializations](#Web/Mobile/Game-Development-Specializations)
   * [Continuous Delivery and DevOps Specializations](#Continuous-Delivery-and-DevOps-Specializations)
@@ -299,9 +298,9 @@ Information Systems
     </tbody>
 </table>
 
-
-## Distributed Systems and Cloud Computing Specializations
 ## Database Systems and Warehousing Specializations
+
+
 ## Web/Mobile/Game Development Specializations
 
 <table>
