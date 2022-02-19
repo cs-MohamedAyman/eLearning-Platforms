@@ -139,7 +139,7 @@ Data Structures and Algorithms
             <tr>
                 <td rowspan=3 align=center>
 Data Structures and Algorithms Specialization
-<br>
+<a href="https://www.coursera.org/specializations/boulder-data-structures-algorithms">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/algorithms-searching-sorting-indexing">Algorithms for Searching, Sorting, and Indexing</a></td>
