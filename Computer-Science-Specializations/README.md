@@ -56,7 +56,7 @@
     </tbody>
 </table>
 
-## [Mathematics and Probability Specializations](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Mathematics-and-Probability-Specializations/README.md) Specializations
+## [Mathematics and Probability](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Mathematics-and-Probability-Specializations/README.md) Specializations
 
 ## [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Data-Structures-and-Algorithms-Analysis-Specializations/README.md) Specializations
 
