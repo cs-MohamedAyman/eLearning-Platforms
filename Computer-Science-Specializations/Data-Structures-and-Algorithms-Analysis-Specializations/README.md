@@ -138,6 +138,23 @@ Data Structures and Algorithms
             </tr>
             <tr>
                 <td rowspan=3 align=center>
+Data Structures and Algorithms Specialization
+<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/algorithms-searching-sorting-indexing">Algorithms for Searching, Sorting, and Indexing</a></td>
+                <td align="center">35</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/trees-graphs-basics">Trees and Graphs: Basics</a></td>
+                <td align="center">35</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/dynamic-programming-greedy-algorithms">Dynamic Programming, Greedy Algorithms</a></td>
+                <td align="center">40</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
 Algorithms by Princeton University 
 <br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
