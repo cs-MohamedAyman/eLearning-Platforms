@@ -173,8 +173,8 @@ Data Warehousing for Business Intelligence
             <tr>
                 <td rowspan=3 align=center>
 Database Design and Operational Business Intelligence  
-<a href="https://www.coursera.org/specializations/data-design-operational-business-intellegence">Specialization</a> by University of California, Irvine<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california,%20irvine.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/data-design-operational-business-intellegence">Specialization</a> by University of California Irvine<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20irvine.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/nature-of-data-relational-database-design">The Nature of Data and Relational Database Design</a></td>
                 <td align="center">10</td>
