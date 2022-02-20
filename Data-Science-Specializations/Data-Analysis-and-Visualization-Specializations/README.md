@@ -149,23 +149,6 @@ Improving Your Statistical Questions by Eindhoven University of Technology<br>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
-Everyday Excel  
-<a href="https://www.coursera.org/specializations/everyday-excel">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/everyday-excel-part-1">Everyday Excel, Part 1</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/everyday-excel-part-2">Everyday Excel, Part 2</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/everyday-excel-projects">Everyday Excel, Part 3 (Projects)</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
                 <td rowspan=5 align=center>
 Advanced Business Analytics  
 <a href="https://www.coursera.org/specializations/data-analytics-business">Specialization</a> by University of Colorado Boulder<br>
@@ -189,61 +172,6 @@ Advanced Business Analytics
             <tr>
                 <td><a href="https://www.coursera.org/learn/data-analytics-business-capstone">Advanced Business Analytics Capstone</a></td>
                 <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=3 align=center>
-Excel Skills for Data Analytics and Visualization  
-<a href="https://www.coursera.org/specializations/excel-data-analytics-visualization">Specialization</a> by Macquarie University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/excel-data-analysis-fundamentals">Excel Fundamentals for Data Analysis</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/excel-data-visualization">Data Visualization in Excel</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/excel-power-tools">Excel Power Tools for Data Analysis</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Excel Skills for Business  
-<a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/excel-essentials">Excel Skills for Business: Essentials</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/excel-intermediate-1">Excel Skills for Business: Intermediate I</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/excel-intermediate-2">Excel Skills for Business: Intermediate II</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/excel-advanced">Excel Skills for Business: Advanced</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td rowspan=3 align=center>
-Excel Skills for Business Forecasting  
-<a href="https://www.coursera.org/specializations/excel-skills-for-business-forecasting">Specialization</a> by Macquarie University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/macquarie%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/excel-business-forecasting-time-series">Excel Time Series Models for Business Forecasting</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/excel-business-forecasting-regression">Excel Regression Models for Business Forecasting</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/judgmental-business-forecasting-in-excel">Judgmental Business Forecasting in Excel</a></td>
-                <td align="center">10</td>
             </tr>
             <tr>
                 <td rowspan=5 align=center>
