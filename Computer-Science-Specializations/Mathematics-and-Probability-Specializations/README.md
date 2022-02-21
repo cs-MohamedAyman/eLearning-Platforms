@@ -46,14 +46,6 @@ Introduction to Calculus by The University of Sydney<br>
             </tr>
             <tr>
                 <td rowspan=1 align=center>
-Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/ordinary-differential-equations">Introduction to Ordinary Differential Equations</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
 Introduction to numerical analysis by National Research University Higher School of Economics<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
                 </td>
@@ -67,14 +59,6 @@ Matrix Methods by University of Minnesota<br>
                 </td>
                 <td><a href="https://www.coursera.org/learn/matrix-methods">Matrix Methods</a></td>
                 <td align="center">5</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Introduction to Complex Analysis by Wesleyan University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/complex-analysis">Introduction to Complex Analysis</a></td>
-                <td align="center">30</td>
             </tr>
             <tr>
                 <td rowspan=3 align=center>
@@ -246,40 +230,6 @@ Inferring Causal Effects from Observational Data by University of Pennsylvania<b
                 </td>
                 <td><a href="https://www.coursera.org/learn/crash-course-in-causality">Inferring Causal Effects from Observational Data</a></td>
                 <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=2 align=center>
-Causal Inference by Columbia University 
-<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/causal-inference">Causal Inference</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/causal-inference-2">Causal Inference 2</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Design of Experiments  
-<a href="https://www.coursera.org/specializations/design-experiments">Specialization</a> by Arizona State University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/introduction-experimental-design-basics">Experimental Design Basics</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/factorial-fractional-factorial-designs">Factorial and Fractional Factorial Designs</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/response-surfaces-mixtures-model-building">Response Surfaces, Mixtures, and Model Building</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/random-models-nested-split-plot-designs">Random Models, Nested and Split-plot Designs</a></td>
-                <td align="center">10</td>
             </tr>
     </tbody>
 </table>
