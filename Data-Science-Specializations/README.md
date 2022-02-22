@@ -98,8 +98,8 @@
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">Applied Data Science with R Specialization by IBM</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">IBM Data Analyst Profession Specialization by IBM</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">IBM Data Analytics with Excel and R Profession Specialization by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">IBM Data Analyst Professional Certificate by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">IBM Data Analytics with Excel and R Professional Certificate by IBM</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">Introduction to Data Science Specialization by IBM</a></td>
         </tr>
         <tr>
@@ -109,7 +109,7 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">IBM Data Science Profession Specialization by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">IBM Data Science Professional Certificate by IBM</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">Advanced Data Science with IBM Specialization by IBM</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">Computational Social Science Specialization by University of California Davis</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">Information Systems Specialization by University of Minnesota</a></td>
