@@ -12,6 +12,48 @@
     </thead>
     <tbody>
             <tr>
+                <td rowspan=4 align=center>
+Open Source Software Development, Linux and Git  
+<a href="https://www.coursera.org/specializations/oss-development-linux-git">Specialization</a> by The Linux Foundation<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20linux%20foundation.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/open-source-software-development-methods">Open Source Software Development Methods</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/linux-for-developers">Linux for Developers</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/linux-tools-for-developers">Linux Tools for Developers</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/git-distributed-development">Using Git for Distributed Development</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Learning Linux for LFCA Certification  
+<a href="https://www.coursera.org/specializations/linux-for-lfca-certification">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/linux-fundamentals">Linux Fundamentals</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/managing-linux-systems">Managing Linux Systems</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/securing-linux-systems">Securing Linux Systems</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/linux-cloud-devops">Linux Cloud and DevOps</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
                 <td rowspan=5 align=center>
 Google IT Support Profession 
 <a href="https://www.coursera.org/professional-certificates/google-it-support">Specialization</a> by Google<br>
@@ -93,6 +135,106 @@ Google IT Automation with Python Profession
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/automating-real-world-tasks-python">Automating Real-World Tasks with Python</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Core Java  
+<a href="https://www.coursera.org/specializations/core-java">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/java-introduction">Introduction to Java</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/object-oriented-programming-with-java">Introduction to Object-Oriented Programming with Java</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/object-oriented-hierarchies-java">Object-Oriented Hierarchies in Java</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/java-class-library">Java Class Library</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td rowspan=5 align=center>
+Object Oriented Java Programming: Data Structures and Beyond  
+<a href="https://www.coursera.org/specializations/java-object-oriented">Specialization</a> by University of California San Diego<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/object-oriented-java">Object Oriented Programming in Java</a></td>
+                <td align="center">40</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-structures-optimizing-performance">Data Structures and Performance</a></td>
+                <td align="center">40</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/advanced-data-structures">Advanced Data Structures in Java</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/cs-tech-interview">Mastering the Software Engineering Interview</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/intermediate-programming-capstone">Capstone: Analyzing (Social) Network Data</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Version Control with Git by Atlassian<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/atlassian.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+How to Manage a Remote Team by GitLab<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/gitlab.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/remote-team-management">How to Manage a Remote Team</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Java Testing  
+<a href="https://www.coursera.org/specializations/learnquest-java-testing">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/j-unit-testing">Overview of JUnit Testing</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/mocking-j-unit">Mocking with JUnit</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/introduction-test-driven-development">Java Testing: An Introduction to TDD</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/dynamic-j-unit-testing">Parameterized and Dynamic Testing in JUnit</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
+Java as a Second Language  
+<a href="https://www.coursera.org/specializations/java-programming-language">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/intro-java-second-language">Introduction to Java as a Second Language</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/java-as-a-second-language-the-java-language">The Java Language</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/writing-java-code-for-applications">Writing Java Application Code</a></td>
                 <td align="center">15</td>
             </tr>
     </tbody>
