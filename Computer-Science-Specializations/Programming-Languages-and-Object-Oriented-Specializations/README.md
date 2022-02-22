@@ -201,7 +201,7 @@ Computational Thinking with Beginning C Programming
             </tr>
             <tr>
                 <td rowspan=4 align=center>
-Coding for Everyone: C and C++ Specialization by University of Californ 
+Coding for Everyone: C and C++ 
 <a href="https://www.coursera.org/specializations/coding-for-everyone">Specialization</a> by University of California Santa Cruz<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
                 </td>
