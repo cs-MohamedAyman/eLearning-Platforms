@@ -167,3 +167,44 @@
 </table>
 
 ## Image Processing and Computer Vision Specializations
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">TensorFlow 2 for Deep Learning Specialization by Imperial College London</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Digital Signal Processing Specialization by ecole polytechnique federale de lausanne</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Introduction to Complex Analysis by Wesleyan University</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/wesleyan%20university.jpg" width="80%"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Information Theory by The Chinese University of Hong Kong</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Fundamentals of Digital Image and Video Processing by Northwestern University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Barcelona</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital by Duke University</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20chinese%20university%20of%20hong%20kong.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/northwestern%20university.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universitat%20pompeu%20fabra%20of%20barcelona.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="80%"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Basics in computer vision Specialization by National Research University Higher School of Economics</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Computer Vision Specialization by University of Buffalo</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">MATLAB Programming for Engineers and Scientists Specialization by Vanderbilt University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Practical Data Science with MATLAB Specialization by MathWorks</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20buffalo.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/vanderbilt%20university.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="80%"></img></td>
+        </tr>
+    </tbody>
+</table>
