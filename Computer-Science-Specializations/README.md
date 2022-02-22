@@ -50,8 +50,8 @@
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="80%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/codio.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="80%"><td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="80%"></img></td>
-</img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="80%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
