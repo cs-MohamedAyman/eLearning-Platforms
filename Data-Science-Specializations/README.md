@@ -196,9 +196,9 @@
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Big-Data-and-Data-Engineering-Specializations/README.md">Data Engineering, Big Data, and Machine Learning on GCP Specialization by Google Cloud</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Big-Data-and-Data-Engineering-Specializations/README.md">Data Engineering with GCP Profession Specialization by Google Cloud</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Big-Data-and-Data-Engineering-Specializations/README.md">Data Engineering with GCP Professional Certificate by Google Cloud</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Big-Data-and-Data-Engineering-Specializations/README.md">Data Engineering Foundations Specialization by IBM</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Big-Data-and-Data-Engineering-Specializations/README.md">IBM Data Engineering Profession Specialization by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Big-Data-and-Data-Engineering-Specializations/README.md">IBM Data Engineering Professional Certificate by IBM</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="70%"></img></td>
