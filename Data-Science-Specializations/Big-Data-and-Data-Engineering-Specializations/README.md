@@ -240,29 +240,17 @@ IBM Data Engineering Profession
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
-Advanced Business Analytics  
-<a href="https://www.coursera.org/specializations/data-analytics-business">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                <td rowspan=2 align=center>
+Big data and Language by Korea Advanced Institute of Science and Technology 
+<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/data-analytics-business">Introduction to Data Analytics for Business</a></td>
-                <td align="center">15</td>
+                <td><a href="https://www.coursera.org/learn/big-data-language-1">Big data and Language 1</a></td>
+                <td align="center">5</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/predictive-modeling-analytics">Predictive Modeling and Analytics</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/business-analytics-decision-making">Business Analytics for Decision Making</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/communicating-business-analytics-results">Communicating Business Analytics Results</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-analytics-business-capstone">Advanced Business Analytics Capstone</a></td>
-                <td align="center">20</td>
+                <td><a href="https://www.coursera.org/learn/big-data-language-2">Big data and Language 2</a></td>
+                <td align="center">5</td>
             </tr>
             <tr>
                 <td rowspan=4 align=center>
