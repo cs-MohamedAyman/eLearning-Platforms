@@ -225,11 +225,11 @@ Statistics with Python
             </tr>
             <tr>
                 <td rowspan=1 align=center>
-Inferring Causal Effects from Observational Data by University of Pennsylvania<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="40%">
+Introduction to Number Theory by HSE University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/hse%20university.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/crash-course-in-causality">Inferring Causal Effects from Observational Data</a></td>
-                <td align="center">20</td>
+                <td><a href="https://www.coursera.org/learn/introduction-to-number-theory">Introduction to Number Theory</a></td>
+                <td align="center">35</td>
             </tr>
     </tbody>
 </table>
