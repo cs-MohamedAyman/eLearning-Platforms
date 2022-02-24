@@ -56,8 +56,8 @@ Learning Linux for LFCA Certification
             <tr>
                 <td rowspan=4 align=center>
 Computer Security and Systems Management  
-<a href="https://www.coursera.org/specializations/computer-security-systems-management">Specialization</a> by University of Colorado System<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20system.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/computer-security-systems-management">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/enterprise-system-management-security">Enterprise System Management and Security</a></td>
                 <td align="center">15</td>
@@ -77,8 +77,8 @@ Computer Security and Systems Management
             <tr>
                 <td rowspan=4 align=center>
 Computer Communications  
-<a href="https://www.coursera.org/specializations/computer-communications">Specialization</a> by University of Colorado System<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20system.jpg" width="40%">
+<a href="https://www.coursera.org/specializations/computer-communications">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/fundamentals-network-communications">Fundamentals of Network Communication</a></td>
                 <td align="center">15</td>
