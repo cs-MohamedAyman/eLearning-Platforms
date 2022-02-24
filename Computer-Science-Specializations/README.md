@@ -100,13 +100,13 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Mathematics-and-Probability-Specializations/README.md">Introduction to Statistics by Stanford University</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Mathematics-and-Probability-Specializations/README.md">Bayesian Statistics by University of California Santa Cruz</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Mathematics-and-Probability-Specializations/README.md">Statistics with Python Specialization by University of Michigan</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Mathematics-and-Probability-Specializations/README.md">Inferring Causal Effects from Observational Data by University of Pennsylvania</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Mathematics-and-Probability-Specializations/README.md">Introduction to Number Theory by HSE University</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20pennsylvania.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/hse%20university.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>

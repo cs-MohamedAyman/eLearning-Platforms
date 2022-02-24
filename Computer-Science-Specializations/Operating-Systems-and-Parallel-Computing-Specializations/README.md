@@ -54,6 +54,48 @@ Learning Linux for LFCA Certification
                 <td align="center">15</td>
             </tr>
             <tr>
+                <td rowspan=4 align=center>
+Computer Security and Systems Management  
+<a href="https://www.coursera.org/specializations/computer-security-systems-management">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/enterprise-system-management-security">Enterprise System Management and Security</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/windows-server-management-security">Windows Server Management and Security</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/linux-server-management-security">Linux Server Management and Security</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/planning-auditing-maintaining-enterprise-systems">Planning, Auditing and Maintaining Enterprise Systems</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Computer Communications  
+<a href="https://www.coursera.org/specializations/computer-communications">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/fundamentals-network-communications">Fundamentals of Network Communication</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/peer-to-peer-protocols-local-area-networks">Peer-to-Peer Protocols and Local Area Networks</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/packet-switching-networks-algorithms">Packet Switching Networks and Algorithms</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/tcp-ip-advanced">TCP/IP and Advanced Topics</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
                 <td rowspan=5 align=center>
 Google IT Support Profession 
 <a href="https://www.coursera.org/professional-certificates/google-it-support">Specialization</a> by Google<br>
@@ -193,11 +235,27 @@ Version Control with Git by Atlassian<br>
             </tr>
             <tr>
                 <td rowspan=1 align=center>
+The Unix Workbench by Johns Hopkins University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/unix">The Unix Workbench</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
 How to Manage a Remote Team by GitLab<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/gitlab.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/remote-team-management">How to Manage a Remote Team</a></td>
                 <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Essential Cloud Infrastructure: Foundation by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/gcp-infrastructure-foundation">Essential Cloud Infrastructure: Foundation</a></td>
+                <td align="center">10</td>
             </tr>
             <tr>
                 <td rowspan=4 align=center>
