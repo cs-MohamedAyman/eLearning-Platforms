@@ -219,16 +219,16 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/vanderbilt%20university.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Practical Data Science with MATLAB Specialization by MathWorks</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">TensorFlow: Advanced Techniques Specialization by deeplearning.ai</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">AWS Computer Vision: Getting Started with GluonCV by Amazon Web Services</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Deep Learning Applications for Computer Vision by University of Colorado Boulder</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Distribution of OpenVINO toolkit for Computer Vision by Intel</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
