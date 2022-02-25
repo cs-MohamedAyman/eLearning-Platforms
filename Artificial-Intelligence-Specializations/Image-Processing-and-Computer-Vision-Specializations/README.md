@@ -99,6 +99,23 @@ Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital b
             </tr>
             <tr>
                 <td rowspan=3 align=center>
+Image Processing for Engineering and Science  
+<a href="https://www.coursera.org/specializations/image-processing">Specialization</a> by MathWorks<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/introduction-image-processing">Introduction to Image Processing</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/image-segmentation">Image Segmentation, Filtering, and Region Analysis</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/automating-image-processing">Automating Image Processing</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
 Basics in computer vision  
 <a href="https://www.coursera.org/specializations/basics-in-computer-vision">Specialization</a> by National Research University Higher School of Economics<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
@@ -172,6 +189,59 @@ Practical Data Science with MATLAB
             <tr>
                 <td><a href="https://www.coursera.org/learn/matlab-capstone">Data Science Project: MATLAB for the Real World</a></td>
                 <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+TensorFlow: Advanced Techniques  
+<a href="https://www.coursera.org/specializations/tensorflow-advanced-techniques">Specialization</a> by deeplearning.ai<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow">Custom Models, Layers, and Loss Functions with TensorFlow</a></td>
+                <td align="center">35</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/custom-distributed-training-with-tensorflow">Custom and Distributed Training with TensorFlow</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow">Advanced Computer Vision with TensorFlow</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/generative-deep-learning-with-tensorflow">Generative Deep Learning with TensorFlow</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+AWS Computer Vision: Getting Started with GluonCV by Amazon Web Services<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/aws-computer-vision-gluoncv">AWS Computer Vision: Getting Started with GluonCV</a></td>
+                <td align="center">35</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Deep Learning Applications for Computer Vision by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/deep-learning-computer-vision">Deep Learning Applications for Computer Vision</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td rowspan=2 align=center>
+Introduction to Intel Distribution of OpenVINO toolkit for Computer Vision Applications by Intel<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/intel-openvino">Introduction to Intel Distribution of OpenVINO toolkit for Computer Vision Applications</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td rowspan=2 align=center>
+Intermediate Intel Distribution of OpenVINO toolkit for Deep Learning Applications by Intel<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/int-openvino">Intermediate Intel Distribution of OpenVINO toolkit for Deep Learning Applications</a></td>
+                <td align="center">5</td>
             </tr>
     </tbody>
 </table>
