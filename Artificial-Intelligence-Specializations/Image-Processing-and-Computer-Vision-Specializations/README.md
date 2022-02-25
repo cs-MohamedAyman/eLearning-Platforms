@@ -229,17 +229,14 @@ Deep Learning Applications for Computer Vision by University of Colorado Boulder
             </tr>
             <tr>
                 <td rowspan=2 align=center>
-Introduction to Intel Distribution of OpenVINO toolkit for Computer Vision Applications by Intel<br>
+Distribution of OpenVINO toolkit for Computer Vision by Intel 
+<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/intel-openvino">Introduction to Intel Distribution of OpenVINO toolkit for Computer Vision Applications</a></td>
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
-Intermediate Intel Distribution of OpenVINO toolkit for Deep Learning Applications by Intel<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="40%">
-                </td>
                 <td><a href="https://www.coursera.org/learn/int-openvino">Intermediate Intel Distribution of OpenVINO toolkit for Deep Learning Applications</a></td>
                 <td align="center">5</td>
             </tr>
