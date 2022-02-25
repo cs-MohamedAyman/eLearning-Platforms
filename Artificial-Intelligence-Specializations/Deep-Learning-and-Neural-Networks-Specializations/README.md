@@ -120,25 +120,21 @@ AI for Medicine
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
-TensorFlow: Advanced Techniques  
-<a href="https://www.coursera.org/specializations/tensorflow-advanced-techniques">Specialization</a> by deeplearning.ai<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
+                <td rowspan=3 align=center>
+Deep Learning for Healthcare  
+<a href="https://www.coursera.org/specializations/deep-learning-healthcare">Specialization</a> by University of Illinois at Urbana-Champaign<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow">Custom Models, Layers, and Loss Functions with TensorFlow</a></td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/custom-distributed-training-with-tensorflow">Custom and Distributed Training with TensorFlow</a></td>
+                <td><a href="https://www.coursera.org/learn/health-data-science-foundation">Health Data Science Foundation</a></td>
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow">Advanced Computer Vision with TensorFlow</a></td>
+                <td><a href="https://www.coursera.org/learn/deep-learning-methods-healthcare">Deep Learning Methods for Healthcare</a></td>
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/generative-deep-learning-with-tensorflow">Generative Deep Learning with TensorFlow</a></td>
-                <td align="center">25</td>
+                <td><a href="https://www.coursera.org/learn/advanced-deep-learning-methods-healthcare">Advanced Deep Learning Methods for Healthcare</a></td>
+                <td align="center">20</td>
             </tr>
             <tr>
                 <td rowspan=3 align=center>
@@ -304,11 +300,28 @@ Natural Language Processing
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Clinical Natural Language Processing by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                <td rowspan=5 align=center>
+Machine Learning with TensorFlow on Google Cloud Platform  
+<a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/clinical-natural-language-processing">Clinical Natural Language Processing</a></td>
+                <td><a href="https://www.coursera.org/learn/google-machine-learning">How Google does Machine Learning</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/launching-machine-learning">Launching into Machine Learning</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/intro-tensorflow">Intro to TensorFlow</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/feature-engineering">Feature Engineering</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/art-science-ml">Art and Science of Machine Learning</a></td>
                 <td align="center">15</td>
             </tr>
     </tbody>
