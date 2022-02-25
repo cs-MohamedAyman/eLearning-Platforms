@@ -158,23 +158,23 @@ Data Science: Statistics and Machine Learning
             </tr>
             <tr>
                 <td rowspan=4 align=center>
-Statistical Analysis with R for Public Health  
-<a href="https://www.coursera.org/specializations/statistical-analysis-r-public-health">Specialization</a> by Imperial College London<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
+Practical Data Science with MATLAB  
+<a href="https://www.coursera.org/specializations/practical-data-science-matlab">Specialization</a> by MathWorks<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health">Introduction to Statistics & Data Analysis in Public Health</a></td>
+                <td><a href="https://www.coursera.org/learn/exploratory-data-analysis-matlab">Exploratory Data Analysis with MATLAB</a></td>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/linear-regression-r-public-health">Linear Regression in R for Public Health</a></td>
+                <td><a href="https://www.coursera.org/learn/feature-engineering-matlab">Data Processing and Feature Engineering with MATLAB</a></td>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/logistic-regression-r-public-health">Logistic Regression in R for Public Health</a></td>
-                <td align="center">15</td>
+                <td><a href="https://www.coursera.org/learn/predictive-modeling-machine-learning">Predictive Modeling and Machine Learning with MATLAB</a></td>
+                <td align="center">25</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/survival-analysis-r-public-health">Survival Analysis in R for Public Health</a></td>
+                <td><a href="https://www.coursera.org/learn/matlab-capstone">Data Science Project: MATLAB for the Real World</a></td>
                 <td align="center">15</td>
             </tr>
             <tr>
