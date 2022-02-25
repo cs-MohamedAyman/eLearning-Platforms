@@ -171,27 +171,6 @@ MATLAB Programming for Engineers and Scientists
             </tr>
             <tr>
                 <td rowspan=4 align=center>
-Practical Data Science with MATLAB  
-<a href="https://www.coursera.org/specializations/practical-data-science-matlab">Specialization</a> by MathWorks<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/mathworks.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/exploratory-data-analysis-matlab">Exploratory Data Analysis with MATLAB</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/feature-engineering-matlab">Data Processing and Feature Engineering with MATLAB</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/predictive-modeling-machine-learning">Predictive Modeling and Machine Learning with MATLAB</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/matlab-capstone">Data Science Project: MATLAB for the Real World</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
 TensorFlow: Advanced Techniques  
 <a href="https://www.coursera.org/specializations/tensorflow-advanced-techniques">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
