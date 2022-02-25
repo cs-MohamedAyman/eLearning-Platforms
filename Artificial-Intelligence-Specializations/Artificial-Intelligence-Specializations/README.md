@@ -12,11 +12,65 @@
     </thead>
     <tbody>
             <tr>
+                <td rowspan=3 align=center>
+AI Product Management  
+<a href="https://www.coursera.org/specializations/ai-product-management-duke">Specialization</a> by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/machine-learning-foundations-for-product-managers">Machine Learning Foundations for Product Managers</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/managing-machine-learning-projects">Managing Machine Learning Projects</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/human-factors-in-artificial-intelligence">Human Factors in AI</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Introduction to Logic and Critical Thinking  
+<a href="https://www.coursera.org/specializations/logic-critical-thinking-duke">Specialization</a> by Duke University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/understanding-arguments">Think Again I: How to Understand Arguments</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/deductive-reasoning">Think Again II: How to Reason Deductively</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/inductive-reasoning">Think Again III: How to Reason Inductively</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/logical-fallacies">Think Again IV: How to Avoid Fallacies</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
                 <td rowspan=1 align=center>
 AI For Everyone by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/deeplearning.ai.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/ai-for-everyone">AI For Everyone</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Creative Thinking: Techniques and Tools for Success by Imperial College London<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/imperial%20college%20london.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/creative-thinking-techniques-and-tools-for-success">Creative Thinking: Techniques and Tools for Success</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Getting Started with AWS Machine Learning by Amazon Web Services<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/aws-machine-learning">Getting Started with AWS Machine Learning</a></td>
                 <td align="center">10</td>
             </tr>
             <tr>
