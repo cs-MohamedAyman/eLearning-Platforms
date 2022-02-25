@@ -226,29 +226,21 @@ Machine Learning for Trading
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
-Machine Learning with TensorFlow on Google Cloud Platform  
-<a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+                <td rowspan=3 align=center>
+Data Analytics Foundations by University of Illinois at Urbana-Champaign 
+<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/google-machine-learning">How Google does Machine Learning</a></td>
-                <td align="center">10</td>
+                <td><a href="https://www.coursera.org/learn/predictive-analytics-data-mining">Predictive Analytics and Data Mining</a></td>
+                <td align="center">25</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/launching-machine-learning">Launching into Machine Learning</a></td>
-                <td align="center">10</td>
+                <td><a href="https://www.coursera.org/learn/data-analytics-accountancy-1">Data Analytics Foundations for Accountancy I</a></td>
+                <td align="center">70</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/intro-tensorflow">Intro to TensorFlow</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/feature-engineering">Feature Engineering</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/art-science-ml">Art and Science of Machine Learning</a></td>
-                <td align="center">15</td>
+                <td><a href="https://www.coursera.org/learn/data-analytics-accountancy-2">Data Analytics Foundations for Accountancy II</a></td>
+                <td align="center">70</td>
             </tr>
             <tr>
                 <td rowspan=9 align=center>
