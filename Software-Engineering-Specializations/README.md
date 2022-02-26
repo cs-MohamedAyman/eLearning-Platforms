@@ -200,7 +200,7 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/california%20institute%20of%20the%20arts.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Web-Mobile-Game-Development-Specializations/README.md">Google UX Design Profession Specialization by Google</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Web-Mobile-Game-Development-Specializations/README.md">Google UX Design Professional Certificate by Google</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Web-Mobile-Game-Development-Specializations/README.md">User Interface Design Specialization by University of Minnesota</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Web-Mobile-Game-Development-Specializations/README.md">Graphic Design Specialization by California Institute of the Arts</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Web-Mobile-Game-Development-Specializations/README.md">Building Your Freelancing Career Specialization by California Institute of the Arts</a></td>
