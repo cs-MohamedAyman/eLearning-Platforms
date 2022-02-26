@@ -13,10 +13,10 @@
 
 <br><br>
 
-## Software Engineering Specializations
+## [Software Engineering](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Software-Engineering-Specializations/README.md) Specializations
 
-## Database Systems and Warehousing Specializations
+## [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Database-Systems-and-Warehousing-Specializations/README.md) Specializations
 
-## Web/Mobile/Game Development Specializations
+## [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Web-Mobile-Game-Development-Specializations/README.md) Specializations
 
-## Continuous Delivery and DevOps Specializations
+## [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Continuous-Delivery-and-DevOps-Specializations/README.md) Specializations
