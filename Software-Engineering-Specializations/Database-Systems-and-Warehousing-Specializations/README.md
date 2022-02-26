@@ -187,5 +187,89 @@ Database Design and Operational Business Intelligence
                 <td><a href="https://www.coursera.org/learn/business-intelligence-visual-analytics">Business Intelligence and Visual Analytics</a></td>
                 <td align="center">15</td>
             </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Java Database Connectivity  
+<a href="https://www.coursera.org/specializations/java-database-connectivity">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/java-database-connectivity-introduction">Java Database Connectivity (JDBC) Introduction</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/java-database-connectivity-prepared-statements">Prepared Statements and Stored Procedures</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/java-database-connectivity-sql-primer">Java Data Access - SQL Primer</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/java-database-connectivity-jakarta-persistence">Jakarta Persistence (JPA)</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Spring Framework  
+<a href="https://www.coursera.org/specializations/spring-framework">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/spring-ecosystem-and-core">Spring - Ecosystem and Core</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/spring-mvc-rest-controller">Spring MVC, Spring Boot and Rest Controllers</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/spring-repositories">Spring Data Repositories</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/spring-cloud-overview">Spring - Cloud Overview</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Modern Application Development with Java on AWS  
+<a href="https://www.coursera.org/specializations/aws-java-serverless-development">Specialization</a> by Amazon Web Services<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/aws-cloud-technical-essentials">AWS Cloud Technical Essentials</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/specializations/aws-java-serverless-development">Building Modern Java Applications on AWS</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps">Amazon DynamoDB: Building NoSQL Database-Driven Applications</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/aws-improve-java-code-amazon-codeguru">Improve Your Java Code Using Amazon CodeGuru</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Modern Application Development with Python on AWS  
+<a href="https://www.coursera.org/specializations/aws-python-serverless-development">Specialization</a> by Amazon Web Services<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/aws-cloud-technical-essentials">AWS Cloud Technical Essentials</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/building-modern-python-applications-on-aws">Building Modern Python Applications on AWS</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps">Amazon DynamoDB: Building NoSQL Database-Driven Applications</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/aws-improve-python-code-amazon-codeguru">Improve Your Python Code Using Amazon CodeGuru</a></td>
+                <td align="center">10</td>
+            </tr>
     </tbody>
 </table>
