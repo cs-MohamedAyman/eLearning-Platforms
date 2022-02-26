@@ -13,6 +13,52 @@
     <tbody>
             <tr>
                 <td rowspan=5 align=center>
+Requirements Engineering: Secure Software Specifications  
+<a href="https://www.coursera.org/specializations/requirements-engineering-secure-software">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/requirements-gathering-secure">Requirements Gathering for Secure Software Development</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/requirements-elicitation">Requirements Elicitation: Artifact and Stakeholder Analysis</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/requirements-specification-goals">Requirements Specifications: Goals and Conflict Analysis</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/software-requirements-prioritization">Software Requirements Prioritization: Risk Analysis</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/srs-documents-requirements">SRS Documents: Requirements and Diagrammatic Notations</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Fundamentals of Computer Network Security  
+<a href="https://www.coursera.org/specializations/computer-network-security">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/design-secure-networked-systems">Design and Analyze Secure Networked Systems</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/basic-cryptography-and-crypto-api">Basic Cryptography and Programming with Crypto API</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/hacking-patching">Hacking and Patching</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/secure-networked-system-with-firewall-ids">Secure Networked System with Firewall and IDS</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=5 align=center>
 Java Programming and Software Engineering Fundamentals  
 <a href="https://www.coursera.org/specializations/java-programming">Specialization</a> by Duke University<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
@@ -35,69 +81,6 @@ Java Programming and Software Engineering Fundamentals
             <tr>
                 <td><a href="https://www.coursera.org/learn/java-programming-recommender">Java Programming: Build a Recommendation System</a></td>
                 <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Core Java  
-<a href="https://www.coursera.org/specializations/core-java">Specialization</a> by LearnQuest<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/java-introduction">Introduction to Java</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/object-oriented-programming-with-java">Introduction to Object-Oriented Programming with Java</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/object-oriented-hierarchies-java">Object-Oriented Hierarchies in Java</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/java-class-library">Java Class Library</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-Object Oriented Java Programming: Data Structures and Beyond  
-<a href="https://www.coursera.org/specializations/java-object-oriented">Specialization</a> by University of California San Diego<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/object-oriented-java">Object Oriented Programming in Java</a></td>
-                <td align="center">40</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-structures-optimizing-performance">Data Structures and Performance</a></td>
-                <td align="center">40</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/advanced-data-structures">Advanced Data Structures in Java</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/cs-tech-interview">Mastering the Software Engineering Interview</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/intermediate-programming-capstone">Capstone: Analyzing (Social) Network Data</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=3 align=center>
-Coding for Designers, Managers, and Entrepreneurs  
-<a href="https://www.coursera.org/specializations/coding-for-managers">Specialization</a> by University of Virginia<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/uva-coding-for-design-managers-1">Coding for Designers, Managers, & Entrepreneurs I</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/uva-coding-for-design-managers-2">Coding for Designers, Managers, & Entrepreneurs II</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/uva-coding-for-design-managers-3">Coding for Designers, Managers, & Entrepreneurs III</a></td>
-                <td align="center">15</td>
             </tr>
             <tr>
                 <td rowspan=4 align=center>
@@ -140,14 +123,6 @@ Secure Software Design
             <tr>
                 <td><a href="https://www.coursera.org/learn/software-design-threats-mitigations">Software Design Threats and Mitigations</a></td>
                 <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Version Control with Git by Atlassian<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/atlassian.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/version-control-with-git">Version Control with Git</a></td>
-                <td align="center">15</td>
             </tr>
             <tr>
                 <td rowspan=1 align=center>
@@ -198,6 +173,48 @@ Introduction to Application Development
             <tr>
                 <td><a href="https://www.coursera.org/learn/development-methodologies-overview">Development Methodologies Overview</a></td>
                 <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Software Testing and Automation  
+<a href="https://www.coursera.org/specializations/software-testing-automation">Specialization</a> by University of Minnesota<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/introduction-software-testing">Introduction to Software Testing</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/black-box-white-box-testing">Black-box and White-box Testing</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/automated-analysis">Introduction to Automated Analysis</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/web-mobile-testing">Web and Mobile Testing with Selenium</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Test-Driven Development  
+<a href="https://www.coursera.org/specializations/test-driven-development">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/test-driven-development-overview">Test-Driven Development Overview</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/a-practical-introduction-to-test-driven-development">A Practical Introduction to Test-Driven Development</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/test-driven-development-workflow">Integrating Test-Driven Development into Your Workflow</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/capstone-project-random-person-generator-using-tdd">Test-Driven Development Project: Random Person Generator</a></td>
+                <td align="center">10</td>
             </tr>
             <tr>
                 <td rowspan=3 align=center>
