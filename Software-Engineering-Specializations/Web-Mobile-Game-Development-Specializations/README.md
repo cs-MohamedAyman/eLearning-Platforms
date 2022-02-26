@@ -154,6 +154,40 @@ Web Applications for Everybody
                 <td align="center">25</td>
             </tr>
             <tr>
+                <td rowspan=3 align=center>
+Modern Application Development with Node.js on AWS  
+<a href="https://www.coursera.org/specializations/aws-nodejs-serverless-development">Specialization</a> by Amazon Web Services<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/aws-cloud-technical-essentials">AWS Cloud Technical Essentials</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/building-modern-node-applications-on-aws">Building Modern Node.js Applications on AWS</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps">Amazon DynamoDB: Building NoSQL Database-Driven Applications</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
+Modern Application Development with .NET on AWS  
+<a href="https://www.coursera.org/specializations/aws-net-serverless-development">Specialization</a> by Amazon Web Services<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/aws-cloud-technical-essentials">AWS Cloud Technical Essentials</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/aws-building-modern-net-applications">Building Modern .NET Applications on AWS</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps">Amazon DynamoDB: Building NoSQL Database-Driven Applications</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
                 <td rowspan=1 align=center>
 HTML, CSS, and Javascript for Web Developers by Johns Hopkins University<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
@@ -214,6 +248,14 @@ Advanced App Development in Android
             <tr>
                 <td><a href="https://www.coursera.org/learn/aada-capstone">Advanced App Development in Android Capstone</a></td>
                 <td align="center">25</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Mobile Interaction Design: How to Design Usable Mobile Products and Services by HSE University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/hse%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/mobile-interaction-design">Mobile Interaction Design: How to Design Usable Mobile Products and Services</a></td>
+                <td align="center">120</td>
             </tr>
             <tr>
                 <td rowspan=6 align=center>
@@ -500,6 +542,27 @@ Game Design and Development with Unity 2020
                 <td align="center">20</td>
             </tr>
             <tr>
+                <td rowspan=4 align=center>
+C++ Programming for Unreal Game Development  
+<a href="https://www.coursera.org/specializations/cplusplusunrealgamedevelopment">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/introductionprogrammingunreal">Introduction to C++ Programming and Unreal</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/more-programming-unreal">More C++ Programming and Unreal</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/cpp-class-development">C++ Class Development</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games">Intermediate Object-Oriented Programming for Unreal Games</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
                 <td rowspan=1 align=center>
 Introduction to User Experience Design by Georgia Institute of Technology<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/georgia%20institute%20of%20technology.jpg" width="40%">
@@ -595,14 +658,6 @@ UI / UX Design
                 <td align="center">45</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-The Unix Workbench by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/unix">The Unix Workbench</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
                 <td rowspan=7 align=center>
 Google UX Design Profession 
 <a href="https://www.coursera.org/professional-certificates/google-ux-design">Specialization</a> by Google<br>
@@ -680,6 +735,31 @@ Graphic Design
             <tr>
                 <td><a href="https://www.coursera.org/learn/brand-new-brand">Brand New Brand</a></td>
                 <td align="center">25</td>
+            </tr>
+            <tr>
+                <td rowspan=5 align=center>
+Building Your Freelancing Career  
+<a href="https://www.coursera.org/specializations/freelancing">Specialization</a> by California Institute of the Arts<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/california%20institute%20of%20the%20arts.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/freelancing-business">Plan a Successful Freelancing Business</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/making-money-freelancing">Making Money as a Freelancer</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/launching-your-freelancing-business">Launching Your Freelancing Business</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/protect-and-grow-your-business">Protect and Grow Your Freelancing Business</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/building-your-freelancing-career">Building Your Freelancing Career Capstone</a></td>
+                <td align="center">15</td>
             </tr>
     </tbody>
 </table>
