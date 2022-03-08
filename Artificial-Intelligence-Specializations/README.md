@@ -8,7 +8,7 @@
 ## Table of Contents
   * [Artificial Intelligence Specializations](#Artificial-Intelligence-Specializations-1)
   * [Machine Learning and Data Mining Specializations](#Machine-Learning-and-Data-Mining-Specializations)
-  * [Deep Learning and Neural Networks Specializations](#Deep-Learning-and-Neural-Networks-Specializations)
+  * [Neural Networks and Deep Learning Specializations](#Deep-Learning-and-Neural-Networks-Specializations)
   * [Image Processing and Computer Vision Specializations](#Image-Processing-and-Computer-Vision-Specializations)
 
 <br><br>
@@ -123,7 +123,7 @@
     </tbody>
 </table>
 
-## Deep Learning and Neural Networks Specializations
+## Neural Networks and Deep Learning Specializations
 
 <table>
     <tbody>
