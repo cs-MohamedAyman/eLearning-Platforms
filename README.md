@@ -31,7 +31,7 @@ Artificial Intelligence Specializations for computer science students, which inc
 
 #### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
 #### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
-#### - [Deep Learning and Neural Networks](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
+#### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-science-department.jpg">
