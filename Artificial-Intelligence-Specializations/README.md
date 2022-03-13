@@ -230,5 +230,17 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/intel.jpg" width="70%"></img></td>
         </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Introduction to Embedded Machine Learning by Edge Impulse</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">First Principles of Computer Vision Specialization by Columbia University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Hands-on Machine Learning with Google Cloud Labs Specialization by Google Cloud</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md">Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization by Microsoft</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/edge%20impulse.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/microsoft.jpg" width="70%"></img></td>
+        </tr>
     </tbody>
 </table>
