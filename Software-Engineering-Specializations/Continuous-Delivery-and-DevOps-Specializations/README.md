@@ -51,7 +51,7 @@ Developing Applications with Google Cloud
             </tr>
             <tr>
                 <td rowspan=3 align=center>
-Installing and Managing Google Cloud’s Apigee API Platform for Private Cloud  
+Installing and Managing Google Clouds Apigee API Platform for Private Cloud  
 <a href="https://www.coursera.org/specializations/apigee-api-gcp-onprem">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
                 </td>
@@ -482,6 +482,122 @@ Advanced System Security Design
             <tr>
                 <td><a href="https://www.coursera.org/learn/advanced-system-security-topics">Advanced System Security Topics</a></td>
                 <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Preparing for Google Cloud Certification: Cloud Network Engineer Profession 
+<a href="https://www.coursera.org/professional-certificates/google-cloud-networking">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/gcp-fundamentals">Google Cloud Fundamentals: Core Infrastructure</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/networking-gcp-defining-implementing-networks">Networking in Google Cloud: Defining and Implementing Networks</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management">Networking in Google Cloud: Hybrid Connectivity and Network Management</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/hands-on-labs-google-cloud-networking-engineer">Hands-On Labs in Google Cloud for Networking Engineers</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=6 align=center>
+Preparing for Google Cloud Certification: Cloud Engineer Profession 
+<a href="https://www.coursera.org/professional-certificates/cloud-engineering-gcp">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/gcp-fundamentals">Google Cloud Fundamentals: Core Infrastructure</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/gcp-infrastructure-foundation">Essential Google Cloud Infrastructure: Foundation</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/gcp-infrastructure-core-services">Essential Google Cloud Infrastructure: Core Services</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/gcp-infrastructure-scaling-automation">Elastic Google Cloud Infrastructure: Scaling and Automation</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke">Architecting with Google Kubernetes Engine: Foundations</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam">Preparing for the Google Cloud Associate Cloud Engineer Exam</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=7 align=center>
+Preparing for Google Cloud Certification: Cloud Architect Profession 
+<a href="https://www.coursera.org/professional-certificates/gcp-cloud-architect">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/gcp-fundamentals">Google Cloud Fundamentals: Core Infrastructure</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/gcp-infrastructure-foundation">Essential Google Cloud Infrastructure: Foundation</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/gcp-infrastructure-core-services">Essential Google Cloud Infrastructure: Core Services</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/gcp-infrastructure-scaling-automation">Elastic Google Cloud Infrastructure: Scaling and Automation</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/cloud-infrastructure-design-process">Reliable Google Cloud Infrastructure: Design and Process</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke">Architecting with Google Kubernetes Engine: Foundations</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam">Preparing for the Google Cloud Professional Cloud Architect Exam</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=7 align=center>
+Preparing for Google Cloud Certification: Cloud Security Engineer Profession 
+<a href="https://www.coursera.org/professional-certificates/google-cloud-security">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/gcp-fundamentals">Google Cloud Fundamentals: Core Infrastructure</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/networking-gcp-defining-implementing-networks">Networking in Google Cloud: Defining and Implementing Networks</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management">Networking in Google Cloud: Hybrid Connectivity and Network Management</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/managing-security-in-google-cloud-platform">Managing Security in Google Cloud</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/security-best-practices-in-google-cloud">Security Best Practices in Google Cloud</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp">Mitigating Security Vulnerabilities on Google Cloud</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/hands-on-labs-google-cloud-security-engineer">Hands-On Labs in Google Cloud for Security Engineers</a></td>
+                <td align="center">5</td>
             </tr>
     </tbody>
 </table>
