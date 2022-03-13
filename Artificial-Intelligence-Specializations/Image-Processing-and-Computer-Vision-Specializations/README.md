@@ -219,5 +219,85 @@ Distribution of OpenVINO toolkit for Computer Vision by Intel
                 <td><a href="https://www.coursera.org/learn/int-openvino">Intermediate Intel Distribution of OpenVINO toolkit for Deep Learning Applications</a></td>
                 <td align="center">5</td>
             </tr>
+            <tr>
+                <td rowspan=2 align=center>
+Introduction to Embedded Machine Learning by Edge Impulse 
+<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/edge%20impulse.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/introduction-to-embedded-machine-learning">Introduction to Embedded Machine Learning</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning">Computer Vision with Embedded Machine Learning</a></td>
+                <td align="center">35</td>
+            </tr>
+            <tr>
+                <td rowspan=5 align=center>
+First Principles of Computer Vision  
+<a href="https://www.coursera.org/specializations/firstprinciplesofcomputervision">Specialization</a> by Columbia University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/columbia%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/cameraandimaging">Camera and Imaging</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/features-and-boundaries">Features and Boundaries</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/3d-reconstruction---single-viewpoint">3D Reconstruction - Single Viewpoint</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints">3D Reconstruction - Multiple Viewpoints</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/perception">Visual Perception</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
+Hands-on Machine Learning with Google Cloud Labs  
+<a href="https://www.coursera.org/specializations/hands-on-machine-learning">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/introduction-machine-learning-language-processing">Introduction to Machine Learning: Language Processing</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/tensorflow-machine-learning">Intermediate Machine Learning: TensorFlow on Google Cloud</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/machine-learning-infrastructure">Advanced Machine Learning: Machine Learning Infrastructure</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td rowspan=5 align=center>
+Microsoft Azure AI Fundamentals AI-900 Exam Prep  
+<a href="https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals">Specialization</a> by Microsoft<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/microsoft.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/artificial-intelligence-microsoft-azure">Artificial Intelligence on Microsoft Azure</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/microsoft-azure-machine-learning">Microsoft Azure Machine Learning</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/computer-vision-microsoft-azure">Computer Vision in Microsoft Azure</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/nlp-microsoft-azure">Natural Language Processing in Microsoft Azure</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/microsoft-ai-900-exam-prep">Preparing for AI-900: Microsoft Azure AI Fundamentals exam</a></td>
+                <td align="center">10</td>
+            </tr>
     </tbody>
 </table>
