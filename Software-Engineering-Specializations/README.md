@@ -278,5 +278,17 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
         </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Continuous-Delivery-and-DevOps-Specializations/README.md">Preparing for Google Cloud Certification: Cloud Network Engineer Profession Specialization by Google Cloud</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Continuous-Delivery-and-DevOps-Specializations/README.md">Preparing for Google Cloud Certification: Cloud Engineer Profession Specialization by Google Cloud</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Continuous-Delivery-and-DevOps-Specializations/README.md">Preparing for Google Cloud Certification: Cloud Architect Profession Specialization by Google Cloud</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Continuous-Delivery-and-DevOps-Specializations/README.md">Preparing for Google Cloud Certification: Cloud Security Engineer Profession Specialization by Google Cloud</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="70%"></img></td>
+        </tr>
     </tbody>
 </table>
