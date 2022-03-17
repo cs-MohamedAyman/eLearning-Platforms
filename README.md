@@ -11,7 +11,7 @@ Computer Science Specializations for computer science students, which including 
 
 #### - [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
 #### - [Mathematics and Probability](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
-#### - [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
+#### - [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
 #### - [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/software-engineering-department.jpg">
