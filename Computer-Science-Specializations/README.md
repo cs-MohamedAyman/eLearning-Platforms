@@ -8,7 +8,7 @@
 ## Table of Contents
   * [Programming Languages and Object Oriented Specializations](#Programming-Languages-and-Object-Oriented-Specializations)
   * [Mathematics and Probability Specializations](#Mathematics-and-Probability-Specializations)
-  * [Data Structures and Algorithms Analysis Specializations](#Data-Structures-and-Algorithms-Analysis-Specializations)
+  * [Data Structures and Algorithms Specializations](#Data-Structures-and-Algorithms-Analysis-Specializations)
   * [Operating Systems and Parallel Computing Specializations](#Operating-Systems-and-Parallel-Computing-Specializations)
 
 <br><br>
@@ -111,7 +111,7 @@
     </tbody>
 </table>
 
-## [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Data-Structures-and-Algorithms-Analysis-Specializations/README.md) Specializations
+## [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/Data-Structures-and-Algorithms-Analysis-Specializations/README.md) Specializations
 
 <table>
     <tbody>
