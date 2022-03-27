@@ -249,10 +249,10 @@
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Big-Data-and-Data-Engineering-Specializations/README.md">IBM Data Warehouse Engineer Profession Specialization by IBM</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/google%20cloud.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/ibm.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/ibm.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/ibm.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
