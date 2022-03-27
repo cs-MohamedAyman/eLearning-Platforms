@@ -13,7 +13,7 @@
 
 <br><br>
 
-## Artificial Intelligence Specializations
+## [Artificial Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Artificial-Intelligence-Specializations/README.md) Specializations
 
 <table>
     <tbody>
@@ -68,7 +68,7 @@
     </tbody>
 </table>
 
-## Machine Learning and Data Mining Specializations
+## [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Machine-Learning-and-Data-Mining-Specializations/README.md) Specializations
 
 <table>
     <tbody>
@@ -123,7 +123,7 @@
     </tbody>
 </table>
 
-## Neural Networks and Deep Learning Specializations
+## [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Deep-Learning-and-Neural-Networks-Specializations/README.md) Specializations
 
 <table>
     <tbody>
@@ -178,7 +178,7 @@
     </tbody>
 </table>
 
-## Image Processing and Computer Vision Specializations
+## [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Image-Processing-and-Computer-Vision-Specializations/README.md) Specializations
 
 <table>
     <tbody>
