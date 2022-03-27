@@ -50,20 +50,20 @@ Google Data Analytics Profession
             </tr>
             <tr>
                 <td rowspan=3 align=center>
-Data Analysis and Visualization Foundations  
-<a href="https://www.coursera.org/specializations/data-analysis-visualization-foundations">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+Data Science with Databricks for Data Analysts  
+<a href="https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts">Specialization</a> by Databricks<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/databricks.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a></td>
+                <td><a href="https://www.coursera.org/learn/apache-spark-sql-for-data-analysts">Apache Spark (TM) SQL for Data Analysts</a></td>
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/excel-basics-data-analysis-ibm">Excel Basics for Data Analysis</a></td>
-                <td align="center">15</td>
+                <td><a href="https://www.coursera.org/learn/data-science-fundamentals-for-data-analysts">Data Science Fundamentals for Data Analysts</a></td>
+                <td align="center">20</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos">Data Visualization and Dashboards with Excel and Cognos</a></td>
-                <td align="center">10</td>
+                <td><a href="https://www.coursera.org/learn/applied-data-science-for-data-analysts">Applied Data Science for Data Analysts</a></td>
+                <td align="center">20</td>
             </tr>
             <tr>
                 <td rowspan=5 align=center>

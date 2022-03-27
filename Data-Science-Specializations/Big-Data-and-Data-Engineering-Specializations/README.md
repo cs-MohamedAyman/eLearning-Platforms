@@ -311,5 +311,105 @@ Statistical Modeling for Data Science Applications
                 <td><a href="https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression">Generalized Linear Models and Nonparametric Regression</a></td>
                 <td align="center">45</td>
             </tr>
+            <tr>
+                <td rowspan=6 align=center>
+Preparing for Google Cloud Certification: Cloud Data Engineer Profession 
+<a href="https://www.coursera.org/professional-certificates/gcp-data-engineering">Specialization</a> by Google Cloud<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Big Data and Machine Learning Fundamentals</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-lakes-data-warehouses-gcp">Modernizing Data Lakes and Data Warehouses with Google Cloud</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/batch-data-pipelines-gcp">Building Batch Data Pipelines on GCP</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/streaming-analytics-systems-gcp">Building Resilient Streaming Analytics Systems on Google Cloud</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp">Smart Analytics, Machine Learning, and AI on GCP</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam">Preparing for the Google Cloud Professional Data Engineer Exam</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+BI Foundations with SQL, ETL and Data Warehousing  
+<a href="https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting">Hands-on Introduction to Linux Commands and Shell Scripting</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/sql-data-science">Databases and SQL for Data Science with Python</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka">ETL and Data Pipelines with Shell, Airflow and Kafka</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics">Getting Started with Data Warehousing and BI Analytics</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=3 align=center>
+NoSQL, Big Data, and Spark Foundations  
+<a href="https://www.coursera.org/specializations/nosql-big-data-and-spark-foundations">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/introduction-to-nosql-databases">Introduction to NoSQL Databases</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop">Introduction to Big Data with Spark and Hadoop</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-engineering-and-machine-learning-using-spark">Data Engineering and Machine Learning using Spark</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td rowspan=7 align=center>
+IBM Data Warehouse Engineer Profession 
+<a href="https://www.coursera.org/professional-certificates/data-warehouse-engineering">Specialization</a> by IBM<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/introduction-to-data-engineering">Introduction to Data Engineering</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/introduction-to-relational-databases">Introduction to Relational Databases (RDBMS)</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/sql-data-science">Databases and SQL for Data Science with Python</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting">Hands-on Introduction to Linux Commands and Shell Scripting</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/relational-database-administration">Relational Database Administration (DBA)</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka">ETL and Data Pipelines with Shell, Airflow and Kafka</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics">Getting Started with Data Warehousing and BI Analytics</a></td>
+                <td align="center">15</td>
+            </tr>
     </tbody>
 </table>
