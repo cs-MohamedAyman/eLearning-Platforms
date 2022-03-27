@@ -451,5 +451,101 @@ Information Systems
                 <td><a href="https://www.coursera.org/learn/it-infrastructure-and-emerging-trends">IT Infrastructure and Emerging Trends</a></td>
                 <td align="center">10</td>
             </tr>
+            <tr>
+                <td rowspan=6 align=center>
+IBM & Darden Digital Strategy  
+<a href="https://www.coursera.org/specializations/digital-strategy">Specialization</a> by University of Virginia Darden School Foundation<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia%20darden%20school%20foundation.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/strategists-challenge">The Strategist's Challenge</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/introduction-to-ai">Introduction to Artificial Intelligence (AI)</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/introduction-to-cloud">Introduction to Cloud Computing</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/introduction-to-digital-transformation-part-1">Introduction to Digital Transformation Part 1</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/digital-transformation-part-2">Introduction to Digital Transformation Part 2</a></td>
+                <td align="center">5</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Data Science at Scale  
+<a href="https://www.coursera.org/specializations/data-science">Specialization</a> by University of Washington<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/data-manipulation">Data Manipulation at Scale: Systems and Algorithms</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/predictive-analytics">Practical Predictive Analytics: Models and Methods</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/data-results">Communicating Data Science Results</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/datasci-capstone">Data Science at Scale - Capstone Project</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=4 align=center>
+Vital Skills for Data Science  
+<a href="https://www.coursera.org/specializations/vital-skills-for-data-science">Specialization</a> by University of Colorado Boulder<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/data-science-as-a-field">Data Science as a Field</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/ethical-issues-data-science">Ethical Issues in Data Science</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/cybersecurity-for-data-science">Cybersecurity for Data Science</a></td>
+                <td align="center">20</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/fundamentals-of-data-visualization">Fundamentals of Data Visualization</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td rowspan=5 align=center>
+Microsoft Azure Data Scientist Associate - DP-100 Test Prep  
+<a href="https://www.coursera.org/specializations/azure-data-scientist">Specialization</a> by Microsoft<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/microsoft.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure">Create Machine Learning Models in Microsoft Azure</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/microsoft-azure-machine-learning-for-data-scientist">Microsoft Azure Machine Learning for Data Scientists</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/build-and-operate-machine-learning-solutions-with-azure">Build and Operate Machine Learning Solutions with Azure</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/perform-data-science-with-azure-databricks">Perform data science with Azure Databricks</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/prepare-for-dp-100-design-a-data-science-solution-on-azure">Prepare for DP-100: Data Science on Microsoft Azure Exam</a></td>
+                <td align="center">10</td>
+            </tr>
     </tbody>
 </table>
