@@ -8,7 +8,7 @@
 ## Table of Contents
   * [Software Engineering Specializations](#Software-Engineering-Specializations)
   * [Database Systems and Warehousing Specializations](#Database-Systems-and-Warehousing-Specializations)
-  * [Web/Mobile/Game Development Specializations](#Web/Mobile/Game-Development-Specializations)
+  * [Web/Mobile/Game Development Specializations](#WebMobileGame-Development-Specializations)
   * [Continuous Delivery and DevOps Specializations](#Continuous-Delivery-and-DevOps-Specializations)
 
 <br><br>
