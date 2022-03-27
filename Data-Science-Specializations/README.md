@@ -120,6 +120,18 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="70%"></img></td>
         </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">IBM & Darden Digital Strategy Specialization by University of Virginia Darden School Foundation</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">Data Science at Scale Specialization by University of Washington</a></td>
+ <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">Vital Skills for Data Science Specialization by University of Colorado Boulder</a></td>
+ <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-Specializations/README.md">Microsoft Azure Data Scientist Associate - DP-100 Test Prep Specialization by Microsoft</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia%20darden%20school%20foundation.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/microsoft.jpg" width="70%"></img></td>
+        </tr>
     </tbody>
 </table>
 
