@@ -39,8 +39,8 @@ Artificial Intelligence Specializations for computer science students, which inc
 ## [`Data Science`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 Data Science Specializations for computer science students, which including the following main topics:
 
+#### - [Data Science and Business Analytics](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 #### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
-#### - [Data Science](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 #### - [Business Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 #### - [Big Data and Data Engineering](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 
