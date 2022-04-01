@@ -6,7 +6,7 @@
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
 
 ## Table of Contents
-  * [Data Science and Business Analytics Specializations](#Data-Science-Specializations-1)
+  * [Data Science and Business Analytics Specializations](#Data-Science-and-Business-Analytics-Specializations)
   * [Data Analysis and Visualization Specializations](#Data-Analysis-and-Visualization-Specializations)
   * [Business Intelligence Specializations](#Business-Intelligence-Specializations)
   * [Data Engineering and Big Data Specializations](#Data-Engineering-and-Big-Data-Specializations)
