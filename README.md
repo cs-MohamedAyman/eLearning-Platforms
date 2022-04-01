@@ -59,7 +59,4 @@ Operation Research Specializations for computer science students, which includin
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
 Bioinformatics Specializations for computer science students, which including the following main topics:
 
-#### - [Introductory to Bioinformatics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
-#### - [Next-Generation Sequencing](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
-#### - [Integraty Bioinformatics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
-#### - [Drug Design](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
+coming soon ...
