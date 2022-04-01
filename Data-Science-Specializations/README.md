@@ -9,7 +9,7 @@
   * [Data Analysis and Visualization Specializations](#Data-Analysis-and-Visualization-Specializations)
   * [Data Science Specializations](#Data-Science-Specializations-1)
   * [Business Intelligence Specializations](#Business-Intelligence-Specializations)
-  * [Big Data and Data Engineering Specializations](#Big-Data-and-Data-Engineering-Specializations)
+  * [Data Engineering and Big Data Specializations](#Data-Engineering-and-Big-Data-Specializations)
 
 <br><br>
 
@@ -202,7 +202,7 @@
     </tbody>
 </table>
 
-## Big Data and Data Engineering Specializations
+## Data Engineering and Big Data Specializations
 
 <table>
     <tbody>
