@@ -1,6 +1,6 @@
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## Big Data and Data Engineering Specializations
+## Data Engineering and Big Data Specializations
 
 <table>
     <thead>
