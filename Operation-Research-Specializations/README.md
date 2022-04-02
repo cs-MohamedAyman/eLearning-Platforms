@@ -3,7 +3,7 @@
 # Operation Research Specializations
 
 <br>
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
   * [Operation Research and Decision Theory Specializations](#Operation-Research-and-Decision-Theory-Specializations)

@@ -3,7 +3,7 @@
 # Artificial Intelligence Specializations
 
 <br>
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
+<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
   * [Artificial Intelligence Specializations](#Artificial-Intelligence-Specializations-1)

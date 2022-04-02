@@ -4,7 +4,7 @@
 Coursera specializations for computer science students.
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/computer-science-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
 ## [`Computer Science`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
 Computer Science Specializations for computer science students, which including the following main topics:
@@ -14,7 +14,7 @@ Computer Science Specializations for computer science students, which including 
 #### - [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
 #### - [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md) Specializations
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/software-engineering-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
 
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md) Specializations
 Software Engineering Specializations for computer science students, which including the following main topics:
@@ -24,7 +24,7 @@ Software Engineering Specializations for computer science students, which includ
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md) Specializations
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md) Specializations
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/artificial-intelligence-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
 
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
 Artificial Intelligence Specializations for computer science students, which including the following main topics:
@@ -34,7 +34,7 @@ Artificial Intelligence Specializations for computer science students, which inc
 #### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Artificial-Intelligence-Specializations/README.md) Specializations
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-science-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg">
 
 ## [`Data Science`](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 Data Science Specializations for computer science students, which including the following main topics:
@@ -44,7 +44,7 @@ Data Science Specializations for computer science students, which including the 
 #### - [Business Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science-Specializations/README.md) Specializations
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/operation-research-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Operation-Research-Specializations/README.md) Specializations
 Operation Research Specializations for computer science students, which including the following main topics:
@@ -54,7 +54,7 @@ Operation Research Specializations for computer science students, which includin
 #### - [Reinforcement Learning](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Operation-Research-Specializations/README.md) Specializations
 #### - [Project Management](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Operation-Research-Specializations/README.md) Specializations
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bioinformatics-department.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
 
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Bioinformatics-Specializations/README.md) Specializations
 Bioinformatics Specializations for computer science students, which including the following main topics:
