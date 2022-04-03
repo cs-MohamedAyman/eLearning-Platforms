@@ -49,10 +49,7 @@ Data Science Specializations for computer science students, which including the 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Operation-Research-Specializations/README.md) Specializations
 Operation Research Specializations for computer science students, which including the following main topics:
 
-#### - [Operation Research and Decision Theory](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Operation-Research-Specializations/README.md) Specializations
-#### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Operation-Research-Specializations/README.md) Specializations
-#### - [Reinforcement Learning](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Operation-Research-Specializations/README.md) Specializations
-#### - [Project Management](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Operation-Research-Specializations/README.md) Specializations
+coming soon ...
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
 
