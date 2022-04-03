@@ -13,7 +13,7 @@
 
 <br><br>
 
-## Data Science and Business Analytics Specializations
+## [Data Science and Business Analytics](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Science-and-Business-Analytics-Specializations/README.md) Specializations
 
 <table>
     <tbody>
@@ -80,7 +80,7 @@
     </tbody>
 </table>
 
-## Data Analysis and Visualization Specializations
+## [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Analysis-and-Visualization-Specializations/README.md) Specializations
 
 <table>
     <tbody>
@@ -135,7 +135,7 @@
     </tbody>
 </table>
 
-## Business Intelligence Specializations
+## [Business Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Business-Intelligence-Specializations/README.md) Specializations
 
 <table>
     <tbody>
@@ -202,7 +202,7 @@
     </tbody>
 </table>
 
-## Data Engineering and Big Data Specializations
+## [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science-Specializations/Data-Engineering-and-Big-Data-Specializations/README.md) Specializations
 
 <table>
     <tbody>
