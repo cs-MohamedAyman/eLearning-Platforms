@@ -250,14 +250,6 @@ Advanced App Development in Android
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Mobile Interaction Design: How to Design Usable Mobile Products and Services by HSE University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/hse%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/mobile-interaction-design">Mobile Interaction Design: How to Design Usable Mobile Products and Services</a></td>
-                <td align="center">120</td>
-            </tr>
-            <tr>
                 <td rowspan=6 align=center>
 iOS Development for Creative Entrepreneurs  
 <a href="https://www.coursera.org/specializations/ios-development">Specialization</a> by University of California Irvine<br>
