@@ -54,11 +54,6 @@ eLearning Platforms for computer science students.
 
 ## [`Udemy Courses`](/udemy-courses/README.md)
 
-<a href="/udacity-nanodegrees/README.md"><img align="right" width="80" src="/logos/udacity.png"></img></a>
-<br>
-
-## [`Udacity Nanodegrees`](/udacity-nanodegrees/README.md)
-
 <a href="/edx-programs/README.md"><img align="right" width="80" src="/logos/edx.png"></img></a>
 <br>
 
