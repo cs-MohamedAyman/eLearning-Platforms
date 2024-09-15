@@ -13,22 +13,30 @@
     </thead>
     <tbody>
             <tr>
-<td rowspan=4 align="center">01</td>
-<td rowspan=4 align="center">Natural Language Processing<br><a href="https://coursera.org/specializations/natural-language-processing">Specialization</a><br>by DeepLearning.AI</td>
-<td><a href="https://coursera.org/learn/classification-vector-spaces-in-nlp">Natural Language Processing with Classification and Vector Spaces</a></td>
-<td align="center">25</td>
+<td rowspan=6 align="center">01</td>
+<td rowspan=6 align="center">IBM Machine Learning<br><a href="https://coursera.org/professional-certificates/ibm-machine-learning">Professional Certificate</a><br>by IBM</td>
+<td><a href="https://coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
+<td align="center">10</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/probabilistic-models-in-nlp">Natural Language Processing with Probabilistic Models</a></td>
-<td align="center">25</td>
+<td><a href="https://coursera.org/learn/supervised-learning-regression">Supervised Learning: Regression</a></td>
+<td align="center">15</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/sequence-models-in-nlp">Natural Language Processing with Sequence Models</a></td>
-<td align="center">20</td>
+<td><a href="https://coursera.org/learn/supervised-learning-classification">Supervised Learning: Classification</a></td>
+<td align="center">15</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/attention-models-in-nlp">Natural Language Processing with Attention Models</a></td>
-<td align="center">20</td>
+<td><a href="https://coursera.org/learn/ibm-unsupervised-learning">Unsupervised Learning</a></td>
+<td align="center">10</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/deep-learning-reinforcement-learning">Deep Learning and Reinforcement Learning</a></td>
+<td align="center">15</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/time-series-survival-analysis">Specialized Models: Time Series and Survival Analysis</a></td>
+<td align="center">15</td>
             </tr>
             <tr>
 <td rowspan=2 align="center">02</td>
@@ -137,32 +145,6 @@
             <tr>
 <td><a href="https://coursera.org/learn/ai-deep-learning-capstone">AI Capstone Project with Deep Learning</a></td>
 <td align="center">10</td>
-            </tr>
-            <tr>
-<td rowspan=6 align="center">08</td>
-<td rowspan=6 align="center">IBM Machine Learning<br><a href="https://coursera.org/professional-certificates/ibm-machine-learning">Professional Certificate</a><br>by IBM</td>
-<td><a href="https://coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
-<td align="center">10</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/supervised-learning-regression">Supervised Learning: Regression</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/supervised-learning-classification">Supervised Learning: Classification</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/ibm-unsupervised-learning">Unsupervised Learning</a></td>
-<td align="center">10</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/deep-learning-reinforcement-learning">Deep Learning and Reinforcement Learning</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/time-series-survival-analysis">Specialized Models: Time Series and Survival Analysis</a></td>
-<td align="center">15</td>
             </tr>
     </tbody>
 </table>

@@ -45,28 +45,7 @@
 <td align="center">20</td>
             </tr>
             <tr>
-<td rowspan=1 align="center">03</td>
-<td rowspan=1 align="center"><br>by DeepLearning.AI<br><br></td>
-<td><a href="https://coursera.org/learn/ai-for-everyone">AI For Everyone</a></td>
-<td align="center">10</td>
-            </tr>
-            <tr>
-<td rowspan=3 align="center">04</td>
-<td rowspan=3 align="center">AI for Good<br><a href="https://coursera.org/specializations/ai-for-good
-">Specialization</a><br>by DeepLearning.AI</td>
-<td><a href="https://coursera.org/learn/ai-and-public-health">AI and Public Health</a></td>
-<td align="center">10</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/ai-and-climate-change">AI and Climate Change</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/ai-and-disaster-management">AI and Disaster Management</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td rowspan=3 align="center">05</td>
+<td rowspan=3 align="center">03</td>
 <td rowspan=3 align="center">Intel AI Fundamentals<br><a href="https://coursera.org/specializations/intel-ai-fundamental">Specialization</a><br>by Intel</td>
 <td><a href="https://coursera.org/learn/ai-essentials">AI Essentials</a></td>
 <td align="center">5</td>
@@ -80,7 +59,7 @@
 <td align="center">5</td>
             </tr>
             <tr>
-<td rowspan=4 align="center">06</td>
+<td rowspan=4 align="center">04</td>
 <td rowspan=4 align="center">Select Topics in Python<br><a href="https://coursera.org/specializations/codio-select-topics-python">Specialization</a><br>by Codio</td>
 <td><a href="https://coursera.org/learn/codio-select-topics-python-packaging">Select Topics in Python: Packaging</a></td>
 <td align="center">10</td>
@@ -98,7 +77,7 @@
 <td align="center">10</td>
             </tr>
             <tr>
-<td rowspan=5 align="center">07</td>
+<td rowspan=5 align="center">05</td>
 <td rowspan=5 align="center">AI in Healthcare<br><a href="https://coursera.org/specializations/ai-healthcare">Specialization</a><br>by Stanford University</td>
 <td><a href="https://coursera.org/learn/intro-to-healthcare">Introduction to Healthcare</a></td>
 <td align="center">15</td>
@@ -120,7 +99,7 @@
 <td align="center">10</td>
             </tr>
             <tr>
-<td rowspan=4 align="center">08</td>
+<td rowspan=4 align="center">06</td>
 <td rowspan=4 align="center">AI for Scientific Research<br><a href="https://coursera.org/specializations/artificial-intelligence-scientific-research">Specialization</a><br>by LearnQuest</td>
 <td><a href="https://coursera.org/learn/data-science-and-scikit-learn-in-python">Introduction to Data Science and scikit-learn in Python</a></td>
 <td align="center">15</td>
@@ -138,7 +117,7 @@
 <td align="center">15</td>
             </tr>
             <tr>
-<td rowspan=4 align="center">09</td>
+<td rowspan=4 align="center">07</td>
 <td rowspan=4 align="center">Ethics in the Age of AI<br><a href="https://coursera.org/specializations/ethics-in-ai">Specialization</a><br>by LearnQuest</td>
 <td><a href="https://coursera.org/learn/ai-algorithm-limitations">Artificial Intelligence Algorithms Models and Limitations</a></td>
 <td align="center">10</td>
@@ -156,7 +135,7 @@
 <td align="center">10</td>
             </tr>
             <tr>
-<td rowspan=4 align="center">10</td>
+<td rowspan=4 align="center">08</td>
 <td rowspan=4 align="center">Machine Learning for Supply Chains<br><a href="https://coursera.org/specializations/machine-learning-supply-chain">Specialization</a><br>by LearnQuest</td>
 <td><a href="https://coursera.org/learn/machine-learning-for-supply-chain-fundamentals">Fundamentals of Machine Learning for Supply Chain</a></td>
 <td align="center">15</td>
@@ -174,7 +153,7 @@
 <td align="center">10</td>
             </tr>
             <tr>
-<td rowspan=6 align="center">11</td>
+<td rowspan=6 align="center">09</td>
 <td rowspan=6 align="center">Internet of Things and AI Cloud<br><a href="https://coursera.org/specializations/internet-of-things">Specialization</a><br>by University of California San Diego</td>
 <td><a href="https://coursera.org/learn/internet-of-things-history">Internet of Things: How did we get here?</a></td>
 <td align="center">20</td>
@@ -200,7 +179,7 @@
 <td align="center">5</td>
             </tr>
             <tr>
-<td rowspan=4 align="center">12</td>
+<td rowspan=4 align="center">10</td>
 <td rowspan=4 align="center">Mind and Machine<br><a href="https://coursera.org/specializations/mind-machine">Specialization</a><br>by University of Colorado Boulder</td>
 <td><a href="https://coursera.org/learn/mind-machine-artificial-intelligence">What is the mind and what is artificial intelligence?</a></td>
 <td align="center">10</td>

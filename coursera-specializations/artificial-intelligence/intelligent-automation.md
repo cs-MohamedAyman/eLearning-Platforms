@@ -109,35 +109,7 @@ Scrimba</td>
 <td align="center">2</td>
             </tr>
             <tr>
-<td rowspan=2 align="center">06</td>
-<td rowspan=2 align="center"><br>by DeepLearning.AI<br><br></td>
-<td><a href="https://coursera.org/learn/generative-ai-with-llms">Generative AI with Large Language Models</a></td>
-<td align="center">20</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/generative-ai-for-everyone">Generative AI for Everyone</a></td>
-<td align="center">10</td>
-            </tr>
-            <tr>
-<td rowspan=4 align="center">07</td>
-<td rowspan=4 align="center"><br>by Google Cloud<br><br></td>
-<td><a href="https://coursera.org/learn/introduction-to-ai-and-machine-learning-on-google-cloud">Introduction to AI and Machine Learning on Google Cloud</a></td>
-<td align="center">10</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/introduction-to-large-language-models">Introduction to Large Language Models</a></td>
-<td align="center">1</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/introduction-to-image-generation">Introduction to Image Generation</a></td>
-<td align="center">1</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/introduction-to-generative-ai-studio">Introduction to Generative AI Studio</a></td>
-<td align="center">1</td>
-            </tr>
-            <tr>
-<td rowspan=5 align="center">08</td>
+<td rowspan=5 align="center">06</td>
 <td align="center">by University of Colorado Boulder</td>
 <td><a href="https://coursera.org/learn/introduction-generative-ai">Introduction to Generative AI</a></td>
 <td align="center">10</td>

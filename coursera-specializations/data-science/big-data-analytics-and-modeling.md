@@ -116,24 +116,6 @@
             </tr>
             <tr>
 <td rowspan=4 align="center">06</td>
-<td rowspan=4 align="center">From Data to Insights with Google Cloud Platform<br><a href="https://coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a><br>by Google Cloud</td>
-<td><a href="https://coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring and Preparing your Data with BigQuery</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights">Creating New BigQuery Datasets and Visualizing Insights</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/gcp-advanced-insights-bigquery">Achieving Advanced Insights with BigQuery</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/data-insights-gcp-apply-ml">Applying Machine Learning to your Data with GCP</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td rowspan=4 align="center">07</td>
 <td rowspan=4 align="center">Key Technologies in Data Analytics<br><a href="https://coursera.org/specializations/key-technologies-data-analytics">Specialization</a><br>by LearnQuest</td>
 <td><a href="https://coursera.org/learn/fundamentals-of-data-analysis">Fundamentals of Data Analysis</a></td>
 <td align="center">20</td>
@@ -151,7 +133,7 @@
 <td align="center">15</td>
             </tr>
             <tr>
-<td rowspan=3 align="center">08</td>
+<td rowspan=3 align="center">07</td>
 <td rowspan=3 align="center">Statistical Modeling for Data Science Applications<br><a href="https://coursera.org/specializations/statistical-modeling-for-data-science-applications">Specialization</a><br>by University of Colorado Boulder</td>
 <td><a href="https://coursera.org/learn/modern-regression-analysis-in-r">Modern Regression Analysis in R</a></td>
 <td align="center">45</td>
