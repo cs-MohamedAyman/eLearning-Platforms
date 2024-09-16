@@ -307,5 +307,153 @@ Google Cloud Specializations for computer science students.
 <td><a href="https://coursera.org/learn/deploy-and-monitor-in-google-cloud-for-aws-professionals">Deploy and Monitor in Google Cloud for AWS Professionals</a></td>
 <td align="center">2</td>
             </tr>
+            <tr>
+<td rowspan=8 align="center">15</td>
+<td rowspan=8 align="center">Google Data Analytics<br><a href="https://coursera.org/professional-certificates/google-data-analytics">Professional Certificate</a><br>by Google</td>
+<td><a href="https://coursera.org/learn/foundations-data">Foundations: Data, Data, Everywhere</a></td>
+<td align="center">20</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/ask-questions-make-decisions">Ask Questions to Make Data-Driven Decisions</a></td>
+<td align="center">20</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/data-preparation">Prepare Data for Exploration</a></td>
+<td align="center">25</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/process-data">Process Data from Dirty to Clean</a></td>
+<td align="center">25</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/analyze-data">Analyze Data to Answer Questions</a></td>
+<td align="center">25</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/visualize-data">Share Data Through the Art of Visualization</a></td>
+<td align="center">25</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/data-analysis-r">Data Analysis with R Programming</a></td>
+<td align="center">40</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/google-data-analytics-capstone">Google Data Analytics Capstone: Complete a Case Study</a></td>
+<td align="center">10</td>
+            </tr>
+            <tr>
+<td rowspan=7 align="center">16</td>
+<td rowspan=7 align="center">Google Advanced Data Analytics<br><a href="https://coursera.org/professional-certificates/google-advanced-data-analytics">Professional Certificate</a><br>by Google</td>
+<td><a href="https://coursera.org/learn/foundations-of-data-science">Foundations of Data Science</a></td>
+<td align="center">20</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/get-started-with-python">Get Started with Python</a></td>
+<td align="center">25</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight">Go Beyond the Numbers: Translate Data into Insights</a></td>
+<td align="center">30</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/the-power-of-statistics">The Power of Statistics</a></td>
+<td align="center">35</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/regression-analysis-simplify-complex-data-relationships">Regression Analysis: Simplify Complex Data Relationships</a></td>
+<td align="center">30</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/the-nuts-and-bolts-of-machine-learning">The Nuts and Bolts of Machine Learning</a></td>
+<td align="center">35</td>
+            </tr>
+            <tr>
+<td><a href="https://coursera.org/learn/google-advanced-data-analytics-capstone">Google Advanced Data Analytics Capstone</a></td>
+<td align="center">10</td>
+            </tr>
+            <tr>
+<td rowspan=4 align="center">17</td>
+<td rowspan=4 align="center">Introduction to Generative AI Learning Path<br><a href="https://www.coursera.org/specializations/introduction-to-generative-ai">Specialization</a><br>by Google Cloud</td>
+<td><a href="https://www.coursera.org/learn/introduction-to-generative-ai">Introduction to Generative AI</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/introduction-to-large-language-models">Introduction to Large Language Models</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/introduction-to-responsible-ai">Introduction to Responsible AI</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/responsible-ai-applying-ai-principles-with-google-cloud">Responsible AI: Applying AI Principles with Google Cloud</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td rowspan=5 align="center">18</td>
+<td rowspan=5 align="center">Google Cloud Data Analytics<br><a href="https://www.coursera.org/professional-certificates/google-cloud-data-analytics-certificate">Professional Certificate</a><br>by Google Cloud</td>
+<td><a href="https://www.coursera.org/learn/introduction-to-data-analytics-in-google-cloud">Introduction to Data Analytics in Google Cloud</a></td>
+<td align="center">15</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/data-management-and-storage-in-the-cloud">Data Management and Storage in the Cloud</a></td>
+<td align="center">25</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/data-transformation-in-the-cloud">Data Transformation in the Cloud</a></td>
+<td align="center">15</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/the-power-of-storytelling-how-to-visualize-data-in-the-cloud">The Power of Storytelling: How to Visualize Data in the Cloud</a></td>
+<td align="center">20</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/put-it-all-together-prepare-for-a-cloud-data-analyst-job">Put It All Together: Prepare for a Cloud Data Analyst Job</a></td>
+<td align="center">15</td>
+            </tr>
+            <tr>
+<td rowspan=7 align="center">19</td>
+<td rowspan=7 align="center">Gemini for Google Cloud Learning Path<br><a href="https://www.coursera.org/specializations/gemini-for-google-cloud-learning-path">Specialization</a><br>by Google Cloud</td>
+<td><a href="https://www.coursera.org/learn/gemini-for-application-developers">Gemini for Application Developers</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/gemini-for-cloud-architects">Gemini for Cloud Architects</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/gemini-for-data-scientists-and-analysts">Gemini for Data Scientists and Analysts</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/gemini-for-network-engineers">Gemini for Network Engineers</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/gemini-for-security-engineers">Gemini for Security Engineers</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/gemini-for-devops-engineers">Gemini for DevOps Engineers</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/gemini-for-end-to-end-sdlc">Gemini for end-to-end SDLC</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td rowspan=3 align="center">20</td>
+<td rowspan=3 align="center">Responsible AI for Developers<br><a href="https://www.coursera.org/specializations/responsible-ai-for-developers">Specialization</a><br>by Google Cloud</td>
+<td><a href="https://www.coursera.org/learn/responsible-ai-for-developers-fairness--bias">Responsible AI for Developers: Fairness & Bias</a></td>
+<td align="center">5</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/responsible-ai-for-developers-interpretabilitytransparency">Responsible AI for Developers: Interpretability & Transparency</a></td>
+<td align="center">5</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/responsible-ai-for-developers-privacy-and-safety">Responsible AI for Developers: Privacy & Safety</a></td>
+<td align="center">5</td>
+            </tr>
     </tbody>
 </table>
