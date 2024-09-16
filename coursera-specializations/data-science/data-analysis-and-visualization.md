@@ -13,68 +13,44 @@
     </thead>
     <tbody>
             <tr>
-<td rowspan=8 align="center">01</td>
-<td rowspan=8 align="center">Google Data Analytics<br><a href="https://coursera.org/professional-certificates/google-data-analytics">Professional Certificate</a><br>by Google</td>
-<td><a href="https://coursera.org/learn/foundations-data">Foundations: Data, Data, Everywhere</a></td>
-<td align="center">20</td>
+<td rowspan=4 align="center">01</td>
+<td rowspan=4 align="center">Advanced Statistics for Data Science<br><a href="https://coursera.org/specializations/advanced-statistics-data-science">Specialization</a><br>by Johns Hopkins University</td>
+<td><a href="https://coursera.org/learn/biostatistics">Mathematical Biostatistics Boot Camp 1</a></td>
+<td align="center">15</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/ask-questions-make-decisions">Ask Questions to Make Data-Driven Decisions</a></td>
-<td align="center">20</td>
+<td><a href="https://coursera.org/learn/biostatistics-2">Mathematical Biostatistics Boot Camp 2</a></td>
+<td align="center">10</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/data-preparation">Prepare Data for Exploration</a></td>
-<td align="center">25</td>
+<td><a href="https://coursera.org/learn/linear-models">Advanced Linear Models for Data Science 1: Least Squares</a></td>
+<td align="center">10</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/process-data">Process Data from Dirty to Clean</a></td>
-<td align="center">25</td>
+<td><a href="https://coursera.org/learn/linear-models-2">Advanced Linear Models for Data Science 2: Statistical Linear Models</a></td>
+<td align="center">10</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/analyze-data">Analyze Data to Answer Questions</a></td>
-<td align="center">25</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/visualize-data">Share Data Through the Art of Visualization</a></td>
-<td align="center">25</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/data-analysis-r">Data Analysis with R Programming</a></td>
+<td rowspan=5 align="center">02</td>
+<td rowspan=5 align="center">Methods and Statistics in Social Sciences<br><a href="https://coursera.org/specializations/social-science">Specialization</a><br>by University of Amsterdam</td>
+<td><a href="https://coursera.org/learn/quantitative-methods">Quantitative Methods</a></td>
 <td align="center">40</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/google-data-analytics-capstone">Google Data Analytics Capstone: Complete a Case Study</a></td>
-<td align="center">10</td>
+<td><a href="https://coursera.org/learn/qualitative-methods">Qualitative Research Methods</a></td>
+<td align="center">35</td>
             </tr>
             <tr>
-<td rowspan=7 align="center">02</td>
-<td rowspan=7 align="center">Google Advanced Data Analytics<br><a href="https://coursera.org/professional-certificates/google-advanced-data-analytics">Professional Certificate</a><br>by Google</td>
-<td><a href="https://coursera.org/learn/foundations-of-data-science">Foundations of Data Science</a></td>
-<td align="center">20</td>
+<td><a href="https://coursera.org/learn/basic-statistics">Basic Statistics</a></td>
+<td align="center">30</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/get-started-with-python">Get Started with Python</a></td>
+<td><a href="https://coursera.org/learn/inferential-statistics">Inferential Statistics</a></td>
 <td align="center">25</td>
             </tr>
             <tr>
-<td><a href="https://coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight">Go Beyond the Numbers: Translate Data into Insights</a></td>
-<td align="center">30</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/the-power-of-statistics">The Power of Statistics</a></td>
-<td align="center">35</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/regression-analysis-simplify-complex-data-relationships">Regression Analysis: Simplify Complex Data Relationships</a></td>
-<td align="center">30</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/the-nuts-and-bolts-of-machine-learning">The Nuts and Bolts of Machine Learning</a></td>
-<td align="center">35</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/google-advanced-data-analytics-capstone">Google Advanced Data Analytics Capstone</a></td>
-<td align="center">10</td>
+<td><a href="https://coursera.org/learn/social-science-capstone">Methods and Statistics in Social Science - Final Research Project</a></td>
+<td align="center">20</td>
             </tr>
             <tr>
 <td rowspan=5 align="center">03</td>
@@ -268,46 +244,6 @@ University of Colorado Boulder</td>
             <tr>
 <td><a href="https://coursera.org/learn/analytics-data-decisions">Applied Analytics and Data for Decision Making</a></td>
 <td align="center">15</td>
-            </tr>
-            <tr>
-<td rowspan=4 align="center">13</td>
-<td rowspan=4 align="center">Advanced Statistics for Data Science<br><a href="https://coursera.org/specializations/advanced-statistics-data-science">Specialization</a><br>by Johns Hopkins University</td>
-<td><a href="https://coursera.org/learn/biostatistics">Mathematical Biostatistics Boot Camp 1</a></td>
-<td align="center">15</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/biostatistics-2">Mathematical Biostatistics Boot Camp 2</a></td>
-<td align="center">10</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/linear-models">Advanced Linear Models for Data Science 1: Least Squares</a></td>
-<td align="center">10</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/linear-models-2">Advanced Linear Models for Data Science 2: Statistical Linear Models</a></td>
-<td align="center">10</td>
-            </tr>
-            <tr>
-<td rowspan=5 align="center">14</td>
-<td rowspan=5 align="center">Methods and Statistics in Social Sciences<br><a href="https://coursera.org/specializations/social-science">Specialization</a><br>by University of Amsterdam</td>
-<td><a href="https://coursera.org/learn/quantitative-methods">Quantitative Methods</a></td>
-<td align="center">40</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/qualitative-methods">Qualitative Research Methods</a></td>
-<td align="center">35</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/basic-statistics">Basic Statistics</a></td>
-<td align="center">30</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/inferential-statistics">Inferential Statistics</a></td>
-<td align="center">25</td>
-            </tr>
-            <tr>
-<td><a href="https://coursera.org/learn/social-science-capstone">Methods and Statistics in Social Science - Final Research Project</a></td>
-<td align="center">20</td>
             </tr>
     </tbody>
 </table>
