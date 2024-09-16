@@ -9,15 +9,15 @@ Google Cloud Specializations for computer science students.
     <thead>
         <tr>
 <th width="25px">#</th>
-<th width="400px">Specialization</th>
-<th width="800px">Course Name</th>
+<th width="300px">Specialization</th>
+<th width="700px">Course Name</th>
 <th width="25px">Hrs</th>
         </tr>
     </thead>
     <tbody>
             <tr>
 <td rowspan=3 align="center">01</td>
-<td rowspan=3 align="center">Machine Learning for Trading<br><a href="https://coursera.org/specializations/machine-learning-trading">Specialization</a><br>by Google Cloud</td>
+<td rowspan=3 align="center">Machine Learning for Trading<br><a href="https://coursera.org/specializations/machine-learning-trading">Specialization</a></td>
 <td><a href="https://coursera.org/learn/introduction-trading-machine-learning-gcp">Introduction to Trading, Machine Learning & GCP</a></td>
 <td align="center">10</td>
             </tr>
@@ -31,7 +31,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=9 align="center">02</td>
-<td rowspan=9 align="center">Preparing for Google Cloud Certification: Machine Learning Engineer<br><a href="https://coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate">Professional Certificate</a><br>by Google Cloud</td>
+<td rowspan=9 align="center">Preparing for Google Cloud Certification: Machine Learning Engineer<br><a href="https://coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate">Professional Certificate</a></td>
 <td><a href="https://coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Big Data and Machine Learning Fundamentals</a></td>
 <td align="center">15</td>
             </tr>
@@ -69,7 +69,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=5 align="center">03</td>
-<td rowspan=5 align="center">Advanced Machine Learning with TensorFlow on Google Cloud Platform<br><a href="https://coursera.org/specializations/advanced-machine-learning-tensorflow-gcp">Specialization</a><br>by Google Cloud</td>
+<td rowspan=5 align="center">Advanced Machine Learning with TensorFlow on Google Cloud Platform<br><a href="https://coursera.org/specializations/advanced-machine-learning-tensorflow-gcp">Specialization</a></td>
 <td><a href="https://coursera.org/learn/end-to-end-ml-tensorflow-gcp">End-to-End Machine Learning with TensorFlow on GCP</a></td>
 <td align="center">15</td>
             </tr>
@@ -91,7 +91,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=5 align="center">04</td>
-<td rowspan=5 align="center">Machine Learning with TensorFlow on Google Cloud Platform<br><a href="https://coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a><br>by Google Cloud</td>
+<td rowspan=5 align="center">Machine Learning with TensorFlow on Google Cloud Platform<br><a href="https://coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a></td>
 <td><a href="https://coursera.org/learn/google-machine-learning">How Google does Machine Learning</a></td>
 <td align="center">10</td>
             </tr>
@@ -113,7 +113,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=4 align="center">05</td>
-<td rowspan=4 align="center"><br>by Google Cloud<br><br></td>
+<td rowspan=4 align="center"><br><br></td>
 <td><a href="https://coursera.org/learn/introduction-to-ai-and-machine-learning-on-google-cloud">Introduction to AI and Machine Learning on Google Cloud</a></td>
 <td align="center">10</td>
             </tr>
@@ -131,7 +131,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=4 align="center">06</td>
-<td rowspan=4 align="center">From Data to Insights with Google Cloud Platform<br><a href="https://coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a><br>by Google Cloud</td>
+<td rowspan=4 align="center">From Data to Insights with Google Cloud Platform<br><a href="https://coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a></td>
 <td><a href="https://coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring and Preparing your Data with BigQuery</a></td>
 <td align="center">15</td>
             </tr>
@@ -149,7 +149,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=5 align="center">07</td>
-<td rowspan=5 align="center">Data Engineering, Big Data, and Machine Learning on GCP<br><a href="https://coursera.org/specializations/gcp-data-machine-learning">Specialization</a><br>by Google Cloud</td>
+<td rowspan=5 align="center">Data Engineering, Big Data, and Machine Learning on GCP<br><a href="https://coursera.org/specializations/gcp-data-machine-learning">Specialization</a></td>
 <td><a href="https://coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a></td>
 <td align="center">15</td>
             </tr>
@@ -171,7 +171,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=5 align="center">08</td>
-<td rowspan=5 align="center">Data Engineering with GCP<br><a href="https://coursera.org/professional-certificates/gcp-data-engineering">Professional Certificate</a><br>by Google Cloud</td>
+<td rowspan=5 align="center">Data Engineering with GCP<br><a href="https://coursera.org/professional-certificates/gcp-data-engineering">Professional Certificate</a></td>
 <td><a href="https://coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a></td>
 <td align="center">15</td>
             </tr>
@@ -193,7 +193,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=6 align="center">09</td>
-<td rowspan=6 align="center">Preparing for Google Cloud Certification: Cloud Data Engineer<br><a href="https://coursera.org/professional-certificates/gcp-data-engineering">Professional Certificate</a><br>by Google Cloud</td>
+<td rowspan=6 align="center">Preparing for Google Cloud Certification: Cloud Data Engineer<br><a href="https://coursera.org/professional-certificates/gcp-data-engineering">Professional Certificate</a></td>
 <td><a href="https://coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Big Data and Machine Learning Fundamentals</a></td>
 <td align="center">15</td>
             </tr>
@@ -219,7 +219,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=5 align="center">10</td>
-<td rowspan=5 align="center">Data Engineering, Big Data, and Machine Learning on GCP<br><a href="https://coursera.org/specializations/gcp-data-machine-learning">Specialization</a><br>by Google Cloud</td>
+<td rowspan=5 align="center">Data Engineering, Big Data, and Machine Learning on GCP<br><a href="https://coursera.org/specializations/gcp-data-machine-learning">Specialization</a></td>
 <td><a href="https://coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a></td>
 <td align="center">15</td>
             </tr>
@@ -241,7 +241,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=4 align="center">11</td>
-<td rowspan=4 align="center">Developing Applications with Google Cloud<br><a href="https://coursera.org/specializations/developing-apps-gcp">Specialization</a><br>by Google Cloud</td>
+<td rowspan=4 align="center">Developing Applications with Google Cloud<br><a href="https://coursera.org/specializations/developing-apps-gcp">Specialization</a></td>
 <td><a href="https://coursera.org/learn/gcp-fundamentals">Google Cloud Fundamentals: Core Infrastructure</a></td>
 <td align="center">15</td>
             </tr>
@@ -259,7 +259,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=3 align="center">12</td>
-<td rowspan=3 align="center">Installing and Managing Google Clouds Apigee API Platform for Private Cloud<br><a href="https://coursera.org/specializations/apigee-api-gcp-onprem">Specialization</a><br>by Google Cloud</td>
+<td rowspan=3 align="center">Installing and Managing Google Clouds Apigee API Platform for Private Cloud<br><a href="https://coursera.org/specializations/apigee-api-gcp-onprem">Specialization</a></td>
 <td><a href="https://coursera.org/learn/onprem-fundamentals-apigee-gcp">On Premises Installation and Fundamentals with Google Cloud's Apigee API Platform</a></td>
 <td align="center">5</td>
             </tr>
@@ -273,7 +273,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=4 align="center">13</td>
-<td rowspan=4 align="center">Architecting with Google Kubernetes Engine<br><a href="https://coursera.org/specializations/architecting-google-kubernetes-engine">Specialization</a><br>by Google Cloud</td>
+<td rowspan=4 align="center">Architecting with Google Kubernetes Engine<br><a href="https://coursera.org/specializations/architecting-google-kubernetes-engine">Specialization</a></td>
 <td><a href="https://coursera.org/learn/gcp-fundamentals">Google Cloud Platform Fundamentals: Core Infrastructure</a></td>
 <td align="center">15</td>
             </tr>
@@ -291,7 +291,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=4 align="center">14</td>
-<td rowspan=4 align="center">Google Cloud Infrastructure for AWS Professionals<br><a href="https://coursera.org/specializations/google-cloud-infrastructure-for-aws-professionals">Specialization</a><br>by Google Cloud</td>
+<td rowspan=4 align="center">Google Cloud Infrastructure for AWS Professionals<br><a href="https://coursera.org/specializations/google-cloud-infrastructure-for-aws-professionals">Specialization</a></td>
 <td><a href="https://coursera.org/learn/gcp-fundamentals-aws">Google Cloud IAM and Networking for AWS Professionals</a></td>
 <td align="center">5</td>
             </tr>
@@ -309,7 +309,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=8 align="center">15</td>
-<td rowspan=8 align="center">Google Data Analytics<br><a href="https://coursera.org/professional-certificates/google-data-analytics">Professional Certificate</a><br>by Google</td>
+<td rowspan=8 align="center">Google Data Analytics<br><a href="https://coursera.org/professional-certificates/google-data-analytics">Professional Certificate</a></td>
 <td><a href="https://coursera.org/learn/foundations-data">Foundations: Data, Data, Everywhere</a></td>
 <td align="center">20</td>
             </tr>
@@ -343,7 +343,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=7 align="center">16</td>
-<td rowspan=7 align="center">Google Advanced Data Analytics<br><a href="https://coursera.org/professional-certificates/google-advanced-data-analytics">Professional Certificate</a><br>by Google</td>
+<td rowspan=7 align="center">Google Advanced Data Analytics<br><a href="https://coursera.org/professional-certificates/google-advanced-data-analytics">Professional Certificate</a></td>
 <td><a href="https://coursera.org/learn/foundations-of-data-science">Foundations of Data Science</a></td>
 <td align="center">20</td>
             </tr>
@@ -373,7 +373,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=4 align="center">17</td>
-<td rowspan=4 align="center">Introduction to Generative AI Learning Path<br><a href="https://www.coursera.org/specializations/introduction-to-generative-ai">Specialization</a><br>by Google Cloud</td>
+<td rowspan=4 align="center">Introduction to Generative AI Learning Path<br><a href="https://www.coursera.org/specializations/introduction-to-generative-ai">Specialization</a></td>
 <td><a href="https://www.coursera.org/learn/introduction-to-generative-ai">Introduction to Generative AI</a></td>
 <td align="center">1</td>
             </tr>
@@ -391,7 +391,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=5 align="center">18</td>
-<td rowspan=5 align="center">Google Cloud Data Analytics<br><a href="https://www.coursera.org/professional-certificates/google-cloud-data-analytics-certificate">Professional Certificate</a><br>by Google Cloud</td>
+<td rowspan=5 align="center">Google Cloud Data Analytics<br><a href="https://www.coursera.org/professional-certificates/google-cloud-data-analytics-certificate">Professional Certificate</a></td>
 <td><a href="https://www.coursera.org/learn/introduction-to-data-analytics-in-google-cloud">Introduction to Data Analytics in Google Cloud</a></td>
 <td align="center">15</td>
             </tr>
@@ -413,7 +413,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=7 align="center">19</td>
-<td rowspan=7 align="center">Gemini for Google Cloud Learning Path<br><a href="https://www.coursera.org/specializations/gemini-for-google-cloud-learning-path">Specialization</a><br>by Google Cloud</td>
+<td rowspan=7 align="center">Gemini for Google Cloud Learning Path<br><a href="https://www.coursera.org/specializations/gemini-for-google-cloud-learning-path">Specialization</a></td>
 <td><a href="https://www.coursera.org/learn/gemini-for-application-developers">Gemini for Application Developers</a></td>
 <td align="center">2</td>
             </tr>
@@ -443,7 +443,7 @@ Google Cloud Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=3 align="center">20</td>
-<td rowspan=3 align="center">Responsible AI for Developers<br><a href="https://www.coursera.org/specializations/responsible-ai-for-developers">Specialization</a><br>by Google Cloud</td>
+<td rowspan=3 align="center">Responsible AI for Developers<br><a href="https://www.coursera.org/specializations/responsible-ai-for-developers">Specialization</a></td>
 <td><a href="https://www.coursera.org/learn/responsible-ai-for-developers-fairness--bias">Responsible AI for Developers: Fairness & Bias</a></td>
 <td align="center">5</td>
             </tr>
