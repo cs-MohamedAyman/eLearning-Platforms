@@ -228,5 +228,19 @@ DeepLearning.AI Specializations for computer science students.
 <td><a href="https://coursera.org/learn/attention-models-in-nlp">Natural Language Processing with Attention Models</a></td>
 <td align="center">20</td>
             </tr>
+            <tr>
+<td rowspan=3 align="center">15</td>
+<td rowspan=3 align="center">Generative AI for Software Development<br><a href="https://www.coursera.org/professional-certificates/generative-ai-for-software-development">Skill Certificate</a><br>by DeepLearning.AI</td>
+<td><a href="https://www.coursera.org/learn/introduction-to-generative-ai-for-software-development">Introduction to Generative AI for Software Development</a></td>
+<td align="center">20</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/team-software-engineering-with-ai">Team Software Engineering with AI</a></td>
+<td align="center">15</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/ai-powered-software-and-system-design">AI-Powered Software and System Design</a></td>
+<td align="center">5</td>
+            </tr>
     </tbody>
 </table>
