@@ -240,5 +240,129 @@ DeepLearning.AI Specializations for computer science students.
 <td><a href="https://www.coursera.org/learn/ai-powered-software-and-system-design">AI-Powered Software and System Design</a></td>
 <td align="center">5</td>
             </tr>
+            <tr>
+<td rowspan=6 align="center">15</td>
+<td rowspan=6 align="center">Short Courses by Google<br><br></td>
+<td><a href="https://www.deeplearning.ai/short-courses/large-multimodal-model-prompting-with-gemini/">Large Multimodal Model Prompting with Gemini</a></td>
+<td align="center">2</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/carbon-aware-computing-for-genai-developers/">Carbon Aware Computing for GenAI Developers</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/llmops/">LLMOps</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/">Reinforcement Learning from Human Feedback</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/pair-programming-llm/">Pair Programming with a Large Language Model</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/">Understanding and Applying Text Embeddings</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td rowspan=4 align="center">16</td>
+<td rowspan=4 align="center">Short Courses by Hugging Face<br><br></td>
+<td><a href="https://www.deeplearning.ai/short-courses/quantization-in-depth/">Quantization in Depth</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/">Quantization Fundamentals with Hugging Face</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/">Building Generative AI Applications with Gradio</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/">Open Source Models with Hugging Face</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td rowspan=5 align="center">17</td>
+<td rowspan=5 align="center">Short Courses by LangChain<br><br></td>
+<td><a href="https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/">AI Agents in LangGraph</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/build-llm-apps-with-langchain-js/">Build LLM Apps with LangChain.js</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/">Functions, Tools and Agents with LangChain</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/">LangChain: Chat with Your Data</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/">LangChain for LLM Application Development</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td rowspan=2 align="center">18</td>
+<td rowspan=2 align="center">Short Courses by OpenAI<br><br></td>
+<td><a href="https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/">Building Systems with the ChatGPT API</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/">ChatGPT Prompt Engineering for Developers</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td rowspan=3 align="center">19</td>
+<td rowspan=3 align="center">Short Courses by Microsoft<br><br></td>
+<td><a href="https://www.deeplearning.ai/short-courses/building-your-own-database-agent/">Building Your Own Database Agent</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/">AI Agentic Design Patterns with AutoGen</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/">How Business Thinkers Can Start Building AI Plugins With Semantic Kernel</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td rowspan=2 align="center">20</td>
+<td rowspan=2 align="center">Short Courses by Lamini<br><br></td>
+<td><a href="https://www.deeplearning.ai/short-courses/improving-accuracy-of-llm-applications">Improving Accuracy of LLM Applications</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/finetuning-large-language-models/">Finetuning Large Language Models</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td rowspan=2 align="center">21</td>
+<td rowspan=2 align="center">Short Courses by Weaviate<br><br></td>
+<td><a href="https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/">Building Multimodal Search and RAG</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/">Vector Databases: from Embeddings to Applications</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td rowspan=3 align="center">22</td>
+<td rowspan=3 align="center">Short Courses by LlamaIndex<br><br></td>
+<td><a href="https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/">Building Agentic RAG with LlamaIndex</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/javascript-rag-web-apps-with-llamaindex/">JavaScript RAG Web Apps with LlamaIndex</a></td>
+<td align="center">1</td>
+            </tr>
+            <tr>
+<td><a href="https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/">Building and Evaluating Advanced RAG Applications</a></td>
+<td align="center">1</td>
+            </tr>
     </tbody>
 </table>
