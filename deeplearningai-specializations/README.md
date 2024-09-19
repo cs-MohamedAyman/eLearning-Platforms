@@ -81,7 +81,7 @@ DeepLearning.AI Specializations for computer science students.
             </tr>
             <tr>
 <td rowspan=4 align="center">05</td>
-<td rowspan=4 align="center">DeepLearning.AI TensorFlow Developer<br><a href="https://coursera.org/specializations/tensorflow-in-practice">Professional Certificate</a></td>
+<td rowspan=4 align="center">TensorFlow Developer<br><a href="https://coursera.org/specializations/tensorflow-in-practice">Professional Certificate</a></td>
 <td><a href="https://coursera.org/learn/introduction-tensorflow">Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</a></td>
 <td align="center">20</td>
             </tr>
@@ -241,7 +241,25 @@ DeepLearning.AI Specializations for computer science students.
 <td align="center">5</td>
             </tr>
             <tr>
-<td rowspan=6 align="center">15</td>
+<td rowspan=4 align="center">15</td>
+<td rowspan=4 align="center">Data Engineering<br><a href="https://www.coursera.org/professional-certificates/data-engineering">Professional Certificate</a></td>
+<td><a href="https://www.coursera.org/learn/intro-to-data-engineering">Introduction to Data Engineering</a></td>
+<td align="center">20</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/source-systems-data-ingestion-and-pipelines">Source Systems, Data Ingestion, and Pipelines</a></td>
+<td align="center">30</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/data-storage-and-queries">Data Storage and Queries</a></td>
+<td align="center">20</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/data-modeling-transformation-serving">Data Modeling, Transformation, and Serving</a></td>
+<td align="center">30</td>
+            </tr>
+            <tr>
+<td rowspan=6 align="center">16</td>
 <td rowspan=6 align="center">Short Courses by Google<br><br></td>
 <td><a href="https://www.deeplearning.ai/short-courses/large-multimodal-model-prompting-with-gemini/">Large Multimodal Model Prompting with Gemini</a></td>
 <td align="center">2</td>
@@ -267,7 +285,7 @@ DeepLearning.AI Specializations for computer science students.
 <td align="center">1</td>
             </tr>
             <tr>
-<td rowspan=4 align="center">16</td>
+<td rowspan=4 align="center">17</td>
 <td rowspan=4 align="center">Short Courses by Hugging Face<br><br></td>
 <td><a href="https://www.deeplearning.ai/short-courses/quantization-in-depth/">Quantization in Depth</a></td>
 <td align="center">1</td>
@@ -285,7 +303,7 @@ DeepLearning.AI Specializations for computer science students.
 <td align="center">1</td>
             </tr>
             <tr>
-<td rowspan=5 align="center">17</td>
+<td rowspan=5 align="center">18</td>
 <td rowspan=5 align="center">Short Courses by LangChain<br><br></td>
 <td><a href="https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/">AI Agents in LangGraph</a></td>
 <td align="center">1</td>
@@ -307,7 +325,7 @@ DeepLearning.AI Specializations for computer science students.
 <td align="center">1</td>
             </tr>
             <tr>
-<td rowspan=2 align="center">18</td>
+<td rowspan=2 align="center">19</td>
 <td rowspan=2 align="center">Short Courses by OpenAI<br><br></td>
 <td><a href="https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/">Building Systems with the ChatGPT API</a></td>
 <td align="center">1</td>
@@ -317,7 +335,7 @@ DeepLearning.AI Specializations for computer science students.
 <td align="center">1</td>
             </tr>
             <tr>
-<td rowspan=3 align="center">19</td>
+<td rowspan=3 align="center">20</td>
 <td rowspan=3 align="center">Short Courses by Microsoft<br><br></td>
 <td><a href="https://www.deeplearning.ai/short-courses/building-your-own-database-agent/">Building Your Own Database Agent</a></td>
 <td align="center">1</td>
@@ -331,7 +349,7 @@ DeepLearning.AI Specializations for computer science students.
 <td align="center">1</td>
             </tr>
             <tr>
-<td rowspan=2 align="center">20</td>
+<td rowspan=2 align="center">21</td>
 <td rowspan=2 align="center">Short Courses by Lamini<br><br></td>
 <td><a href="https://www.deeplearning.ai/short-courses/improving-accuracy-of-llm-applications">Improving Accuracy of LLM Applications</a></td>
 <td align="center">1</td>
@@ -341,7 +359,7 @@ DeepLearning.AI Specializations for computer science students.
 <td align="center">1</td>
             </tr>
             <tr>
-<td rowspan=2 align="center">21</td>
+<td rowspan=2 align="center">22</td>
 <td rowspan=2 align="center">Short Courses by Weaviate<br><br></td>
 <td><a href="https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/">Building Multimodal Search and RAG</a></td>
 <td align="center">1</td>
@@ -351,7 +369,7 @@ DeepLearning.AI Specializations for computer science students.
 <td align="center">1</td>
             </tr>
             <tr>
-<td rowspan=3 align="center">22</td>
+<td rowspan=3 align="center">23</td>
 <td rowspan=3 align="center">Short Courses by LlamaIndex<br><br></td>
 <td><a href="https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/">Building Agentic RAG with LlamaIndex</a></td>
 <td align="center">1</td>
