@@ -79,7 +79,6 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/probability-statistics.png"></img></a>
 <a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mathematics.png"></img></a>
 
 ## Mathematics for Computer Science
