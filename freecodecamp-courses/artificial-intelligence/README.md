@@ -94,7 +94,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/machine-learning.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/reinforcement-learning.png"></img></a>
 
 ## Reinforcement Learning
 
@@ -474,7 +474,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/generative-adversarial-network.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/openai.png"></img></a>
 
 ## OpenAI APIs
 
