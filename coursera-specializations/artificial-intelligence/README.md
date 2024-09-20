@@ -4,9 +4,9 @@
 
 <br><br><br>
 
-<a href="/coursera-specializations/artificial-intelligence/artificial-intelligence-algorithms.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computational-cognitive-science.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/artificial-intelligence-algorithms.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/soft-computing.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/artificial-intelligence-algorithms.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/artificial-intelligence.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computational-cognitive-science.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/soft-computing.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/artificial-intelligence.png"></img></a>
 
 ## Artificial Intelligence Algorithms
 
@@ -211,9 +211,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/artificial-intelligence/machine-learning-algorithms.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/unsupervised-learning.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/machine-learning-algorithms.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/supervised-learning.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/machine-learning-algorithms.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/machine-learning.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/unsupervised-learning.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/supervised-learning.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/machine-learning.png"></img></a>
 
 ## Machine Learning and Data Mining
 
@@ -414,9 +414,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/artificial-intelligence/neural-networks-and-deep-learning.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/generative-adversarial-network.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/neural-networks-and-deep-learning.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/deep-learning.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/neural-networks-and-deep-learning.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/neural-networks.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/generative-adversarial-network.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/deep-learning.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/neural-networks.png"></img></a>
 
 ## Neural Networks and Deep Learning
 
@@ -489,9 +489,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/artificial-intelligence/intelligent-automation.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cognitive-automation.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/intelligent-automation.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/robotics-process-automation.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/intelligent-automation.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/process-mining.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cognitive-automation.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/robotics-process-automation.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/process-mining.png"></img></a>
 
 ## Intelligent Automation
 
@@ -634,9 +634,9 @@ Scrimba</td>
 </table>
 </details>
 
-<a href="/coursera-specializations/artificial-intelligence/image-processing-and-computer-vision.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/pattern-recognition.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/image-processing-and-computer-vision.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-vision.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/image-processing-and-computer-vision.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/image-processing.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/pattern-recognition.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-vision.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/image-processing.png"></img></a>
 
 ## Image Processing and Computer Vision
 
@@ -813,9 +813,9 @@ Scrimba</td>
 </table>
 </details>
 
-<a href="/coursera-specializations/artificial-intelligence/natural-language-processing-and-text-mining.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/text-mining.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/natural-language-processing-and-text-mining.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/natural-language-processing.png"></img></a>
-<a href="/coursera-specializations/artificial-intelligence/natural-language-processing-and-text-mining.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-mining.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/text-mining.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/natural-language-processing.png"></img></a>
+<a href="/coursera-specializations/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-mining.png"></img></a>
 
 ## Natural Language Processing and Text Mining
 
