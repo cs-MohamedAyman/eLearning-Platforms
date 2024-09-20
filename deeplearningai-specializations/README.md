@@ -38,7 +38,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## Mathematics for Machine Learning and Data Science Specialization
+## Mathematics for Machine Learning and Data Science [Specialization](https://coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 
 <details>
     <summary>(3 courses)</summary>
@@ -71,7 +71,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## Machine Learning Specialization
+## Machine Learning [Specialization](https://coursera.org/specializations/machine-learning-introduction)
 
 <details>
     <summary>(3 courses)</summary>
@@ -104,7 +104,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## Deep Learning Specialization
+## Deep Learning [Specialization](https://coursera.org/specializations/deep-learning)
 
 <details>
     <summary>(5 courses)</summary>
@@ -147,7 +147,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## TensorFlow Developer Professional Certificate
+## TensorFlow Developer [Professional Certificate](https://coursera.org/specializations/tensorflow-in-practice)
 
 <details>
     <summary>(4 courses)</summary>
@@ -185,7 +185,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## TensorFlow: Data and Deployment Specialization
+## TensorFlow: Data and Deployment [Specialization](https://coursera.org/specializations/tensorflow-data-and-deployment)
 
 <details>
     <summary>(4 courses)</summary>
@@ -223,7 +223,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## AI for Medicine Specialization
+## AI for Medicine [Specialization](https://coursera.org/specializations/ai-for-medicine)
 
 <details>
     <summary>(3 courses)</summary>
@@ -256,7 +256,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## Generative Adversarial Networks (GANs) Specialization
+## Generative Adversarial Networks (GANs) [Specialization](https://coursera.org/specializations/generative-adversarial-networks-gans)
 
 <details>
     <summary>(3 courses)</summary>
@@ -289,7 +289,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## Machine Learning Engineering for Production (MLOps) Specialization
+## Machine Learning Engineering for Production (MLOps) [Specialization](https://coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 <details>
     <summary>(4 courses)</summary>
@@ -327,7 +327,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## Practical Data Science Specialization
+## Practical Data Science [Specialization](https://coursera.org/specializations/practical-data-science)
 
 <details>
     <summary>(3 courses)</summary>
@@ -360,7 +360,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## TensorFlow: Advanced Techniques Specialization
+## TensorFlow: Advanced Techniques [Specialization](https://coursera.org/specializations/tensorflow-advanced-techniques)
 
 <details>
     <summary>(4 courses)</summary>
@@ -398,7 +398,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## AI for Good Specialization
+## AI for Good [Specialization](https://coursera.org/specializations/ai-for-good)
 
 <details>
     <summary>(3 courses)</summary>
@@ -431,7 +431,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## Natural Language Processing Specialization
+## Natural Language Processing [Specialization](https://coursera.org/specializations/natural-language-processing)
 
 <details>
     <summary>(4 courses)</summary>
@@ -469,7 +469,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## Generative AI for Software Development Skill Certificate
+## Generative AI for Software Development [Skill Certificate](https://www.coursera.org/professional-certificates/generative-ai-for-software-development)
 
 <details>
     <summary>(3 courses)</summary>
@@ -502,7 +502,7 @@ DeepLearning.AI Specializations for computer science students.
 </table>
 </details>
 
-## Data Engineering Professional Certificate
+## Data Engineering [Professional Certificate](https://www.coursera.org/professional-certificates/data-engineering)
 
 <details>
     <summary>(4 courses)</summary>
