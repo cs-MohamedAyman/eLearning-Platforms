@@ -4,9 +4,9 @@
 
 <br><br><br>
 
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-analytics.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-visualization.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-analysis.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-analytics.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-visualization.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-analysis.png"></img></a>
 
 ## Data Analysis and Visualization
 
@@ -260,9 +260,9 @@ University of Colorado Boulder</td>
 </table>
 </details>
 
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/business-analytics.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-modeling.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-science.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/business-analytics.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-modeling.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-science.png"></img></a>
 
 ## Data Science
 
@@ -556,9 +556,9 @@ Johns Hopkins University</td>
 </table>
 </details>
 
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/business-intelligence.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-management.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-modeling.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/business-intelligence.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-management.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-modeling.png"></img></a>
 
 ## Business Intelligence
 
@@ -799,9 +799,9 @@ Johns Hopkins University</td>
 </table>
 </details>
 
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-database.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-governance.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-engineering.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-database.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-governance.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-engineering.png"></img></a>
 
 ## Data Engineering
 
@@ -968,9 +968,9 @@ Johns Hopkins University</td>
 </table>
 </details>
 
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-systems.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/big-data-modeling.png"></img></a>
-<a href="/coursera-specializations/data-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/big-data-analytics.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-systems.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/big-data-modeling.png"></img></a>
+<a href="/coursera-specializations/data-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/big-data-analytics.png"></img></a>
 
 ## Big Data Analytics and Modeling
 

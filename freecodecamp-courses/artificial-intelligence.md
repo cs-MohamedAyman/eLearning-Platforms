@@ -4,7 +4,7 @@
 
 <br><br><br>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/machine-learning.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/machine-learning.png"></img></a>
 
 ## Machine Learning
 
@@ -94,7 +94,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/reinforcement-learning.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/reinforcement-learning.png"></img></a>
 
 ## Reinforcement Learning
 
@@ -144,7 +144,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/neural-networks.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/neural-networks.png"></img></a>
 
 ## Neural Networks
 
@@ -199,7 +199,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/deep-learning.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/deep-learning.png"></img></a>
 
 ## Deep Learning
 
@@ -299,7 +299,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-vision.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-vision.png"></img></a>
 
 ## Computer Vision
 
@@ -359,7 +359,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/natural-language-processing.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/natural-language-processing.png"></img></a>
 
 ## Natural Language Processing
 
@@ -414,7 +414,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/generative-adversarial-network.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/generative-adversarial-network.png"></img></a>
 
 ## Prompt Engineering
 
@@ -474,7 +474,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/artificial-intelligence/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/openai.png"></img></a>
+<a href="/freecodecamp-courses/artificial-intelligence.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/openai.png"></img></a>
 
 ## OpenAI APIs
 

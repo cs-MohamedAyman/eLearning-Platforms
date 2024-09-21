@@ -4,7 +4,7 @@
 
 <br><br><br>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/fundamentals-of-computer-science.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/fundamentals-of-computer-science.png"></img></a>
 
 ## Fundamentals of Computer Science
 
@@ -79,7 +79,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mathematics.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mathematics.png"></img></a>
 
 ## Mathematics for Computer Science
 
@@ -119,8 +119,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cpp.png"></img></a>
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cpp.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
 
 ## C++ Programming Language
 
@@ -185,8 +185,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
 
 ## Python Programming Language
 
@@ -286,7 +286,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
 
 ## Python Programming Language Projects
 
@@ -406,8 +406,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/java.png"></img></a>
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/java.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
 
 ## Java Programming Language
 
@@ -462,8 +462,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/csharp.png"></img></a>
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/csharp.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
 
 ## C# Programming Language
 
@@ -508,7 +508,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-structures.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-structures.png"></img></a>
 
 ## Data Structures
 
@@ -588,7 +588,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/algorithms-analysis.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/algorithms-analysis.png"></img></a>
 
 ## Algorithms Analysis and Design
 
@@ -703,7 +703,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/operating-systems.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/operating-systems.png"></img></a>
 
 ## Operating Systems
 
@@ -768,7 +768,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/golang.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/golang.png"></img></a>
 
 ## Go Programming Language
 
@@ -818,7 +818,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/git.png"></img></a>
+<a href="/freecodecamp-courses/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/git.png"></img></a>
 
 ## Git Version Control System
 

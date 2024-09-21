@@ -4,8 +4,8 @@
 
 <br><br><br>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-engineering.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-design.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-engineering.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-design.png"></img></a>
 
 ## Software Engineering
 
@@ -80,8 +80,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/java.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/spring-boot.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/java.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/spring-boot.png"></img></a>
 
 ## Java, Spring Boot
 
@@ -126,8 +126,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/csharp.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/dot-net.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/csharp.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/dot-net.png"></img></a>
 
 ## C#, .Net
 
@@ -232,8 +232,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/django.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/django.png"></img></a>
 
 ## Python, Django
 
@@ -333,8 +333,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-design.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-engineering.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-design.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-engineering.png"></img></a>
 
 ## Software Engineering Projects
 
@@ -439,8 +439,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/sql-server-database.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mysql-database.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/sql-server-database.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mysql-database.png"></img></a>
 
 ## SQL Server, MySQL
 
@@ -525,8 +525,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/postgresql-database.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/graphsql-database.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/postgresql-database.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/graphsql-database.png"></img></a>
 
 ## PostgreSQL, GraphQL
 
@@ -591,8 +591,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/docker.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/kubernetes.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/docker.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/kubernetes.png"></img></a>
 
 ## DevOps Tools
 
@@ -652,8 +652,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/aws.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/aws.png"></img></a>
 
 ## AWS
 
@@ -738,8 +738,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/google-cloud.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/google-cloud.png"></img></a>
 
 ## Google Cloud
 
@@ -794,8 +794,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/azure.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/azure.png"></img></a>
 
 ## Azure
 
@@ -855,7 +855,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/devops.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/devops.png"></img></a>
 
 ## DevOps Projects
 
@@ -930,8 +930,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/html-css.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/html-css.png"></img></a>
 
 ## HTML / CSS
 
@@ -1101,8 +1101,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/flask.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/fastapi.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/flask.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/fastapi.png"></img></a>
 
 ## APIs
 
@@ -1232,8 +1232,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/php.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/php.png"></img></a>
 
 ## PHP
 
@@ -1288,7 +1288,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
 
 ## Web App Development Projects
 
@@ -1443,8 +1443,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/react.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/react.png"></img></a>
 
 ## React
 
@@ -1759,8 +1759,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/angular.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/angular.png"></img></a>
 
 ## Angular
 
@@ -1855,8 +1855,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/javascript.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/javascript.png"></img></a>
 
 ## JavaScript
 
@@ -2051,8 +2051,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/javascript.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/javascript.png"></img></a>
 
 ## JavaScript
 
@@ -2197,8 +2197,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/nextjs.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/vuejs.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/nextjs.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/vuejs.png"></img></a>
 
 ## Next.js, Vue.js
 
@@ -2293,8 +2293,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/javascript.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/javascript.png"></img></a>
 
 ## Web App Development Back-end Projects
 
@@ -2399,8 +2399,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/flutter.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/flutter.png"></img></a>
 
 ## Flutter
 
@@ -2465,8 +2465,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/android.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/ios.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/android.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/ios.png"></img></a>
 
 ## Android, iOS
 
@@ -2566,7 +2566,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mobile-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mobile-development.png"></img></a>
 
 ## Mobile App Development Projects
 
@@ -2621,8 +2621,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/unreal-engine.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/unreal-engine.png"></img></a>
 
 ## Unreal Engine
 
@@ -2682,8 +2682,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/unity.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/unity.png"></img></a>
 
 ## Unity
 
@@ -2763,8 +2763,8 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
 
 ## JavaScript, TypeScript
 
@@ -2839,7 +2839,7 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
+<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
 
 ## Game Development Projects
 

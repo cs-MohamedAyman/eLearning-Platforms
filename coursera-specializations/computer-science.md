@@ -4,9 +4,9 @@
 
 <br><br><br>
 
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/fundamentals-of-computer-science.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/probability-statistics.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mathematics.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/fundamentals-of-computer-science.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/probability-statistics.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mathematics.png"></img></a>
 
 ## Fundamentals of Computer Science
 
@@ -225,9 +225,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cpp.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/python.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cpp.png"></img></a>
 
 ## C++, Python Programming Languages
 
@@ -456,9 +456,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/csharp.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/java.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-programming.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/csharp.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/java.png"></img></a>
 
 ## Java, C# Programming Languages
 
@@ -631,9 +631,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/discrete-mathematics.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/algorithms-analysis.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-structures.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/discrete-mathematics.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/algorithms-analysis.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-structures.png"></img></a>
 
 ## Data Structures and Algorithms
 
@@ -782,9 +782,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/high-performance-computing.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/parallel-computing.png"></img></a>
-<a href="/coursera-specializations/computer-science/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/operating-systems.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/high-performance-computing.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/parallel-computing.png"></img></a>
+<a href="/coursera-specializations/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/operating-systems.png"></img></a>
 
 ## Operating Systems and Parallel Computing
 

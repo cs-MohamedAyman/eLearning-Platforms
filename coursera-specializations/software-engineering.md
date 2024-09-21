@@ -4,9 +4,9 @@
 
 <br><br><br>
 
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/system-analysis.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-engineering.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-design.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/system-analysis.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-engineering.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-design.png"></img></a>
 
 ## Fundamentals of Software Engineering
 
@@ -283,9 +283,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-design.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-warehousing.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-systems.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-design.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-warehousing.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-systems.png"></img></a>
 
 ## Database Systems and Warehousing
 
@@ -522,9 +522,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/devops.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-networks.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/devops.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-networks.png"></img></a>
 
 ## Continuous Delivery and DevOps
 
@@ -777,9 +777,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/ui-ux.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-testing.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/ui-ux.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-testing.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/web-development.png"></img></a>
 
 ## Web App Development
 
@@ -1048,9 +1048,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/ui-ux.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-testing.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mobile-development.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/ui-ux.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-testing.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mobile-development.png"></img></a>
 
 ## Mobile App Development
 
@@ -1223,9 +1223,9 @@
 </table>
 </details>
 
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/ui-ux.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-testing.png"></img></a>
-<a href="/coursera-specializations/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/ui-ux.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-testing.png"></img></a>
+<a href="/coursera-specializations/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/game-development.png"></img></a>
 
 ## Game Development
 
