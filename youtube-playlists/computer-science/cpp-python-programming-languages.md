@@ -1,4 +1,4 @@
-<a href="/youtube-playlists/computer-science/cpp-python-programming-languages/README.md"><img align="right" width="100" src="/logos/youtube.png"></img></a>
+<a href="/youtube-playlists/computer-science.md"><img align="right" width="100" src="/logos/youtube.png"></img></a>
 
 # Programming Languages and Object Oriented Playlists
 
