@@ -7,7 +7,7 @@
 <br>
 <a href="/youtube-playlists/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/probability-statistics.png"></img></a>
 <a href="/youtube-playlists/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mathematics.png"></img></a>
-<a href="/youtube-playlists/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos.png"></img></a>
+<a href="/youtube-playlists/computer-science.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/fundamentals-of-computer-science.png"></img></a>
 <br>
 
 ## [Fundamentals of Computer Science](/youtube-playlists/computer-science.md) Playlists
