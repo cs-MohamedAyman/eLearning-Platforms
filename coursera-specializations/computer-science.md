@@ -102,13 +102,17 @@
 <td align="center">10</td>
             </tr>
             <tr>
-<td rowspan=2 align="center">04</td>
-<td rowspan=2 align="center">by The University of Sydney</td>
+<td rowspan=3 align="center">04</td>
+<td rowspan=3 align="center">by The University of Sydney</td>
 <td><a href="https://coursera.org/learn/introduction-to-calculus">Introduction to Calculus</a></td>
 <td align="center">55</td>
             </tr>
             <tr>
 <td><a href="https://coursera.org/learn/introduction-to-linear-algebra">Introduction to Linear Algebra</a></td>
+<td align="center">40</td>
+            </tr>
+            <tr>
+<td><a href="https://www.coursera.org/learn/introduction-to-advanced-calculus">Introduction to Advanced Calculus</a></td>
 <td align="center">40</td>
             </tr>
             <tr>
