@@ -333,7 +333,6 @@
 </table>
 </details>
 
-<a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-design.png"></img></a>
 <a href="/freecodecamp-courses/software-engineering.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-engineering.png"></img></a>
 
 ## Software Engineering Projects
